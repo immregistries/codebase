@@ -1,0 +1,45 @@
+<codeset>
+  <label>CVX</label>
+  <id></id>
+  <code>
+    <value>143</value>
+    <label>Adenovirus types 4 and 7</label>
+    <description>Adenovirus, type 4 and type 7, live, oral Notes: This vaccine is administered as 2 tablets. </description>
+    <code-status>
+      <status>Valid</status>
+      <deprecated>
+        <new-code-value></new-code-value>
+        <reason></reason>
+        <effective-date></effective-date>
+      </deprecated>
+    </code-status>
+    
+    <reference>
+      <codeset>
+        <label>CVX</label>
+        <value>03</value>
+      </codeset>
+      <code codeset="CVX">03</code>
+      <CVX>03</CVX>
+    </reference>
+    
+    <use-date>
+      <earliest>01/01/2001</earliest>
+      <expected-start>01/01/2001</expected-start>
+      <expected-end>01/01/2009</expected-end>
+      <latest>01/01/2010</latest>
+    </use-date>
+    <use-age>
+      <start-month>1</start-month>
+      <end-month>84</end-month>
+    </use>
+    
+    <cdc-extra-info>
+      <short-description>Adenovirus types 4 and 7</short-description>
+      <full-vaccinename>Adenovirus, type 4 and type 7, live, oral</full-vaccinename>
+      <notes>This vaccine is administered as 2 tablets.</<notes>>
+      <status>Active</status>
+      <last-updated>3/20/2011</last-updated>
+    </cdc-extra-info>
+  </code>
+</codeset>
