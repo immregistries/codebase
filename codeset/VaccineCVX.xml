@@ -7,9 +7,9 @@
     <code-status>
       <status>Valid</status>
       <deprecated>
-        <new-code-value></new-code-value>
-        <reason></reason>
-        <effective-date></effective-date>
+        <new-code-value>78</new-code-value>
+        <reason>Catfor</reason>
+        <effective-date>12/26/2010</effective-date>
       </deprecated>
     </code-status>
     
@@ -27,14 +27,6 @@
     <use-age>
       <not-before-month>1</not-before-month>
       <not-after-month>84</not-after-month>
-    </use>
-    
-    <cdc-extra-info>
-      <short-description>Adenovirus types 4 and 7</short-description>
-      <full-vaccinename>Adenovirus, type 4 and type 7, live, oral</full-vaccinename>
-      <notes>This vaccine is administered as 2 tablets.</<notes>>
-      <status>Active</status>
-      <last-updated>3/20/2011</last-updated>
-    </cdc-extra-info>
+    </use-age>
   </code>
 </codeset>
