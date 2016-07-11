@@ -1,6 +1,5 @@
 <codeset>
-  <label>CVX</label>
-  <id></id>
+  <label>VaccineCVX</label>
   <code>
     <value>143</value>
     <label>Adenovirus types 4 and 7</label>
@@ -14,24 +13,20 @@
       </deprecated>
     </code-status>
     
-    <reference>
-      <codeset>
-        <label>CVX</label>
-        <value>03</value>
-      </codeset>
-      <code codeset="CVX">03</code>
-      <CVX>03</CVX>
+   <reference>
+      <code codeset="VaccineCVX">143</code>
+      <code codeset="VaccineMVX">BRR</code>
     </reference>
     
     <use-date>
-      <earliest>01/01/2001</earliest>
-      <expected-start>01/01/2001</expected-start>
-      <expected-end>01/01/2009</expected-end>
-      <latest>01/01/2010</latest>
+      <not-before>01/01/2001</not-before>
+      <not-expected-before>01/01/2001</not-expected-before>
+      <not-expected-after>01/01/2009</not-expected-after>
+      <not-after>01/01/2010</not-after>
     </use-date>
     <use-age>
-      <start-month>1</start-month>
-      <end-month>84</end-month>
+      <not-before-month>1</not-before-month>
+      <not-after-month>84</not-after-month>
     </use>
     
     <cdc-extra-info>

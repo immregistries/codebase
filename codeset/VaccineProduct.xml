@@ -1,0 +1,34 @@
+<codeset>
+  <label>VaccineProduct</label>
+  <code>
+        <value>Adenovirus types 4 and 7</value>
+        <label>Adenovirus types 4 and 7</label>
+        <code-status>
+          <status>Valid</status>
+        </code-status>
+    <reference>
+      <code codeset="VaccineCVX">143</code>
+      <code codeset="VaccineMVX">BRR</code>
+    </reference>
+    
+    	<prodInfo>
+		<Name>CDC Product Name</Name>
+		  <Value>Adenovirus types 4 and 7</Value>
+		<Name>Short Description</Name>
+		  <Value>Adenovirus types 4 and 7</Value>
+		<Name>CVXCode</Name>
+  		  <Value>143       </Value>
+		<Name>Manufacturer</Name>
+		  <Value>Barr Laboratories</Value>
+		<Name>MVX Code</Name>
+		  <Value>BRR       </Value>
+		<Name>MVX Status</Name>
+		  <Value>Active</Value>
+		<Name>Product name Status</Name>
+		  <Value>Active</Value>
+		<Name>Last Updated</Name>
+		  <Value>8/7/2012</Value>
+	</prodInfo>
+    
+  </code>
+</codeset>
