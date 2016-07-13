@@ -1,20 +1,20 @@
 <codeset>
   <label>VaccineCVX</label>
   <code>
-    <value>143</value>
+    <value>143B</value>
     <label>Adenovirus types 4 and 7</label>
     <description>Adenovirus, type 4 and type 7, live, oral Notes: This vaccine is administered as 2 tablets. </description>
     <code-status>
       <status>Valid</status>
       <deprecated>
-        <new-code-value>78</new-code-value>
+        <new-code-value>78B</new-code-value>
         <reason>Catfor</reason>
         <effective-date>12/26/2010</effective-date>
       </deprecated>
     </code-status>
     
    <reference>
-      <link-to codeset="VaccineCVX">143</link-to>
+      <link-to codeset="VaccineCVX">143B</link-to>
       <link-to codeset="VaccineMVX">BRR</link-to>
     </reference>
     
@@ -39,7 +39,7 @@
     <code-status>
       <status>Valid</status>
       <deprecated>
-        <new-code-value>78</new-code-value>
+        <new-code-value>78B</new-code-value>
         <reason>Catfor</reason>
         <effective-date>12/26/2010</effective-date>
       </deprecated>
