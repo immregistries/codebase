@@ -1,0 +1,114 @@
+<codebase>
+
+	<version>
+		<number>1.1</number>
+		<lastUpdateDate>12/12/2010</lastUpdateDate>
+		<releaseStatus>Released</releaseStatus>
+	</version>
+	<codeset>
+		<label>VaccineCVX</label>
+		<code>
+			<value>143</value>
+			<label>Adenovirus types 4 and 7</label>
+			<description>Adenovirus, type 4 and type 7, live, oral Notes: This
+				vaccine is administered as 2 tablets.
+			</description>
+			<code-status>
+				<status>Valid</status>
+				<deprecated>
+					<new-code-value>78</new-code-value>
+					<reason>Catfor</reason>
+					<effective-date>12/26/2010</effective-date>
+				</deprecated>
+			</code-status>
+
+			<reference>
+				<link-to codeset="VaccineCVX">143</link-to>
+				<link-to codeset="VaccineMVX">BRR</link-to>
+			</reference>
+
+			<use-date>
+				<not-before>01/01/2001</not-before>
+				<not-expected-before>01/01/2001</not-expected-before>
+				<not-expected-after>01/01/2009</not-expected-after>
+				<not-after>01/01/2010</not-after>
+			</use-date>
+			<use-age>
+				<not-before-month>1</not-before-month>
+				<not-after-month>84</not-after-month>
+			</use-age>
+
+			<concept-type></concept-type>
+			<test-age></test-age>
+		</code>
+		<code>
+			<value>143B</value>
+			<label>Adenovirus types 4 and 7</label>
+			<description>Adenovirus, type 4 and type 7, live, oral Notes: This
+				vaccine is administered as 2 tablets.
+			</description>
+			<code-status>
+				<status>Valid</status>
+				<deprecated>
+					<new-code-value>78</new-code-value>
+					<reason>Catfor</reason>
+					<effective-date>12/26/2010</effective-date>
+				</deprecated>
+			</code-status>
+
+			<reference>
+				<link-to codeset="VaccineCVX">143</link-to>
+				<link-to codeset="VaccineMVX">BRR</link-to>
+			</reference>
+
+			<use-date>
+				<not-before>01/01/2001</not-before>
+				<not-expected-before>01/01/2001</not-expected-before>
+				<not-expected-after>01/01/2009</not-expected-after>
+				<not-after>01/01/2010</not-after>
+			</use-date>
+			<use-age>
+				<not-before-month>1</not-before-month>
+				<not-after-month>84</not-after-month>
+			</use-age>
+
+			<concept-type></concept-type>
+			<test-age></test-age>
+		</code>
+	</codeset>
+
+<codeset>
+  <label>VaccineProduct</label>
+  <code>
+        <value>Adenovirus types 4 and 7</value>
+        <label>Adenovirus types 4 and 7</label>
+        <code-status>
+          <status>Valid</status>
+        </code-status>
+    <reference>
+      <code codeset="VaccineCVX">143</code>
+      <code codeset="VaccineMVX">BRR</code>
+    </reference>
+    
+    	<prodInfo>
+		<Name>CDC Product Name</Name>
+		  <Value>Adenovirus types 4 and 7</Value>
+		<Name>Short Description</Name>
+		  <Value>Adenovirus types 4 and 7</Value>
+		<Name>CVXCode</Name>
+  		  <Value>143       </Value>
+		<Name>Manufacturer</Name>
+		  <Value>Barr Laboratories</Value>
+		<Name>MVX Code</Name>
+		  <Value>BRR       </Value>
+		<Name>MVX Status</Name>
+		  <Value>Active</Value>
+		<Name>Product name Status</Name>
+		  <Value>Active</Value>
+		<Name>Last Updated</Name>
+		  <Value>8/7/2012</Value>
+	</prodInfo>
+    
+  </code>
+</codeset>
+</codebase>
