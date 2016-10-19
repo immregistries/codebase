@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Contraindication or Precaution</label>
+    <code>
+        <value>VXC17</value>
+        <label>alergy (anaphylactic) to 2-phenoxyethanol</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC30</value>
+        <label>alergy (anaphylactic) to proteins of rodent or neural orgin</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91930004</value>
+        <label>Alergy to eggs (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>402306009</value>
+        <label>Allergy to aluminum (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC18</value>
+        <label>allergy to bakers yeast (anaphylactic)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC20</value>
+        <label>allergy to previous dose of this vaccine or to any of its unlisted vaccine components (anaphylactic)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC19</value>
+        <label>allergy to thimerosal (anaphylactic)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>27624003</value>
+        <label>Chronic disease (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC24</value>
+        <label>current acute illness, moderate to severe (with or without fever)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC23</value>
+        <label>current fever with moderate-to-severe illness</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC22</value>
+        <label>encephalopathy within 7 days of previous dose of DTP or DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>294847001</value>
+        <label>Gelatin alergy (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>161461006</value>
+        <label>History of - purpura (situation)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC25</value>
+        <label>History of Arthus hypersenstiviity reaction to a tetanus-containing vaccine administered &lt;10 years previously</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC27</value>
+        <label>immunodeficiency due to any cause, including HIV (hemotologic and solid tumors, congential immunodeficiency, long-term immunosuppressive therapy, including steroids)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>300916003</value>
+        <label>Latex allergy (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>794468006</value>
+        <label>Neomycin allergy (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>77386006</value>
+        <label>Patient current pregnant (finding)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>294530006</value>
+        <label>Polymyxin B allergy (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC21</value>
+        <label>Previous hisotry of intussusception</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>294466005</value>
+        <label>Streptomycin allergy (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>302215000</value>
+        <label>Thrombocytopenic disorder (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC26</value>
+        <label>underlying unstable, evolving neurologic diorders, (including seizure disorders, cerebral palsy, and developmental delay)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

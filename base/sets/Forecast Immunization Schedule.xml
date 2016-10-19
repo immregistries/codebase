@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Forecast Immunization Schedule</label>
+    <code>
+        <value>VXC16</value>
+        <label>ACIP Schedule</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

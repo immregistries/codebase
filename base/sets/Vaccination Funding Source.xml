@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination Funding Source</label>
+    <code>
+        <value>VXC1</value>
+        <label>Federal funds</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PHC68</value>
+        <label>Military funds</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>OTH</value>
+        <label>Other</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PHC70</value>
+        <label>Private funds</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC2</value>
+        <label>State funds</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC3</value>
+        <label>Tribal funds</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>UNK</value>
+        <label>Unspecified</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

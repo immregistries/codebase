@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Message Processing Id</label>
+    <code>
+        <value>D</value>
+        <label>Debug</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>P</value>
+        <label>Production</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>T</value>
+        <label>Training</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

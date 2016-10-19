@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Financial Status Obs Method</label>
+    <code>
+        <value>VXC40</value>
+        <label>Eligibility captured at the immunization level</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC41</value>
+        <label>Eligibility captured at the visit level</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

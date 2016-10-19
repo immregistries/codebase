@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination Reaction</label>
+    <code>
+        <value>39579001</value>
+        <label>Anaphylaxis (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC10</value>
+        <label>collapse or shock-like state within 48 hours of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC11</value>
+        <label>convulsions (fits, seizures) within 72 hours of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>81308009</value>
+        <label>Disorder of brain (disorder)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC12</value>
+        <label>fever of &gt;40.5C within 48 hours of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC13</value>
+        <label>Guillain-Barre syndrome (GBS) within 6 weeks of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC15</value>
+        <label>Intussesception within 30 days of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC9</value>
+        <label>persistent, inconsolable cryting lasting &gt; 3 hours within 48 hours of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC14</value>
+        <label>Rash within 14 days of dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

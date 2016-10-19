@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>HL7 Value Type</label>
+    <code>
+        <value>AD</value>
+        <label>Address</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CF</value>
+        <label>Coded Element With Formatted Values</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CE</value>
+        <label>Coded Entry</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>ID</value>
+        <label>Coded vaue</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CN</value>
+        <label>Composite ID And Name</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CK</value>
+        <label>Composite ID With Check Digit</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CP</value>
+        <label>Composite Price</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>DT</value>
+        <label>Date</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>ED</value>
+        <label>Encapsulated Data</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>XAD</value>
+        <label>Extended Address</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>CX</value>
+        <label>Extended Composite ID With Check Digit</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>XON</value>
+        <label>Extended Composite Name And Number For Organizations</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>XCN</value>
+        <label>Extended Composite Name And Number For Persons</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>XPN</value>
+        <label>Extended Person Name</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>XTN</value>
+        <label>Extended Telecommunications Number</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>FT</value>
+        <label>Formatted Text (Display)</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>MO</value>
+        <label>Money</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>NM</value>
+        <label>Numeric</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PN</value>
+        <label>Person Name</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>RP</value>
+        <label>Reference Pointer</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>ST</value>
+        <label>String Data.</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>SN</value>
+        <label>Structured Numeric</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>TN</value>
+        <label>Telephone Number</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>TX</value>
+        <label>Text Data (Display)</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>TM</value>
+        <label>Time</label>
+        <description></description>
+        <code-status>
+            <status>Ignored</status>
+        </code-status>
+    </code>
+    <code>
+        <value>TS</value>
+        <label>Time Stamp (Date &amp; Time)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

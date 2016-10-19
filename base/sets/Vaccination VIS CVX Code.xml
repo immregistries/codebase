@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination VIS CVX Code</label>
+    <code>
+        <value>82</value>
+        <label>Adenovirus VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>24</value>
+        <label>Anthrax VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>107</value>
+        <label>Diphtheria / Tetanus / Pertussis (DTaP) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>17</value>
+        <label>Haemophilus Influenzae type b VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>85</value>
+        <label>Hepatitis A VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>45</value>
+        <label>Hepatitis B VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>118</value>
+        <label>Human papillomavirus Vaccine (Cervarix) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>137</value>
+        <label>Human papillomavirus Vaccine (Gardasil) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>62</value>
+        <label>Human papillomavirus Vaccine (Gardasil) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>140</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>141</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>111</value>
+        <label>Influenza Vaccine - Live, Intranasal VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>129</value>
+        <label>Japanese Encephalitis VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>94</value>
+        <label>Measles / Mumps / Rubella / Varicella VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>03</value>
+        <label>Measles / Mumps / Rubella VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>108</value>
+        <label>Meningococcal VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>152</value>
+        <label>Pneumococcal Conjugate (PCV13) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>33</value>
+        <label>Pneumococcal Polysaccharide VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>89</value>
+        <label>Polio VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>90</value>
+        <label>Rabies VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>122</value>
+        <label>Rotavirus VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>121</value>
+        <label>Shingles VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>139</value>
+        <label>Tetanus / Diphtheria / Pertussis (Tdap/Td) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>115</value>
+        <label>Tetanus/Diphtheria/Pertussis (Tdap) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91</value>
+        <label>Typhoid VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>21</value>
+        <label>Varicella (Chickenpox) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>37</value>
+        <label>Yellow Fever VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

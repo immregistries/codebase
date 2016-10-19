@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Registry Status</label>
+    <code>
+        <value>A</value>
+        <label>Active</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>L</value>
+        <label>Inactive - Lost to follow-up</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>M</value>
+        <label>Inactive - Moved or gone elsewhere</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>P</value>
+        <label>Inactive - Permanently inactive</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>I</value>
+        <label>Inactive - Unspecified</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>O</value>
+        <label>Other</label>
+        <description></description>
+        <code-status>
+            <status>Invalid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>U</value>
+        <label>Unknown</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

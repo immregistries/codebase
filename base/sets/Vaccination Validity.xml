@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination Validity</label>
+    <code>
+        <value>I</value>
+        <label>Invalid</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>INVALID</value>
+        <label>Invalid</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>V</value>
+        <label>Valid</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VALID</value>
+        <label>Valid</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+</codeset>

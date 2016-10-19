@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Facility Type</label>
+    <code>
+        <value>PRI</value>
+        <label>Private</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PRIVATE</value>
+        <label>Private</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PUB</value>
+        <label>Public</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>PUBLIC</value>
+        <label>Public</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+</codeset>

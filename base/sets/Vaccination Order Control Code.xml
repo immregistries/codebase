@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination Order Control Code</label>
+    <code>
+        <value>RE</value>
+        <label>Observations to follow</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>OK</value>
+        <label>Order accepted &amp; OK</label>
+        <description></description>
+        <code-status>
+            <status>Invalid</status>
+        </code-status>
+    </code>
+</codeset>
