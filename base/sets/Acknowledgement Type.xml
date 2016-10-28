@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Acknowledgement Type</label>
+    <type>ACKNOWLEDGEMENT_TYPE</type>
     <code>
         <value>AL</value>
         <label>Always</label>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination VIS Doc Type</label>
+    <type>VACCINATION_VIS_DOC_TYPE</type>
     <code>
         <value>253088698300001111110714</value>
         <label>Adnovirus VIS</label>

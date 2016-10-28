@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Reaction</label>
+    <type>VACCINATION_REACTION</type>
     <code>
         <value>39579001</value>
         <label>Anaphylaxis (disorder)</label>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination CVX Code</label>
+    <type>VACCINATION_CVX_CODE</type>
     <code>
         <value>143</value>
         <label>Adenovirus types 4 and 7</label>
@@ -1014,7 +1015,7 @@
         <label>Staphylococcus bacterio lysate</label>
         <description></description>
         <code-status>
-            <status>Valid</status>
+            <status>Invalid</status>
         </code-status>
     </code>
     <code>

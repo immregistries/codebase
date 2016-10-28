@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccine Product</label>
+    <type>VACCINE_PRODUCT</type>
     <code>
         <value>ADENOVIRUS TYPES 4 AND 7</value>
         <label>Adenovirus types 4 and 7</label>

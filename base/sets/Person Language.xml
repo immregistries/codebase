@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Person Language</label>
+    <type>PERSON_LANGUAGE</type>
     <code>
         <value>ASE</value>
         <label>American sign language</label>

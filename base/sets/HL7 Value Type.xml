@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>HL7 Value Type</label>
+    <type>HL7_VALUE_TYPE</type>
     <code>
         <value>AD</value>
         <label>Address</label>

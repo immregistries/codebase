@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Id Type Code</label>
+    <type>ID_TYPE_CODE</type>
     <code>
         <value>AN</value>
         <label>Account number</label>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Person Name Type</label>
+    <type>PERSON_NAME_TYPE</type>
     <code>
         <value>C</value>
         <label>Adopted name</label>

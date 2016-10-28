@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Observation Identifier</label>
+    <type>OBSERVATION_IDENTIFIER</type>
     <code>
         <value>38890-0</value>
         <label>Component Vaccine Type</label>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccine Group</label>
+    <type>VACCINE_GROUP</type>
     <code>
         <value>ADENO</value>
         <label>Adnovirus</label>

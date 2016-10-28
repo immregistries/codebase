@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Contraindication or Precaution</label>
+    <type>CONTRAINDICATION_OR_PRECATION</type>
     <code>
         <value>VXC17</value>
         <label>alergy (anaphylactic) to 2-phenoxyethanol</label>

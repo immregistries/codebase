@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Financial Status Code</label>
+    <type>FINANCIAL_STATUS_CODE</type>
     <code>
         <value>MIA10</value>
         <label>All Hazard eligible -Public Purchase</label>

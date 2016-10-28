@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Information Source</label>
+    <type>VACCINATION_INFORMATION_SOURCE</type>
     <code>
         <value>06</value>
         <label>Historical information - from birth certificate</label>

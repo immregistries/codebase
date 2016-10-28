@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Message Processing Id</label>
+    <type>MESSAGE_PROCESSING_ID</type>
     <code>
         <value>D</value>
         <label>Debug</label>

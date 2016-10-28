@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Evidence of Immunity</label>
+    <type>EVIDENCE_OF_IMMUNITY</type>
     <code>
         <value>409498004</value>
         <label>History of anthrax infection</label>

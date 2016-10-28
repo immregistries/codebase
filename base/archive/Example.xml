@@ -1,5 +1,6 @@
 <codeset>
   <label>VaccineCVX</label>
+  <type>ACK_TYPE</type>
   <code>
     <value>143B</value>
     <label>Adenovirus types 4 and 7</label>

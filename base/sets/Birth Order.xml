@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Birth Order</label>
+    <type>BIRTH_ORDER</type>
     <code>
         <value>5</value>
         <label>Fifth</label>

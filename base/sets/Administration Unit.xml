@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Administration Unit</label>
+    <type>ADMINISTRATION_UNIT</type>
     <code>
         <value>CC</value>
         <label>Cubic centimeter (ml)</label>

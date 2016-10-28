@@ -2,6 +2,7 @@
 <codebase>
     <codeset>
         <label>Acknowledgement Type</label>
+        <type>ACKNOWLEDGEMENT_TYPE</type>
         <code>
             <value>AL</value>
             <label>Always</label>
@@ -37,6 +38,7 @@
     </codeset>
     <codeset>
         <label>Address Type</label>
+        <type>ADDRESS_TYPE</type>
         <code>
             <value>BA</value>
             <label>Bad address</label>
@@ -144,6 +146,7 @@
     </codeset>
     <codeset>
         <label>Administration Unit</label>
+        <type>ADMINISTRATION_UNIT</type>
         <code>
             <value>CC</value>
             <label>Cubic centimeter (ml)</label>
@@ -163,6 +166,7 @@
     </codeset>
     <codeset>
         <label>Birth Order</label>
+        <type>BIRTH_ORDER</type>
         <code>
             <value>5</value>
             <label>Fifth</label>
@@ -206,6 +210,7 @@
     </codeset>
     <codeset>
         <label>Body Route</label>
+        <type>BODY_ROUTE</type>
         <code>
             <value>C38238</value>
             <label>Intradermal</label>
@@ -345,6 +350,7 @@
     </codeset>
     <codeset>
         <label>Body Site</label>
+        <type>BODY_SITE</type>
         <code>
             <value>BN</value>
             <label>Bilateral Nares</label>
@@ -483,7 +489,12 @@
         </code>
     </codeset>
     <codeset>
+        <label>CDC PHIN VADS</label>
+        <type>CDC_PHIN_VADS</type>
+    </codeset>
+    <codeset>
         <label>Contraindication or Precaution</label>
+        <type>CONTRAINDICATION_OR_PRECATION</type>
         <code>
             <value>VXC17</value>
             <label>alergy (anaphylactic) to 2-phenoxyethanol</label>
@@ -671,6 +682,7 @@
     </codeset>
     <codeset>
         <label>Evidence of Immunity</label>
+        <type>EVIDENCE_OF_IMMUNITY</type>
         <code>
             <value>409498004</value>
             <label>History of anthrax infection</label>
@@ -930,6 +942,7 @@
     </codeset>
     <codeset>
         <label>Facility Type</label>
+        <type>FACILITY_TYPE</type>
         <code>
             <value>PRI</value>
             <label>Private</label>
@@ -965,6 +978,7 @@
     </codeset>
     <codeset>
         <label>Financial Status Code</label>
+        <type>FINANCIAL_STATUS_CODE</type>
         <code>
             <value>MIA10</value>
             <label>All Hazard eligible -Public Purchase</label>
@@ -1088,6 +1102,7 @@
     </codeset>
     <codeset>
         <label>Financial Status Obs Method</label>
+        <type>FINANCIAL_STATUS_OBS_METHOD</type>
         <code>
             <value>VXC40</value>
             <label>Eligibility captured at the immunization level</label>
@@ -1107,6 +1122,7 @@
     </codeset>
     <codeset>
         <label>Forecast Immunization Schedule</label>
+        <type>FORECAST_IMMUNIZATION_SCHEDULE</type>
         <code>
             <value>VXC16</value>
             <label>ACIP Schedule</label>
@@ -1118,12 +1134,15 @@
     </codeset>
     <codeset>
         <label>Forecast Reason</label>
+        <type>FORECAST_REASON</type>
     </codeset>
     <codeset>
         <label>Forecast Series Status</label>
+        <type>FORECAST_SERIES_STATUS</type>
     </codeset>
     <codeset>
         <label>HL7 Coding System</label>
+        <type>HL7_CODING_SYSTEM</type>
         <code>
             <value>HL70078</value>
             <label>Abnormal flags</label>
@@ -1622,114 +1641,8 @@
         </code>
     </codeset>
     <codeset>
-        <label>HL7 Error Status Code</label>
-        <code>
-            <value>207</value>
-            <label>Application internal error</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>206</value>
-            <label>Application record locked</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>102</value>
-            <label>Data type error</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>205</value>
-            <label>Duplicate key identifier</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>0</value>
-            <label>Message accepted</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>101</value>
-            <label>Required field missing</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>100</value>
-            <label>Segment sequence error</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>103</value>
-            <label>Table value not found</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>204</value>
-            <label>Unknown key identifier</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>201</value>
-            <label>Unsupported event code</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>200</value>
-            <label>Unsupported message type</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>202</value>
-            <label>Unsupported processing ID</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-        <code>
-            <value>203</value>
-            <label>Unsupported version ID</label>
-            <description></description>
-            <code-status>
-                <status>Valid</status>
-            </code-status>
-        </code>
-    </codeset>
-    <codeset>
         <label>HL7 Value Type</label>
+        <type>HL7_VALUE_TYPE</type>
         <code>
             <value>AD</value>
             <label>Address</label>
@@ -1941,9 +1854,11 @@
     </codeset>
     <codeset>
         <label>Id Assigning Authority</label>
+        <type>ID_ASSIGNING_AUTHORITY</type>
     </codeset>
     <codeset>
         <label>Id Type Code</label>
+        <type>ID_TYPE_CODE</type>
         <code>
             <value>AN</value>
             <label>Account number</label>
@@ -2563,6 +2478,7 @@
     </codeset>
     <codeset>
         <label>Message Processing Id</label>
+        <type>MESSAGE_PROCESSING_ID</type>
         <code>
             <value>D</value>
             <label>Debug</label>
@@ -2590,9 +2506,11 @@
     </codeset>
     <codeset>
         <label>Message Profile Id</label>
+        <type>MESSAGE_PROFILE_ID</type>
     </codeset>
     <codeset>
         <label>Observation Identifier</label>
+        <type>OBSERVATION_IDENTIFIER</type>
         <code>
             <value>38890-0</value>
             <label>Component Vaccine Type</label>
@@ -2788,6 +2706,7 @@
     </codeset>
     <codeset>
         <label>Patient Class</label>
+        <type>PATIENT_CLASS</type>
         <code>
             <value>R</value>
             <label>Recurring</label>
@@ -2799,6 +2718,7 @@
     </codeset>
     <codeset>
         <label>Patient Ethnicity</label>
+        <type>PATIENT_ETHNICITY</type>
         <code>
             <value>2135-2</value>
             <label>Hispanic or Latino</label>
@@ -2842,9 +2762,11 @@
     </codeset>
     <codeset>
         <label>Patient Id</label>
+        <type>PATIENT_ID</type>
     </codeset>
     <codeset>
         <label>Patient Protection</label>
+        <type>PATIENT_PROTECTION</type>
         <code>
             <value>N</value>
             <label>No</label>
@@ -2864,6 +2786,7 @@
     </codeset>
     <codeset>
         <label>Patient Publicity</label>
+        <type>PATIENT_PUBLICITY</type>
         <code>
             <value>01</value>
             <label>No reminder/recall</label>
@@ -2963,6 +2886,7 @@
     </codeset>
     <codeset>
         <label>Patient Race</label>
+        <type>PATIENT_RACE</type>
         <code>
             <value>1002-5</value>
             <label>American Indian or Alaska Native</label>
@@ -3110,6 +3034,7 @@
     </codeset>
     <codeset>
         <label>Patient Sex</label>
+        <type>PATIENT_SEX</type>
         <code>
             <value>F</value>
             <label>Female</label>
@@ -3145,6 +3070,7 @@
     </codeset>
     <codeset>
         <label>Person Language</label>
+        <type>PERSON_LANGUAGE</type>
         <code>
             <value>ASE</value>
             <label>American sign language</label>
@@ -3524,6 +3450,7 @@
     </codeset>
     <codeset>
         <label>Person Name Type</label>
+        <type>PERSON_NAME_TYPE</type>
         <code>
             <value>C</value>
             <label>Adopted name</label>
@@ -3591,6 +3518,7 @@
     </codeset>
     <codeset>
         <label>Person Relationship</label>
+        <type>PERSON_RELATIONSHIP</type>
         <code>
             <value>ASC</value>
             <label>Associate</label>
@@ -3850,9 +3778,11 @@
     </codeset>
     <codeset>
         <label>Physician Number</label>
+        <type>PHYSICIAN_NUMBER</type>
     </codeset>
     <codeset>
         <label>Potential Issue</label>
+        <type>POTENTIAL_ISSUE</type>
         <code>
             <value>DQA0002</value>
             <label>General authorization exception</label>
@@ -8704,6 +8634,7 @@
     </codeset>
     <codeset>
         <label>Registry Status</label>
+        <type>REGISTRY_STATUS</type>
         <code>
             <value>A</value>
             <label>Active</label>
@@ -8763,6 +8694,7 @@
     </codeset>
     <codeset>
         <label>Telecommunication Equipment</label>
+        <type>TELECOMMUNICATION_EQUIPMENT</type>
         <code>
             <value>BP</value>
             <label>Beeper</label>
@@ -8838,6 +8770,7 @@
     </codeset>
     <codeset>
         <label>Telecommunication Use</label>
+        <type>TELECOMMUNICATION_USE</type>
         <code>
             <value>ASN</value>
             <label>Answering service number</label>
@@ -8905,6 +8838,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Action Code</label>
+        <type>VACCINATION_ACTION_CODE</type>
         <code>
             <value>A</value>
             <label>Add</label>
@@ -8932,6 +8866,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Completion</label>
+        <type>VACCINATION_COMPLETION</type>
         <code>
             <value>CP</value>
             <label>Complete</label>
@@ -8967,6 +8902,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Confidentiality</label>
+        <type>VACCINATION_CONFIDENTIALITY</type>
         <code>
             <value>R</value>
             <label>Restricted</label>
@@ -8994,6 +8930,7 @@
     </codeset>
     <codeset>
         <label>Vaccination CPT Code</label>
+        <type>VACCINATION_CPT_CODE</type>
         <code>
             <value>90476</value>
             <label>adenovirus, type 4</label>
@@ -9845,6 +9782,7 @@
     </codeset>
     <codeset>
         <label>Vaccination CVX Code</label>
+        <type>VACCINATION_CVX_CODE</type>
         <code>
             <value>143</value>
             <label>Adenovirus types 4 and 7</label>
@@ -10858,7 +10796,7 @@
             <label>Staphylococcus bacterio lysate</label>
             <description></description>
             <code-status>
-                <status>Valid</status>
+                <status>Invalid</status>
             </code-status>
         </code>
         <code>
@@ -11128,6 +11066,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Funding Source</label>
+        <type>VACCINATION_FUNDING_SOURCE</type>
         <code>
             <value>VXC1</value>
             <label>Federal funds</label>
@@ -11187,6 +11126,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Information Source</label>
+        <type>VACCINATION_INFORMATION_SOURCE</type>
         <code>
             <value>06</value>
             <label>Historical information - from birth certificate</label>
@@ -11262,6 +11202,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Manufacturer Code</label>
+        <type>VACCINATION_MANUFACTURER_CODE</type>
         <code>
             <value>AB</value>
             <label>Abbott Laboratories</label>
@@ -11777,6 +11718,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Order Control Code</label>
+        <type>VACCINATION_ORDER_CONTROL_CODE</type>
         <code>
             <value>RE</value>
             <label>Observations to follow</label>
@@ -11796,6 +11738,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Reaction</label>
+        <type>VACCINATION_REACTION</type>
         <code>
             <value>39579001</value>
             <label>Anaphylaxis (disorder)</label>
@@ -11871,6 +11814,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Refusal</label>
+        <type>VACCINATION_REFUSAL</type>
         <code>
             <value>02</value>
             <label>Other</label>
@@ -11906,6 +11850,7 @@
     </codeset>
     <codeset>
         <label>Vaccination Special Indications</label>
+        <type>VACCINATION_SPECIAL_INDICATIONS</type>
         <code>
             <value>VXC8</value>
             <label>Member of special group</label>
@@ -11925,9 +11870,11 @@
     </codeset>
     <codeset>
         <label>Vaccination Trade Name</label>
+        <type>VACCINATION_TRADE_NAME</type>
     </codeset>
     <codeset>
         <label>Vaccination Validity</label>
+        <type>VACCINATION_VALIDITY</type>
         <code>
             <value>I</value>
             <label>Invalid</label>
@@ -11963,6 +11910,7 @@
     </codeset>
     <codeset>
         <label>Vaccination VIS CVX Code</label>
+        <type>VACCINATION_VIS_CVX_CODE</type>
         <code>
             <value>82</value>
             <label>Adenovirus VIS</label>
@@ -12182,6 +12130,7 @@
     </codeset>
     <codeset>
         <label>Vaccination VIS Doc Type</label>
+        <type>VACCINATION_VIS_DOC_TYPE</type>
         <code>
             <value>253088698300001111110714</value>
             <label>Adnovirus VIS</label>
@@ -12345,6 +12294,7 @@
     </codeset>
     <codeset>
         <label>Vaccination VIS Vaccines</label>
+        <type>VACCINATION_VIS_VACCINES</type>
         <code>
             <value>106</value>
             <label>DTaP, 5 pertussis antigens</label>
@@ -12660,6 +12610,7 @@
     </codeset>
     <codeset>
         <label>Vaccine Group</label>
+        <type>VACCINE_GROUP</type>
         <code>
             <value>ADENO</value>
             <label>Adnovirus</label>
@@ -12943,6 +12894,7 @@
     </codeset>
     <codeset>
         <label>Vaccine Product</label>
+        <type>VACCINE_PRODUCT</type>
         <code>
             <value>ADENOVIRUS TYPES 4 AND 7</value>
             <label>Adenovirus types 4 and 7</label>
@@ -13626,5 +13578,6 @@
     </codeset>
     <codeset>
         <label>Vaccine Type</label>
+        <type>VACCINE_TYPE</type>
     </codeset>
 </codebase>

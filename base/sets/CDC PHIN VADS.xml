@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
-    <label>Message Profile Id</label>
-    <type>MESSAGE_PROFILE_ID</type>
+    <label>CDC PHIN VADS</label>
+    <type>CDC_PHIN_VADS</type>
 </codeset>

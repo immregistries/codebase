@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Patient Sex</label>
+    <type>PATIENT_SEX</type>
     <code>
         <value>F</value>
         <label>Female</label>

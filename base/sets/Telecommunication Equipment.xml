@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Telecommunication Equipment</label>
+    <type>TELECOMMUNICATION_EQUIPMENT</type>
     <code>
         <value>BP</value>
         <label>Beeper</label>

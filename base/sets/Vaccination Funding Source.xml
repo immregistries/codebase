@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Funding Source</label>
+    <type>VACCINATION_FUNDING_SOURCE</type>
     <code>
         <value>VXC1</value>
         <label>Federal funds</label>

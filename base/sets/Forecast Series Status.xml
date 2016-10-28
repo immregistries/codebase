@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Forecast Series Status</label>
+    <type>FORECAST_SERIES_STATUS</type>
 </codeset>

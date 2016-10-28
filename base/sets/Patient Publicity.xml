@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Patient Publicity</label>
+    <type>PATIENT_PUBLICITY</type>
     <code>
         <value>01</value>
         <label>No reminder/recall</label>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Registry Status</label>
+    <type>REGISTRY_STATUS</type>
     <code>
         <value>A</value>
         <label>Active</label>

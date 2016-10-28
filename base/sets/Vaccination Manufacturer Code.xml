@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Manufacturer Code</label>
+    <type>VACCINATION_MANUFACTURER_CODE</type>
     <code>
         <value>AB</value>
         <label>Abbott Laboratories</label>

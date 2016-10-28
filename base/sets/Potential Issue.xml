@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Potential Issue</label>
+    <type>POTENTIAL_ISSUE</type>
     <code>
         <value>DQA0002</value>
         <label>General authorization exception</label>

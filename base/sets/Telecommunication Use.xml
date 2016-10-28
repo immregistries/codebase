@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Telecommunication Use</label>
+    <type>TELECOMMUNICATION_USE</type>
     <code>
         <value>ASN</value>
         <label>Answering service number</label>

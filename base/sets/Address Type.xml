@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Address Type</label>
+    <type>ADDRESS_TYPE</type>
     <code>
         <value>BA</value>
         <label>Bad address</label>

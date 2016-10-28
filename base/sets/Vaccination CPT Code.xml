@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination CPT Code</label>
+    <type>VACCINATION_CPT_CODE</type>
     <code>
         <value>90476</value>
         <label>adenovirus, type 4</label>

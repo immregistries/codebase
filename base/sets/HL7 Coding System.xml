@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>HL7 Coding System</label>
+    <type>HL7_CODING_SYSTEM</type>
     <code>
         <value>HL70078</value>
         <label>Abnormal flags</label>

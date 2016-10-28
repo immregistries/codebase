@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Patient Ethnicity</label>
+    <type>PATIENT_ETHNICITY</type>
     <code>
         <value>2135-2</value>
         <label>Hispanic or Latino</label>

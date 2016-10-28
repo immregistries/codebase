@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Confidentiality</label>
+    <type>VACCINATION_CONFIDENTIALITY</type>
     <code>
         <value>R</value>
         <label>Restricted</label>

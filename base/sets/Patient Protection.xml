@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Patient Protection</label>
+    <type>PATIENT_PROTECTION</type>
     <code>
         <value>N</value>
         <label>No</label>

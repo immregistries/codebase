@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Refusal</label>
+    <type>VACCINATION_REFUSAL</type>
     <code>
         <value>02</value>
         <label>Other</label>

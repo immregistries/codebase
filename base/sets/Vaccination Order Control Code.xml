@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Vaccination Order Control Code</label>
+    <type>VACCINATION_ORDER_CONTROL_CODE</type>
     <code>
         <value>RE</value>
         <label>Observations to follow</label>

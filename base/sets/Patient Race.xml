@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
     <label>Patient Race</label>
+    <type>PATIENT_RACE</type>
     <code>
         <value>1002-5</value>
         <label>American Indian or Alaska Native</label>
