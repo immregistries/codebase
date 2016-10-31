@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Patient Class</label>
+    <type>PATIENT_CLASS</type>
+    <code>
+        <value>R</value>
+        <label>Recurring</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

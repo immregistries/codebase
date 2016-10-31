@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Administration Unit</label>
+    <type>ADMINISTRATION_UNIT</type>
+    <code>
+        <value>CC</value>
+        <label>Cubic centimeter (ml)</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>mL</value>
+        <label>Milliliter</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Patient Race</label>
+    <type>PATIENT_RACE</type>
+    <code>
+        <value>1002-5</value>
+        <label>American Indian or Alaska Native</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>I</value>
+        <label>American Indian or Alaska Native</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2028-9</value>
+        <label>Asian</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>A</value>
+        <label>Asian or Pacific Islander</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2054-5</value>
+        <label>Black or African-American</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>B</value>
+        <label>Black or African-American</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2034-7</value>
+        <label>Chinese</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2036-2</value>
+        <label>Filipino</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2076-8</value>
+        <label>Hawaiian</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2135-2</value>
+        <label>Hispanic or Latino</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2039-6</value>
+        <label>Japanese</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2076-8</value>
+        <label>Native Hawaiian or Other Pacific Islander</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2186-5</value>
+        <label>not Hispanic or Latino</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2131-1</value>
+        <label>Other Race</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>O</value>
+        <label>Other Race</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>U</value>
+        <label>Unknown</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+    <code>
+        <value>2106-3</value>
+        <label>White</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>W</value>
+        <label>White</label>
+        <description></description>
+        <code-status>
+            <status>Deprecated</status>
+        </code-status>
+    </code>
+</codeset>

@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccine Product</label>
+    <type>VACCINE_PRODUCT</type>
+    <code>
+        <value>ADENOVIRUS TYPES 4 AND 7</value>
+        <label>Adenovirus types 4 and 7</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110101</not-before>
+            <not-expected-before>20110316</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>BIOTHRAX</value>
+        <label>anthrax</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>MYCOBAX</value>
+        <label>BCG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20000101</not-before>
+            <not-expected-before>20000101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TICE BCG</value>
+        <label>BCG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">OTC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19900101</not-before>
+            <not-expected-before>19900101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>DT(GENERIC)</value>
+        <label>DT (pediatric)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">28</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19840101</not-before>
+            <not-expected-before>19840101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ACEL-IMUNE</value>
+        <label>DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-before>19910101</not-before>
+            <not-expected-before>19910101</not-expected-before>
+            <not-expected-after>20020101</not-expected-after>
+            <not-after>20020101</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>CERTIVA</value>
+        <label>DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NAV</link-to>
+        </reference>
+        <use-date>
+            <not-before>19980101</not-before>
+            <not-expected-before>19980101</not-expected-before>
+            <not-expected-after>20010101</not-expected-after>
+            <not-after>20010101</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>INFANRIX</value>
+        <label>DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19970101</not-before>
+            <not-expected-before>19970101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TRIPEDIA</value>
+        <label>DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>DAPTACEL</value>
+        <label>DTaP, 5 pertussis antigens</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020101</not-before>
+            <not-expected-before>20020101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>PEDIARIX</value>
+        <label>DTaP-Hep B-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">110</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020101</not-before>
+            <not-expected-before>20020101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TRIHIBIT</value>
+        <label>DTaP-Hib</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">50</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>PENTACEL</value>
+        <label>DTaP-Hib-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080101</not-before>
+            <not-expected-before>20080101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>KINRIX</value>
+        <label>DTaP-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080101</not-before>
+            <not-expected-before>20080101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TETRAMUNE</value>
+        <label>DTP-Hib</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">22</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>HAVRIX-ADULT</value>
+        <label>Hep A, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950101</not-before>
+            <not-expected-before>19950101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>VAQTA-ADULT</value>
+        <label>Hep A, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>HAVRIX-PEDS</value>
+        <label>Hep A, ped/adol, 2 dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950101</not-before>
+            <not-expected-before>19950101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>VAQTA-PEDS</value>
+        <label>Hep A, ped/adol, 2 dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TWINRIX</value>
+        <label>Hep A-Hep B</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20010101</not-before>
+            <not-expected-before>20010101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ENGERIX B-PEDS</value>
+        <label>Hep B, adolescent or pediatric</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>RECOMBIVAX-PEDS</value>
+        <label>Hep B, adolescent or pediatric</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19990101</not-before>
+            <not-expected-before>19990101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ENGERIX-B-ADULT</value>
+        <label>Hep B, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20000101</not-before>
+            <not-expected-before>20000101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>RECOMBIVAX-ADULT</value>
+        <label>Hep B, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19990101</not-before>
+            <not-expected-before>19990101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>RECOMBIVAX-DIALYSIS</value>
+        <label>Hep B, dialysis</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>HIBTITER</value>
+        <label>Hib (HbOC)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">47</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-before>19900101</not-before>
+            <not-expected-before>19900101</not-expected-before>
+            <not-expected-after>20100818</not-expected-after>
+            <not-after>20100818</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>PROHIBIT</value>
+        <label>Hib (PRP-D)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">46</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870101</not-before>
+            <not-expected-before>19870101</not-expected-before>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>PEDVAXHIB</value>
+        <label>Hib (PRP-OMP)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">49</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ACTHIB</value>
+        <label>Hib (PRP-T)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>HIBERIX</value>
+        <label>Hib (PRP-T)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090101</not-before>
+            <not-expected-before>20090101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>OMNIHIB</value>
+        <label>Hib (PRP-T)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19880101</not-before>
+            <not-expected-before>19880101</not-expected-before>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>COMVAX</value>
+        <label>Hib-Hep B</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">51</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>CERVARIX</value>
+        <label>HPV, bivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">118</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100101</not-before>
+            <not-expected-before>20100101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>GARDASIL</value>
+        <label>HPV, quadrivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">62</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUZONE-HIGH DOSE</value>
+        <label>Influenza, high dose seasonal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>FLUMIST</value>
+        <label>influenza, live, intranasal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+        </reference>
+        <use-date>
+            <not-before>20030101</not-before>
+            <not-expected-before>20030101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUMIST QUADRIVALENT</value>
+        <label>influenza, live, intranasal, quadrivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120101</not-before>
+            <not-expected-before>20120229</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>AFLURIA</value>
+        <label>Influenza, seasonal, injectable</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070101</not-before>
+            <not-expected-before>20070101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLULAVAL</value>
+        <label>Influenza, seasonal, injectable</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUVIRIN</value>
+        <label>Influenza, seasonal, injectable</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>19880101</not-before>
+            <not-expected-before>19880101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUZONE</value>
+        <label>Influenza, seasonal, injectable</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19990101</not-before>
+            <not-expected-before>19990101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>AFLURIA, PRESERVATIVE FREE</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070101</not-before>
+            <not-expected-before>20070101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>AGRIFLU</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090101</not-before>
+            <not-expected-before>20090101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUARIX</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUVIRIN-PRESERVATIVE FREE</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUZONE-PRESERVATIVE FREE</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020101</not-before>
+            <not-expected-before>20020101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>IPOL</value>
+        <label>IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870101</not-before>
+            <not-expected-before>19870101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>IXIARO</value>
+        <label>Japanese Encephalitis IM</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">INT</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090101</not-before>
+            <not-expected-before>20090101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>JE-VAX</value>
+        <label>Japanese encephalitis SC</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">39</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">JPN</link-to>
+        </reference>
+        <use-date>
+            <not-before>19920101</not-before>
+            <not-expected-before>19920101</not-expected-before>
+            <not-expected-after>20110501</not-expected-after>
+            <not-after>20110501</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>ATTENUVAX</value>
+        <label>measles</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">05</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19680101</not-before>
+            <not-expected-before>19680101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MENHIBRIX</value>
+        <label>Meningococcal C/Y-HIB PRP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">148</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120101</not-before>
+            <not-expected-before>20120614</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MENVEO</value>
+        <label>Meningococcal MCV4O</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100101</not-before>
+            <not-expected-before>20100101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MENACTRA</value>
+        <label>meningococcal MCV4P</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">114</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MENOMUNE</value>
+        <label>meningococcal MPSV4</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19780101</not-before>
+            <not-expected-before>19780101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>M-M-R II</value>
+        <label>MMR</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19710101</not-before>
+            <not-expected-before>19710101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>PROQUAD</value>
+        <label>MMRV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">94</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MUMPSVAX</value>
+        <label>mumps</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">07</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>ORIMUNE</value>
+        <label>OPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">02</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-before>19630101</not-before>
+            <not-expected-before>19630101</not-expected-before>
+            <not-expected-after>20010101</not-expected-after>
+            <not-after>20010101</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>PREVNAR 13</value>
+        <label>Pneumococcal conjugate PCV 13</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>PREVNAR 13</value>
+        <label>Pneumococcal conjugate PCV 13</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100101</not-before>
+            <not-expected-before>20100101</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+        </use-date>
+    </code>
+    <code>
+        <value>PREVNAR 7</value>
+        <label>pneumococcal conjugate PCV 7</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">100</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>PNEUMOVAX 23</value>
+        <label>pneumococcal polysaccharide PPV23</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19830101</not-before>
+            <not-expected-before>19830101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>IMOVAX ID</value>
+        <label>rabies, intradermal injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">40</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19800101</not-before>
+            <not-expected-before>19800101</not-expected-before>
+            <not-expected-after>20100818</not-expected-after>
+            <not-after>20100818</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>RABAVERT</value>
+        <label>rabies, intradermal injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">40</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CHI</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>IMOVAX</value>
+        <label>rabies, intramuscular injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19800101</not-before>
+            <not-expected-before>19800101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>RABAVERT</value>
+        <label>rabies, intramuscular injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>19970101</not-before>
+            <not-expected-before>19970101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ROTARIX</value>
+        <label>rotavirus, monovalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">119</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080101</not-before>
+            <not-expected-before>20080101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ROTATEQ</value>
+        <label>rotavirus, pentavalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MERUVAX II</value>
+        <label>rubella</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">06</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19690101</not-before>
+            <not-expected-before>19690101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>BIAVAX II</value>
+        <label>rubella/mumps</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">38</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>DECAVAC</value>
+        <label>Td (adult) preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20030101</not-before>
+            <not-expected-before>20030101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TD(GENERIC)</value>
+        <label>Td (adult), adsorbed</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>ADACEL</value>
+        <label>Tdap</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>BOOSTRIX</value>
+        <label>Tdap</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TENIVAC</value>
+        <label>Tenivac</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19840101</not-before>
+            <not-expected-before>19840101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TETANUS TOXOID (GENERIC)</value>
+        <label>tetanus toxoid, adsorbed</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">35</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>VIVOTIF BERNA</value>
+        <label>typhoid, oral</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">25</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BPC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19890101</not-before>
+            <not-expected-before>19890101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>TYPHOID-AKD</value>
+        <label>typhoid, parenteral, AKD (U.S. military)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">53</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">USA</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>TYPHIM VI</value>
+        <label>typhoid, ViCPs</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>19940101</not-before>
+            <not-expected-before>19940101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ACAM2000</value>
+        <label>vaccinia (smallpox)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">ACA</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070101</not-before>
+            <not-expected-before>20070101</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>ACAM2000</value>
+        <label>vaccinia (smallpox)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>DRYVAX</value>
+        <label>vaccinia (smallpox)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100901</not-expected-after>
+            <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>VARIVAX</value>
+        <label>varicella</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">21</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950101</not-before>
+            <not-expected-before>19950101</not-expected-before>
+        </use-date>
+    </code>
+    <code>
+        <value>YF-VAX</value>
+        <label>yellow fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date/>
+    </code>
+    <code>
+        <value>ZOSTAVAX</value>
+        <label>zoster</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+        </use-date>
+    </code>
+</codeset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination Special Indications</label>
+    <type>VACCINATION_SPECIAL_INDICATIONS</type>
+    <code>
+        <value>VXC8</value>
+        <label>Member of special group</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>VXC7</value>
+        <label>Rabies exposure within previous 10 days</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>

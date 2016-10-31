@@ -1,0 +1,3137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<codeset>
+    <label>Vaccination CVX Code</label>
+    <type>VACCINATION_CVX_CODE</type>
+    <code>
+        <value>143</value>
+        <label>Adenovirus types 4 and 7</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ADENO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090316</not-before>
+            <not-expected-before>20110316</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>204</not-before-month>
+            <not-after-month>612</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>54</value>
+        <label>adenovirus, type 4</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ADENO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090316</not-before>
+            <not-expected-before>20110316</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>55</value>
+        <label>adenovirus, type 7</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ADENO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090316</not-before>
+            <not-expected-before>20110316</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>82</value>
+        <label>adenovirus, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ADENO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090311</not-before>
+            <not-expected-before>20110316</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>24</value>
+        <label>anthrax</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ANTHRAX</link-to>
+        </reference>
+        <use-date>
+            <not-expected-before>19701101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>216</not-before-month>
+            <not-after-month>791</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>19</value>
+        <label>BCG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">BCG</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870621</not-before>
+            <not-expected-before>19890621</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>foreign vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>27</value>
+        <label>botulinum antitoxin</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>19630101</not-before>
+            <not-expected-before>19650101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>26</value>
+        <label>cholera</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">cholera</link-to>
+        </reference>
+        <use-date>
+            <not-before>19780101</not-before>
+            <not-expected-before>19800101</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>29</value>
+        <label>CMVIG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700101</not-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>56</value>
+        <label>dengue fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>19700101</not-before>
+            <not-expected-before>19700101</not-expected-before>
+            <not-after>19700101</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>12</value>
+        <label>diphtheria antitoxin</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>28</value>
+        <label>DT (pediatric)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+        </reference>
+        <use-date>
+            <not-before>19840101</not-before>
+            <not-expected-before>19840101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>20</value>
+        <label>DTaP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+        </reference>
+        <use-date>
+            <not-before>19910101</not-before>
+            <not-expected-before>19910101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>106</value>
+        <label>DTaP, 5 pertussis antigens</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020101</not-before>
+            <not-expected-before>20020101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>107</value>
+        <label>DTaP, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>146</value>
+        <label>DTaP,IPV,Hib,HepB</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110831</not-before>
+            <not-expected-before>20110831</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>110</value>
+        <label>DTaP-Hep B-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020101</not-before>
+            <not-expected-before>20020101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>50</value>
+        <label>DTaP-Hib</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+            <not-expected-after>20111231</not-expected-after>
+            <not-after>20111231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>168</not-before-month>
+            <not-after-month>228</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>120</value>
+        <label>DTaP-Hib-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080101</not-before>
+            <not-expected-before>20080101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>60</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>130</value>
+        <label>DTaP-IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080101</not-before>
+            <not-expected-before>20080101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>48</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>4 years</test-age>
+    </code>
+    <code>
+        <value>132</value>
+        <label>DTaP-IPV-HIB-HEP B, historical</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>01</value>
+        <label>DTP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+        </reference>
+        <use-date>
+            <not-before>19490101</not-before>
+            <not-expected-before>19490101</not-expected-before>
+            <not-expected-after>19970101</not-expected-after>
+            <not-after>19970101</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>22</value>
+        <label>DTP-Hib</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>102</value>
+        <label>DTP-Hib-Hep B</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>57</value>
+        <label>hantavirus</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>30</value>
+        <label>HBIG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HBIG</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>52</value>
+        <label>Hep A, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950101</not-before>
+            <not-expected-before>19950101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>215</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>83</value>
+        <label>Hep A, ped/adol, 2 dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950101</not-before>
+            <not-expected-before>19950101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>228</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>84</value>
+        <label>Hep A, ped/adol, 3 dose</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>228</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>31</value>
+        <label>Hep A, pediatric, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-before>19980101</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>228</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>85</value>
+        <label>Hep A, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>104</value>
+        <label>Hep A-Hep B</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepA</link-to>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20010101</not-before>
+            <not-expected-before>20010101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>215</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>08</value>
+        <label>Hep B, adolescent or pediatric</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>240</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>42</value>
+        <label>Hep B, adolescent/high risk infant</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>19980827</not-expected-after>
+            <not-after>19991231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>240</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>43</value>
+        <label>Hep B, adult</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>240</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>44</value>
+        <label>Hep B, dialysis</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20000101</not-before>
+        </use-date>
+        <use-age>
+            <not-before-month>240</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>45</value>
+        <label>Hep B, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19810101</not-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>58</value>
+        <label>Hep C</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepC</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>59</value>
+        <label>Hep E</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Hep E</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>154</value>
+        <label>Hepatitis A immune globulin</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>0</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>60</value>
+        <label>herpes simplex 2</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>19700101</not-before>
+            <not-expected-before>19700101</not-expected-before>
+            <not-expected-after>19700101</not-expected-after>
+            <not-after>19700101</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>47</value>
+        <label>Hib (HbOC)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19900101</not-before>
+            <not-expected-before>19900101</not-expected-before>
+            <not-expected-after>20071231</not-expected-after>
+            <not-after>20071231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>46</value>
+        <label>Hib (PRP-D)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870101</not-before>
+            <not-expected-before>19870101</not-expected-before>
+            <not-expected-after>20001231</not-expected-after>
+            <not-after>20001231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>49</value>
+        <label>Hib (PRP-OMP)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>71</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>48</value>
+        <label>Hib (PRP-T)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>71</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>17</value>
+        <label>Hib, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870101</not-before>
+            <not-expected-before>19870101</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>71</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>51</value>
+        <label>Hib-Hep B</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960101</not-before>
+            <not-expected-before>19960101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>71</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>61</value>
+        <label>HIV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>19700101</not-before>
+            <not-expected-before>19700101</not-expected-before>
+            <not-expected-after>19700101</not-expected-after>
+            <not-after>19700101</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>118</value>
+        <label>HPV, bivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HPV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100101</not-before>
+            <not-expected-before>20100101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>108</not-before-month>
+            <not-after-month>324</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>62</value>
+        <label>HPV, quadrivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HPV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>108</not-before-month>
+            <not-after-month>324</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>137</value>
+        <label>HPV, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HPV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060101</not-before>
+            <not-expected-before>20060101</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>108</not-before-month>
+            <not-after-month>324</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>86</value>
+        <label>IG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>14</value>
+        <label>IG, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>87</value>
+        <label>IGIV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>151</value>
+        <label>Influenza nasal, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130128</not-before>
+            <not-expected-before>20130128</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>600</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>123</value>
+        <label>influenza, H5N1-1203</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">H5N1 flu</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>135</value>
+        <label>Influenza, high dose seasonal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>153</value>
+        <label>Influenza, injectable, MDCK, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130717</not-before>
+            <not-expected-before>20130717</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>216</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>158</value>
+        <label>Influenza, injectable, quadrivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20130820</not-before>
+            <not-expected-before>20130820</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>150</value>
+        <label>Influenza, injectable, quadrivalent, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130103</not-before>
+            <not-expected-before>20130717</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>111</value>
+        <label>Influenza, live, intranasal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130103</not-before>
+            <not-expected-before>20130103</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>600</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>149</value>
+        <label>influenza, live, intranasal, quadrivalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130103</not-before>
+            <not-expected-before>20130101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>600</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>155</value>
+        <label>Influenza, recombinant, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130717</not-before>
+            <not-expected-before>20130717</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>216</not-before-month>
+            <not-after-month>600</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>141</value>
+        <label>Influenza, seasonal, injectable</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>19450101</not-before>
+            <not-expected-before>19450101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>140</value>
+        <label>Influenza, seasonal, injectable, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>144</value>
+        <label>Influenza, seasonal, intradermal, preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>15</value>
+        <label>Influenza, split (incl. purified surface antigen)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>88</value>
+        <label>Influenza, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>19450101</not-before>
+            <not-expected-before>19450101</not-expected-before>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>16</value>
+        <label>Influenza, whole</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <use-date>
+            <not-before>19450101</not-before>
+            <not-expected-before>19450101</not-expected-before>
+            <not-expected-after>20031231</not-expected-after>
+            <not-after>20031231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>10</value>
+        <label>IPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>19870101</not-before>
+            <not-expected-before>19870101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>134</value>
+        <label>Japanese Encephalitis IM</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Japanese encephalitis</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>39</value>
+        <label>Japanese encephalitis SC</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Japanese encephalitis</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>12</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>129</value>
+        <label>Japanese Encephalitis, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Japanese encephalitis</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>63</value>
+        <label>Junin virus</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>64</value>
+        <label>leishmaniasis</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>65</value>
+        <label>leprosy</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>66</value>
+        <label>Lyme disease</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Lyme disease</link-to>
+        </reference>
+        <use-date>
+            <not-before>19980101</not-before>
+            <not-expected-before>19980101</not-expected-before>
+            <not-expected-after>20021231</not-expected-after>
+            <not-after>20021231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>67</value>
+        <label>malaria</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>05</value>
+        <label>measles</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MEASLES</link-to>
+        </reference>
+        <use-date>
+            <not-before>19630101</not-before>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>04</value>
+        <label>Measles and Rubella</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MEASLES</link-to>
+            <link-to codeset="VACCINE_GROUP">RUBELLA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-before>19710101</not-expected-before>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>68</value>
+        <label>melanoma</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>103</value>
+        <label>meningococcal C conjugate</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>foreign vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>148</value>
+        <label>Meningococcal C/Y-HIB PRP</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HIB</link-to>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120101</not-before>
+            <not-expected-before>20120614</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>18</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>147</value>
+        <label>meningococcal MCV4, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>136</value>
+        <label>Meningococcal MCV4O</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>672</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>114</value>
+        <label>meningococcal MCV4P</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>9</not-before-month>
+            <not-after-month>672</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>32</value>
+        <label>meningococcal MPSV4</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>108</value>
+        <label>meningococcal, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>03</value>
+        <label>MMR</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MMR</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>12</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>94</value>
+        <label>MMRV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MMR</link-to>
+            <link-to codeset="VACCINE_GROUP">VARICELLA</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>12</not-before-month>
+            <not-after-month>156</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>07</value>
+        <label>mumps</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MUMPS</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>998</value>
+        <label>no vaccine administered</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>127</value>
+        <label>Novel influenza-H1N1-09</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">H1N1 flu</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100828</not-expected-after>
+            <not-after>20100828</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>128</value>
+        <label>Novel Influenza-H1N1-09, all formulations</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">H1N1 flu</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>125</value>
+        <label>Novel Influenza-H1N1-09, nasal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">H1N1 flu</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100828</not-expected-after>
+            <not-after>20100828</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>126</value>
+        <label>Novel influenza-H1N1-09, preservative-free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">H1N1 flu</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100828</not-expected-after>
+            <not-after>20100828</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>02</value>
+        <label>OPV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-before>19630101</not-before>
+            <not-expected-after>20100528</not-expected-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>69</value>
+        <label>parainfluenza-3</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>11</value>
+        <label>pertussis</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>23</value>
+        <label>plague</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>133</value>
+        <label>Pneumococcal conjugate PCV 13</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPCV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100224</not-before>
+            <not-expected-before>20100310</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>71</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>100</value>
+        <label>pneumococcal conjugate PCV 7</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPCV</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100224</not-expected-after>
+            <not-after>20111231</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>152</value>
+        <label>Pneumococcal Conjugate, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPCV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130128</not-before>
+            <not-expected-before>20130128</not-expected-before>
+            <not-expected-after>20130128</not-expected-after>
+            <not-after>20130128</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>33</value>
+        <label>pneumococcal polysaccharide PPV23</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPPV</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>109</value>
+        <label>pneumococcal, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>2</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>89</value>
+        <label>polio, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>70</value>
+        <label>Q fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>40</value>
+        <label>rabies, intradermal injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RABIES</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>18</value>
+        <label>rabies, intramuscular injection</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RABIES</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>90</value>
+        <label>rabies, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RABIES</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>99</value>
+        <label>RESERVED - do not use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>72</value>
+        <label>rheumatic fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>157</value>
+        <label>Rho(D) -IG IM</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20130813</not-before>
+            <not-expected-before>20130813</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>159</value>
+        <label>Rho(D) Unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>19680529</not-before>
+            <not-expected-before>19680529</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>240</not-before-month>
+            <not-after-month>720</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>156</value>
+        <label>Rho(D)-IG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20130726</not-before>
+            <not-expected-before>20130726</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>73</value>
+        <label>Rift Valley fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>never active</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>34</value>
+        <label>RIG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>119</value>
+        <label>rotavirus, monovalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ROTAVIRUS</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>6</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>116</value>
+        <label>rotavirus, pentavalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ROTAVIRUS</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>8</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>74</value>
+        <label>rotavirus, tetravalent</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ROTAVIRUS</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>122</value>
+        <label>rotavirus, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ROTAVIRUS</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>71</value>
+        <label>RSV-IGIV</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">IG</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>93</value>
+        <label>RSV-MAb</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>145</value>
+        <label>RSV-Mab (new)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20110831</not-before>
+            <not-expected-before>20110831</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>06</value>
+        <label>rubella</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RUBELLA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>38</value>
+        <label>rubella/mumps</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MUMPS</link-to>
+            <link-to codeset="VACCINE_GROUP">RUBELLA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>76</value>
+        <label>Staphylococcus bacterio lysate</label>
+        <description></description>
+        <code-status>
+            <status>Invalid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>138</value>
+        <label>Td (adult)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>113</value>
+        <label>Td (adult) preservative free</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>09</value>
+        <label>Td (adult), adsorbed</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>139</value>
+        <label>Td(adult) unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>115</value>
+        <label>Tdap</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050101</not-before>
+            <not-expected-before>20050101</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>120</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>35</value>
+        <label>tetanus toxoid, adsorbed</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>142</value>
+        <label>tetanus toxoid, not adsorbed</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>112</value>
+        <label>tetanus toxoid, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>84</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>77</value>
+        <label>tick-borne encephalitis</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>13</value>
+        <label>TIG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>98</value>
+        <label>TST, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>95</value>
+        <label>TST-OT tine test</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>96</value>
+        <label>TST-PPD intradermal</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>97</value>
+        <label>TST-PPD tine test</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>78</value>
+        <label>tularemia vaccine</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>25</value>
+        <label>typhoid, oral</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">TYPHOID</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>72</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>41</value>
+        <label>typhoid, parenteral</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">TYPHOID</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>53</value>
+        <label>typhoid, parenteral, AKD (U.S. military)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">TYPHOID</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>91</value>
+        <label>typhoid, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">TYPHOID</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>101</value>
+        <label>typhoid, ViCPs</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">TYPHOID</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>131</value>
+        <label>typhus, historical</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>24</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>999</value>
+        <label>unknown</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>75</value>
+        <label>vaccinia (smallpox)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VACCINIA</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>105</value>
+        <label>vaccinia (smallpox) diluted</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VACCINIA</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>79</value>
+        <label>vaccinia immune globulin</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>21</value>
+        <label>varicella</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VARICELLA</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>12</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>81</value>
+        <label>VEE, inactivated</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VEE</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>80</value>
+        <label>VEE, live</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VEE</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>92</value>
+        <label>VEE, unspecified formulation</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VEE</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100930</not-expected-after>
+            <not-after>20100930</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>36</value>
+        <label>VZIG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date/>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>117</value>
+        <label>VZIG (IND)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>non vaccine</concept-type>
+        <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>37</value>
+        <label>yellow fever</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">YELLOWFEVER</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>9</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>121</value>
+        <label>zoster</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ZOSTER</link-to>
+        </reference>
+        <use-date/>
+        <use-age>
+            <not-before-month>600</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+</codeset>

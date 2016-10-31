@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>Vaccination VIS Doc Type</label>
+    <type>VACCINATION_VIS_DOC_TYPE</type>
+    <code>
+        <value>253088698300001111110714</value>
+        <label>Adnovirus VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300002811100310</value>
+        <label>Antrx VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300006611981216</value>
+        <label>Haemophilus Influenzae type b VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300005911120202</value>
+        <label>Hepatitis B VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300004211111025</value>
+        <label>Hepatits A VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300007311110503</value>
+        <label>Human papillomavirus (Cervarix) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300008011120222</value>
+        <label>Human papillomavirus (Gardasil) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300010311120702</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300009711120702</value>
+        <label>Influenza Vaccine - Live, Intranasal VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300011011111207</value>
+        <label>Japanese Encephalitis VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300012711120420</value>
+        <label>Measles/Mumps/Rubella VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300013411100521</value>
+        <label>Measles/Mumps/Rubella/Varicella VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300014111111014</value>
+        <label>Meningococcal VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300015811100416</value>
+        <label>Pneumococcal Conjugate (PCV13) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300016511091006</value>
+        <label>Pneumococcal Polysaccharide VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300017211111108</value>
+        <label>Polio VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300018911091006</value>
+        <label>Rabies VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300020211091006</value>
+        <label>Shingles VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300022611120124</value>
+        <label>Tetanus/Diphtheria/(Pertussis) VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>253088698300023311120529</value>
+        <label>Typhoid VIS</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+</codeset>
