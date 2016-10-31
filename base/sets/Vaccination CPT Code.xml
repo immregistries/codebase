@@ -9,6 +9,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">54</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90477</value>
@@ -17,6 +21,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">55</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90581</value>
@@ -25,6 +33,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90585</value>
@@ -33,6 +45,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+        </reference>
+        <use-date>
+            <not-before>19890621</not-before>
+        </use-date>
     </code>
     <code>
         <value>90728</value>
@@ -41,6 +59,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90287</value>
@@ -49,6 +74,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">27</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90725</value>
@@ -57,6 +86,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">26</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90291</value>
@@ -65,6 +98,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">29</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90296</value>
@@ -73,6 +110,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">12</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90702</value>
@@ -81,6 +122,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">28</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90700</value>
@@ -89,6 +134,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+        </reference>
+        <use-date>
+            <not-before>19400101</not-before>
+            <not-expected-before>19400101</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90700</value>
@@ -97,6 +149,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90723</value>
@@ -105,6 +161,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">110</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90721</value>
@@ -113,6 +173,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">50</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90698</value>
@@ -121,6 +185,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90696</value>
@@ -129,6 +197,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90701</value>
@@ -137,6 +209,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19490101</not-before>
+            <not-expected-before>19490101</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90720</value>
@@ -145,6 +224,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">22</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90371</value>
@@ -153,6 +236,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">30</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90632</value>
@@ -161,6 +248,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90633</value>
@@ -169,6 +260,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90634</value>
@@ -177,6 +272,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">84</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90730</value>
@@ -185,6 +284,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">85</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90636</value>
@@ -193,6 +299,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90744</value>
@@ -201,6 +311,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90745</value>
@@ -209,6 +323,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">42</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90743</value>
@@ -217,6 +338,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90746</value>
@@ -225,6 +350,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90740</value>
@@ -233,6 +362,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90747</value>
@@ -241,6 +374,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90731</value>
@@ -249,6 +386,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">45</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90645</value>
@@ -257,6 +401,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">47</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90646</value>
@@ -265,6 +413,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">46</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90647</value>
@@ -273,6 +425,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">49</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90648</value>
@@ -281,6 +437,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90737</value>
@@ -289,6 +449,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">17</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90748</value>
@@ -297,6 +464,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110420</not-before>
+            <not-expected-before>20110420</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90650</value>
@@ -305,6 +479,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">118</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90649</value>
@@ -313,6 +491,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">62</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90281</value>
@@ -321,6 +503,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">86</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90741</value>
@@ -329,6 +515,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">14</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90283</value>
@@ -337,6 +530,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">87</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90673</value>
@@ -345,6 +542,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90672</value>
@@ -353,6 +554,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90685</value>
@@ -361,6 +566,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90686</value>
@@ -369,6 +578,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90662</value>
@@ -377,6 +590,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90661</value>
@@ -385,6 +602,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130717</not-before>
+            <not-expected-before>20130717</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90668</value>
@@ -393,6 +617,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130820</not-before>
+            <not-expected-before>20130820</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90660</value>
@@ -401,6 +632,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90673</value>
@@ -409,6 +644,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130717</not-before>
+            <not-expected-before>20130717</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90657</value>
@@ -417,6 +659,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90658</value>
@@ -425,6 +671,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90654</value>
@@ -433,6 +683,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">144</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90655</value>
@@ -441,6 +695,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90656</value>
@@ -449,6 +707,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90724</value>
@@ -457,6 +719,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">88</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90659</value>
@@ -465,6 +734,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">16</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90713</value>
@@ -473,6 +749,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90738</value>
@@ -481,6 +761,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90735</value>
@@ -489,6 +773,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">39</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90665</value>
@@ -497,6 +785,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">66</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90708</value>
@@ -505,6 +797,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">04</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90705</value>
@@ -513,6 +809,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">05</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90644</value>
@@ -521,6 +821,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">148</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90734</value>
@@ -529,6 +833,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90734</value>
@@ -537,6 +845,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">114</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90733</value>
@@ -545,6 +857,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90707</value>
@@ -553,6 +869,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90710</value>
@@ -561,6 +881,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">94</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90704</value>
@@ -569,6 +893,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">07</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90668</value>
@@ -577,6 +905,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
     </code>
     <code>
         <value>90470</value>
@@ -585,6 +920,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">128</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
     </code>
     <code>
         <value>90663</value>
@@ -593,6 +935,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">128</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
     </code>
     <code>
         <value>90664</value>
@@ -601,6 +950,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">125</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
     </code>
     <code>
         <value>90666</value>
@@ -609,6 +965,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20100831</not-expected-after>
+            <not-after>20100831</not-after>
+        </use-date>
     </code>
     <code>
         <value>90712</value>
@@ -617,6 +980,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">02</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90727</value>
@@ -625,6 +992,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">23</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90670</value>
@@ -633,6 +1004,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90669</value>
@@ -641,6 +1016,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">100</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90732</value>
@@ -649,6 +1028,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90676</value>
@@ -657,6 +1040,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">40</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90675</value>
@@ -665,6 +1052,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90726</value>
@@ -673,6 +1064,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20110317</not-expected-after>
+            <not-after>20110317</not-after>
+        </use-date>
     </code>
     <code>
         <value>90375</value>
@@ -681,6 +1079,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">34</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90376</value>
@@ -689,6 +1091,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">34</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90681</value>
@@ -697,6 +1103,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">119</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90680</value>
@@ -705,6 +1115,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90379</value>
@@ -713,6 +1127,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">71</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90378</value>
@@ -721,6 +1139,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">93</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90706</value>
@@ -729,6 +1151,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">06</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90714</value>
@@ -737,6 +1163,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+        </reference>
+        <use-date>
+            <not-before>20040324</not-before>
+            <not-expected-before>20040324</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90718</value>
@@ -745,6 +1178,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700101</not-before>
+            <not-expected-before>19700101</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>90715</value>
@@ -753,6 +1193,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90703</value>
@@ -761,6 +1205,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">35</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90389</value>
@@ -769,6 +1217,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">13</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90690</value>
@@ -777,6 +1229,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">25</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90692</value>
@@ -785,6 +1241,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">41</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90693</value>
@@ -793,6 +1253,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">53</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90714</value>
@@ -801,6 +1265,13 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">91</link-to>
+        </reference>
+        <use-date>
+            <not-expected-after>20050101</not-expected-after>
+            <not-after>20050101</not-after>
+        </use-date>
     </code>
     <code>
         <value>90691</value>
@@ -809,6 +1280,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90393</value>
@@ -817,6 +1292,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">79</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90716</value>
@@ -825,6 +1304,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">21</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90396</value>
@@ -833,6 +1316,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">36</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90717</value>
@@ -841,6 +1328,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
+        </reference>
+        <use-date/>
     </code>
     <code>
         <value>90736</value>
@@ -849,5 +1340,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
+        </reference>
+        <use-date/>
     </code>
 </codeset>

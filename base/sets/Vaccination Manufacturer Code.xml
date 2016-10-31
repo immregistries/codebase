@@ -9,6 +9,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>ACA</value>
@@ -17,6 +18,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>AD</value>
@@ -25,6 +30,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>AKR</value>
@@ -33,6 +39,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>ALP</value>
@@ -41,6 +48,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>AR</value>
@@ -49,6 +57,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>AVB</value>
@@ -57,6 +69,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>AVI</value>
@@ -65,6 +81,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>BRR</value>
@@ -73,6 +93,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>BAH</value>
@@ -81,6 +102,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>BA</value>
@@ -89,6 +111,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>BAY</value>
@@ -97,6 +123,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>BP</value>
@@ -105,6 +135,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>BPC</value>
@@ -113,6 +147,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>BTP</value>
@@ -121,6 +156,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>CNJ</value>
@@ -129,6 +165,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>CMP</value>
@@ -137,6 +174,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>CEN</value>
@@ -145,6 +186,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>CHI</value>
@@ -153,6 +198,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>CON</value>
@@ -161,6 +210,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>CSL</value>
@@ -169,6 +222,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>DVC</value>
@@ -177,6 +231,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>MIP</value>
@@ -185,6 +240,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>EVN</value>
@@ -193,6 +249,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>GEO</value>
@@ -201,6 +261,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>SKB</value>
@@ -209,6 +270,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>GRE</value>
@@ -217,6 +279,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>IAG</value>
@@ -225,6 +288,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>IUS</value>
@@ -233,6 +300,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>INT</value>
@@ -241,6 +309,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>JNJ</value>
@@ -249,6 +318,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-before>20120711</not-before>
+            <not-expected-before>20120711</not-expected-before>
+        </use-date>
     </code>
     <code>
         <value>KGC</value>
@@ -257,6 +330,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>LED</value>
@@ -265,6 +339,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>MBL</value>
@@ -273,6 +351,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>MA</value>
@@ -281,6 +360,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>MED</value>
@@ -289,6 +372,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>MSD</value>
@@ -297,6 +381,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>IM</value>
@@ -305,6 +390,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>MIL</value>
@@ -313,6 +402,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>NAB</value>
@@ -321,6 +414,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>NYB</value>
@@ -329,6 +423,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>NAV</value>
@@ -337,6 +432,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>NOV</value>
@@ -345,6 +444,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>NVX</value>
@@ -353,6 +453,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>OTC</value>
@@ -361,6 +462,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>ORT</value>
@@ -369,6 +471,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>OTH</value>
@@ -377,6 +480,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>PD</value>
@@ -385,6 +489,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>PFR</value>
@@ -393,6 +501,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>PWJ</value>
@@ -401,6 +510,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>PRX</value>
@@ -409,6 +522,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>PSC</value>
@@ -417,6 +534,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>PMC</value>
@@ -425,6 +543,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>SCL</value>
@@ -433,6 +552,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>SOL</value>
@@ -441,6 +561,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>SI</value>
@@ -449,6 +573,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>TAL</value>
@@ -457,6 +585,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>JPN</value>
@@ -465,6 +594,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>USA</value>
@@ -473,6 +603,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>UNK</value>
@@ -481,6 +612,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>VXG</value>
@@ -489,6 +621,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>WAL</value>
@@ -497,6 +633,7 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date/>
     </code>
     <code>
         <value>WA</value>
@@ -505,6 +642,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
     <code>
         <value>ZLB</value>
@@ -513,5 +654,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <use-date>
+            <not-expected-after>20100528</not-expected-after>
+            <not-after>20100528</not-after>
+        </use-date>
     </code>
 </codeset>
