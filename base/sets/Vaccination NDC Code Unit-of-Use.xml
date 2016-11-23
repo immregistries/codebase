@@ -1,0 +1,3380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+    <label>VACCINATION_NDC_CODE_UNIT_OF_USE</label>
+    <code>
+        <value>49281-0589-58</value>
+        <label>Menactra</label>
+        <description>Sanofi Pasteur Inc. - NEISSERIA MENINGITIDIS GROUP A CAPSULAR POLYSACCHARIDE DIPHTHERIA TOXOID CONJUGATE ANTIGEN, NEISSERI</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">114</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0589-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050114</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0623-78</value>
+        <label>FLUZONE QUADRIVALENT</label>
+        <description>Sanofi Pasteur Inc. - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0623-15</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-0515-00</value>
+        <label>Fluzone Quadrivalent, peds</label>
+        <description>Sanofi Pasteur Inc. - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0515-25</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-0415-88</value>
+        <label>Fluzone Quadrivalent PF</label>
+        <description>Sanofi Pasteur - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0415-50</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-0415-58</value>
+        <label>FLUZONE QUADRIVALENT PF</label>
+        <description>SANOFI PASTEUR - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0415-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>33332-0115-11</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0115-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>33332-0015-02</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0015-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66019-0302-01</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0302-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>42874-0015-01</value>
+        <label>Flublok</label>
+        <description>Protein Sciences Corporation - influenza virus vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0015-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66521-0118-12</value>
+        <label>Fluvirin</label>
+        <description>Novartis - INFLUENZA  VIRUS</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0118-02</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66521-0118-11</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - Influenza Virus Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0118-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>58160-0883-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0883-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0000-11</value>
+        <label>Fluad</label>
+        <description>Novartis - TRIVALENT INFLUENZA WITH ADJUVANT 2015/2016</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>69401-0000-01</value>
+        <label>Vivotif</label>
+        <description>PaxVax Berna GmbH - SALMONELLA TYPHI TY21A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">25</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CRU</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">69401-0000-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19920316</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0547-58</value>
+        <label>ACTHIB</label>
+        <description>Sanofi Pasteur Inc. - HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0545-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0545-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>19930330</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-0200-11</value>
+        <label>Flucelvax, quadrivalent</label>
+        <description>Seqirus - influenza, MDCK, quadrivalent</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>70460-0002-02</value>
+        <label>VAXCHORA</label>
+        <description>PAXVAX - CHOLERA, LIVE ATTENUATED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66019-0301-01</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0301-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0014-02</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0014-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110715</not-before>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0114-11</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0114-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110715</not-before>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>63851-0613-11</value>
+        <label>Flucelvax</label>
+        <description>Novartis Vaccines and Diagnostics GmbH - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0613-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66521-0117-11</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0117-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66521-0117-12</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0117-02</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>00006-4093-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4093-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4093-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4094-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4094-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4094-09</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4095-01</value>
+        <label>VAQTA</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS A VACCINE, INACTIVATED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4095-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4095-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960329</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4096-01</value>
+        <label>VAQTA</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS A VACCINE, INACTIVATED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4096-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4096-09</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960329</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4963-01</value>
+        <label>ZOSTAVAX</label>
+        <description>Merck Sharp &amp; Dohme Corp. - ZOSTER VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4963-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4963-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060525</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>42874-0014-01</value>
+        <label>Flublok</label>
+        <description>Protien Sciences Corporation - influenza virus vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0014-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-0414-88</value>
+        <label>Fluzone Quadrivalent PF</label>
+        <description>Sanofi Pasteur - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0414-50</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0395-88</value>
+        <label>Fluzone HD</label>
+        <description>Sanofi Pasteur Inc. - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0395-65</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0709-48</value>
+        <label>FLUZONE Intradermal</label>
+        <description>Sanofi Pasteur Inc. - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">144</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0709-55</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0881-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0881-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140627</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0809-01</value>
+        <label>MENHIBRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - MENINGOCOCCAL GROUPS C AND Y AND HAEMOPHILUS B TETANUS TOXOID CONJUGATE VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">148</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0809-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0801-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130903</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>62577-0613-11</value>
+        <label>Flucelvax</label>
+        <description>Novartis Vaccines and Diagnostics, Inc. - INFLUENZA A VIRUS A/BRISBANE/10/2010 (H1N1) ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED),</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62577-0613-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62577-0613-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0893-02</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0893-07</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0893-07</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0621-78</value>
+        <label>FLUZONE QUADRIVALENT</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0621-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140627</not-before>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00005-0100-01</value>
+        <label>Trumenba</label>
+        <description>Pfizer - Meningococcal B, recombinant</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">162</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>00006-4047-01</value>
+        <label>RotaTeq</label>
+        <description>Merck Sharp &amp; Dohme Corp. - ROTAVIRUS VACCINE, LIVE, ORAL, PENTAVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-20</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060203</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4109-01</value>
+        <label>GARDASIL</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HUMAN PAPILLOMAVIRUS QUADRIVALENT (TYPES 6, 11, 16, AND 18) VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">62</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4109-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4109-09</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060608</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4121-01</value>
+        <label>GARDASIL 9</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">165</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4121-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141210</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4119-01</value>
+        <label>GARDASIL 9</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">165</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4119-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4119-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141210</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>63851-0511-11</value>
+        <label>RabAvert</label>
+        <description>Novartis Vaccines and Diagnostics GmbH - RABIES VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19971020</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0562-58</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur, Inc. - DTAP, IPV</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0562-10</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>46028-0114-11</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150123</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4171-01</value>
+        <label>ProQuad</label>
+        <description>Merck Sharp &amp; Dohme Corp. - MEASLES, MUMPS, RUBELLA AND VARICELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">94</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4171-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>13533-0131-00</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Grifols - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">AKR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">13533-0131-01</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">13533-0131-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0396-78</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0396-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150626</not-before>
+            <not-after>20160630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0397-88</value>
+        <label>FLUZONE High-Dose</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0397-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150626</not-before>
+            <not-after>20160630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>62577-0614-11</value>
+        <label>Flucelvax</label>
+        <description>Novartis Vaccines and Diagnostics, Inc. - INFLUENZA A VIRUS A/BRISBANE/10/2010 (H1N1) ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED),</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62577-0614-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0903-41</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0903-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0898-01</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0898-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0901-41</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0901-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0393-88</value>
+        <label>FLUZONE High-Dose</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0393-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0810-43</value>
+        <label>INFANRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0810-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0810-01</value>
+        <label>INFANRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0810-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0790-38</value>
+        <label>Typhim Vi</label>
+        <description>Sanofi Pasteur Inc. - SALMONELLA TYPHI TY2 VI POLYSACCHARIDE ANTIGEN</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0790-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>19941128</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0790-88</value>
+        <label>Typhim Vi</label>
+        <description>Sanofi Pasteur Inc. - SALMONELLA TYPHI TY2 VI POLYSACCHARIDE ANTIGEN</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0790-20</link-to>
+        </reference>
+        <use-date>
+            <not-before>19941128</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0640-15</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0640-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0650-10</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0650-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0650-90</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0650-90</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0650-25</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0650-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0650-70</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0650-70</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0650-50</value>
+        <label>INFLUENZA A (H1N1) 2009 MONOVALENT VACCINE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0650-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0707-48</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">144</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0707-55</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0110-01</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0110-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120801</not-before>
+            <not-after>20130718</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4681-01</value>
+        <label>M-M-R II</label>
+        <description>Merck Sharp &amp; Dohme Corp. - MEASLES, MUMPS, AND RUBELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4681-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19710421</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0215-58</value>
+        <label>TENIVAC</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0215-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20101208</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0215-88</value>
+        <label>TENIVAC</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0215-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20101208</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>46028-0218-11</value>
+        <label>Meningococcal (Groups A) CRM197 Oligosaccharide Co</label>
+        <description>Novartis Vaccines and Diagnostics s.r.l. - MENA VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0208-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100219</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0387-65</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0387-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0386-15</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0386-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0010-10</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0010-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0010-25</value>
+        <label>Fluzone</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED),</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0010-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0010-50</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0010-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-0980-00</value>
+        <label>M-M-R II</label>
+        <description>Physicians Total Care, Inc. - MEASLES, MUMPS, AND RUBELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-0980-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960807</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0830-43</value>
+        <label>CERVARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HUMAN PAPILLOMAVIRUS BIVALENT (TYPES 16 AND 18) VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">118</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0830-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091016</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0830-05</value>
+        <label>CERVARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HUMAN PAPILLOMAVIRUS BIVALENT (TYPES 16 AND 18) VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">118</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0830-34</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091016</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00005-1971-01</value>
+        <label>PREVNAR 13</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings Co - PNEUMOCOCCAL 13-VALENT CONJUGATE VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100312</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>17478-0131-00</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Akorn, Inc. - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">17478-0131-01</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">AKR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">17478-0131-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700727</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0812-43</value>
+        <label>KINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED AND INACTIVATED POLIOVIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0812-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080709</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0812-01</value>
+        <label>KINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED AND INACTIVATED POLIOVIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0812-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080709</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0108-01</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0108-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100722</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4898-01</value>
+        <label>COMVAX</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HAEMOPHILUS B CONJUGATE (MENINGOCOCCAL PROTEIN CONJUGATE) AND HEPATITIS B (RECOMBINANT) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">51</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4898-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19961002</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>63851-0612-11</value>
+        <label>Flucelvax</label>
+        <description>Novartis Vaccines and Diagnostics GmbH - INFLUENZA A VIRUS A/BRISBANE/10/2010 (H1N1) ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED),</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0612-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130830</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4992-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4992-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4981-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4981-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4980-00</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4980-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+            <not-after>20080919</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0112-02</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0112-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>19880812</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0112-10</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0112-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>19880812</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0107-01</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0107-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090717</not-before>
+            <not-after>20100419</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0225-58</value>
+        <label>DIPHTHERIA AND TETANUS TOXOIDS ADSORBED</label>
+        <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CLOSTRIDIUM TETANI TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">28</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0225-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100329</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0705-55</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">144</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0705-55</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100723</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>42515-0001-00</value>
+        <label>IXIARO</label>
+        <description>Intercell Biomedical Limited - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">INT</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0001-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090330</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0879-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0879-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120720</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0880-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0880-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130701</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0820-01</value>
+        <label>ENGERIX-B</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0820-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070425</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0820-43</value>
+        <label>ENGERIX-B</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">08</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0820-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070425</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0821-01</value>
+        <label>ENGERIX-B</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070328</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0821-43</value>
+        <label>ENGERIX-B</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070328</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0821-05</value>
+        <label>ENGERIX-B</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-34</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070328</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>42874-0012-01</value>
+        <label>Flublok</label>
+        <description>Protein Sciences Corporation - INFLUENZA VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0012-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0278-10</value>
+        <label>DIPHTHERIA AND TETANUS TOXOIDS ADSORBED</label>
+        <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CLOSTRIDIUM TETANI TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">28</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0278-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>19840918</not-before>
+            <not-after>20130318</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0109-01</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0109-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110630</not-before>
+            <not-after>20120719</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0890-02</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0890-07</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130701</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0889-02</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0889-07</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120720</not-before>
+            <not-after>20130701</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0900-41</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0900-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130701</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0860-78</value>
+        <label>IPOL</label>
+        <description>Sanofi Pasteur Inc. - POLIOVIRUS TYPE 1 ANTIGEN (FORMALDEHYDE INACTIVATED), POLIOVIRUS TYPE 2 ANTIGEN (FORMALDEHYDE INACTI</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0860-55</link-to>
+        </reference>
+        <use-date>
+            <not-before>19901221</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0860-88</value>
+        <label>IPOL</label>
+        <description>Sanofi Pasteur Inc. - POLIOVIRUS TYPE 1 ANTIGEN (FORMALDEHYDE INACTIVATED), POLIOVIRUS TYPE 2 ANTIGEN (FORMALDEHYDE INACTI</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0860-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>19901221</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0389-65</value>
+        <label>FLUZONE High-Dose</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0389-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0388-15</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0388-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0011-10</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0011-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0011-50</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0011-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0703-55</value>
+        <label>FLUZONE Intradermal</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">144</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0703-55</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0111-25</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0111-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100723</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0200-10</value>
+        <label>Influenza A (H1N1) 2009 Monovalent Vaccine</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - Influenza A (H1N1) 2009 Monovalent Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0200-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0200-02</value>
+        <label>Influenza A (H1N1) 2009 Monovalent Vaccine</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - Influenza A (H1N1) 2009 Monovalent Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0200-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0298-10</value>
+        <label>TRIPEDIA</label>
+        <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CLOSTRIDIUM TETANI TOXOID ANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0298-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>19920820</not-before>
+            <not-after>20130313</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0806-01</value>
+        <label>HIBERIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HAEMOPHILUS B CONJUGATE VACCINE (TETANUS TOXOID CONJUGATE)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0806-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090824</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0013-02</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0013-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110715</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0113-11</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0113-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110715</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0391-65</value>
+        <label>FLUZONE High-Dose</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0391-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0012-50</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0012-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120702</not-before>
+            <not-after>20130630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0012-10</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0012-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100723</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0112-25</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0112-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100723</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0390-15</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0390-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4897-01</value>
+        <label>PedvaxHIB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HAEMOPHILUS B CONJUGATE VACCINE (MENINGOCOCCAL PROTEIN CONJUGATE)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">49</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4897-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19891220</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0291-83</value>
+        <label>DECAVAC</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0291-83</link-to>
+        </reference>
+        <use-date>
+            <not-before>20040324</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0291-10</value>
+        <label>DECAVAC</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0291-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20040324</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0413-88</value>
+        <label>FLUZONE QUADRIVALENT</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0413-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130610</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0413-58</value>
+        <label>FLUZONE QUADRIVALENT</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0413-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130610</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0513-00</value>
+        <label>FLUZONE QUADRIVALENT</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0513-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130610</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0113-02</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - Influenza Virus Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0113-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>19980812</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0113-10</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics Limited - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0113-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120720</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00005-1970-49</value>
+        <label>Prevnar</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings Co - PNEUMOCOCCAL 7-VALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">100</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1970-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20000301</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0811-43</value>
+        <label>PEDIARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">110</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0811-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0811-41</value>
+        <label>PEDIARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">110</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0811-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4827-01</value>
+        <label>VARIVAX</label>
+        <description>Merck Sharp &amp; Dohme Corp. - VARICELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">21</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4827-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950317</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4826-01</value>
+        <label>VARIVAX</label>
+        <description>Merck Sharp &amp; Dohme Corp. - VARICELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">21</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4826-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19950317</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0842-41</value>
+        <label>BOOSTRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - TETANUS TOXOID, REDUCED DIPHTHERIA TOXOID AND ACELLULAR PERTUSSIS VACCINE, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0842-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0842-01</value>
+        <label>BOOSTRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - TETANUS TOXOID, REDUCED DIPHTHERIA TOXOID AND ACELLULAR PERTUSSIS VACCINE, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0842-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0842-43</value>
+        <label>BOOSTRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - TETANUS TOXOID, REDUCED DIPHTHERIA TOXOID AND ACELLULAR PERTUSSIS VACCINE, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0842-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0842-05</value>
+        <label>BOOSTRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - TETANUS TOXOID, REDUCED DIPHTHERIA TOXOID AND ACELLULAR PERTUSSIS VACCINE, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0842-34</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090724</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0300-01</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0300-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130715</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4831-01</value>
+        <label>VAQTA</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS A VACCINE, INACTIVATED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4831-41</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960329</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-0200-01</value>
+        <label>Influenza A H1N1 2009 Monovalent Vaccine Live Intr</label>
+        <description>MedImmune, LLC - INFLUENZA A H1N1 2009 MONOVALENT VACCINE LIVE INTRANASAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">125</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0200-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091001</not-before>
+            <not-after>20100413</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>14362-0111-03</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>MassBiologics - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">14362-0111-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700727</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0519-01</value>
+        <label>Influenza A</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0519-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090701</not-before>
+            <not-after>20100630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0519-25</value>
+        <label>Influenza A</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0519-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090701</not-before>
+            <not-after>20100630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0629-10</value>
+        <label>Influenza A</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0629-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090701</not-before>
+            <not-after>20100630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0825-43</value>
+        <label>HAVRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0825-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070216</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0825-01</value>
+        <label>HAVRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0825-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070216</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0826-43</value>
+        <label>HAVRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0826-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070413</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0826-05</value>
+        <label>HAVRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0826-34</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070413</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0826-01</value>
+        <label>HAVRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0826-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070413</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0010-01</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0010-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100730</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-0110-10</value>
+        <label>AFLURIA</label>
+        <description>CSL Limited - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0110-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100730</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0115-10</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - Influenza Virus Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0115-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>19980812</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0115-02</value>
+        <label>Fluvirin</label>
+        <description>Novartis - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0115-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100723</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4133-01</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Merck Sharp &amp; Dohme Corp. - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4133-41</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700727</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-4320-09</value>
+        <label>PNEUMOVAX 23</label>
+        <description>PHYSICIANS TOTAL CARE, INC - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-4320-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060220</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-3339-09</value>
+        <label>PNEUMOVAX 23</label>
+        <description>PHYSICIANS TOTAL CARE, INC - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-3339-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19940920</not-before>
+            <not-after>20090630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00052-0603-01</value>
+        <label>BCG VACCINE</label>
+        <description>Organon Pharmaceuticals USA - BACILLUS CALMETTE-GUERIN SUBSTRAIN TICE LIVE ANTIGEN</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">OTC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00052-0603-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>19890621</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>64678-0211-05</value>
+        <label>BioThrax</label>
+        <description>Emergent BioDefense Operations Lansing, LLC - BACILLUS ANTHRACIS</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">64678-0211-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19701104</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4739-01</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4739-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19830707</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4943-01</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4943-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19830707</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0013-58</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0013-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0013-88</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0013-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0392-78</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0392-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0113-00</value>
+        <label>FLUZONE</label>
+        <description>Sanofi Pasteur Inc. - INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0113-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130628</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0820-10</value>
+        <label>TETANUS TOXOID ADSORBED</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">35</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0820-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050923</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0800-83</value>
+        <label>TETANUS TOXOID ADSORBED</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">35</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0800-83</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050923</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0400-88</value>
+        <label>Adacel</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CORYNEBACTERIUM DIPHTHERIAE TOXOID ANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0400-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20131001</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0286-58</value>
+        <label>DAPTACEL</label>
+        <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CLOSTRIDIUM TETANI TOXOID ANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020514</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0815-41</value>
+        <label>TWINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A AND HEPATITIS B (RECOMBINANT) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-46</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070607</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0815-43</value>
+        <label>TWINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A AND HEPATITIS B (RECOMBINANT) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-48</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070607</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0815-05</value>
+        <label>TWINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A AND HEPATITIS B (RECOMBINANT) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-34</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070607</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0815-01</value>
+        <label>TWINRIX</label>
+        <description>GlaxoSmithKline Biologicals SA - HEPATITIS A AND HEPATITIS B (RECOMBINANT) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070607</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0114-10</value>
+        <label>Fluvirin</label>
+        <description>Novartis Vaccines and Diagnostics Limited - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0114-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120720</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>76420-0482-01</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED),</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0114-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0895-01</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0895-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130815</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4999-01</value>
+        <label>ProQuad</label>
+        <description>Merck Sharp &amp; Dohme Corp. - MEASLES, MUMPS, RUBELLA AND VARICELLA VIRUS VACCINE LIVE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">94</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4999-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20050906</not-before>
+            <not-after>20150731</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0545-15</value>
+        <label>ACTHIB</label>
+        <description>Sanofi Pasteur Inc. - HAEMOPHILUS B CONJUGATE VACCINE (TETANUS TOXOID CONJUGATE)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0510-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080620</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>51285-0174-02</value>
+        <label>Adenovirus Type 4 Vaccine, Live, Oral</label>
+        <description>Teva Women's Health, Inc. - ADENOVIRUS TYPE 4 VACCINE, LIVE, ORAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">51285-0138-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110531</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0248-58</value>
+        <label>IMOVAX RABIES</label>
+        <description>Sanofi Pasteur Inc. - RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0250-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130930</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0487-58</value>
+        <label>MENOMUNE - A/C/Y/W-135 COMBINED</label>
+        <description>Sanofi Pasteur Inc. - NEISSERIA MENINGITIDIS GROUP A CAPSULAR POLYSACCHARIDE ANTIGEN, NEISSERIA MENINGITIDIS GROUP C CAPSU</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0489-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19811123</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0915-58</value>
+        <label>YF-VAX</label>
+        <description>Sanofi Pasteur Inc. - YELLOW FEVER VIRUS LIVE ANTIGEN, A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0915-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19530522</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0851-01</value>
+        <label>ROTARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - ROTAVIRUS VACCINE, LIVE, ORAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">119</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0854-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110113</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0915-68</value>
+        <label>YF-VAX</label>
+        <description>Sanofi Pasteur Inc. - YELLOW FEVER VIRUS LIVE ANTIGEN, A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0915-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>19530522</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0488-78</value>
+        <label>MENOMUNE - A/C/Y/W-135 COMBINED</label>
+        <description>Sanofi Pasteur Inc. - NEISSERIA MENINGITIDIS GROUP A POLYSACCHARIDE ANTIGEN, A, NEISSERIA MENINGITIDIS GROUP C POLYSACCHAR</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0489-91</link-to>
+        </reference>
+        <use-date>
+            <not-before>19811123</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>46028-0219-11</value>
+        <label>Meningococcal (Groups C, Y, W-135) CRM197 Oligosac</label>
+        <description>Novartis Vaccines and Diagnostics s.r.l. - MENC, Y, W-135 VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0208-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100219</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>51285-0175-02</value>
+        <label>Adenovirus Type 7 Vaccine, Live, Oral</label>
+        <description>Teva Women's Health, Inc. - ADENOVIRUS TYPE 7 VACCINE, LIVE, ORAL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">51285-0138-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110531</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0560-05</value>
+        <label>DTAP-IPV</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0510-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080620</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0400-58</value>
+        <label>Adacel</label>
+        <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CORYNEBACTERIUM DIPHTHERIAE TOXOID ANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0400-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0400-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20131001</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>42874-0013-01</value>
+        <label>Flublok</label>
+        <description>Protein Sciences Corporation - INFLUENZA VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0013-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20131101</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0116-11</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - influenza a virus a/christchurch , influenza a virus a/texas   , influenza b virus b/massachusetts</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0116-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130730</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66521-0116-12</value>
+        <label>FLUVIRIN</label>
+        <description>Novartis Vaccines and Diagnostics Ltd - influenza a virus a/christchurch , influenza a virus a/texas   , influenza b virus b/massachusetts</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66521-0116-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130730</not-before>
+            <not-after>20140630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4045-01</value>
+        <label>GARDASIL</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HUMAN PAPILLOMAVIRUS QUADRIVALENT (TYPES 6, 11, 16, AND 18) VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">62</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4045-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4045-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20060608</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4995-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4995-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4995-41</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4841-01</value>
+        <label>VAQTA</label>
+        <description>Merck Sharp &amp; Dohme Corp. - HEPATITIS A VACCINE, INACTIVATED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4841-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4841-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19960329</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-0804-01</value>
+        <label>INFLUENZA (H5N1), adjuvanted</label>
+        <description>GlaxoSmithKline - INFLUENZA (H5N1) MONOVALENT, ADJUVANTED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">160</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0808-15</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>58160-0802-02</value>
+        <label>AS03 Adjuvant</label>
+        <description>GlaxoSmithKline - Adjuvant</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">160</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0808-15</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>58160-0901-41</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0901-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>00006-4837-01</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4837-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140530</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0891-01</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0891-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-0894-41</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - INFLUENZA VIRUS VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0894-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0514-00</value>
+        <label>Fluzone Quadrivalent, Peds</label>
+        <description>Sanofi Pastuer - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0514-25</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0394-78</value>
+        <label>FLUZONE</label>
+        <description>SANOFI PASTEUR - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0394-15</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0014-88</value>
+        <label>FLUZONE</label>
+        <description>SANOFI PASTEUR - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0014-50</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-0414-58</value>
+        <label>FLUZONE QUADRIVALENT PF</label>
+        <description>SANOFI PASTEUR - </description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0414-10</link-to>
+        </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
+    </code>
+</codeset>
