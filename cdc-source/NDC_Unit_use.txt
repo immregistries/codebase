@@ -1,7 +1,3 @@
-635|49281|589|58|Menactra|NEISSERIA MENINGITIDIS GROUP A CAPSULAR POLYSACCHARIDE DIPHTHERIA TOXOID CONJUGATE ANTIGEN, NEISSERI|Sanofi Pasteur Inc.|20050114|||114       |meningococcal MCV4P|False     |49281-0589-58|2015-05-21 00:00:00|00349281589584
-649|49281|623|78|FLUZONE QUADRIVALENT||Sanofi Pasteur Inc.||||158       |influenza, injectable, quadrivalent|False     |49281-0623-78|2015-10-30 00:00:00|00349281623783
-650|49281|515|00|Fluzone Quadrivalent, peds||Sanofi Pasteur Inc.||||161       |Influenza, injectable,quadrivalent, preservative free, pediatric|False     |49281-0515-00|2015-09-22 00:00:00|00349281515002
-651|49281|415|88|Fluzone Quadrivalent PF||Sanofi Pasteur||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0415-88|2015-09-22 00:00:00|00349281415883
 652|49281|415|58|FLUZONE QUADRIVALENT PF||SANOFI PASTEUR||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0415-58|2015-09-22 00:00:00|00349281415586
 653|33332|115|11|AFLURIA|INFLUENZA A VIRUS|CSL Limited||||141       |Influenza, seasonal, injectable|False     |33332-0115-11|2015-09-22 00:00:00|
 654|33332|015|02|AFLURIA|INFLUENZA A VIRUS|CSL Limited||||140       |Influenza, seasonal, injectable, preservative free|False     |33332-0015-02|2015-09-22 00:00:00|
@@ -13,8 +9,62 @@
 661|66521|000|11|Fluad|TRIVALENT INFLUENZA WITH ADJUVANT 2015/2016|Novartis||||168       |influenza, trivalent, adjuvanted|False     |66521-0000-11|2016-04-25 00:00:00|
 660|69401|000|01|Vivotif|SALMONELLA TYPHI TY21A|PaxVax Berna GmbH|19920316|||25        |typhoid, oral|False     |69401-0000-01|2015-10-06 00:00:00|
 515|49281|547|58|ACTHIB|HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN|Sanofi Pasteur Inc.|19930330|||48        |Hib (PRP-T)|False     |49281-0547-58|2015-10-30 00:00:00|00349281547584
-662|70461|200|11|Flucelvax, quadrivalent|influenza, MDCK, quadrivalent|Seqirus||||171       |Influenza, injectable, MDCK, preservative free, quadrivalent|False     |70461-0200-11|2016-06-16 00:00:00|
+662|70461|200|11|Flucelvax, quadrivalent, preservative free|influenza, MDCK, quadrivalent|Seqirus||||171       |Influenza, injectable, MDCK, preservative free, quadrivalent|False     |70461-0200-11|2017-06-27 00:00:00|
 663|70460|002|02|VAXCHORA|CHOLERA, LIVE ATTENUATED|PAXVAX||||174       |cholera, live attenuated|False     |70460-0002-02|2016-06-17 00:00:00|
+632|42515|001|01|IXIARO|JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED|Valneva Scotland Ltd.|20090330|||134       |Japanese Encephalitis IM|False     |42515-0001-01|2016-07-20 00:00:00|
+664|33332|016|02|Afluria|influenza vaccine|Seqirus||||140       |Influenza, seasonal, injectable, preservative free|False     |33332-0016-02|2016-09-06 00:00:00|
+665|33332|116|11|Afluria|influenza vaccine|Seqirus||||141       |Influenza, seasonal, injectable|False     |33332-0116-11|2016-09-06 00:00:00|
+667|70461|614|11|FluceIvax|Influenza vaccine|Seqirus||||153       |Influenza, injectable, MDCK, preservative free|False     |70461-0614-11|2016-07-21 00:00:00|
+668|70461|001|11|Fluad|Influenza vaccine|Seqirus||||168       |influenza, trivalent, adjuvanted|False     |70461-0001-11|2016-07-21 00:00:00|
+669|70461|119|02|Fluvirin|Influenza vaccine|Seqirus||||140       |Influenza, seasonal, injectable, preservative free|False     |70461-0119-02|2016-07-21 00:00:00|
+670|70461|119|10|Fluvirin|Influenza vaccine|Seqirus||||141       |Influenza, seasonal, injectable|False     |70461-0119-10|2016-07-21 00:00:00|
+671|58160|883|41|Fluarix|Influenza vaccine|GlaxoSmithKline||||140       |Influenza, seasonal, injectable, preservative free|False     |58160-0883-41|2016-07-21 00:00:00|
+672|42874|016|01|Flublok|Influenza vaccine|Protein Sciences||||155       |influenza, recombinant, injectable, preservative free|False     |42874-0016-01|2017-03-21 00:00:00|
+673|19515|850|41|Flulaval|Influenza vaccine|ID Biomedical||||140       |Influenza, seasonal, injectable, preservative free|False     |19515-0850-41|2016-07-21 00:00:00|
+674|19515|845|01|Flulaval|Influenza vaccine|ID Biomedical||||141       |Influenza, seasonal, injectable|False     |19515-0845-01|2016-07-21 00:00:00|
+675|49281|399|88|Fluzone, High Dose|Influenza vaccine|Sanofi||||135       |Influenza, high dose seasonal|False     |49281-0399-88|2016-07-21 00:00:00|
+676|66019|303|10|Flumist Quadrivalent|Influenza vaccine, Quadrivalent|MedImmune||||149       |influenza, live, intranasal, quadrivalent|False     |66019-0303-10|2016-07-21 00:00:00|
+677|58160|905|41|Fluarix Quadrivalent|Influenza vaccine, quadrivalent|GlakoSmithKline||||150       |influenza, injectable, quadrivalent, preservative free|False     |58160-0905-41|2016-07-21 00:00:00|
+678|49281|516|00|Fluzone Quadrivalent, pediatric|Influenza vaccine, quadrivalent|Sanofi||||161       |Influenza, injectable,quadrivalent, preservative free, pediatric|False     |49281-0516-00|2016-07-21 00:00:00|
+679|49281|416|88|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0416-88|2016-07-21 00:00:00|
+680|49281|416|58|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0416-58|2016-07-21 00:00:00|
+681|49281|625|78|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||158       |influenza, injectable, quadrivalent|False     |49281-0625-78|2016-07-21 00:00:00|
+682|49281|710|48|Fluzone Intradermal quadrivalent|influenza vaccine, quadrivalent|Sanofi||||166       |influenza, intradermal, quadrivalent, preservative free|False     |49281-0710-48|2016-07-21 00:00:00|
+683|19515|908|41|Flulaval quadrivalent|influenza vaccine, quadrivalent|ID Biomedical||||150       |influenza, injectable, quadrivalent, preservative free|False     |19515-0908-41|2016-07-21 00:00:00|
+684|19515|903|01|Flulaval quadrivalent|influenza vaccine, quadrivalent|ID Biomedical||||158       |influenza, injectable, quadrivalent|False     |19515-0903-01|2016-08-09 00:00:00|
+685|33332|316|02|Afluria quadrivalent|influenza vaccine quadrivalent preservative free|Seqirus||||150       |influenza, injectable, quadrivalent, preservative free|False     |33332-0316-02|2016-10-12 00:00:00|
+686|33332|416|11|Afluria quadrivalent|influenza vaccine quadrivalent|Seqirus||||158       |influenza, injectable, quadrivalent|False     |33332-0416-11|2016-10-12 00:00:00|
+688|58160|976|02|BEXSERO|meningococcal B, OMV|GLAXOSMITHKLINE||||163       |meningococcal B, OMV|False     |58160-0976-02|2016-11-22 00:00:00|
+688|58160|976|02|BEXSERO|meningococcal B, OMV|GLAXOSMITHKLINE||||163       |meningococcal B, OMV|False     |58160-0976-02|2016-11-22 00:00:00|
+360|49281|248|58|IMOVAX RABIES|RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)|Sanofi Pasteur Inc.|20130930|||175       |Rabies - IM Diploid cell culture|False     |49281-0248-58|2015-10-30 00:00:00|00349281248580
+689|58160|958|01|Menveo|Meningococcal A,C,Y,W-135 oligosaccharide conjugate|GlaxoSmithKline||||136       |Meningococcal MCV4O|False     |58160-0958-01|2017-04-21 00:00:00|00358160958014
+690|58160|959|01|Menveo|Meningococcal A,C,Y,W-135 oligosaccharide conjugate|GlaxoSmithKline||||136       |Meningococcal MCV4O|False     |58160-0959-01|2017-04-21 00:00:00|00358160959011
+692|58160|966|12|Rabavert|Rabies Vaccine|GlaxoSmithKline||||176       |Rabies - IM fibroblast culture|False     |58160-0966-12|2017-04-21 00:00:00|
+693|42874|116|01|Flublok, quadrIvalent|influenza, QUADRIVALENT, recombinant, injectable, preservative free|Protein Sciences||||185       |influenza, recombinant, quadrivalent,injectable, preservative free|False     |42874-0116-01|2017-04-21 00:00:00|
+694|58160|816|05|HIBERIX|HAEMOPHILUS B CONJUGATE VACCINE (TETANUS TOXOID CONJUGATE)|GlaxoSmithKline Biologicals SA|20090824|||48        |Hib (PRP-T)|False     |58160-0816-05|2017-06-07 00:00:00|00358160816055
+695|70461|200|12|Flucelvax, quad, with preservative|influenza, MDCK, quadrivalent, with preservative|Sequris||||186       |Influenza, injectable, MDCK, quadrivalent, preservative|False     |70461-0200-12|2017-06-27 00:00:00|
+696|58160|966|01|Rabavert|Rabies Vaccine|GlaxoSmithKline||||176       |Rabies - IM fibroblast culture|False     |58160-0966-01|2017-07-20 00:00:00|
+697|58160|816|01|HIBERIX|HAEMOPHILUS B CONJUGATE VACCINE (TETANUS TOXOID CONJUGATE)|GlaxoSmithKline Biologicals SA||||48        |Hib (PRP-T)|False     |58160-0816-01|2017-07-20 00:00:00|
+698|70461|002|11|Fluad|Influenza vaccine|Seqirus||||168       |influenza, trivalent, adjuvanted|False     |70461-0002-11|2017-08-11 00:00:00|
+699|58160|907|41|Fluarix Quadrivalent|Influenza vaccine, Quadrivalent|GlakoSmithKline||||150       |influenza, injectable, quadrivalent, preservative free|False     |58160-0907-41|2017-08-11 00:00:00|
+701|42874|117|01|Flublok, quadrIvalent|influenza, QUADRIVALENT, recombinant, injectable, preservative free|Protein Sciences Corporation||||185       |influenza, recombinant, quadrivalent,injectable, preservative free|False     |42874-0117-01|2017-08-11 00:00:00|
+700|42874|017|01|Flublok|Influenza vaccine|Protein Sciences Corporation||||155       |influenza, recombinant, injectable, preservative free|False     |42874-0017-01|2017-08-11 00:00:00|
+702|70461|201|11|Flucelvax, quadrivalent, preservative free|influenza, MDCK, quadrivalent, preservative free|Seqirus||||171       |Influenza, injectable, MDCK, preservative free, quadrivalent|False     |70461-0201-11|2017-08-11 00:00:00|
+703|70461|301|12|Flucelvax, quad, with preservative|influenza, MDCK, quadrivalent, with preservative|Seqirus||||186       |Influenza, injectable, MDCK, quadrivalent, preservative|False     |70461-0301-12|2017-08-11 00:00:00|
+704|19515|912|41|Flulaval quadrivalent|influenza vaccine, quadrivalent|ID Biomedical||||150       |influenza, injectable, quadrivalent, preservative free|False     |19515-0912-41|2017-08-11 00:00:00|
+705|19515|896|01|Flulaval quadrivalent|influenza vaccine, quadrivalent|ID Biomedical||||158       |influenza, injectable, quadrivalent|False     |19515-0896-01|2017-08-11 00:00:00|
+706|70461|120|12|Fluvirin|Influenza vaccine|Seqirus||||140       |Influenza, seasonal, injectable, preservative free|False     |70461-0120-12|2017-08-11 00:00:00|
+707|70461|120|11|Fluvirin|Influenza vaccine|Seqirus||||141       |Influenza, seasonal, injectable|False     |70461-0120-11|2017-08-11 00:00:00|
+708|49281|401|88|Fluzone, High Dose|Influenza vaccine|Sanofi||||135       |Influenza, high dose seasonal|False     |49281-0401-88|2017-08-11 00:00:00|
+709|49281|712|48|Fluzone Intradermal quadrivalent|influenza vaccine, quadrivalent|Sanofi||||166       |influenza, intradermal, quadrivalent, preservative free|False     |49281-0712-48|2017-08-11 00:00:00|
+710|49281|517|00|Fluzone Quadrivalent, pediatric|Influenza vaccine, quadrivalent|Sanofi||||161       |Influenza, injectable,quadrivalent, preservative free, pediatric|False     |49281-0517-00|2017-08-11 00:00:00|
+711|49281|417|88|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0417-88|2017-08-11 00:00:00|
+712|49281|417|58|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||150       |influenza, injectable, quadrivalent, preservative free|False     |49281-0417-58|2017-08-11 00:00:00|
+713|49281|627|78|Fluzone Quadrivalent|Influenza vaccine, quadrivalent|Sanofi||||158       |influenza, injectable, quadrivalent|False     |49281-0627-78|2017-08-11 00:00:00|
+715|33332|117|11|Afluria|Influenza vaccine|Seqirus||||141       |Influenza, seasonal, injectable|False     |33332-0117-11|2017-08-11 00:00:00|
+716|33332|317|02|Afluria quadrivalent|influenza vaccine quadrivalent preservative free|Seqirus||||150       |influenza, injectable, quadrivalent, preservative free|False     |33332-0317-02|2017-08-11 00:00:00|
+717|33332|417|11|Afluria quadrivalent|influenza vaccine, quadrivalent|Seqirus||||158       |influenza, injectable, quadrivalent|False     |33332-0417-11|2017-08-11 00:00:00|
+714|33332|017|02|Afluria|Influenza vaccine|Seqirus||||140       |Influenza, seasonal, injectable, preservative free|False     |33332-0017-02|2017-08-11 00:00:00|
 538|66019|301|01|FluMist Quadrivalent|INFLUENZA VACCINE LIVE INTRANASAL|MedImmune, LLC|20140701|||149       |influenza, live, intranasal, quadrivalent|False     |66019-0301-01|2014-07-25 00:00:00|
 539|33332|014|02|AFLURIA|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A |CSL Limited|20110715|20150630||140       |Influenza, seasonal, injectable, preservative free|False     |33332-0014-02|2014-10-16 00:00:00|
 574|33332|114|11|AFLURIA|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A |CSL Limited|20110715|20150630||141       |Influenza, seasonal, injectable|False     |33332-0114-11|2014-10-16 00:00:00|
@@ -45,7 +95,7 @@
 606|0006|4121|01|GARDASIL 9|HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT|Merck Sharp & Dohme Corp.|20141210|||165       |HPV9|False     |00006-4121-01|2015-03-24 00:00:00|
 605|0006|4119|01|GARDASIL 9|HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT|Merck Sharp & Dohme Corp.|20141210|||165       |HPV9|False     |00006-4119-01|2015-03-24 00:00:00|
 605|0006|4119|01|GARDASIL 9|HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT|Merck Sharp & Dohme Corp.|20141210|||165       |HPV9|False     |00006-4119-01|2015-03-24 00:00:00|
-400|63851|511|11|RabAvert|RABIES VACCINE|Novartis Vaccines and Diagnostics GmbH|19971020|||18        |rabies, intramuscular injection|False     |63851-0511-11|2015-10-30 00:00:00|00363851511119
+400|63851|511|11|RabAvert|RABIES VACCINE|Novartis Vaccines and Diagnostics GmbH|19971020|||176       |Rabies - IM fibroblast culture|False     |63851-0511-11|2015-10-30 00:00:00|00363851511119
 622|49281|562|58|QUADRACEL|DTAP, IPV|Sanofi Pasteur, Inc.||||130       |DTaP-IPV|False     |49281-0562-58|2015-10-30 00:00:00|00349281562587
 634|46028|114|11|Bexsero|NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F|Novartis Vaccines and Diagnostics SRL|20150123|||163       |meningococcal B, OMV|False     |46028-0114-11|2015-05-21 00:00:00|
 634|46028|114|11|Bexsero|NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F|Novartis Vaccines and Diagnostics SRL|20150123|||163       |meningococcal B, OMV|False     |46028-0114-11|2015-05-21 00:00:00|
@@ -73,7 +123,7 @@
 453|0006|4681|01|M-M-R II|MEASLES, MUMPS, AND RUBELLA VIRUS VACCINE LIVE|Merck Sharp & Dohme Corp.|19710421|||03        |MMR|False     |00006-4681-01|2014-11-19 00:00:00|00300064681017
 464|49281|215|58|TENIVAC|CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID |Sanofi Pasteur Inc.|20101208|||113       |Td (adult) preservative free|False     |49281-0215-58|2015-07-22 00:00:00|00349281215582
 465|49281|215|88|TENIVAC|CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID |Sanofi Pasteur Inc.|20101208|||113       |Td (adult) preservative free|False     |49281-0215-88|2015-07-22 00:00:00|00349281215889
-354|46028|218|11|Meningococcal (Groups A) CRM197 Oligosaccharide Co|MENA VACCINE|Novartis Vaccines and Diagnostics s.r.l.|20100219|||136       |Meningococcal MCV4O|False     |46028-0218-11|2014-01-27 00:00:00|
+354|46028|218|11|Meningococcal (Groups A) CRM197 Oligosaccharide Co|MENA VACCINE|Novartis Vaccines and Diagnostics s.r.l.|20100219|||136       |Meningococcal MCV4O|False     |46028-0218-11|2014-01-27 00:00:00|00346028218110
 494|49281|387|65|FLUZONE|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A |Sanofi Pasteur Inc.|20120702|20130630||135       |Influenza, high dose seasonal|True      |49281-0387-65|2014-07-28 00:00:00|00349281387654
 493|49281|386|15|FLUZONE|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A |Sanofi Pasteur Inc.|20120702|20130630||141       |Influenza, seasonal, injectable|True      |49281-0386-15|2014-03-31 00:00:00|00349281386152
 492|49281|010|10|FLUZONE|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A |Sanofi Pasteur Inc.|20120702|20130630||140       |Influenza, seasonal, injectable, preservative free|True      |49281-0010-10|2014-03-31 00:00:00|00349281010101
@@ -159,9 +209,8 @@
 331|0006|4095|01|VAQTA|HEPATITIS A VACCINE, INACTIVATED|Merck Sharp & Dohme Corp.|19960329|||83        |Hep A, ped/adol, 2 dose|False     |00006-4095-01|2014-11-19 00:00:00|00300064095012
 332|0006|4096|01|VAQTA|HEPATITIS A VACCINE, INACTIVATED|Merck Sharp & Dohme Corp.|19960329|||52        |Hep A, adult|False     |00006-4096-01|2014-11-19 00:00:00|00300064096019
 338|0006|4831|01|VAQTA|HEPATITIS A VACCINE, INACTIVATED|Merck Sharp & Dohme Corp.|19960329|||83        |Hep A, ped/adol, 2 dose|False     |00006-4831-01|2014-11-19 00:00:00|00300064831016
-400|63851|511|11|RabAvert|RABIES VACCINE|Novartis Vaccines and Diagnostics GmbH|19971020|||18        |rabies, intramuscular injection|False     |63851-0511-11|2015-10-30 00:00:00|00363851511119
+400|63851|511|11|RabAvert|RABIES VACCINE|Novartis Vaccines and Diagnostics GmbH|19971020|||176       |Rabies - IM fibroblast culture|False     |63851-0511-11|2015-10-30 00:00:00|00363851511119
 406|66019|200|01|Influenza A H1N1 2009 Monovalent Vaccine Live Intr|INFLUENZA A H1N1 2009 MONOVALENT VACCINE LIVE INTRANASAL|MedImmune, LLC|20091001|20100413||125       |Novel Influenza-H1N1-09, nasal|False     |66019-0200-01|2014-01-27 00:00:00|
-470|14362|0111|3|Tetanus and Diphtheria Toxoids Adsorbed|TETANUS AND DIPHTHERIA TOXOIDS ADSORBED|MassBiologics|19700727|||09        |Td (adult), adsorbed|False     |14362-0111-03|2015-09-11 00:00:00|
 448|33332|519|01|Influenza A|INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)|CSL Limited|20090701|20100630||126       |Novel influenza-H1N1-09, preservative-free|True      |33332-0519-01|2014-01-27 00:00:00|
 450|33332|519|25|Influenza A|INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)|CSL Limited|20090701|20100630||126       |Novel influenza-H1N1-09, preservative-free|True      |33332-0519-25|2014-01-27 00:00:00|
 449|33332|629|10|Influenza A|INFLUENZA A VIRUS A/CALIFORNIA/7/2009(H1N1)-LIKE ANTIGEN (PROPIOLACTONE INACTIVATED)|CSL Limited|20090701|20100630||127       |Novel influenza-H1N1-09|True      |33332-0629-10|2014-01-27 00:00:00|
@@ -174,7 +223,6 @@
 410|33332|110|10|AFLURIA|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-181 (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)|CSL Limited|20100730|20110630||141       |Influenza, seasonal, injectable|True      |33332-0110-10|2014-01-27 00:00:00|
 436|66521|115|10|Fluvirin|Influenza Virus Vaccine|Novartis Vaccines and Diagnostics Ltd|19980812|||141       |Influenza, seasonal, injectable|True      |66521-0115-10|2015-01-12 00:00:00|
 486|66521|115|02|Fluvirin|INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A |Novartis|20100723|20110630||140       |Influenza, seasonal, injectable, preservative free|False     |66521-0115-02|2015-01-12 00:00:00|00366521115020
-334|0006|4133|01|Tetanus and Diphtheria Toxoids Adsorbed|TETANUS AND DIPHTHERIA TOXOIDS ADSORBED|Merck Sharp & Dohme Corp.|19700727|||09        |Td (adult), adsorbed|False     |00006-4133-01|2014-01-27 00:00:00|
 375|54868|4320|9|PNEUMOVAX 23|PNEUMOCOCCAL VACCINE POLYVALENT|PHYSICIANS TOTAL CARE, INC|20060220|20110630||33        |pneumococcal polysaccharide PPV23|False     |54868-4320-09|2014-01-27 00:00:00|
 374|54868|3339|9|PNEUMOVAX 23|PNEUMOCOCCAL VACCINE POLYVALENT|PHYSICIANS TOTAL CARE, INC|19940920|20090630||33        |pneumococcal polysaccharide PPV23|False     |54868-3339-09|2014-01-27 00:00:00|
 345|0052|0603|01|BCG VACCINE|BACILLUS CALMETTE-GUERIN SUBSTRAIN TICE LIVE ANTIGEN|Organon Pharmaceuticals USA|19890621|||19        |BCG|False     |00052-0603-01|2014-01-27 00:00:00|
@@ -202,14 +250,13 @@
 459|0006|4999|01|ProQuad|MEASLES, MUMPS, RUBELLA AND VARICELLA VIRUS VACCINE LIVE|Merck Sharp & Dohme Corp.|20050906|20150731||94        |MMRV|False     |00006-4999-01|2015-07-31 00:00:00|00300064999013
 368|49281|545|15|ACTHIB|HAEMOPHILUS B CONJUGATE VACCINE (TETANUS TOXOID CONJUGATE)|Sanofi Pasteur Inc.|20080620|||120       |DTaP-Hib-IPV|False     |49281-0545-15|2014-01-27 00:00:00|
 372|51285|174|02|Adenovirus Type 4 Vaccine, Live, Oral|ADENOVIRUS TYPE 4 VACCINE, LIVE, ORAL|Teva Women's Health, Inc.|20110531|||143       |Adenovirus types 4 and 7|False     |51285-0174-02|2014-01-27 00:00:00|
-360|49281|248|58|IMOVAX RABIES|RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)|Sanofi Pasteur Inc.|20130930|||18        |rabies, intramuscular injection|False     |49281-0248-58|2015-10-30 00:00:00|00349281248580
 455|49281|487|58|MENOMUNE - A/C/Y/W-135 COMBINED|NEISSERIA MENINGITIDIS GROUP A CAPSULAR POLYSACCHARIDE ANTIGEN, NEISSERIA MENINGITIDIS GROUP C CAPSU|Sanofi Pasteur Inc.|19811123|||32        |meningococcal MPSV4|False     |49281-0487-58|2015-10-30 00:00:00|00349281487583
 474|49281|915|58|YF-VAX|YELLOW FEVER VIRUS LIVE ANTIGEN, A|Sanofi Pasteur Inc.|19530522|||37        |yellow fever|False     |49281-0915-58|2015-10-30 00:00:00|00349281915581
 515|49281|547|58|ACTHIB|HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN|Sanofi Pasteur Inc.|19930330|||48        |Hib (PRP-T)|False     |49281-0547-58|2015-10-30 00:00:00|00349281547584
 396|58160|851|01|ROTARIX|ROTAVIRUS VACCINE, LIVE, ORAL|GlaxoSmithKline Biologicals SA|20110113|||119       |rotavirus, monovalent|False     |58160-0851-01|2014-11-13 00:00:00|00358160851018
 473|49281|915|68|YF-VAX|YELLOW FEVER VIRUS LIVE ANTIGEN, A|Sanofi Pasteur Inc.|19530522|||37        |yellow fever|False     |49281-0915-68|2015-03-10 00:00:00|00349281915680
 456|49281|488|78|MENOMUNE - A/C/Y/W-135 COMBINED|NEISSERIA MENINGITIDIS GROUP A POLYSACCHARIDE ANTIGEN, A, NEISSERIA MENINGITIDIS GROUP C POLYSACCHAR|Sanofi Pasteur Inc.|19811123|||32        |meningococcal MPSV4|False     |49281-0488-78|2015-10-30 00:00:00|00349281488788
-355|46028|219|11|Meningococcal (Groups C, Y, W-135) CRM197 Oligosac|MENC, Y, W-135 VACCINE|Novartis Vaccines and Diagnostics s.r.l.|20100219|||136       |Meningococcal MCV4O|False     |46028-0219-11|2014-01-27 00:00:00|
+355|46028|219|11|Meningococcal (Groups C, Y, W-135) CRM197 Oligosac|MENC, Y, W-135 VACCINE|Novartis Vaccines and Diagnostics s.r.l.|20100219|||136       |Meningococcal MCV4O|False     |46028-0219-11|2014-01-27 00:00:00|00346028219117
 373|51285|175|02|Adenovirus Type 7 Vaccine, Live, Oral|ADENOVIRUS TYPE 7 VACCINE, LIVE, ORAL|Teva Women's Health, Inc.|20110531|||143       |Adenovirus types 4 and 7|False     |51285-0175-02|2014-01-27 00:00:00|
 369|49281|560|05|DTAP-IPV|DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS|Sanofi Pasteur Inc.|20080620|||120       |DTaP-Hib-IPV|False     |49281-0560-05|2014-10-09 00:00:00|00349281560057
 363|49281|400|58|Adacel|CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CORYNEBACTERIUM DIPHTHERIAE TOXOID ANT|Sanofi Pasteur Inc.|20131001|||115       |Tdap|False     |49281-0400-58|2014-03-31 00:00:00|00349281400582
