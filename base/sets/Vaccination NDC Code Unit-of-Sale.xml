@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
-    <label>VACCINATION_NDC_CODE_UNIT_OF_SALE</label>
+    <label>Vaccination NDC for Unit-of-Sale</label>
+    <type>VACCINATION_NDC_CODE_UNIT_OF_SALE</type>
     <code>
         <value>49281-0545-03</value>
         <label>ACTHIB</label>
@@ -221,8 +222,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0175-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0174-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0175-02</link-to>
         </reference>
         <use-date>
             <not-before>20110531</not-before>
@@ -8628,8 +8629,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0959-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0958-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0959-01</link-to>
         </reference>
     </code>
     <code>
@@ -8794,8 +8795,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0545-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
         </reference>
         <use-date>
             <not-before>20080620</not-before>

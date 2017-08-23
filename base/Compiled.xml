@@ -14208,7 +14208,8 @@
         </code>
     </codeset>
     <codeset>
-        <label>VACCINATION_NDC_CODE_UNIT_OF_SALE</label>
+        <label>Vaccination NDC for Unit-of-Sale</label>
+        <type>VACCINATION_NDC_CODE_UNIT_OF_SALE</type>
         <code>
             <value>49281-0545-03</value>
             <label>ACTHIB</label>
@@ -14429,8 +14430,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0175-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0174-02</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0175-02</link-to>
             </reference>
             <use-date>
                 <not-before>20110531</not-before>
@@ -22836,8 +22837,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0959-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0958-01</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0959-01</link-to>
             </reference>
         </code>
         <code>
@@ -23002,8 +23003,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0545-15</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
             </reference>
             <use-date>
                 <not-before>20080620</not-before>
@@ -25479,7 +25480,8 @@
         </code>
     </codeset>
     <codeset>
-        <label>VACCINATION_NDC_CODE_UNIT_OF_USE</label>
+        <label>Vaccination NDC for Unit-of-Use</label>
+        <type>VACCINATION_NDC_CODE_UNIT_OF_USE</type>
         <code>
             <value>49281-0547-58</value>
             <label>ACTHIB</label>
@@ -25490,8 +25492,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0545-03</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0545-05</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0545-03</link-to>
             </reference>
             <use-date>
                 <not-before>19930330</not-before>
@@ -26890,9 +26892,9 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-05</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-10</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0286-01</link-to>
             </reference>
             <use-date>
                 <not-before>20020514</not-before>
@@ -32382,8 +32384,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">165</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4119-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4119-03</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4119-02</link-to>
             </reference>
             <use-date>
                 <not-before>20141210</not-before>
@@ -33810,8 +33812,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">148</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0809-05</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0801-11</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0809-05</link-to>
             </reference>
             <use-date>
                 <not-before>20130903</not-before>
@@ -34479,9 +34481,9 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-04</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-05</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-02</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-04</link-to>
             </reference>
             <use-date>
                 <not-before>20100312</not-before>
@@ -34725,8 +34727,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">176</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-01</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-02</link-to>
             </reference>
             <use-date>
                 <not-before>19971020</not-before>
@@ -34811,8 +34813,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4094-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4094-09</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4094-02</link-to>
             </reference>
             <use-date>
                 <not-before>19860723</not-before>
@@ -35066,8 +35068,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-20</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-41</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-20</link-to>
             </reference>
             <use-date>
                 <not-before>20060203</not-before>
@@ -35404,9 +35406,9 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">162</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-05</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-10</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-02</link-to>
             </reference>
         </code>
         <code>
@@ -35698,8 +35700,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">83</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4095-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4095-09</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4095-02</link-to>
             </reference>
             <use-date>
                 <not-before>19960329</not-before>
@@ -35826,8 +35828,8 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
-                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4841-00</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4841-41</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4841-00</link-to>
             </reference>
             <use-date>
                 <not-before>19960329</not-before>
