@@ -39,7 +39,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0545-03</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160601</effective-date>
             </deprecated>
         </code-status>
@@ -81,7 +81,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0545-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -123,7 +123,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0400-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -165,7 +165,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0400-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -207,7 +207,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0400-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -250,7 +250,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>51285-0138-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -289,7 +289,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0016-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160906</effective-date>
             </deprecated>
         </code-status>
@@ -332,7 +332,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0010-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -375,7 +375,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0110-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -414,7 +414,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0116-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160906</effective-date>
             </deprecated>
         </code-status>
@@ -457,7 +457,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0114-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -500,7 +500,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0014-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -543,7 +543,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0013-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -582,7 +582,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0015-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150922</effective-date>
             </deprecated>
         </code-status>
@@ -625,7 +625,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0113-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -664,7 +664,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0115-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150922</effective-date>
             </deprecated>
         </code-status>
@@ -703,7 +703,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0017-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -742,7 +742,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0117-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -781,7 +781,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0417-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -820,7 +820,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0416-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20161012</effective-date>
             </deprecated>
         </code-status>
@@ -859,7 +859,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0316-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20161012</effective-date>
             </deprecated>
         </code-status>
@@ -898,7 +898,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0317-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -940,7 +940,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00052-0603-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -979,7 +979,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0976-06</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20161122</effective-date>
             </deprecated>
         </code-status>
@@ -1018,7 +1018,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0976-20</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20161122</effective-date>
             </deprecated>
         </code-status>
@@ -1060,7 +1060,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>64678-0211-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1102,7 +1102,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0842-34</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -1144,7 +1144,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0842-51</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -1186,7 +1186,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0842-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1228,7 +1228,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0842-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -1270,7 +1270,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0830-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1312,7 +1312,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0830-34</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1354,7 +1354,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4898-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1396,7 +1396,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0286-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -1438,7 +1438,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0286-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1480,7 +1480,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0286-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1522,7 +1522,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0291-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1564,7 +1564,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0291-83</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1607,7 +1607,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0278-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1649,7 +1649,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0225-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -1691,7 +1691,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0821-34</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -1733,7 +1733,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0821-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1775,7 +1775,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0820-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -1817,7 +1817,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0820-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -1859,7 +1859,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0821-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -1898,7 +1898,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0002-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -1937,7 +1937,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0000-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160425</effective-date>
             </deprecated>
         </code-status>
@@ -1976,7 +1976,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0001-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -2018,7 +2018,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0881-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -2061,7 +2061,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0880-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -2104,7 +2104,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0879-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141002</effective-date>
             </deprecated>
         </code-status>
@@ -2147,7 +2147,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0883-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20151006</effective-date>
             </deprecated>
         </code-status>
@@ -2190,7 +2190,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0900-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141002</effective-date>
             </deprecated>
         </code-status>
@@ -2229,7 +2229,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0907-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -2271,7 +2271,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0903-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -2310,7 +2310,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0905-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -2352,7 +2352,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0901-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -2394,7 +2394,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0013-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -2436,7 +2436,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0012-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -2475,7 +2475,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0017-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -2514,7 +2514,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0014-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140730</effective-date>
             </deprecated>
         </code-status>
@@ -2553,7 +2553,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0015-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150923</effective-date>
             </deprecated>
         </code-status>
@@ -2592,7 +2592,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0016-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170321</effective-date>
             </deprecated>
         </code-status>
@@ -2631,7 +2631,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42874-0117-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -2670,7 +2670,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0614-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -2712,7 +2712,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>62577-0614-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -2751,7 +2751,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>63851-0613-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -2793,7 +2793,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>63851-0612-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -2836,7 +2836,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>62577-0613-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -2875,7 +2875,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0200-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170627</effective-date>
             </deprecated>
         </code-status>
@@ -2914,7 +2914,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0201-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -2953,7 +2953,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0200-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170627</effective-date>
             </deprecated>
         </code-status>
@@ -2992,7 +2992,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0301-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -3031,7 +3031,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0850-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -3070,7 +3070,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0845-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -3113,7 +3113,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0893-07</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -3156,7 +3156,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0890-07</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -3199,7 +3199,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0889-07</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3238,7 +3238,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0908-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -3277,7 +3277,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0903-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -3319,7 +3319,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0891-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -3362,7 +3362,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0895-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -3401,7 +3401,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0912-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -3443,7 +3443,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0894-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -3482,7 +3482,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0896-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -3524,7 +3524,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0901-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -3566,7 +3566,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>19515-0898-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -3609,7 +3609,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0110-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3652,7 +3652,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0109-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3695,7 +3695,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0108-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3738,7 +3738,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0107-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3780,7 +3780,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0302-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150923</effective-date>
             </deprecated>
         </code-status>
@@ -3819,7 +3819,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0303-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -3861,7 +3861,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0300-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -3900,7 +3900,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0301-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140723</effective-date>
             </deprecated>
         </code-status>
@@ -3939,7 +3939,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0117-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -3978,7 +3978,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0117-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -4017,7 +4017,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0118-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150923</effective-date>
             </deprecated>
         </code-status>
@@ -4056,7 +4056,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0118-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150923</effective-date>
             </deprecated>
         </code-status>
@@ -4095,7 +4095,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0119-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -4137,7 +4137,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0112-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4179,7 +4179,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0112-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4218,7 +4218,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0120-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -4257,7 +4257,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0120-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -4296,7 +4296,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70461-0119-12</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -4339,7 +4339,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0116-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140401</effective-date>
             </deprecated>
         </code-status>
@@ -4381,7 +4381,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0113-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4423,7 +4423,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0114-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4465,7 +4465,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0114-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4507,7 +4507,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0113-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4550,7 +4550,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0116-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140401</effective-date>
             </deprecated>
         </code-status>
@@ -4592,7 +4592,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0115-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4634,7 +4634,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0115-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4677,7 +4677,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0386-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4720,7 +4720,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0010-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4763,7 +4763,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0010-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4805,7 +4805,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0394-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -4848,7 +4848,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0387-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4891,7 +4891,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0013-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4934,7 +4934,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0013-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -4977,7 +4977,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0392-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -5020,7 +5020,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0113-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -5063,7 +5063,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0707-55</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5105,7 +5105,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0014-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -5148,7 +5148,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0705-55</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5191,7 +5191,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0010-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5234,7 +5234,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0012-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5277,7 +5277,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0396-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -5320,7 +5320,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0111-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5363,7 +5363,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0011-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5406,7 +5406,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0011-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5449,7 +5449,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0388-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5492,7 +5492,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0012-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5535,7 +5535,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0112-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5578,7 +5578,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0390-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5620,7 +5620,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0395-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -5659,7 +5659,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0401-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -5698,7 +5698,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0399-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -5741,7 +5741,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0389-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5784,7 +5784,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0397-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -5827,7 +5827,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0391-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -5870,7 +5870,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0393-65</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -5909,7 +5909,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0712-40</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -5948,7 +5948,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0710-40</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -5990,7 +5990,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0709-55</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -6033,7 +6033,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0703-55</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -6075,7 +6075,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0708-40</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150324</effective-date>
             </deprecated>
         </code-status>
@@ -6118,7 +6118,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0413-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -6161,7 +6161,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0413-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -6200,7 +6200,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0627-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -6239,7 +6239,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0417-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -6278,7 +6278,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0625-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -6317,7 +6317,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0416-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -6356,7 +6356,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0417-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -6395,7 +6395,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0416-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -6437,7 +6437,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0621-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -6480,7 +6480,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0513-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -6519,7 +6519,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0415-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150922</effective-date>
             </deprecated>
         </code-status>
@@ -6561,7 +6561,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0414-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -6603,7 +6603,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0414-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -6642,7 +6642,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0516-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160721</effective-date>
             </deprecated>
         </code-status>
@@ -6681,7 +6681,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0517-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170811</effective-date>
             </deprecated>
         </code-status>
@@ -6723,7 +6723,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0514-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
             </deprecated>
         </code-status>
@@ -6765,7 +6765,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4109-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141119</effective-date>
             </deprecated>
         </code-status>
@@ -6807,7 +6807,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4045-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -6849,7 +6849,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4045-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -6891,7 +6891,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4109-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -6933,7 +6933,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4119-03</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150324</effective-date>
             </deprecated>
         </code-status>
@@ -6975,7 +6975,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4119-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150324</effective-date>
             </deprecated>
         </code-status>
@@ -7017,7 +7017,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4121-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150324</effective-date>
             </deprecated>
         </code-status>
@@ -7059,7 +7059,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0826-34</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -7101,7 +7101,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0826-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -7143,7 +7143,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0825-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -7185,7 +7185,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0825-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7227,7 +7227,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0826-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7266,7 +7266,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0816-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170720</effective-date>
             </deprecated>
         </code-status>
@@ -7308,7 +7308,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0818-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170607</effective-date>
             </deprecated>
         </code-status>
@@ -7350,7 +7350,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0806-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -7392,7 +7392,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0250-51</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7434,7 +7434,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0810-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7476,7 +7476,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0810-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7516,7 +7516,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0808-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -7559,7 +7559,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0519-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7602,7 +7602,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0519-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7645,7 +7645,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>33332-0629-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7687,7 +7687,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0650-25</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7729,7 +7729,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0650-70</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7771,7 +7771,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0650-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7813,7 +7813,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0200-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7855,7 +7855,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0650-90</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7897,7 +7897,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0650-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7939,7 +7939,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0640-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -7981,7 +7981,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66521-0200-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8024,7 +8024,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>66019-0200-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8066,7 +8066,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0860-55</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8108,7 +8108,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0860-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -8150,7 +8150,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42515-0001-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8192,7 +8192,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>42515-0001-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160720</effective-date>
             </deprecated>
         </code-status>
@@ -8234,7 +8234,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0812-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8276,7 +8276,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0812-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8319,7 +8319,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>54868-0980-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8361,7 +8361,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4681-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8403,7 +8403,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0589-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150521</effective-date>
             </deprecated>
         </code-status>
@@ -8445,7 +8445,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0809-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141014</effective-date>
             </deprecated>
         </code-status>
@@ -8487,7 +8487,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0801-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -8529,7 +8529,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0489-91</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8571,7 +8571,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0489-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8614,7 +8614,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>46028-0208-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8654,7 +8654,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0955-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170421</effective-date>
             </deprecated>
         </code-status>
@@ -8696,7 +8696,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0811-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8738,7 +8738,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0811-51</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -8780,7 +8780,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4897-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8823,7 +8823,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0510-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8865,7 +8865,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4837-03</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140722</effective-date>
             </deprecated>
         </code-status>
@@ -8907,7 +8907,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4739-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8950,7 +8950,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>54868-3339-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -8993,7 +8993,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>54868-4320-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9035,7 +9035,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4943-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9077,7 +9077,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-1970-50</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9119,7 +9119,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-1971-04</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9161,7 +9161,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-1971-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9203,7 +9203,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-1971-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9245,7 +9245,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4171-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150731</effective-date>
             </deprecated>
         </code-status>
@@ -9288,7 +9288,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4999-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150731</effective-date>
             </deprecated>
         </code-status>
@@ -9327,7 +9327,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0562-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150414</effective-date>
             </deprecated>
         </code-status>
@@ -9367,7 +9367,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0964-12</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170421</effective-date>
             </deprecated>
         </code-status>
@@ -9409,7 +9409,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>63851-0501-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150324</effective-date>
             </deprecated>
         </code-status>
@@ -9451,7 +9451,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>63851-0501-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9490,7 +9490,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4093-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -9532,7 +9532,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4992-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9574,7 +9574,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4981-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9617,7 +9617,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4980-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9659,7 +9659,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4093-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9698,7 +9698,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4995-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9740,7 +9740,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4094-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9779,7 +9779,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4995-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -9818,7 +9818,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4094-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -9860,7 +9860,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0854-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -9902,7 +9902,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4047-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141118</effective-date>
             </deprecated>
         </code-status>
@@ -9944,7 +9944,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4047-20</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141118</effective-date>
             </deprecated>
         </code-status>
@@ -9986,7 +9986,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0215-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -10028,7 +10028,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0215-15</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140331</effective-date>
             </deprecated>
         </code-status>
@@ -10070,7 +10070,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>17478-0131-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10112,7 +10112,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>13533-0131-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150803</effective-date>
             </deprecated>
         </code-status>
@@ -10154,7 +10154,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0820-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10196,7 +10196,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0800-83</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10239,7 +10239,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0298-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10278,7 +10278,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-0100-10</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141110</effective-date>
             </deprecated>
         </code-status>
@@ -10317,7 +10317,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-0100-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141110</effective-date>
             </deprecated>
         </code-status>
@@ -10356,7 +10356,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00005-0100-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141110</effective-date>
             </deprecated>
         </code-status>
@@ -10398,7 +10398,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0815-48</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141002</effective-date>
             </deprecated>
         </code-status>
@@ -10440,7 +10440,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0815-46</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141002</effective-date>
             </deprecated>
         </code-status>
@@ -10482,7 +10482,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0815-52</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10524,7 +10524,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0815-11</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
             </deprecated>
         </code-status>
@@ -10566,7 +10566,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>58160-0815-34</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
             </deprecated>
         </code-status>
@@ -10608,7 +10608,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0790-51</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10650,7 +10650,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0790-20</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10692,7 +10692,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4095-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10731,7 +10731,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4096-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -10773,7 +10773,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4831-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10815,7 +10815,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4096-09</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10854,7 +10854,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4095-02</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -10896,7 +10896,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4841-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10938,7 +10938,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4841-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -10980,7 +10980,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4827-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -11022,7 +11022,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4826-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -11061,7 +11061,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>70460-0002-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160617</effective-date>
             </deprecated>
         </code-status>
@@ -11103,7 +11103,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>69401-0000-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20151006</effective-date>
             </deprecated>
         </code-status>
@@ -11145,7 +11145,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0915-05</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150310</effective-date>
             </deprecated>
         </code-status>
@@ -11187,7 +11187,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>49281-0915-01</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
             </deprecated>
         </code-status>
@@ -11226,7 +11226,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4963-00</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>
@@ -11265,7 +11265,7 @@
             <status>Deprecated</status>
             <deprecated>
                 <new-code-value>00006-4963-41</new-code-value>
-                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140725</effective-date>
             </deprecated>
         </code-status>

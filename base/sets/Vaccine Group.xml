@@ -9,6 +9,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">82</link-to>
+        </reference>
     </code>
     <code>
         <value>ANTHRAX</value>
@@ -17,6 +20,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+        </reference>
     </code>
     <code>
         <value>BCG</value>
@@ -25,6 +31,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+        </reference>
     </code>
     <code>
         <value>cholera</value>
@@ -33,6 +42,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">26</link-to>
+        </reference>
     </code>
     <code>
         <value>DTAP</value>
@@ -41,6 +53,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
+        </reference>
     </code>
     <code>
         <value>H1N1 flu</value>
@@ -49,6 +64,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">128</link-to>
+        </reference>
     </code>
     <code>
         <value>HBIG</value>
@@ -65,6 +83,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">85</link-to>
+        </reference>
     </code>
     <code>
         <value>HepB</value>
@@ -73,6 +94,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">45</link-to>
+        </reference>
     </code>
     <code>
         <value>HepC</value>
@@ -81,6 +105,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">58</link-to>
+        </reference>
     </code>
     <code>
         <value>Hep E</value>
@@ -89,6 +116,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">59</link-to>
+        </reference>
     </code>
     <code>
         <value>HIB</value>
@@ -97,6 +127,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">17</link-to>
+        </reference>
     </code>
     <code>
         <value>HPV</value>
@@ -105,6 +138,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">137</link-to>
+        </reference>
     </code>
     <code>
         <value>IG</value>
@@ -121,6 +157,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">88</link-to>
+        </reference>
     </code>
     <code>
         <value>H5N1 flu</value>
@@ -129,6 +168,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">123</link-to>
+        </reference>
     </code>
     <code>
         <value>Japanese encephalitis</value>
@@ -137,6 +179,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">129</link-to>
+        </reference>
     </code>
     <code>
         <value>Lyme disease</value>
@@ -145,6 +190,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">66</link-to>
+        </reference>
     </code>
     <code>
         <value>MEASLES</value>
@@ -161,6 +209,16 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">108</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>MeningB</value>
+        <label>meningococcal B, recombinant</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">164</link-to>
+        </reference>
     </code>
     <code>
         <value>MMR</value>
@@ -169,6 +227,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+        </reference>
     </code>
     <code>
         <value>MUMPS</value>
@@ -179,12 +240,22 @@
         </code-status>
     </code>
     <code>
+        <value>Plague</value>
+        <label>plague</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">23</link-to>
+        </reference>
+    </code>
+    <code>
         <value>PneumoPCV</value>
         <label>Pneumococcal</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">152</link-to>
+        </reference>
     </code>
     <code>
         <value>PneumoPPV</value>
@@ -193,6 +264,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+        </reference>
     </code>
     <code>
         <value>POLIO</value>
@@ -201,6 +275,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">89</link-to>
+        </reference>
     </code>
     <code>
         <value>RABIES</value>
@@ -209,6 +286,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
+        </reference>
     </code>
     <code>
         <value>ROTAVIRUS</value>
@@ -217,6 +297,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">122</link-to>
+        </reference>
     </code>
     <code>
         <value>RUBELLA</value>
@@ -233,6 +316,16 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>TDAP</value>
+        <label>Tdap</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+        </reference>
     </code>
     <code>
         <value>TYPHOID</value>
@@ -241,6 +334,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">91</link-to>
+        </reference>
     </code>
     <code>
         <value>VACCINIA</value>
@@ -249,6 +345,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+        </reference>
     </code>
     <code>
         <value>VARICELLA</value>
@@ -257,6 +356,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">21</link-to>
+        </reference>
     </code>
     <code>
         <value>VEE</value>
@@ -265,6 +367,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">92</link-to>
+        </reference>
     </code>
     <code>
         <value>YELLOWFEVER</value>
@@ -273,6 +378,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">184</link-to>
+        </reference>
     </code>
     <code>
         <value>ZOSTER</value>
@@ -281,5 +389,8 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
+        </reference>
     </code>
 </codeset>

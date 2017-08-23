@@ -927,8 +927,7 @@
 	<CVXVGInfo>
 		<Name>ShortDescription</Name>
 		<Value>Influenza, injectable,quadrivalent, preservative free,
-			pediatric
-		</Value>
+			pediatric</Value>
 		<Name>CVXCode</Name>
 		<Value>161       </Value>
 		<Name>Status</Name>
@@ -1182,8 +1181,7 @@
 	<CVXVGInfo>
 		<Name>ShortDescription</Name>
 		<Value>influenza, recombinant, quadrivalent,injectable, preservative
-			free
-		</Value>
+			free</Value>
 		<Name>CVXCode</Name>
 		<Value>185       </Value>
 		<Name>Status</Name>
