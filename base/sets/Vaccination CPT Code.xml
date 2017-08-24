@@ -92,6 +92,17 @@
         <use-date/>
     </code>
     <code>
+        <value>90625</value>
+        <label>Cholera vaccine live, adult dosage, 1 dose schedule, for oral use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
+        </reference>
+    </code>
+    <code>
         <value>90291</value>
         <label>CMVIG</label>
         <description></description>
@@ -114,6 +125,17 @@
             <link-to codeset="VACCINATION_CVX_CODE">12</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90697</value>
+        <label>Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
+        </reference>
     </code>
     <code>
         <value>90702</value>
@@ -395,6 +417,17 @@
         </use-date>
     </code>
     <code>
+        <value>90739</value>
+        <label>Hepatitis B, adult dosage (2 dose schedule), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+        </reference>
+    </code>
+    <code>
         <value>90645</value>
         <label>Hib (HbOC)</label>
         <description></description>
@@ -497,6 +530,17 @@
         <use-date/>
     </code>
     <code>
+        <value>90651</value>
+        <label>Human Papillomavirus vaccine types 6, 11, 16, 18, 31, 33, 45, 52, 58, nonavalent (HPV)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">165</link-to>
+        </reference>
+    </code>
+    <code>
         <value>90281</value>
         <label>IG</label>
         <description></description>
@@ -548,6 +592,72 @@
         <use-date/>
     </code>
     <code>
+        <value>90653</value>
+        <label>Influenza virus vaccine, inactivated, subunit, adjuvanted for IM us</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90674</value>
+        <label>Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, preservative and antibiotic free, 0.5 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90687</value>
+        <label>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.25 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90688</value>
+        <label>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.5 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90630</value>
+        <label>Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, for intradermal use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">166</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90682</value>
+        <label>Influenza virus vaccine, quadrivalent (RIV4), derived from recombinant DNA, hemagglutinin (HA) protein only, preservative and antibiotic free, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
+        </reference>
+    </code>
+    <code>
         <value>90672</value>
         <label>Influenza virus vaccine, quadrivalent, live, for intranasal use</label>
         <description></description>
@@ -567,7 +677,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
         </reference>
         <use-date/>
     </code>
@@ -841,12 +951,12 @@
     <code>
         <value>90734</value>
         <label>meningococcal MCV4P</label>
-        <description></description>
+        <description>This CPT maps to 2 vaccines (MCV4P and MCV4O)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">114</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
         </reference>
         <use-date/>
     </code>
@@ -861,6 +971,28 @@
             <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90621</value>
+        <label>Meningococcal recombinant lipoprotein vaccine, serogroup B, 3 dose schedule, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">162</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90620</value>
+        <label>Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B, 2 dose schedule, for intramuscular</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
+        </reference>
     </code>
     <code>
         <value>90707</value>
@@ -981,7 +1113,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">02</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">182</link-to>
         </reference>
         <use-date/>
     </code>
@@ -1261,12 +1393,12 @@
     <code>
         <value>90714</value>
         <label>typhoid, unspecified formulation</label>
-        <description></description>
+        <description>Beginning in 2005, this CPT code maps to TD preservative free.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">91</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>

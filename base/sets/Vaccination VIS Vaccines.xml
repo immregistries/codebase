@@ -3,12 +3,70 @@
     <label>Vaccination VIS Vaccines</label>
     <type>VACCINATION_VIS_VACCINES</type>
     <code>
+        <value>143</value>
+        <label>Adenovirus VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300001111140611</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140611</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>24</value>
+        <label>Anthrax VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300002811100310</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100310</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>174</value>
+        <label>Cholera Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811170706</link-to>
+        </reference>
+        <use-date>
+            <not-before>20170706</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>20</value>
+        <label>Diphtheria/Tetanus/Pertussis (DTaP) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>106</value>
         <label>DTaP, 5 pertussis antigens</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>146</value>
@@ -17,6 +75,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>110</value>
@@ -25,6 +89,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>50</value>
@@ -41,6 +111,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>130</value>
@@ -49,6 +125,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>52</value>
@@ -57,6 +139,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211111025</link-to>
+        </reference>
+        <use-date>
+            <not-before>20111025</not-before>
+        </use-date>
     </code>
     <code>
         <value>83</value>
@@ -65,6 +153,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211111025</link-to>
+        </reference>
+        <use-date>
+            <not-before>20111025</not-before>
+        </use-date>
     </code>
     <code>
         <value>104</value>
@@ -73,6 +167,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120202</not-before>
+        </use-date>
     </code>
     <code>
         <value>08</value>
@@ -81,6 +181,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>42</value>
@@ -89,6 +195,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120202</not-before>
+        </use-date>
     </code>
     <code>
         <value>43</value>
@@ -97,6 +209,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120202</not-before>
+        </use-date>
     </code>
     <code>
         <value>44</value>
@@ -105,6 +223,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120202</not-before>
+        </use-date>
     </code>
     <code>
         <value>49</value>
@@ -113,6 +237,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>48</value>
@@ -121,6 +251,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>51</value>
@@ -129,6 +265,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>165</value>
+        <label>HPV Vaccine (Gardasil-9) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300029511150415</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150415</not-before>
+        </use-date>
     </code>
     <code>
         <value>118</value>
@@ -137,6 +292,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300007311110503</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110503</not-before>
+        </use-date>
     </code>
     <code>
         <value>62</value>
@@ -145,6 +306,155 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300008011130517</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130517</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>150</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>153</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>155</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>158</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>161</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>166</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>168</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>171</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>185</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>186</value>
+        <label>Influenza Vaccine - Inactivated VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>149</value>
+        <label>Influenza Vaccine - Live, Intranasal VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>135</value>
@@ -153,6 +463,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>141</value>
@@ -161,6 +477,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>140</value>
@@ -169,6 +491,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>144</value>
@@ -177,6 +505,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>111</value>
@@ -185,6 +519,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711150807</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150807</not-before>
+        </use-date>
     </code>
     <code>
         <value>10</value>
@@ -193,6 +533,51 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>134</value>
+        <label>Japanese Encephalitis VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300011011140124</link-to>
+        </reference>
+        <use-date>
+            <not-before>20140124</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>162</value>
+        <label>Meningococcal B VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300030111160809</link-to>
+        </reference>
+        <use-date>
+            <not-before>20160809</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>163</value>
+        <label>Meningococcal B VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300030111160809</link-to>
+        </reference>
+        <use-date>
+            <not-before>20160809</not-before>
+        </use-date>
     </code>
     <code>
         <value>148</value>
@@ -201,6 +586,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611981216</link-to>
+        </reference>
+        <use-date>
+            <not-before>19981216</not-before>
+        </use-date>
     </code>
     <code>
         <value>114</value>
@@ -209,6 +600,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111111014</link-to>
+        </reference>
+        <use-date>
+            <not-before>20111014</not-before>
+        </use-date>
     </code>
     <code>
         <value>136</value>
@@ -217,6 +614,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111111014</link-to>
+        </reference>
+        <use-date>
+            <not-before>20111014</not-before>
+        </use-date>
     </code>
     <code>
         <value>32</value>
@@ -225,6 +628,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111111014</link-to>
+        </reference>
+        <use-date>
+            <not-before>20111014</not-before>
+        </use-date>
     </code>
     <code>
         <value>03</value>
@@ -233,6 +642,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300012711120420</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120420</not-before>
+        </use-date>
     </code>
     <code>
         <value>94</value>
@@ -241,6 +656,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300013411100521</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100521</not-before>
+        </use-date>
     </code>
     <code>
         <value>133</value>
@@ -249,6 +670,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>100</value>
@@ -259,12 +686,70 @@
         </code-status>
     </code>
     <code>
+        <value>33</value>
+        <label>Pneumococcal Polysaccharide VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511150424</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150424</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>18</value>
+        <label>Rabies VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911091006</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091006</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>175</value>
+        <label>Rabies VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911091006</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091006</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>176</value>
+        <label>Rabies VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911091006</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091006</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>119</value>
         <label>rotavirus, monovalent</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
     </code>
     <code>
         <value>116</value>
@@ -273,6 +758,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+        </reference>
+        <use-date>
+            <not-before>20141022</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>121</value>
+        <label>Shingles VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300020211091006</link-to>
+        </reference>
+        <use-date>
+            <not-before>20091006</not-before>
+        </use-date>
     </code>
     <code>
         <value>138</value>
@@ -281,6 +785,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
     </code>
     <code>
         <value>113</value>
@@ -289,6 +799,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
     </code>
     <code>
         <value>09</value>
@@ -297,6 +813,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
     </code>
     <code>
         <value>115</value>
@@ -305,6 +827,77 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300027111150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>35</value>
+        <label>Tetanus/Diphtheria/Pertussis (Tdap/Td) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>142</value>
+        <label>Tetanus/Diphtheria/Pertussis (Tdap/Td) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150224</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>25</value>
+        <label>Typhoid VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300023311120529</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120529</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>41</value>
+        <label>Typhoid VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300023311120529</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120529</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>101</value>
+        <label>Typhoid VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300023311120529</link-to>
+        </reference>
+        <use-date>
+            <not-before>20120529</not-before>
+        </use-date>
     </code>
     <code>
         <value>21</value>
@@ -313,5 +906,37 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300024011080313</link-to>
+        </reference>
+        <use-date>
+            <not-before>20080313</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>37</value>
+        <label>Yellow Fever VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300025711110330</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110330</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>183</value>
+        <label>Yellow Fever VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300025711110330</link-to>
+        </reference>
+        <use-date>
+            <not-before>20110330</not-before>
+        </use-date>
     </code>
 </codeset>

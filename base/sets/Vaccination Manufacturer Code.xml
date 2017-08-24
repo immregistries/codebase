@@ -5,16 +5,18 @@
     <code>
         <value>AB</value>
         <label>Abbott Laboratories</label>
-        <description></description>
+        <description>includes Ross Products Division, Solvay</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>ACA</value>
         <label>Acambis, Inc</label>
-        <description></description>
+        <description>acquired by sanofi in sept 2008</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -30,7 +32,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>AKR</value>
@@ -39,7 +43,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>ALP</value>
@@ -48,12 +54,14 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>AR</value>
         <label>Armour</label>
-        <description></description>
+        <description>part of CSL</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -65,7 +73,7 @@
     <code>
         <value>AVB</value>
         <label>Aventis Behring L.L.C.</label>
-        <description></description>
+        <description>part of CSL</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -77,7 +85,7 @@
     <code>
         <value>AVI</value>
         <label>Aviron</label>
-        <description></description>
+        <description>acquired by Medimmune</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -89,20 +97,24 @@
     <code>
         <value>BRR</value>
         <label>Barr Laboratories</label>
-        <description></description>
+        <description>Subsidiary of Teva Pharmaceuticals</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20110320</not-before>
+        </use-date>
     </code>
     <code>
         <value>BAH</value>
         <label>Baxter Healthcare Corporation</label>
-        <description></description>
+        <description>includes Hyland Immuno, Immuno International AG,and North American Vaccine, Inc./acquired some assets from alpha therapeutics</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>BA</value>
@@ -119,7 +131,7 @@
     <code>
         <value>BAY</value>
         <label>Bayer Corporation</label>
-        <description></description>
+        <description>Bayer Biologicals now owned by Talecris</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -143,34 +155,40 @@
     <code>
         <value>BPC</value>
         <label>Berna Products Corporation</label>
-        <description></description>
+        <description>includes Swiss Serum and Vaccine Institute Berne</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>BTP</value>
         <label>Biotest Pharmaceuticals Corporation</label>
-        <description></description>
+        <description>New owner of NABI HB as of December 2007, Does NOT replace NABI Biopharmaceuticals in this code list.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>CNJ</value>
         <label>Cangene Corporation</label>
-        <description></description>
+        <description>Purchased by Emergent Biosolutions</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-after>20140429</not-after>
+        </use-date>
     </code>
     <code>
         <value>CMP</value>
         <label>Celltech Medeva Pharmaceuticals</label>
-        <description></description>
+        <description>Part of Novartis</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -194,7 +212,7 @@
     <code>
         <value>CHI</value>
         <label>Chiron Corporation</label>
-        <description></description>
+        <description>Part of Novartis</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -206,7 +224,7 @@
     <code>
         <value>CON</value>
         <label>Connaught</label>
-        <description></description>
+        <description>acquired by Merieux</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -216,13 +234,37 @@
         </use-date>
     </code>
     <code>
+        <value>CRU</value>
+        <label>Crucell</label>
+        <description>acquired Berna, now a J &amp; J company</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20131204</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>CSL</value>
         <label>CSL Behring, Inc</label>
+        <description>bioCSL a part of Seqirus</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20160926</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>DYN</value>
+        <label>Dynaport</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20160926</not-before>
+        </use-date>
     </code>
     <code>
         <value>DVC</value>
@@ -231,21 +273,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>MIP</value>
         <label>Emergent BioDefense Operations Lansing</label>
-        <description></description>
+        <description>A unit of Emergent BioSolutions, Bioport renamed. Formerly Michigan Biologic Products Institute</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20140429</not-before>
+        </use-date>
     </code>
     <code>
         <value>EVN</value>
         <label>Evans Medical Limited</label>
-        <description></description>
+        <description>Part of Novartis</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -261,16 +307,20 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>SKB</value>
         <label>GlaxoSmithKline</label>
-        <description></description>
+        <description>includes SmithKline Beecham and Glaxo Wellcome</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>GRE</value>
@@ -279,12 +329,36 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>GRF</value>
+        <label>Grifols</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20130905</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>IDB</value>
+        <label>ID Biomedical</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20130905</not-before>
+        </use-date>
     </code>
     <code>
         <value>IAG</value>
         <label>Immuno International AG</label>
-        <description></description>
+        <description>Part of Baxter</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -300,21 +374,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>INT</value>
         <label>Intercell Biomedical</label>
-        <description></description>
+        <description>subsidiary of Valneva</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-after>20160719</not-after>
+        </use-date>
     </code>
     <code>
         <value>JNJ</value>
         <label>Johnson and Johnson</label>
-        <description></description>
+        <description>acquired CRUCELL which acquired Berna</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -324,18 +402,31 @@
         </use-date>
     </code>
     <code>
+        <value>KED</value>
+        <label>Kedrion Biopharma</label>
+        <description>acquired Rho(D) from Ortho</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20140429</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>KGC</value>
         <label>Korea Green Cross Corporation</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>LED</value>
         <label>Lederle</label>
-        <description></description>
+        <description>became a part of WAL, now owned by Pfizer</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -347,11 +438,13 @@
     <code>
         <value>MBL</value>
         <label>Massachusetts Biologic Laboratories</label>
-        <description></description>
+        <description>formerly Massachusetts Public Health Biologic Laboratories</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>MA</value>
@@ -366,13 +459,26 @@
         </use-date>
     </code>
     <code>
-        <value>MED</value>
-        <label>MedImmune, Inc.</label>
-        <description></description>
+        <value>MCM</value>
+        <label>MCM Vaccine Company</label>
+        <description>Partnership between Merck and Sanofi Pasteur</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20150921</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>MED</value>
+        <label>MedImmune, Inc.</label>
+        <description>acquisitions of U.S. Bioscience in 1999 and Aviron in 2002, as well as the integration with Cambridge Antibody Technology and the strategic alignment with our new parent company, AstraZeneca, in 2007.</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>MSD</value>
@@ -381,12 +487,14 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20121018</not-before>
+        </use-date>
     </code>
     <code>
         <value>IM</value>
         <label>Merieux</label>
-        <description></description>
+        <description>Part of sanofi</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -410,11 +518,13 @@
     <code>
         <value>NAB</value>
         <label>NABI</label>
-        <description></description>
+        <description>formerly North American Biologicals, Inc.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>NYB</value>
@@ -423,12 +533,14 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>NAV</value>
         <label>North American Vaccine, Inc.</label>
-        <description></description>
+        <description>part of Baxter</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -440,11 +552,13 @@
     <code>
         <value>NOV</value>
         <label>Novartis Pharmaceutical Corporation</label>
-        <description></description>
+        <description>Novartis has sold its flu vaccines to Seqirus and other vaccines to GlaxoSmithKline. While Novartis vaccines may still be in circulation, its status is set to not active.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-after>20160413</not-after>
+        </use-date>
     </code>
     <code>
         <value>NVX</value>
@@ -453,7 +567,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>OTC</value>
@@ -462,16 +578,20 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20101102</not-before>
+        </use-date>
     </code>
     <code>
         <value>ORT</value>
         <label>Ortho-clinical Diagnostics</label>
-        <description></description>
+        <description>a J &amp; J company (formerly Ortho Diagnostic Systems, Inc.)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>OTH</value>
@@ -480,12 +600,14 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>PD</value>
         <label>Parkedale Pharmaceuticals</label>
-        <description></description>
+        <description>no website and no news articles (formerly Parke-Davis)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -495,18 +617,31 @@
         </use-date>
     </code>
     <code>
-        <value>PFR</value>
-        <label>Pfizer, Inc</label>
+        <value>PAX</value>
+        <label>PaxVax</label>
         <description></description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20150624</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>PFR</value>
+        <label>Pfizer, Inc</label>
+        <description>includes Wyeth-Lederle Vaccines and Pediatrics, Wyeth Laboratories, Lederle Laboratories, and Praxis Biologics,</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>PWJ</value>
         <label>PowderJect Pharmaceuticals</label>
-        <description></description>
+        <description>See Novartis</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -518,7 +653,7 @@
     <code>
         <value>PRX</value>
         <label>Praxis Biologics</label>
-        <description></description>
+        <description>became a part of WAL, now owned by Pfizer</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -534,16 +669,20 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20130501</not-before>
+        </use-date>
     </code>
     <code>
         <value>PMC</value>
         <label>sanofi pasteur</label>
-        <description></description>
+        <description>formerly Aventis Pasteur, Pasteur Merieux Connaught; includes Connaught Laboratories and Pasteur Merieux. Acquired ACAMBIS.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>SCL</value>
@@ -552,12 +691,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>SEQ</value>
+        <label>Seqirus</label>
+        <description>Seqirus acquired the flu vaccines from Novartis. It also includes the CSL vaccines.</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20160413</not-before>
+        </use-date>
     </code>
     <code>
         <value>SOL</value>
         <label>Solvay Pharmaceuticals</label>
-        <description></description>
+        <description>Part of Abbott</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -569,7 +721,7 @@
     <code>
         <value>SI</value>
         <label>Swiss Serum and Vaccine Inst.</label>
-        <description></description>
+        <description>Part of Berna</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -581,11 +733,13 @@
     <code>
         <value>TAL</value>
         <label>Talecris Biotherapeutics</label>
-        <description></description>
+        <description>includes Bayer Biologicals</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>JPN</value>
@@ -594,7 +748,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>USA</value>
@@ -603,7 +759,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>UNK</value>
@@ -612,12 +770,25 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>VAL</value>
+        <label>Valneva</label>
+        <description>Distributes through Intercell in the US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20160719</not-before>
+        </use-date>
     </code>
     <code>
         <value>VXG</value>
         <label>VaxGen</label>
-        <description></description>
+        <description>acquired by Emergent Biodefense Operations Lansing, Inc</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -629,16 +800,18 @@
     <code>
         <value>WAL</value>
         <label>Wyeth</label>
-        <description></description>
+        <description>acquired by Pfizer 10/15/2009</description>
         <code-status>
             <status>Valid</status>
         </code-status>
-        <use-date/>
+        <use-date>
+            <not-before>20100528</not-before>
+        </use-date>
     </code>
     <code>
         <value>WA</value>
         <label>Wyeth-Ayerst</label>
-        <description></description>
+        <description>became WAL, now owned by Pfizer</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -650,7 +823,7 @@
     <code>
         <value>ZLB</value>
         <label>ZLB Behring</label>
-        <description></description>
+        <description>acquired by CSL</description>
         <code-status>
             <status>Valid</status>
         </code-status>
