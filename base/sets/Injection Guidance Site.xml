@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+	<label>Injection Guidance Site</label>
+	<type>INJECTION_GUIDANCE_SITE</type>
+	<code>
+		<value>Subcut-Infant</value>
+		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+			<link-to codeset="BODY_SITE"></link-to>
+		</reference>
+	</code>
+
+	<code>
+		<value>IM-Newborns</value>
+		<label>Intramuscular Injection for Infants (1st 28 days)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Infants</value>
+		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+</codeset>

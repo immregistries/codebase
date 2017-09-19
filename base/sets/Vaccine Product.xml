@@ -107,6 +107,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NAV</link-to>
+            <link-to codeset="BODY_ROUTE">IM</link-to>
         </reference>
         <use-date>
             <not-before>19980101</not-before>

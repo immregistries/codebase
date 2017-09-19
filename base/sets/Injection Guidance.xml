@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+	<label>Injection Guidance</label>
+	<type>INJECTION_GUIDANCE</type>
+	<code>
+		<value>HepA-Child</value>
+		<label>Hepatitis A Injection for Child (<= 18 years)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+		</reference>
+
+	</code>
+	<code>
+		<value>HepA-Adult</value>
+		<label>Hepatatis A Injection for Adult (>= 19 years)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+		</reference>
+
+	</code>
+</codeset>
