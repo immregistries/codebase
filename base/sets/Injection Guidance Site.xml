@@ -14,10 +14,22 @@
 			<link-to codeset="BODY_SITE"></link-to>
 		</reference>
 	</code>
+	<code>
+		<value>Subcut->=12 mo.</value>
+		<label>Subcutaneous Injection for Children 12 mos or older, adolescents, and adults</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+			<link-to codeset="BODY_SITE"></link-to>
+		</reference>
+	</code>
 
 	<code>
 		<value>IM-Newborns</value>
-		<label>Intramuscular Injection for Infants (1st 28 days)</label>
+		<label>Intramuscular Injection for Newborns (1st 28 days)</label>
 		<description></description>
 		<code-status>
 			<status>Valid</status>
@@ -31,6 +43,71 @@
 	<code>
 		<value>IM-Infants</value>
 		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Toddlers-Thigh</value>
+		<label>Subcutaneous Injection for Toddlers (1-2 years) - Anterolateral thigh muscle</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Toddlers-Arm</value>
+		<label>Subcutaneous Injection for Toddlers (1-2 years) - Deltoid muscle of arm</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Children 3-18yrs-Arm</value>
+		<label>Subcutaneous Injection for Children and teens (3-18 years) - Deltoid muscle of arm</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Children 3-18yrs-Thigh</value>
+		<label>Subcutaneous Injection for Children and teens (3-18 years) - Anterolateral thigh muscle</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+			<link-to codeset="BODY_SITE">LT</link-to>
+			<link-to codeset="BODY_SITE">RT</link-to>
+		</reference>
+	</code>
+	<code>
+		<value>IM-Adults->=19</value>
+		<label>Subcutaneous Injection for Adults 19 years or older - Anterolateral thigh muscle</label>
 		<description></description>
 		<code-status>
 			<status>Valid</status>
