@@ -10,7 +10,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -22,7 +23,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -35,8 +37,11 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
-
+		<use-age>
+			<not-after-month>227</not-after-month>
+		</use-age>
 	</code>
 	<code>
 		<value>HepA-Adult</value>
@@ -47,7 +52,11 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<use-age>
+			<not-before-month>227</not-before-month>
+		</use-age>
 
 	</code>
 	<code>
@@ -59,7 +68,11 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<use-age>
+			<not-after-month>228</not-after-month>
+		</use-age>
 
 	</code>
 	<code>
@@ -71,18 +84,23 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<use-age>
+			<not-before-month>239</not-before-month>
+		</use-age>
 
 	</code>
 	<code>
-		<value>HPC</value>
+		<value>HPV</value>
 		<label>Human papillomavirus</label>
 		<description></description>
 		<code-status>
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -94,7 +112,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.2</link-to>
+			<link-to codeset="BODY_ROUTE">IN</link-to>
 		</reference>
 
 	</code>
@@ -106,8 +125,13 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.25</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<use-age>
+			<not-before-month>6</not-before-month>
+			<not-after-month>35</not-after-month>
+		</use-age>
 
 	</code>
 	<code>
@@ -118,8 +142,10 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<not-before-month>36</not-before-month>
 
 	</code>
 	<code>
@@ -130,8 +156,13 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.1</link-to>
+			<link-to codeset="BODY_ROUTE">ID</link-to>
 		</reference>
+		<use-age>
+			<not-before-month>216</not-before-month>
+			<not-after-month>768</not-after-month>
+		</use-age>
 
 	</code>
 	<code>
@@ -142,7 +173,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -154,7 +186,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -166,7 +199,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -178,7 +212,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -190,7 +225,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -202,7 +238,9 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -214,7 +252,9 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -227,6 +267,7 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="BODY_ROUTE">PO</link-to>
 		</reference>
 
 	</code>
@@ -238,7 +279,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">2.0</link-to>
+			<link-to codeset="BODY_ROUTE">PO</link-to>
 		</reference>
 
 	</code>
@@ -250,7 +292,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -262,7 +305,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.65</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
 
 	</code>
@@ -274,7 +318,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -286,7 +331,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -298,7 +344,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -310,7 +357,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -322,7 +370,8 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
 
 	</code>
@@ -334,8 +383,12 @@
 			<status>Valid</status>
 		</code-status>
 		<reference>
-			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+			<link-to codeset="BODY_ROUTE">SC</link-to>
 		</reference>
+		<use-age>
+			<not-after-month>144</not-after-month>
+		</use-age>
 
 	</code>
 	<code>
@@ -347,7 +400,11 @@
 		</code-status>
 		<reference>
 			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+			<link-to codeset="BODY_ROUTE">IM</link-to>
 		</reference>
+		<use-age>
+			<not-before-month>216</not-before-month>
+		</use-age>
 
 	</code>
 </codeset>
