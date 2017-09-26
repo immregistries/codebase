@@ -2477,6 +2477,567 @@
         </code>
     </codeset>
     <codeset>
+    	<label>Injection Guidance Site</label>
+    	<type>INJECTION_GUIDANCE_SITE</type>
+    	<code>
+    		<value>Subcut-Infant</value>
+    		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+    			<link-to codeset="BODY_SITE"></link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>1</not-before-month>
+                <not-after-month>12</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>Subcut->=12 mo.</value>
+    		<label>Subcutaneous Injection for Children 12 mos or older, adolescents, and adults</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+    			<link-to codeset="BODY_SITE"></link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>144</not-before-month>
+            </use-age>
+    	</code>
+    
+    	<code>
+    		<value>IM-Newborns</value>
+    		<label>Intramuscular Injection for Newborns (1st 28 days)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference><use-age>
+                <not-after-month>1</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Infants</value>
+    		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>1</not-before-month>
+                <not-after-month>12</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Toddlers-Thigh</value>
+    		<label>Subcutaneous Injection for Toddlers (1-2 years) - Anterolateral thigh muscle</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>12</not-before-month>
+                <not-after-month>24</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Toddlers-Arm</value>
+    		<label>Subcutaneous Injection for Toddlers (1-2 years) - Deltoid muscle of arm</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>12</not-before-month>
+                <not-after-month>24</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Children 3-18yrs-Arm</value>
+    		<label>Subcutaneous Injection for Children and teens (3-18 years) - Deltoid muscle of arm</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>36</not-before-month>
+                <not-after-month>216</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Children 3-18yrs-Thigh</value>
+    		<label>Subcutaneous Injection for Children and teens (3-18 years) - Anterolateral thigh muscle</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>36</not-before-month>
+                <not-after-month>216</not-after-month>
+            </use-age>
+    	</code>
+    	<code>
+    		<value>IM-Adults->=19</value>
+    		<label>Subcutaneous Injection for Adults 19 years or older - Anterolateral thigh muscle</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
+    			<link-to codeset="BODY_SITE">LT</link-to>
+    			<link-to codeset="BODY_SITE">RT</link-to>
+    		</reference>
+    		<use-age>
+                <not-before-month>228</not-before-month>
+            </use-age>
+    	</code>
+    </codeset>
+    <codeset>
+    	<label>Injection Guidance</label>
+    	<type>INJECTION_GUIDANCE</type>
+    	<code>
+    		<value>DTaP</value>
+    		<label>Diptheria, Tetanus, Pertussis</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>Hib</value>
+    		<label>Haemophilus influenzae type b</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>HepA-Child</value>
+    		<label>Hepatitis A Injection for Child (&lt;= 18 years)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-after-month>227</not-after-month>
+    		</use-age>
+    	</code>
+    	<code>
+    		<value>HepA-Adult</value>
+    		<label>Hepatatis A Injection for Adult (&gt;= 19 years)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-before-month>227</not-before-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>HepB-Child</value>
+    		<label>Hepatitis A Injection for Child (&lt;= 18 years)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-after-month>228</not-after-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>HepB-Adult</value>
+    		<label>Hepatatis B Injection for Adult (&gt;= 19 years)</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-before-month>239</not-before-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>HPV</value>
+    		<label>Human papillomavirus</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>LAIV</value>
+    		<label>Influenza, live attenuated</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.2</link-to>
+    			<link-to codeset="BODY_ROUTE">IN</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>IIV-RIV-infant</value>
+    		<label>Influenza, inactivated; recombinant; 6-35 mos.</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.25</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-before-month>6</not-before-month>
+    			<not-after-month>35</not-after-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>IIV-RIV</value>
+    		<label>Influenza, inactivated; recombinant</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<not-before-month>36</not-before-month>
+    
+    	</code>
+    	<code>
+    		<value>IIV</value>
+    		<label>Influenza Fluzone Intradermal; 18-64 years</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.1</link-to>
+    			<link-to codeset="BODY_ROUTE">ID</link-to>
+    		</reference>
+    		<use-age>
+    			<not-before-month>216</not-before-month>
+    			<not-after-month>768</not-after-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>MMR</value>
+    		<label>Measles, Mumps, Rubella</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>MCV4</value>
+    		<label>Meningococcal conjugate</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>MenB</value>
+    		<label>Meningococcal serogroup B</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>MPSV</value>
+    		<label>Meningococcal polysaccharide</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>PCV</value>
+    		<label>Pneumococcal conjugate</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>PPSV</value>
+    		<label>Pneumococcal polysaccharide</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>IPV</value>
+    		<label>Polio, inactivated</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>RV-RX</value>
+    		<label>Rotavirus</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+    			<link-to codeset="BODY_ROUTE">PO</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>RV-RQ</value>
+    		<label>Rotavirus</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">2.0</link-to>
+    			<link-to codeset="BODY_ROUTE">PO</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>Var</value>
+    		<label>Varicella</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>Zos</value>
+    		<label>Zoster</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.65</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>DTap-HepB-IPV-combo</value>
+    		<label>Pediarix</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>DTap-IPV-Hib-combo</value>
+    		<label>Pentacel</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>DTap-IPV-combo</value>
+    		<label>Kinrix; Quadracel</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>Hib-HepB-combo</value>
+    		<label>Comvax</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>Hib-MenCY-combo</value>
+    		<label>MenHibrix</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    
+    	</code>
+    	<code>
+    		<value>MMRV-combo</value>
+    		<label>ProQuad</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">0.5</link-to>
+    			<link-to codeset="BODY_ROUTE">SC</link-to>
+    		</reference>
+    		<use-age>
+    			<not-after-month>144</not-after-month>
+    		</use-age>
+    
+    	</code>
+    	<code>
+    		<value>HepA-HepB-combo</value>
+    		<label>Twinrix</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    		<reference>
+    			<link-to codeset="INJECTION_AMOUNT">1.0</link-to>
+    			<link-to codeset="BODY_ROUTE">IM</link-to>
+    		</reference>
+    		<use-age>
+    			<not-before-month>216</not-before-month>
+    		</use-age>
+    
+    	</code>
+    </codeset>
+    <codeset>
         <label>Message Processing Id</label>
         <type>MESSAGE_PROCESSING_ID</type>
         <code>
@@ -11432,6 +11993,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINE_GROUP">HIB</link-to>
+                <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
             </reference>
             <use-date>
                 <not-before>19960101</not-before>
@@ -11987,7 +12549,6 @@
                 <link-to codeset="VACCINE_GROUP">FLU</link-to>
             </reference>
             <use-date>
-                <not-before>20130717</not-before>
             </use-date>
             <use-age>
                 <not-before-month>6</not-before-month>
@@ -41146,6 +41707,7 @@
             <reference>
                 <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
                 <link-to codeset="VACCINATION_MANUFACTURER_CODE">NAV</link-to>
+                <link-to codeset="BODY_ROUTE">IM</link-to>
             </reference>
             <use-date>
                 <not-before>19980101</not-before>
