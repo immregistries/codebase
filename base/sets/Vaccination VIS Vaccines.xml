@@ -10,6 +10,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300001111140611</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
         </reference>
         <use-date>
             <not-before>20140611</not-before>
@@ -23,6 +24,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300002811100310</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
         </reference>
         <use-date>
             <not-before>20100310</not-before>
@@ -36,6 +38,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811170706</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
         </reference>
         <use-date>
             <not-before>20170706</not-before>
@@ -49,6 +52,9 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE"></link-to>
         </reference>
         <use-date>
             <not-before>20141022</not-before>
