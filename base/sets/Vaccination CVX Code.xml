@@ -1024,6 +1024,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINE_GROUP">HIB</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
         </reference>
         <use-date>
             <not-before>19960101</not-before>
@@ -1579,7 +1580,6 @@
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
         <use-date>
-            <not-before>20130717</not-before>
         </use-date>
         <use-age>
             <not-before-month>6</not-before-month>
