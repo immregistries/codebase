@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+	<label>Injection Amount</label>
+	<type>INJECTION_AMOUNT</type>
+	<code>
+		<value>0.5</value>
+		<label>0.5mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+	<code>
+		<value>0.2</value>
+		<label>0.2mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+	<code>
+		<value>0.25</value>
+		<label>0.25mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+	<code>
+		<value>0.65</value>
+		<label>0.65mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+	<code>
+		<value>1.0</value>
+		<label>1.0mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+	<code>
+		<value>2.0</value>
+		<label>2.0mL</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+	</code>
+</codeset>

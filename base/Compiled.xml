@@ -2477,6 +2477,58 @@
         </code>
     </codeset>
     <codeset>
+    	<label>Injection Amount</label>
+    	<type>INJECTION_AMOUNT</type>
+    	<code>
+    		<value>0.5</value>
+    		<label>0.5mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    	<code>
+    		<value>0.2</value>
+    		<label>0.2mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    	<code>
+    		<value>0.25</value>
+    		<label>0.25mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    	<code>
+    		<value>0.65</value>
+    		<label>0.65mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    	<code>
+    		<value>1.0</value>
+    		<label>1.0mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    	<code>
+    		<value>2.0</value>
+    		<label>2.0mL</label>
+    		<description></description>
+    		<code-status>
+    			<status>Valid</status>
+    		</code-status>
+    	</code>
+    </codeset>
+    <codeset>
     	<label>Injection Guidance Site</label>
     	<type>INJECTION_GUIDANCE_SITE</type>
     	<code>
@@ -40274,6 +40326,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300001111140611</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
             </reference>
             <use-date>
                 <not-before>20140611</not-before>
@@ -40287,6 +40340,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300002811100310</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
             </reference>
             <use-date>
                 <not-before>20100310</not-before>
@@ -40300,6 +40354,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811170706</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
             </reference>
             <use-date>
                 <not-before>20170706</not-before>
@@ -40313,6 +40368,9 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE"></link-to>
             </reference>
             <use-date>
                 <not-before>20141022</not-before>
