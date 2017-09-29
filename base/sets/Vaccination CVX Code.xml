@@ -13,6 +13,7 @@
 		</code-status>
 		<reference>
 			<link-to codeset="VACCINE_GROUP">ADENO</link-to>
+			<link-to codeset="VACCINATION_VIS_VACCINES">143</link-to>
 		</reference>
 		<use-date>
 			<not-before>20090316</not-before>
@@ -34,6 +35,7 @@
 		</code-status>
 		<reference>
 			<link-to codeset="VACCINE_GROUP">ADENO</link-to>
+			<link-to codeset="VACCINATION_VIS_VACCINES">143</link-to>
 		</reference>
 		<use-date>
 			<not-before>20090316</not-before>
