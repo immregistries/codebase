@@ -1,53 +1,104 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
-	<label>Injection Amount</label>
-	<type>INJECTION_AMOUNT</type>
-	<code>
-		<value>0.5</value>
-		<label>0.5mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
-	<code>
-		<value>0.2</value>
-		<label>0.2mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
-	<code>
-		<value>0.25</value>
-		<label>0.25mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
-	<code>
-		<value>0.65</value>
-		<label>0.65mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
-	<code>
-		<value>1.0</value>
-		<label>1.0mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
-	<code>
-		<value>2.0</value>
-		<label>2.0mL</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-	</code>
+    <label>Injection Amount</label>
+    <type>INJECTION_AMOUNT</type>
+    <code>
+        <value>0.1</value>
+        <label>0.1mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">IIV</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>0.25</value>
+        <label>0.25mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">IIV-RIV-infant</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>0.2</value>
+        <label>0.2mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">LAIV</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>0.5</value>
+        <label>0.5mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">DTaP</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-Child</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HPV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IIV-RIV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MCV4</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MenB</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MPSV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">PCV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">PPSV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IPV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Var</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-HepB-IPV-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-IPV-Hib-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-IPV-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib-HepB-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib-MenCY-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MMRV-combo</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>0.65</value>
+        <label>0.65mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">Zos</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>1.0</value>
+        <label>1.0mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-Adult</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Adult</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">RV-RX</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-HepB-combo</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>2.0</value>
+        <label>2.0mL</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">RV-RQ</link-to>
+        </reference>
+    </code>
 </codeset>

@@ -17,6 +17,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">IIV</link-to>
+        </reference>
     </code>
     <code>
         <value>C28161</value>
@@ -33,6 +36,28 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">DTaP</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-Child</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-Adult</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Adult</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HPV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IIV-RIV-infant</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IIV-RIV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MCV4</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MenB</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">PCV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">PPSV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IPV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-HepB-IPV-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-IPV-Hib-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">DTap-IPV-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib-HepB-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Hib-MenCY-combo</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">HepA-HepB-combo</link-to>
+        </reference>
     </code>
     <code>
         <value>IN</value>
@@ -41,6 +66,9 @@
         <code-status>
             <status>Deprecated</status>
         </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">LAIV</link-to>
+        </reference>
     </code>
     <code>
         <value>C38276</value>
@@ -89,6 +117,10 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">RV-RX</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">RV-RQ</link-to>
+        </reference>
     </code>
     <code>
         <value>OTH</value>
@@ -121,6 +153,15 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MPSV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">PPSV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">IPV</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Var</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">Zos</link-to>
+            <link-to codeset="INJECTION_GUIDANCE">MMRV-combo</link-to>
+        </reference>
     </code>
     <code>
         <value>C38305</value>

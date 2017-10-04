@@ -1,153 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <codeset>
-	<label>Injection Guidance Site</label>
-	<type>INJECTION_GUIDANCE_SITE</type>
-	<code>
-		<value>Subcut-Infant</value>
-		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
-			<link-to codeset="BODY_SITE"></link-to>
-		</reference>
-		<use-age>
-            <not-before-month>1</not-before-month>
+    <label>Injection Guidance Site</label>
+    <type>INJECTION_GUIDANCE_SITE</type>
+    <code>
+        <value>IM-Infants</value>
+        <label>Intramuscular Injection for Newborns and Infants</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
+            <link-to codeset="BODY_SITE">LT</link-to>
+            <link-to codeset="BODY_SITE">RT</link-to>
+        </reference>
+        <use-age>
             <not-after-month>12</not-after-month>
         </use-age>
-	</code>
-	<code>
-		<value>Subcut->=12 mo.</value>
-		<label>Subcutaneous Injection for Children 12 mos or older, adolescents, and adults</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
-			<link-to codeset="BODY_SITE"></link-to>
-		</reference>
-		<use-age>
-            <not-before-month>144</not-before-month>
-        </use-age>
-	</code>
-
-	<code>
-		<value>IM-Newborns</value>
-		<label>Intramuscular Injection for Newborns (1st 28 days)</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference><use-age>
-            <not-after-month>1</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Infants</value>
-		<label>Subcutaneous Injection for Infants (1-12 mos)</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
-            <not-before-month>1</not-before-month>
-            <not-after-month>12</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Toddlers-Thigh</value>
-		<label>Subcutaneous Injection for Toddlers (1-2 years) - Anterolateral thigh muscle</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
-            <not-before-month>12</not-before-month>
-            <not-after-month>24</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Toddlers-Arm</value>
-		<label>Subcutaneous Injection for Toddlers (1-2 years) - Deltoid muscle of arm</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
-            <not-before-month>12</not-before-month>
-            <not-after-month>24</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Children 3-18yrs-Arm</value>
-		<label>Subcutaneous Injection for Children and teens (3-18 years) - Deltoid muscle of arm</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
-            <not-before-month>36</not-before-month>
-            <not-after-month>216</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Children 3-18yrs-Thigh</value>
-		<label>Subcutaneous Injection for Children and teens (3-18 years) - Anterolateral thigh muscle</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
-            <not-before-month>36</not-before-month>
-            <not-after-month>216</not-after-month>
-        </use-age>
-	</code>
-	<code>
-		<value>IM-Adults->=19</value>
-		<label>Subcutaneous Injection for Adults 19 years or older - Anterolateral thigh muscle</label>
-		<description></description>
-		<code-status>
-			<status>Valid</status>
-		</code-status>
-		<reference>
-			<link-to codeset="INJECTION_GUIDANCE">HepB</link-to>
-			<link-to codeset="BODY_SITE">LT</link-to>
-			<link-to codeset="BODY_SITE">RT</link-to>
-		</reference>
-		<use-age>
+    </code>
+    <code>
+        <value>IM-Adult</value>
+        <label>Subcutaneous Injection for Adults 19 years or older</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Adult</link-to>
+            <link-to codeset="BODY_SITE">LT</link-to>
+            <link-to codeset="BODY_SITE">RT</link-to>
+        </reference>
+        <use-age>
             <not-before-month>228</not-before-month>
         </use-age>
-	</code>
+    </code>
+    <code>
+        <value>Subcut</value>
+        <label>Subcutaneous Injection for Children 12 mos or older, adolescents, and adults</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+        </reference>
+        <use-age>
+            <not-before-month>144</not-before-month>
+        </use-age>
+    </code>
+    <code>
+        <value>Subcut-Infant</value>
+        <label>Subcutaneous Injection for Infants (1-12 mos)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">MMR</link-to>
+        </reference>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>12</not-after-month>
+        </use-age>
+    </code>
+    <code>
+        <value>IM-Child</value>
+        <label>Subcutaneous Injection for Toddlers (1-2 years)</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="INJECTION_GUIDANCE">HepB-Child</link-to>
+            <link-to codeset="BODY_SITE">LT</link-to>
+            <link-to codeset="BODY_SITE">RT</link-to>
+            <link-to codeset="BODY_SITE">LA</link-to>
+            <link-to codeset="BODY_SITE">RA</link-to>
+        </reference>
+        <use-age>
+            <not-before-month>12</not-before-month>
+            <not-after-month>227</not-after-month>
+        </use-age>
+    </code>
 </codeset>

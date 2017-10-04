@@ -11,6 +11,8 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300001111140611</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300001111110714</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">54</link-to>
         </reference>
         <use-date>
             <not-before>20140611</not-before>
@@ -54,7 +56,6 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE"></link-to>
         </reference>
         <use-date>
             <not-before>20141022</not-before>
@@ -83,6 +84,13 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300003511070517</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911160720</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411151105</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411121116</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300017211160720</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300017211111108</link-to>
         </reference>
         <use-date>
             <not-before>20141022</not-before>
@@ -175,6 +183,8 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911120202</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211160720</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211111025</link-to>
         </reference>
         <use-date>
             <not-before>20120202</not-before>
@@ -286,6 +296,8 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300029511150415</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300029511160331</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300029511161202</link-to>
         </reference>
         <use-date>
             <not-before>20150415</not-before>
@@ -314,6 +326,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300008011130517</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300008011120222</link-to>
         </reference>
         <use-date>
             <not-before>20130517</not-before>
@@ -366,6 +379,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311120702</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
@@ -379,6 +393,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311130726</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
@@ -392,6 +407,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311150807</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311140819</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
@@ -457,6 +473,9 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711150807</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711120702</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711130726</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711140819</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
@@ -554,6 +573,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300011011140124</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300011011111207</link-to>
         </reference>
         <use-date>
             <not-before>20140124</not-before>
@@ -580,6 +600,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300030111160809</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300030111150814</link-to>
         </reference>
         <use-date>
             <not-before>20160809</not-before>
@@ -594,6 +615,8 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611981216</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611140204</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611150402</link-to>
         </reference>
         <use-date>
             <not-before>19981216</not-before>
@@ -622,6 +645,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111111014</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111160331</link-to>
         </reference>
         <use-date>
             <not-before>20111014</not-before>
@@ -678,6 +702,9 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300015811151105</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300015811100416</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300015811130227</link-to>
         </reference>
         <use-date>
             <not-before>20141022</not-before>
@@ -699,6 +726,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511150424</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511091006</link-to>
         </reference>
         <use-date>
             <not-before>20150424</not-before>
@@ -752,6 +780,9 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411141022</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300019611101206</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300019611130826</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300019611150415</link-to>
         </reference>
         <use-date>
             <not-before>20141022</not-before>
@@ -835,6 +866,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300027111150224</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300027111130509</link-to>
         </reference>
         <use-date>
             <not-before>20150224</not-before>
@@ -861,6 +893,9 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811150224</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811170411</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300028811140204</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300022611120124</link-to>
         </reference>
         <use-date>
             <not-before>20150224</not-before>

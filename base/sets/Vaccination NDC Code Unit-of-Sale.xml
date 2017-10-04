@@ -8166,6 +8166,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-00</link-to>
         </reference>
         <use-date>
             <not-before>20090330</not-before>

@@ -173,6 +173,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
         </reference>
         <use-date/>
     </code>
@@ -1039,6 +1040,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
         </reference>
         <use-date>
             <not-expected-after>20100831</not-expected-after>
@@ -1399,6 +1401,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>
