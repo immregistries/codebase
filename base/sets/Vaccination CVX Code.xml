@@ -493,7 +493,7 @@
 			<not-before-month>1</not-before-month>
 			<not-after-month>1440</not-after-month>
 		</use-age>
-		<concept-type>never active</concept-type>
+		<concept-type>pending</concept-type>
 		<test-age>2 months</test-age>
 	</code>
 	<code>
