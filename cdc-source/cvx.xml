@@ -1,4 +1,4 @@
-<?xml version='1.0'?>
+<?xml version='1.0' encoding='ISO-8859-1'?>
 <CVXCodes>
 	<CVXInfo>
 		<ShortDescription>Adenovirus types 4 and 7</ShortDescription>
@@ -226,16 +226,13 @@
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>DTaP-IPV-HIB-HEP B, historical</ShortDescription>
-		<FullVaccinename>Historical record of vaccine containing
-			* diphtheria, tetanus toxoids and acellular pertussis,
-			* poliovirus, inactivated,
-			* Haemophilus influenzae type b conjugate,
-			* Hepatitis B
-		</FullVaccinename>
+		<FullVaccinename>Historical diphtheria and tetanus toxoids and
+			acellular pertussis, poliovirus, Haemophilus b conjugate and
+			hepatitis B (recombinant) vaccine.</FullVaccinename>
 		<CVXCode>132       </CVXCode>
 		<Notes>This is not the same as CVX 146, Hexavalent vaccine.</Notes>
 		<Status>Inactive</Status>
-		<LastUpdated>5/18/2015</LastUpdated>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>DTAP/IPV/HIB - non-US</ShortDescription>
@@ -374,10 +371,10 @@
 		<Notes>This code applies to any standard pediatric formulation of
 			Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B
 			schedule for adolescents (11-15 year olds). It requires Merck's
-			Recombivax HB&#174; adult formulation. Use code 43 for that vaccine.
+			Recombivax HB adult formulation. Use code 43 for that vaccine.
 		</Notes>
 		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>Hep B, adolescent/high risk infant
@@ -399,11 +396,11 @@
 		<CVXCode>43        </CVXCode>
 		<Notes>As of September 1999, a 2-dose hepatitis B schedule for
 			adolescents (11-15 year olds) was FDA approved for Merck's Recombivax
-			HB&#174; adult formulation. Use code 43 for the 2-dose. This code
-			should be used for any use of standard adult formulation of hepatitis
-			B vaccine.</Notes>
+			HB adult formulation. Use code 43 for the 2-dose. This code should be
+			used for any use of standard adult formulation of hepatitis B
+			vaccine.</Notes>
 		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>Hep B, dialysis</ShortDescription>
@@ -440,6 +437,15 @@
 		<Notes></Notes>
 		<Status>Never Active</Status>
 		<LastUpdated>5/28/2010</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>HepB-CpG</ShortDescription>
+		<FullVaccinename>Hepatitis B vaccine (recombinant), CpG adjuvanted
+		</FullVaccinename>
+		<CVXCode>189       </CVXCode>
+		<Notes></Notes>
+		<Status>Active</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>herpes simplex 2</ShortDescription>
@@ -637,10 +643,10 @@
 		<LastUpdated>6/16/2016</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription>Influenza, injectable, MDCK, quadrivalent
-		</ShortDescription>
+		<ShortDescription>Influenza, injectable, MDCK, quadrivalent,
+			preservative</ShortDescription>
 		<FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney,
-			quadrivalent</FullVaccinename>
+			quadrivalent with preservative</FullVaccinename>
 		<CVXCode>186       </CVXCode>
 		<Notes></Notes>
 		<Status>Active</Status>
@@ -899,6 +905,26 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
+		<ShortDescription>meningococcal A polysaccharide (non-US)
+		</ShortDescription>
+		<FullVaccinename>meningococcal A polysaccharide vaccine (non-US)
+		</FullVaccinename>
+		<CVXCode>191       </CVXCode>
+		<Notes></Notes>
+		<Status>Non-US</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>meningococcal AC polysaccharide (non-US)
+		</ShortDescription>
+		<FullVaccinename>meningococcal AC polysaccharide vaccine (non-US)
+		</FullVaccinename>
+		<CVXCode>192       </CVXCode>
+		<Notes></Notes>
+		<Status>Non-US</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
 		<ShortDescription>meningococcal ACWY, unspecified formulation
 		</ShortDescription>
 		<FullVaccinename>meningococcal ACWY vaccine, unspecified formulation
@@ -954,8 +980,8 @@
 			Tetanus Toxoid Conjugate Vaccine</FullVaccinename>
 		<CVXCode>148       </CVXCode>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>7/11/2012</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>5/11/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>meningococcal MCV4, unspecified formulation
@@ -995,8 +1021,8 @@
 		</FullVaccinename>
 		<CVXCode>32        </CVXCode>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>meningococcal, unknown serogroups</ShortDescription>
@@ -1147,8 +1173,8 @@
 		<FullVaccinename>plague vaccine</FullVaccinename>
 		<CVXCode>23        </CVXCode>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>5/17/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>Pneumococcal conjugate PCV 13</ShortDescription>
@@ -1376,8 +1402,8 @@
 			(motavizumab), intramuscular</FullVaccinename>
 		<CVXCode>145       </CVXCode>
 		<Notes></Notes>
-		<Status>Pending</Status>
-		<LastUpdated>8/31/2011</LastUpdated>
+		<Status>Never Active</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>rubella</ShortDescription>
@@ -1413,23 +1439,26 @@
 		<LastUpdated>9/30/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription>Td (adult) preservative free</ShortDescription>
+		<ShortDescription>Td (adult), 2 Lf tetanus toxoid, preservative free,
+			adsorbed</ShortDescription>
 		<FullVaccinename>tetanus and diphtheria toxoids, adsorbed,
-			preservative free, for adult use</FullVaccinename>
+			preservative free, for adult use (2 Lf of tetanus toxoid and 2 Lf of
+			diphtheria toxoid)</FullVaccinename>
+		<CVXCode>09        </CVXCode>
+		<Notes></Notes>
+		<Status>Active</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>Td (adult), 5 Lf tetanus toxoid, preservative free,
+			adsorbed</ShortDescription>
+		<FullVaccinename>tetanus and diphtheria toxoids, adsorbed,
+			preservative free, for adult use (5 Lf of tetanus toxoid and 2 Lf of
+			diphtheria toxoid)</FullVaccinename>
 		<CVXCode>113       </CVXCode>
 		<Notes></Notes>
 		<Status>Active</Status>
-		<LastUpdated>9/30/2010</LastUpdated>
-	</CVXInfo>
-	<CVXInfo>
-		<ShortDescription>Td (adult), adsorbed</ShortDescription>
-		<FullVaccinename>tetanus and diphtheria toxoids, adsorbed, for adult
-			use</FullVaccinename>
-		<CVXCode>09        </CVXCode>
-		<Notes>Note that this vaccine name has changed. See also Td (adult).
-			It is not adsorbed.</Notes>
-		<Status>Active</Status>
-		<LastUpdated>8/20/2010</LastUpdated>
+		<LastUpdated>10/27/2017</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>Td(adult) unspecified formulation</ShortDescription>
@@ -1490,8 +1519,8 @@
 		<FullVaccinename>tick-borne encephalitis vaccine</FullVaccinename>
 		<CVXCode>77        </CVXCode>
 		<Notes></Notes>
-		<Status>Inactive</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Non-US</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>TIG</ShortDescription>
@@ -1544,6 +1573,14 @@
 		<Notes></Notes>
 		<Status>Inactive</Status>
 		<LastUpdated>5/28/2010</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>Typhoid conjugate vaccine (TCV)</ShortDescription>
+		<FullVaccinename>Typhoid conjugate vaccine (non-US)</FullVaccinename>
+		<CVXCode>190       </CVXCode>
+		<Notes></Notes>
+		<Status>Non-US</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
 		<ShortDescription>typhoid, oral</ShortDescription>
@@ -1711,7 +1748,7 @@
 		<LastUpdated>3/2/2017</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription>zoster</ShortDescription>
+		<ShortDescription>zoster live</ShortDescription>
 		<FullVaccinename>zoster vaccine, live</FullVaccinename>
 		<CVXCode>121       </CVXCode>
 		<Notes></Notes>
@@ -1719,7 +1756,26 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription> no vaccine administered</ShortDescription>
+		<ShortDescription>zoster recombinant</ShortDescription>
+		<FullVaccinename>zoster vaccine recombinant</FullVaccinename>
+		<CVXCode>187       </CVXCode>
+		<Notes></Notes>
+		<Status>Active</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>zoster, unspecified formulation</ShortDescription>
+		<FullVaccinename>zoster vaccine, unspecified formulation
+		</FullVaccinename>
+		<CVXCode>188       </CVXCode>
+		<Notes>This CVX code allows reporting of a vaccination when
+			formulation is unknown (for example, when recording a zoster
+			vaccination when noted on a vaccination card)</Notes>
+		<Status>Inactive</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
+		<ShortDescription>no vaccine administered</ShortDescription>
 		<FullVaccinename>no vaccine administered</FullVaccinename>
 		<CVXCode>998       </CVXCode>
 		<Notes>Code 998 was added for use in VXU HL7 messages where the OBX
@@ -1731,7 +1787,7 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription> RESERVED - do not use</ShortDescription>
+		<ShortDescription>RESERVED - do not use</ShortDescription>
 		<FullVaccinename>RESERVED - do not use</FullVaccinename>
 		<CVXCode>99        </CVXCode>
 		<Notes>Code 99 will not be used in this table to avoid confusion with
@@ -1740,7 +1796,7 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
-		<ShortDescription> unknown</ShortDescription>
+		<ShortDescription>unknown</ShortDescription>
 		<FullVaccinename>unknown vaccine or immune globulin</FullVaccinename>
 		<CVXCode>999       </CVXCode>
 		<Notes>This CVX code has little utility and should rarely be used.

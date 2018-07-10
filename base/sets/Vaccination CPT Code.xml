@@ -172,8 +172,12 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
         </reference>
         <use-date/>
     </code>
@@ -273,6 +277,8 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date/>
     </code>
@@ -398,6 +404,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date/>
@@ -425,6 +433,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
         </reference>
     </code>
@@ -601,6 +611,17 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90756</value>
+        <label>Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, antibiotic free, 0.5 mL dosage, for intramuscular use</label>
+        <description>Effective 1/1/2018</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">186</link-to>
         </reference>
     </code>
     <code>
@@ -957,6 +978,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
         </reference>
         <use-date/>
@@ -1039,6 +1062,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
         </reference>
@@ -1187,6 +1212,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
         </reference>
         <use-date/>
@@ -1400,8 +1427,12 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>
@@ -1464,6 +1495,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">184</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">184</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
         </reference>
         <use-date/>
@@ -1479,5 +1512,16 @@
             <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90750</value>
+        <label>Zoster (shingles) vaccine (HZV), recombinant, subunit, adjuvanted, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
+        </reference>
     </code>
 </codeset>

@@ -11,6 +11,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -20,6 +21,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">ACAM2000</link-to>
+        </reference>
         <use-date>
             <not-expected-after>20100528</not-expected-after>
             <not-after>20100528</not-after>
@@ -34,17 +38,19 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
         <value>AKR</value>
         <label>Akorn, Inc</label>
-        <description></description>
+        <description>Akorn was a labeler and not a manufacturer</description>
         <code-status>
             <status>Valid</status>
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20170419</not-after>
         </use-date>
     </code>
     <code>
@@ -56,6 +62,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -109,6 +116,7 @@
         </reference>
         <use-date>
             <not-before>20110320</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -120,6 +128,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -167,6 +176,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -254,6 +264,7 @@
         </reference>
         <use-date>
             <not-before>20131204</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -295,6 +306,17 @@
         </use-date>
     </code>
     <code>
+        <value>DSI</value>
+        <label>Dispensing Solutions</label>
+        <description>Vaccine Relabeler</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
+        </use-date>
+    </code>
+    <code>
         <value>DYN</value>
         <label>Dynaport</label>
         <description></description>
@@ -303,6 +325,23 @@
         </code-status>
         <use-date>
             <not-before>20160926</not-before>
+            <not-after>20171116</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>DVX</value>
+        <label>Dynavax, Inc.</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">HEPLISAV-B</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">43528-0002-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">43528-0002-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20171027</not-before>
         </use-date>
     </code>
     <code>
@@ -475,6 +514,14 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-34</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">SHINGRIX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-0734-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-0734-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">55045-3841-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0823-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0819-12</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -489,15 +536,19 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
         <value>GRF</value>
         <label>Grifols</label>
-        <description></description>
+        <description>Grifols is a labeler and not a manufacturer.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Td, adsorbed</link-to>
+        </reference>
         <use-date>
             <not-before>20130905</not-before>
         </use-date>
@@ -505,7 +556,7 @@
     <code>
         <value>IDB</value>
         <label>ID Biomedical</label>
-        <description></description>
+        <description>Part of GlaxoSmithKline</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -569,6 +620,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -581,6 +633,8 @@
         <reference>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0001-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">IXIARO</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-01</link-to>
         </reference>
         <use-date>
             <not-after>20160719</not-after>
@@ -645,6 +699,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">17478-0131-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">17478-0131-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">13533-0131-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">21695-0413-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">14362-0111-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">21695-0413-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">14362-0111-04</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -671,6 +729,7 @@
         </code-status>
         <use-date>
             <not-before>20150921</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -702,6 +761,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0300-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0301-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0200-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0304-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0303-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0304-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0303-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -801,6 +864,13 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4826-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4963-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4963-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-2219-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-2219-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4133-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4837-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-2219-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-2219-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4133-41</link-to>
         </reference>
         <use-date>
             <not-before>20121018</not-before>
@@ -850,6 +920,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -926,6 +997,14 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0208-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Bexsero</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66521-0114-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0471-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0470-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0114-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0114-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0471-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0470-10</link-to>
         </reference>
         <use-date>
             <not-after>20160413</not-after>
@@ -945,7 +1024,7 @@
     <code>
         <value>OTC</value>
         <label>Organon Teknika Corporation</label>
-        <description></description>
+        <description>Subsidiary of Merck</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -967,6 +1046,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1006,6 +1086,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">69401-0000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70460-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">69401-0000-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70460-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">69401-0000-02</link-to>
         </reference>
         <use-date>
             <not-before>20150624</not-before>
@@ -1061,7 +1143,7 @@
     <code>
         <value>PSC</value>
         <label>Protein Sciences</label>
-        <description></description>
+        <description>Part of Sanofi Pasteur</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1083,9 +1165,22 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0015-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0016-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0117-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0718-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0718-10</link-to>
         </reference>
         <use-date>
             <not-before>20130501</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>REB</value>
+        <label>Rebel Distributors</label>
+        <description>Vaccine Relabeler</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
         </use-date>
     </code>
     <code>
@@ -1290,6 +1385,21 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0790-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0915-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0915-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09, preservative-free</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0400-89</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6180-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6177-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0708-48</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0482-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0483-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0913-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0400-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-6180-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-6177-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0483-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0482-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0913-01</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1304,6 +1414,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1359,6 +1470,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0120-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0120-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0119-12</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluad</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-12</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0119-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0119-02</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>
@@ -1397,6 +1514,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1411,6 +1529,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1422,6 +1541,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1446,6 +1566,11 @@
             <link-to codeset="VACCINATION_TRADE_NAME">IXIARO</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">62195-0051-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0002-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0002-01</link-to>
         </reference>
         <use-date>
             <not-before>20160719</not-before>
@@ -1461,6 +1586,17 @@
         <use-date>
             <not-expected-after>20100528</not-expected-after>
             <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>VET</value>
+        <label>Vetter Pharma Fertigung GmbH &amp; Co. KG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
         </use-date>
     </code>
     <code>

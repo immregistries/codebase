@@ -4,8 +4,8 @@
 		<MVX_CODE>AB</MVX_CODE>
 		<ManufacturerName>Abbott Laboratories</ManufacturerName>
 		<Notes>includes Ross Products Division, Solvay</Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>ACA</MVX_CODE>
@@ -18,22 +18,22 @@
 		<MVX_CODE>AD</MVX_CODE>
 		<ManufacturerName>Adams Laboratories, Inc.</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>AKR</MVX_CODE>
 		<ManufacturerName>Akorn, Inc</ManufacturerName>
-		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Notes>Akorn was a labeler and not a manufacturer</Notes>
+		<Status>Inactive</Status>
+		<LastUpdated>4/19/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>ALP</MVX_CODE>
 		<ManufacturerName>Alpha Therapeutic Corporation</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>AR</MVX_CODE>
@@ -70,8 +70,8 @@
 		<Notes>includes Hyland Immuno, Immuno International AG,and North
 			American Vaccine, Inc./acquired some assets from alpha therapeutics
 		</Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>BAY</MVX_CODE>
@@ -91,15 +91,15 @@
 		<MVX_CODE>BPC</MVX_CODE>
 		<ManufacturerName>Berna Products Corporation</ManufacturerName>
 		<Notes>includes Swiss Serum and Vaccine Institute Berne</Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>BRR</MVX_CODE>
 		<ManufacturerName>Barr Laboratories</ManufacturerName>
 		<Notes>Subsidiary of Teva Pharmaceuticals</Notes>
-		<Status>Active</Status>
-		<LastUpdated>3/20/2011</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>BTP</MVX_CODE>
@@ -149,8 +149,8 @@
 		<MVX_CODE>CRU</MVX_CODE>
 		<ManufacturerName>Crucell</ManufacturerName>
 		<Notes>acquired Berna, now a J &amp; J company</Notes>
-		<Status>Active</Status>
-		<LastUpdated>12/4/2013</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>CSL</MVX_CODE>
@@ -160,6 +160,13 @@
 		<LastUpdated>9/26/2016</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
+		<MVX_CODE>DSI</MVX_CODE>
+		<ManufacturerName>Dispensing Solutions</ManufacturerName>
+		<Notes>Vaccine Relabeler</Notes>
+		<Status>Inactive</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
+	</MVXInfo>
+	<MVXInfo>
 		<MVX_CODE>DVC</MVX_CODE>
 		<ManufacturerName>DynPort Vaccine Company, LLC</ManufacturerName>
 		<Notes></Notes>
@@ -167,11 +174,18 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
+		<MVX_CODE>DVX</MVX_CODE>
+		<ManufacturerName>Dynavax, Inc.</ManufacturerName>
+		<Notes></Notes>
+		<Status>Active</Status>
+		<LastUpdated>10/27/2017</LastUpdated>
+	</MVXInfo>
+	<MVXInfo>
 		<MVX_CODE>DYN</MVX_CODE>
 		<ManufacturerName>Dynaport</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>9/26/2016</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>EVN</MVX_CODE>
@@ -191,13 +205,13 @@
 		<MVX_CODE>GRE</MVX_CODE>
 		<ManufacturerName>Greer Laboratories, Inc.</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>GRF</MVX_CODE>
 		<ManufacturerName>Grifols</ManufacturerName>
-		<Notes></Notes>
+		<Notes>Grifols is a labeler and not a manufacturer.</Notes>
 		<Status>Active</Status>
 		<LastUpdated>9/5/2013</LastUpdated>
 	</MVXInfo>
@@ -211,9 +225,9 @@
 	<MVXInfo>
 		<MVX_CODE>IDB</MVX_CODE>
 		<ManufacturerName>ID Biomedical</ManufacturerName>
-		<Notes></Notes>
+		<Notes>Part of GlaxoSmithKline</Notes>
 		<Status>Active</Status>
-		<LastUpdated>9/5/2013</LastUpdated>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>IM</MVX_CODE>
@@ -233,8 +247,8 @@
 		<MVX_CODE>IUS</MVX_CODE>
 		<ManufacturerName>Immuno-U.S., Inc.</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>JNJ</MVX_CODE>
@@ -248,8 +262,8 @@
 		<ManufacturerName>The Research Foundation for Microbial Diseases of
 			Osaka University (BIKEN)</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>KED</MVX_CODE>
@@ -293,18 +307,15 @@
 		<MVX_CODE>MCM</MVX_CODE>
 		<ManufacturerName>MCM Vaccine Company</ManufacturerName>
 		<Notes>Partnership between Merck and Sanofi Pasteur</Notes>
-		<Status>Active</Status>
-		<LastUpdated>9/21/2015</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>MED</MVX_CODE>
 		<ManufacturerName>MedImmune, Inc.</ManufacturerName>
-		<Notes>acquisitions of U.S. Bioscience in 1999 and Aviron in 2002, as
-			well as the integration with Cambridge Antibody Technology and the
-			strategic alignment with our new parent company, AstraZeneca, in
-			2007.</Notes>
+		<Notes>Subsidiary of AstraZeneca</Notes>
 		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>MIL</MVX_CODE>
@@ -315,12 +326,11 @@
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>MIP</MVX_CODE>
-		<ManufacturerName>Emergent BioDefense Operations Lansing
-		</ManufacturerName>
-		<Notes>A unit of Emergent BioSolutions, Bioport renamed. Formerly
-			Michigan Biologic Products Institute</Notes>
+		<ManufacturerName>Emergent BioSolutions</ManufacturerName>
+		<Notes>Formerly Emergent BioDefense Operations Lansing and Michigan
+			Biologic Products Institute</Notes>
 		<Status>Active</Status>
-		<LastUpdated>4/29/2014</LastUpdated>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>MSD</MVX_CODE>
@@ -364,23 +374,23 @@
 		<MVX_CODE>NYB</MVX_CODE>
 		<ManufacturerName>New York Blood Center</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>ORT</MVX_CODE>
 		<ManufacturerName>Ortho-clinical Diagnostics</ManufacturerName>
 		<Notes>a J &amp; J company (formerly Ortho Diagnostic Systems, Inc.)
 		</Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>OTC</MVX_CODE>
 		<ManufacturerName>Organon Teknika Corporation</ManufacturerName>
-		<Notes></Notes>
+		<Notes>Subsidiary of Merck</Notes>
 		<Status>Active</Status>
-		<LastUpdated>11/2/2010</LastUpdated>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>OTH</MVX_CODE>
@@ -413,11 +423,11 @@
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>PMC</MVX_CODE>
-		<ManufacturerName>sanofi pasteur</ManufacturerName>
+		<ManufacturerName>Sanofi Pasteur</ManufacturerName>
 		<Notes>formerly Aventis Pasteur, Pasteur Merieux Connaught; includes
 			Connaught Laboratories and Pasteur Merieux. Acquired ACAMBIS.</Notes>
 		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>PRX</MVX_CODE>
@@ -429,9 +439,9 @@
 	<MVXInfo>
 		<MVX_CODE>PSC</MVX_CODE>
 		<ManufacturerName>Protein Sciences</ManufacturerName>
-		<Notes></Notes>
+		<Notes>Part of Sanofi Pasteur</Notes>
 		<Status>Active</Status>
-		<LastUpdated>5/1/2013</LastUpdated>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>PWJ</MVX_CODE>
@@ -441,11 +451,18 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
+		<MVX_CODE>REB</MVX_CODE>
+		<ManufacturerName>Rebel Distributors</ManufacturerName>
+		<Notes>Vaccine Relabeler</Notes>
+		<Status>Inactive</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
+	</MVXInfo>
+	<MVXInfo>
 		<MVX_CODE>SCL</MVX_CODE>
 		<ManufacturerName>Sclavo, Inc.</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>SEQ</MVX_CODE>
@@ -465,7 +482,7 @@
 	<MVXInfo>
 		<MVX_CODE>SKB</MVX_CODE>
 		<ManufacturerName>GlaxoSmithKline</ManufacturerName>
-		<Notes> includes SmithKline Beecham and Glaxo Wellcome</Notes>
+		<Notes>includes SmithKline Beecham and Glaxo Wellcome</Notes>
 		<Status>Active</Status>
 		<LastUpdated>5/28/2010</LastUpdated>
 	</MVXInfo>
@@ -480,8 +497,8 @@
 		<MVX_CODE>TAL</MVX_CODE>
 		<ManufacturerName>Talecris Biotherapeutics</ManufacturerName>
 		<Notes>includes Bayer Biologicals</Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>UNK</MVX_CODE>
@@ -495,8 +512,8 @@
 		<ManufacturerName>United States Army Medical Research and Material
 			Command</ManufacturerName>
 		<Notes></Notes>
-		<Status>Active</Status>
-		<LastUpdated>5/28/2010</LastUpdated>
+		<Status>Inactive</Status>
+		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>VAL</MVX_CODE>
@@ -504,6 +521,14 @@
 		<Notes>Distributes through Intercell in the US</Notes>
 		<Status>Active</Status>
 		<LastUpdated>7/19/2016</LastUpdated>
+	</MVXInfo>
+	<MVXInfo>
+		<MVX_CODE>VET</MVX_CODE>
+		<ManufacturerName>Vetter Pharma Fertigung GmbH &amp; Co. KG
+		</ManufacturerName>
+		<Notes></Notes>
+		<Status>Inactive</Status>
+		<LastUpdated>5/10/2018</LastUpdated>
 	</MVXInfo>
 	<MVXInfo>
 		<MVX_CODE>VXG</MVX_CODE>
