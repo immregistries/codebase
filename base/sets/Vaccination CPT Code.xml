@@ -273,6 +273,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date/>
     </code>
@@ -602,6 +603,14 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
         </reference>
+    </code>
+    <code>
+        <value>90756</value>
+        <label>Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, antibiotic free, 0.5 mL dosage, for intramuscular use</label>
+        <description>Effective 1/1/2018</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90674</value>
@@ -958,6 +967,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
         </reference>
         <use-date/>
     </code>
@@ -1402,6 +1412,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>
@@ -1479,5 +1490,13 @@
             <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90750</value>
+        <label>Zoster (shingles) vaccine (HZV), recombinant, subunit, adjuvanted, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
 </codeset>

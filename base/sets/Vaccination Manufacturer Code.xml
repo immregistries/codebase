@@ -11,6 +11,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -34,17 +35,19 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
         <value>AKR</value>
         <label>Akorn, Inc</label>
-        <description></description>
+        <description>Akorn was a labeler and not a manufacturer</description>
         <code-status>
             <status>Valid</status>
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20170419</not-after>
         </use-date>
     </code>
     <code>
@@ -56,6 +59,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -109,6 +113,7 @@
         </reference>
         <use-date>
             <not-before>20110320</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -120,6 +125,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -167,6 +173,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -254,6 +261,7 @@
         </reference>
         <use-date>
             <not-before>20131204</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -295,6 +303,17 @@
         </use-date>
     </code>
     <code>
+        <value>DSI</value>
+        <label>Dispensing Solutions</label>
+        <description>Vaccine Relabeler</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
+        </use-date>
+    </code>
+    <code>
         <value>DYN</value>
         <label>Dynaport</label>
         <description></description>
@@ -303,6 +322,18 @@
         </code-status>
         <use-date>
             <not-before>20160926</not-before>
+            <not-after>20171116</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>DVX</value>
+        <label>Dynavax, Inc.</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-before>20171027</not-before>
         </use-date>
     </code>
     <code>
@@ -489,12 +520,13 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
         <value>GRF</value>
         <label>Grifols</label>
-        <description></description>
+        <description>Grifols is a labeler and not a manufacturer.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -505,7 +537,7 @@
     <code>
         <value>IDB</value>
         <label>ID Biomedical</label>
-        <description></description>
+        <description>Part of GlaxoSmithKline</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -569,6 +601,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -671,6 +704,7 @@
         </code-status>
         <use-date>
             <not-before>20150921</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -850,6 +884,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -945,7 +980,7 @@
     <code>
         <value>OTC</value>
         <label>Organon Teknika Corporation</label>
-        <description></description>
+        <description>Subsidiary of Merck</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -967,6 +1002,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1061,7 +1097,7 @@
     <code>
         <value>PSC</value>
         <label>Protein Sciences</label>
-        <description></description>
+        <description>Part of Sanofi Pasteur</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1086,6 +1122,17 @@
         </reference>
         <use-date>
             <not-before>20130501</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>REB</value>
+        <label>Rebel Distributors</label>
+        <description>Vaccine Relabeler</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
         </use-date>
     </code>
     <code>
@@ -1304,6 +1351,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1397,6 +1445,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1411,6 +1460,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1422,6 +1472,7 @@
         </code-status>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171116</not-after>
         </use-date>
     </code>
     <code>
@@ -1461,6 +1512,17 @@
         <use-date>
             <not-expected-after>20100528</not-expected-after>
             <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>VET</value>
+        <label>Vetter Pharma Fertigung GmbH &amp; Co. KG</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <use-date>
+            <not-after>20180510</not-after>
         </use-date>
     </code>
     <code>

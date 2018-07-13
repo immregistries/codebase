@@ -58,6 +58,7 @@
         </reference>
         <use-date>
             <not-before>19930330</not-before>
+            <not-after>20161128</not-after>
         </use-date>
     </code>
     <code>
@@ -213,6 +214,45 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0400-20</value>
+        <label>Adacel</label>
+        <description>Sanofi Pasteur Inc. - HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">115</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0400-89</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-400-20</value>
+        <label>Adacel</label>
+        <description>Sanofi Pasteur Inc. - HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0400-20</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180102</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281040020</value>
+        <label>Adacel</label>
+        <description>Sanofi Pasteur Inc. - HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0400-20</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180102</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>51285-0138-50</value>
         <label>Adenovirus Type 4 and Type 7 Vaccine, Live, Oral</label>
         <description>Teva Women's Health, Inc. - ADENOVIRUS TYPE 4 AND TYPE 7 VACCINE, LIVE, ORAL</description>
@@ -267,6 +307,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0016-02</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>33332-016-01</value>
@@ -392,6 +435,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0116-11</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>33332-116-10</value>
@@ -798,6 +844,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0416-11</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>33332-416-10</value>
@@ -837,6 +886,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0316-02</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>33332-316-01</value>
@@ -957,6 +1009,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0976-02</link-to>
         </reference>
+        <use-date>
+            <not-before>20161201</not-before>
+        </use-date>
     </code>
     <code>
         <value>58160-976-06</value>
@@ -996,6 +1051,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0976-02</link-to>
         </reference>
+        <use-date>
+            <not-before>20161201</not-before>
+        </use-date>
     </code>
     <code>
         <value>58160-976-20</value>
@@ -1020,6 +1078,92 @@
                 <new-code-value>58160-0976-20</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20161122</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>46028-0114-02</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">46028-0114-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150123</not-before>
+            <not-after>20171031</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>46028-114-02</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>46028-0114-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>46028011402</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>46028-0114-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>46028-0114-01</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">46028-0114-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20150123</not-before>
+            <not-after>20171031</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>46028-114-01</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>46028-0114-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>46028011401</value>
+        <label>Bexsero</label>
+        <description>Novartis Vaccines and Diagnostics SRL - meningococcal B, OMV NEISSERIA MENINGITIDIS SEROGROUP B NHBA FUSION PROTEIN ANTIGEN, NEISSERIA MENINGITIDIS SEROGROUP B F</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>46028-0114-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -1121,6 +1265,7 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
+            <not-after>20110615</not-after>
         </use-date>
     </code>
     <code>
@@ -1247,6 +1392,7 @@
         </reference>
         <use-date>
             <not-before>20091016</not-before>
+            <not-after>20161129</not-after>
         </use-date>
     </code>
     <code>
@@ -1289,6 +1435,7 @@
         </reference>
         <use-date>
             <not-before>20091016</not-before>
+            <not-after>20161129</not-after>
         </use-date>
     </code>
     <code>
@@ -1331,6 +1478,7 @@
         </reference>
         <use-date>
             <not-before>19961002</not-before>
+            <not-after>20141231</not-after>
         </use-date>
     </code>
     <code>
@@ -1499,6 +1647,7 @@
         </reference>
         <use-date>
             <not-before>20040324</not-before>
+            <not-after>20121231</not-after>
         </use-date>
     </code>
     <code>
@@ -1541,6 +1690,7 @@
         </reference>
         <use-date>
             <not-before>20040324</not-before>
+            <not-after>20121231</not-after>
         </use-date>
     </code>
     <code>
@@ -1865,6 +2015,49 @@
         </code-status>
     </code>
     <code>
+        <value>54868-0734-00</value>
+        <label>ENGERIX-B</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B Vaccine (Recombinant)(Suspension for Intramuscular Injection)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-0734-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20020805</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-0734-0</value>
+        <label>ENGERIX-B</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B Vaccine (Recombinant)(Suspension for Intramuscular Injection)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-0734-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868073400</value>
+        <label>ENGERIX-B</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B Vaccine (Recombinant)(Suspension for Intramuscular Injection)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-0734-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>70461-0002-01</value>
         <label>Fluad</label>
         <description>Seqirus - Influenza vaccine</description>
@@ -1954,6 +2147,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0001-11</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-001-01</value>
@@ -1995,6 +2191,7 @@
         </reference>
         <use-date>
             <not-before>20140627</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -2123,7 +2320,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0883-41</link-to>
         </reference>
         <use-date>
-            <not-before>20180701</not-before>
+            <not-before>20150803</not-before>
+            <not-after>20150804</not-after>
         </use-date>
     </code>
     <code>
@@ -2248,6 +2446,7 @@
         </reference>
         <use-date>
             <not-before>20150701</not-before>
+            <not-after>20160630</not-after>
         </use-date>
     </code>
     <code>
@@ -2288,6 +2487,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0905-41</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>58160-905-52</value>
@@ -2329,6 +2531,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -2598,6 +2801,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0718-10</value>
+        <label>Flublok Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant (2017-2018)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0718-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20170714</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-718-10</value>
+        <label>Flublok Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant (2017-2018)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0718-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180516</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281071810</value>
+        <label>Flublok Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant (2017-2018)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0718-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180516</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>42874-0117-10</value>
         <label>FLUBLOK, QUAD</label>
         <description>Protein Sciences Corporation - Influenza vaccine, quadrivalent</description>
@@ -2648,6 +2893,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0614-11</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-614-01</value>
@@ -2689,6 +2938,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20160630</not-after>
         </use-date>
     </code>
     <code>
@@ -2729,6 +2979,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63851-0613-11</link-to>
         </reference>
+        <use-date>
+            <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
+        </use-date>
     </code>
     <code>
         <value>63851-613-01</value>
@@ -2770,6 +3024,7 @@
         </reference>
         <use-date>
             <not-before>20130830</not-before>
+            <not-after>20140630</not-after>
         </use-date>
     </code>
     <code>
@@ -2813,6 +3068,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -2853,6 +3109,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0200-11</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-200-01</value>
@@ -2931,6 +3190,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0200-12</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-200-02</value>
@@ -3009,6 +3272,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0850-41</link-to>
         </reference>
+        <use-date>
+            <not-after>20151031</not-after>
+        </use-date>
     </code>
     <code>
         <value>19515-850-52</value>
@@ -3048,6 +3314,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0845-01</link-to>
         </reference>
+        <use-date>
+            <not-before>20151030</not-before>
+            <not-after>20151031</not-after>
+        </use-date>
     </code>
     <code>
         <value>19515-845-11</value>
@@ -3090,6 +3360,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -3216,6 +3487,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0908-41</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>19515-908-52</value>
@@ -3255,6 +3529,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0903-01</link-to>
         </reference>
+        <use-date>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>19515-903-11</value>
@@ -3296,6 +3573,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -3420,6 +3698,7 @@
         </reference>
         <use-date>
             <not-before>20140701</not-before>
+            <not-after>20150630</not-after>
         </use-date>
     </code>
     <code>
@@ -3501,6 +3780,7 @@
         </reference>
         <use-date>
             <not-before>20150701</not-before>
+            <not-after>20160630</not-after>
         </use-date>
     </code>
     <code>
@@ -3543,6 +3823,7 @@
         </reference>
         <use-date>
             <not-before>20150701</not-before>
+            <not-after>20160630</not-after>
         </use-date>
     </code>
     <code>
@@ -3757,6 +4038,7 @@
         </reference>
         <use-date>
             <not-before>20130715</not-before>
+            <not-after>20160630</not-after>
         </use-date>
     </code>
     <code>
@@ -3797,6 +4079,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0303-10</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>66019-303-01</value>
@@ -3838,6 +4124,7 @@
         </reference>
         <use-date>
             <not-before>20130715</not-before>
+            <not-after>20140630</not-after>
         </use-date>
     </code>
     <code>
@@ -3878,6 +4165,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0301-01</link-to>
         </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
     </code>
     <code>
         <value>66019-301-10</value>
@@ -3906,6 +4196,88 @@
         </code-status>
     </code>
     <code>
+        <value>66019-0304-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, quadrivalent</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0304-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>66019-304-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, quadrivalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0304-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019030410</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, quadrivalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0304-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0303-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, Quadrivalent</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0303-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20160725</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-303-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, Quadrivalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0303-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019030310</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza vaccine, Quadrivalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0303-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>66521-0117-02</value>
         <label>Fluvirin</label>
         <description>Novartis Vaccines and Diagnostics Limited - </description>
@@ -3917,6 +4289,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66521-0117-12</link-to>
         </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
     </code>
     <code>
         <value>66521-117-02</value>
@@ -3956,6 +4331,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66521-0117-11</link-to>
         </reference>
+        <use-date>
+            <not-after>20150630</not-after>
+        </use-date>
     </code>
     <code>
         <value>66521-117-10</value>
@@ -4073,6 +4451,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-10</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-119-11</value>
@@ -4114,6 +4496,7 @@
         </reference>
         <use-date>
             <not-before>19980812</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -4156,6 +4539,7 @@
         </reference>
         <use-date>
             <not-before>19980812</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -4274,6 +4658,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-02</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>70461-119-12</value>
@@ -4358,6 +4746,7 @@
         </reference>
         <use-date>
             <not-before>19880812</not-before>
+            <not-after>20110630</not-after>
         </use-date>
     </code>
     <code>
@@ -4397,9 +4786,11 @@
             <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0482-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66521-0114-02</link-to>
         </reference>
         <use-date>
             <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
         </use-date>
     </code>
     <code>
@@ -4442,6 +4833,7 @@
         </reference>
         <use-date>
             <not-before>20110701</not-before>
+            <not-after>20120630</not-after>
         </use-date>
     </code>
     <code>
@@ -4484,6 +4876,7 @@
         </reference>
         <use-date>
             <not-before>19880812</not-before>
+            <not-after>20110630</not-after>
         </use-date>
     </code>
     <code>
@@ -4569,6 +4962,7 @@
         </reference>
         <use-date>
             <not-before>20120720</not-before>
+            <not-after>20130630</not-after>
         </use-date>
     </code>
     <code>
@@ -4611,6 +5005,7 @@
         </reference>
         <use-date>
             <not-before>20120720</not-before>
+            <not-after>20130630</not-after>
         </use-date>
     </code>
     <code>
@@ -4636,6 +5031,92 @@
                 <new-code-value>66521-0115-10</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0119-10</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-119-10</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0119-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461011910</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0119-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0119-02</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-12</link-to>
+        </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-119-02</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0119-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461011902</value>
+        <label>Fluvirin</label>
+        <description>Seqirus, Inc. - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/HONG KONG/4801/2014, NYMC-X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) and INFLUENZA B VIRUS B/BRISBANE/60/2008 - WILD TYPE HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0119-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -5584,6 +6065,92 @@
         </code-status>
     </code>
     <code>
+        <value>54868-6180-00</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - influenza a virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspension</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6180-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100921</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-6180-0</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - influenza a virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspension</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-6180-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868618000</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - influenza a virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspension</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-6180-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868-6177-00</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - Influenza  Virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspensionÂ  (2010-2011 Formulation)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6177-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20100916</not-before>
+            <not-after>20110630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-6177-0</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - Influenza  Virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspensionÂ  (2010-2011 Formulation)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-6177-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868617700</value>
+        <label>FLUZONE</label>
+        <description>PHYSICIANS TOTAL CARE, INC - Influenza  Virus a/california/7/2009 x-179a (h1n1) antigen (formaldehyde inactivated), influenza a virus a/victoria/210/2009 x-187 (h3n2) antigen (formaldehyde inactivated) and influenza b virus b/brisbane/60/2008 antigen (formaldehyde inactivated)Â injection, suspensionÂ  (2010-2011 Formulation)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-6177-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0395-65</value>
         <label>FLUZONE HD</label>
         <description>Sanofi Pasteur Inc. - </description>
@@ -5676,6 +6243,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0399-88</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-399-65</value>
@@ -5926,6 +6497,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0710-48</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-710-40</value>
@@ -6048,6 +6623,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">166</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0708-48</link-to>
         </reference>
         <use-date>
             <not-before>20141211</not-before>
@@ -6256,6 +6832,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0625-78</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-625-15</value>
@@ -6295,6 +6875,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0416-58</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-416-10</value>
@@ -6373,6 +6957,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0416-88</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-416-50</value>
@@ -6497,6 +7085,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0415-58</link-to>
         </reference>
+        <use-date>
+            <not-before>20150626</not-before>
+            <not-after>20160630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-415-10</value>
@@ -6620,6 +7212,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0516-00</link-to>
         </reference>
+        <use-date>
+            <not-before>20160701</not-before>
+            <not-after>20170630</not-after>
+        </use-date>
     </code>
     <code>
         <value>49281-516-25</value>
@@ -7033,6 +7629,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0826-05</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>20070413</not-before>
@@ -7075,6 +7672,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0826-43</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>20070413</not-before>
@@ -7201,6 +7799,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0826-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>20070413</not-before>
@@ -7229,6 +7828,86 @@
                 <new-code-value>58160-0826-11</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>55045-3841-01</value>
+        <label>HAVRIX</label>
+        <description>Dispensing Solutions, Inc. - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070413</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>55045-3841-1</value>
+        <label>HAVRIX</label>
+        <description>Dispensing Solutions, Inc. - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>55045-3841-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>55045384101</value>
+        <label>HAVRIX</label>
+        <description>Dispensing Solutions, Inc. - HEPATITIS A VACCINE</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>55045-3841-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>43528-0002-05</value>
+        <label>HEPLISAV-B</label>
+        <description>Dynavax Technologies Corporation - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">DVX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">43528-0002-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>43528-002-05</value>
+        <label>HEPLISAV-B</label>
+        <description>Dynavax Technologies Corporation - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>43528-0002-05</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>43528000205</value>
+        <label>HEPLISAV-B</label>
+        <description>Dynavax Technologies Corporation - HEPATITIS B VACCINE (RECOMBINANT)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>43528-0002-05</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20171027</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -7327,6 +8006,7 @@
         </reference>
         <use-date>
             <not-before>20090824</not-before>
+            <not-after>20111215</not-after>
         </use-date>
     </code>
     <code>
@@ -7916,6 +8596,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20170303</not-after>
         </use-date>
     </code>
     <code>
@@ -8043,6 +8724,7 @@
         </reference>
         <use-date>
             <not-before>19901221</not-before>
+            <not-after>20110616</not-after>
         </use-date>
     </code>
     <code>
@@ -8082,6 +8764,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0860-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0860-78</link-to>
         </reference>
         <use-date>
             <not-before>19901221</not-before>
@@ -8167,6 +8850,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0001-00</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">INT</link-to>
         </reference>
         <use-date>
             <not-before>20090330</not-before>
@@ -8195,6 +8879,87 @@
                 <new-code-value>42515-0001-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160720</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>62195-0051-10</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">62195-0051-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>62195-051-10</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>62195-0051-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20171204</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>62195005110</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>62195-0051-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20171204</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>42515-0002-01</value>
+        <label>IXIARO</label>
+        <description>Valneva Scotland Ltd. - Japanese Encephalitis Vaccine, Inactivated, Adsorbed</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0002-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20090330</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>42515-002-01</value>
+        <label>IXIARO</label>
+        <description>Valneva Scotland Ltd. - Japanese Encephalitis Vaccine, Inactivated, Adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>42515-0002-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>42515000201</value>
+        <label>IXIARO</label>
+        <description>Valneva Scotland Ltd. - Japanese Encephalitis Vaccine, Inactivated, Adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>42515-0002-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -8368,6 +9133,133 @@
         </code-status>
     </code>
     <code>
+        <value>76420-0483-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0483-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130530</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>76420-483-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0483-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420048301</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0483-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420-0482-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0482-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130530</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>76420-482-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0482-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420048201</value>
+        <label>Medical Provider Single Use EZ Flu Shot 2013-2014</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0482-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420-0471-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0471-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130530</not-before>
+            <not-after>20170112</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>76420-471-01</value>
+        <label>Medical Provider Single Use EZ Flu Shot Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0471-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420047101</value>
+        <label>Medical Provider Single Use EZ Flu Shot Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0471-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0589-05</value>
         <label>Menactra</label>
         <description>Sanofi Pasteur Inc. - NEISSERIA MENINGITIDIS GROUP A CAPSULAR POLYSACCHARIDE DIPHTHERIA TOXOID CONJUGATE ANTIGEN, NEISSERIA MENINGITIDIS GROUP C CAPSULAR POLYSACCHARIDE DIPHTHERIA TOXOID CONJUGATE ANTIGEN, NEISSERIA MENINGITIDIS GROUP Y CAPSULAR POLYSACCHARIDE DIPHTHERIA TOXOI</description>
@@ -8423,6 +9315,7 @@
         </reference>
         <use-date>
             <not-before>20130903</not-before>
+            <not-after>20170917</not-after>
         </use-date>
     </code>
     <code>
@@ -8465,6 +9358,7 @@
         </reference>
         <use-date>
             <not-before>20130903</not-before>
+            <not-after>20170917</not-after>
         </use-date>
     </code>
     <code>
@@ -8507,6 +9401,7 @@
         </reference>
         <use-date>
             <not-before>19811123</not-before>
+            <not-after>20170930</not-after>
         </use-date>
     </code>
     <code>
@@ -8592,6 +9487,7 @@
         </reference>
         <use-date>
             <not-before>20100219</not-before>
+            <not-after>20180430</not-after>
         </use-date>
     </code>
     <code>
@@ -8716,6 +9612,7 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
+            <not-after>20110224</not-after>
         </use-date>
     </code>
     <code>
@@ -8826,6 +9723,49 @@
                 <new-code-value>49281-0510-05</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420-0470-10</value>
+        <label>Physicians EZ Use Flu Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0470-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20130401</not-before>
+            <not-after>20170112</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>76420-470-10</value>
+        <label>Physicians EZ Use Flu Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0470-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>76420047010</value>
+        <label>Physicians EZ Use Flu Kit</label>
+        <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>76420-0470-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180530</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -9042,6 +9982,45 @@
         </code-status>
     </code>
     <code>
+        <value>00006-4837-02</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4837-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>0006-4837-02</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4837-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006483702</value>
+        <label>PNEUMOVAX 23</label>
+        <description>Merck Sharp &amp; Dohme Corp. - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4837-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00005-1970-50</value>
         <label>Prevnar</label>
         <description>Wyeth Pharmaceutical Division of Wyeth Holdings Co - PNEUMOCOCCAL 7-VALENT</description>
@@ -9055,6 +10034,7 @@
         </reference>
         <use-date>
             <not-before>20000301</not-before>
+            <not-after>20111231</not-after>
         </use-date>
     </code>
     <code>
@@ -9429,6 +10409,7 @@
         </reference>
         <use-date>
             <not-before>19971020</not-before>
+            <not-after>20170119</not-after>
         </use-date>
     </code>
     <code>
@@ -9825,6 +10806,92 @@
         </code-status>
     </code>
     <code>
+        <value>54868-2219-01</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B vaccine (recombinant)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-2219-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-2219-1</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B vaccine (recombinant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-2219-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868221901</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - Hepatitis B vaccine (recombinant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-2219-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868-2219-00</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - HEPATITIS B VACCINE [RECOMBINANT]</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-2219-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>19860723</not-before>
+            <not-after>20120630</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>54868-2219-0</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - HEPATITIS B VACCINE [RECOMBINANT]</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-2219-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>54868221900</value>
+        <label>RECOMBIVAX HB</label>
+        <description>Physicians Total Care, Inc. - HEPATITIS B VACCINE [RECOMBINANT]</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>54868-2219-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0854-52</value>
         <label>ROTARIX</label>
         <description>GlaxoSmithKline Biologicals SA - ROTAVIRUS VACCINE, LIVE, ORAL</description>
@@ -9951,6 +11018,123 @@
         </code-status>
     </code>
     <code>
+        <value>58160-0823-11</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-03</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>58160-823-11</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0823-11</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160082311</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0823-11</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0819-12</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>58160-819-12</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0819-12</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160081912</value>
+        <label>Shingrix</label>
+        <description>GlaxoSmithKline Biologicals SA - Zoster vaccine subunit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0819-12</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0913-01</value>
+        <label>STAMARIL</label>
+        <description>Sanofi Pasteur Inc. - YELLOW FEVER VACCINE (LIVE)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">183</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0913-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>49281-913-01</value>
+        <label>STAMARIL</label>
+        <description>Sanofi Pasteur Inc. - YELLOW FEVER VACCINE (LIVE)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0913-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281091301</value>
+        <label>STAMARIL</label>
+        <description>Sanofi Pasteur Inc. - YELLOW FEVER VACCINE (LIVE)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0913-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0215-10</value>
         <label>TENIVAC</label>
         <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
@@ -10048,6 +11232,7 @@
         </reference>
         <use-date>
             <not-before>19700727</not-before>
+            <not-after>20170427</not-after>
         </use-date>
     </code>
     <code>
@@ -10119,6 +11304,133 @@
         </code-status>
     </code>
     <code>
+        <value>21695-0413-01</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Rebel Distributors - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">21695-0413-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19671013</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>21695-413-01</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Rebel Distributors - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>21695-0413-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>21695041301</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Rebel Distributors - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>21695-0413-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006-4133-41</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Merck Sharp &amp; Dohme Corp. - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4133-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700727</not-before>
+            <not-after>20140602</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>0006-4133-41</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Merck Sharp &amp; Dohme Corp. - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4133-41</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20140722</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006413341</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>Merck Sharp &amp; Dohme Corp. - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4133-41</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20140722</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>14362-0111-04</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>MassBiologics - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">14362-0111-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>19700727</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>14362-0111-4</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>MassBiologics - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>14362-0111-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20150803</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>14362011104</value>
+        <label>Tetanus and Diphtheria Toxoids Adsorbed</label>
+        <description>MassBiologics - TETANUS AND DIPHTHERIA TOXOIDS ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>14362-0111-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20150803</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0820-10</value>
         <label>TETANUS TOXOID ADSORBED</label>
         <description>Sanofi Pasteur Inc. - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED)</description>
@@ -10132,6 +11444,7 @@
         </reference>
         <use-date>
             <not-before>20050923</not-before>
+            <not-after>20170505</not-after>
         </use-date>
     </code>
     <code>
@@ -10174,6 +11487,7 @@
         </reference>
         <use-date>
             <not-before>20050923</not-before>
+            <not-after>20170505</not-after>
         </use-date>
     </code>
     <code>
@@ -10376,6 +11690,7 @@
         </reference>
         <use-date>
             <not-before>20070607</not-before>
+            <not-after>20110427</not-after>
         </use-date>
     </code>
     <code>
@@ -10418,6 +11733,7 @@
         </reference>
         <use-date>
             <not-before>20070607</not-before>
+            <not-after>20110203</not-after>
         </use-date>
     </code>
     <code>
@@ -10502,6 +11818,7 @@
         </reference>
         <use-date>
             <not-before>20070607</not-before>
+            <not-after>20180118</not-after>
         </use-date>
     </code>
     <code>
@@ -10544,6 +11861,7 @@
         </reference>
         <use-date>
             <not-before>20070607</not-before>
+            <not-after>20180118</not-after>
         </use-date>
     </code>
     <code>
@@ -10583,6 +11901,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0790-38</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0790-88</link-to>
         </reference>
         <use-date>
             <not-before>19941128</not-before>
@@ -10625,6 +11944,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0790-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0790-38</link-to>
         </reference>
         <use-date>
             <not-before>19941128</not-before>
@@ -10709,6 +12029,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4096-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
     </code>
     <code>
@@ -10790,6 +12111,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4096-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>19960329</not-before>
@@ -10871,6 +12193,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4841-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>19960329</not-before>
@@ -10913,6 +12236,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4841-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>19960329</not-before>
@@ -11040,6 +12364,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
         </reference>
+        <use-date>
+            <not-expected-after>20190113</not-expected-after>
+            <not-after>20190713</not-after>
+        </use-date>
     </code>
     <code>
         <value>70460-002-01</value>
@@ -11064,6 +12392,45 @@
                 <new-code-value>70460-0002-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160617</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70460-0001-01</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - cholera, live attenuated</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>70460-001-01</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - cholera, live attenuated</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70460-0001-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70460000101</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - cholera, live attenuated</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70460-0001-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20170823</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -11106,6 +12473,45 @@
                 <new-code-value>69401-0000-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20151006</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>69401-0000-02</value>
+        <label>Vivotif</label>
+        <description>PaxVax Berna GmbH - SALMONELLA TYPHI TY21A</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">25</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">69401-0000-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>69401-000-02</value>
+        <label>Vivotif</label>
+        <description>PaxVax Berna GmbH - SALMONELLA TYPHI TY21A</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>69401-0000-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>69401000002</value>
+        <label>Vivotif</label>
+        <description>PaxVax Berna GmbH - SALMONELLA TYPHI TY21A</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>69401-0000-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20170823</effective-date>
             </deprecated>
         </code-status>
     </code>

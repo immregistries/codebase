@@ -151,6 +151,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171115</not-after>
         </use-date>
     </code>
     <code>
@@ -259,6 +260,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -273,6 +275,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -388,6 +391,20 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>HEPLISAV-B</value>
+        <label>HepB-CpG</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">DVX</link-to>
+        </reference>
+        <use-date>
+            <not-before>20171027</not-before>
         </use-date>
     </code>
     <code>
@@ -789,6 +806,9 @@
             <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
         </reference>
+        <use-date>
+            <not-before>20170421</not-before>
+        </use-date>
     </code>
     <code>
         <value>AFLURIA</value>
@@ -799,6 +819,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
         </reference>
         <use-date>
             <not-before>20160926</not-before>
@@ -828,6 +849,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
         </reference>
         <use-date>
             <not-before>20100927</not-before>
@@ -856,6 +878,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
         </reference>
         <use-date>
             <not-before>20160926</not-before>
@@ -874,6 +897,7 @@
         </reference>
         <use-date>
             <not-before>20100927</not-before>
+            <not-after>20171115</not-after>
         </use-date>
     </code>
     <code>
@@ -969,6 +993,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
         </reference>
         <use-date>
             <not-before>20160809</not-before>
@@ -997,6 +1022,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VET</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">INT</link-to>
         </reference>
         <use-date>
             <not-before>20160719</not-before>
@@ -1040,6 +1067,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
         </reference>
         <use-date>
             <not-before>20150202</not-before>
@@ -1071,6 +1099,7 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+            <not-after>20171115</not-after>
         </use-date>
     </code>
     <code>
@@ -1082,6 +1111,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
         </reference>
         <use-date>
             <not-before>20160322</not-before>
@@ -1113,6 +1143,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171027</not-after>
         </use-date>
     </code>
     <code>
@@ -1165,6 +1196,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
         </reference>
         <use-date>
             <not-after>20150827</not-after>
@@ -1193,6 +1226,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">126</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">CSL</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
         </reference>
         <use-date>
             <not-after>20150827</not-after>
@@ -1220,6 +1255,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">WAL</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1263,6 +1299,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">175</link-to>
         </reference>
         <use-date>
             <not-before>20161019</not-before>
@@ -1278,6 +1315,9 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">CHI</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">176</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
         </reference>
         <use-date>
             <not-before>20161019</not-before>
@@ -1365,6 +1405,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20171027</not-after>
         </use-date>
     </code>
     <code>
@@ -1390,6 +1431,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">GRF</link-to>
         </reference>
         <use-date>
             <not-before>20170419</not-before>
@@ -1501,6 +1543,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">ACA</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1574,6 +1617,20 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>SHINGRIX</value>
+        <label>zoster recombinant</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20171027</not-before>
         </use-date>
     </code>
 </codeset>
