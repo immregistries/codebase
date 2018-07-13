@@ -30,19 +30,6 @@
         </use-date>
     </code>
     <code>
-        <value>253088698300002811180321</value>
-        <label>Anthrax Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">24</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180321</not-before>
-        </use-date>
-    </code>
-    <code>
         <value>253088698300002811100310</value>
         <label>Antrx VIS</label>
         <description></description>
@@ -90,8 +77,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">148</link-to>
         </reference>
         <use-date>
@@ -105,7 +90,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">148</link-to>
         </reference>
         <use-date>
             <not-before>20140204</not-before>
@@ -118,7 +103,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">49</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">148</link-to>
         </reference>
         <use-date>
             <not-before>20150402</not-before>
@@ -132,10 +117,6 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">52</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">83</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
@@ -148,15 +129,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">42</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">44</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">189</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
@@ -170,11 +143,11 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">42</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">44</link-to>
         </reference>
         <use-date>
             <not-before>20120202</not-before>
@@ -188,9 +161,9 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">52</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">52</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">52</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">83</link-to>
         </reference>
         <use-date>
             <not-before>20111025</not-before>
@@ -284,7 +257,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">153</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">158</link-to>
         </reference>
         <use-date>
             <not-before>20120702</not-before>
@@ -297,7 +270,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">155</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">161</link-to>
         </reference>
         <use-date>
             <not-before>20130726</not-before>
@@ -310,7 +283,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">135</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">166</link-to>
         </reference>
         <use-date>
             <not-before>20140819</not-before>
@@ -323,42 +296,16 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">186</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">150</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">153</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">155</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">158</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">161</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">166</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">168</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">171</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">185</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">186</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">135</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">141</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">140</link-to>
@@ -389,7 +336,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">111</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">149</link-to>
         </reference>
         <use-date>
             <not-before>20130726</not-before>
@@ -402,7 +349,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">111</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">149</link-to>
         </reference>
         <use-date>
             <not-before>20140819</not-before>
@@ -415,8 +362,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">149</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">149</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">149</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">111</link-to>
         </reference>
@@ -449,19 +394,6 @@
         </reference>
         <use-date>
             <not-before>20140124</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300020211180212</value>
-        <label>Live Zoster Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">121</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180212</not-before>
         </use-date>
     </code>
     <code>
@@ -499,10 +431,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">32</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">32</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">32</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">114</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
         </reference>
         <use-date>
@@ -531,37 +459,11 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">114</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">32</link-to>
         </reference>
         <use-date>
             <not-before>20111014</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300012711180212</value>
-        <label>MMR Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">03</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180212</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300013411180212</value>
-        <label>MMRV Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">94</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180212</not-before>
         </use-date>
     </code>
     <code>
@@ -571,29 +473,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">20</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">106</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">120</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">130</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">49</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">51</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">10</link-to>
         </reference>
         <use-date>
             <not-before>20151105</not-before>
@@ -606,7 +486,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">51</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
         </reference>
         <use-date>
             <not-before>20121116</not-before>
@@ -619,22 +499,18 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">20</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">106</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">120</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">130</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">49</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">51</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">10</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">119</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">116</link-to>
         </reference>
@@ -716,7 +592,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">130</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
@@ -744,42 +620,12 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">18</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">176</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">18</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
         </reference>
         <use-date>
             <not-before>20091006</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300032511180212</value>
-        <label>Recombinant Zoster Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">187</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180212</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300019611180223</value>
-        <label>Rotavirus Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">116</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180223</not-before>
         </use-date>
     </code>
     <code>
@@ -802,7 +648,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">116</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">119</link-to>
         </reference>
         <use-date>
             <not-before>20130826</not-before>
@@ -828,10 +674,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">162</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">162</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">162</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">163</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">162</link-to>
         </reference>
         <use-date>
             <not-before>20160809</not-before>
@@ -858,14 +702,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">138</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">09</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">142</link-to>
         </reference>
         <use-date>
@@ -879,7 +715,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">142</link-to>
         </reference>
         <use-date>
             <not-before>20140204</not-before>
@@ -892,11 +728,11 @@
             <status>Valid</status>
         </code-status>
         <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">142</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">138</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">113</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">09</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">35</link-to>
         </reference>
         <use-date>
             <not-before>20150224</not-before>
@@ -910,7 +746,7 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">09</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">142</link-to>
         </reference>
         <use-date>
             <not-before>20120124</not-before>
@@ -950,13 +786,9 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">25</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">25</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">25</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">25</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">101</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">25</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">41</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">101</link-to>
         </reference>
         <use-date>
             <not-before>20120529</not-before>
@@ -976,27 +808,12 @@
         </use-date>
     </code>
     <code>
-        <value>253088698300024011180212</value>
-        <label>Varicella Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">21</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180212</not-before>
-        </use-date>
-    </code>
-    <code>
         <value>253088698300025711110330</value>
         <label>Yellow Fever VIS</label>
         <code-status>
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">183</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">183</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">183</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">37</link-to>
         </reference>

@@ -115,7 +115,6 @@
             <link-to codeset="VACCINATION_CVX_CODE">84</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">31</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">104</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
     </code>
     <code>
@@ -137,7 +136,6 @@
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">51</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
         </reference>
     </code>
     <code>
@@ -538,8 +536,6 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">121</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">188</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
         </reference>
     </code>
 </codeset>
