@@ -328,7 +328,6 @@
         <reference>
             <link-to codeset="INJECTION_GUIDANCE">DTaP</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90296</link-to>
-            <link-to codeset="INJECTION_GUIDANCE">DTaP</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1771,6 +1770,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0200-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0301-10</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax, quadrivalent, with preservative</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90756</link-to>
         </reference>
         <use-date>
             <not-before>20170627</not-before>
