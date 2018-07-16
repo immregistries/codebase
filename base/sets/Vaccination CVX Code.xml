@@ -6,10 +6,7 @@
         <value>143</value>
         <label>Adenovirus types 4 and 7</label>
         <description>Adenovirus, type 4 and type 7, live, oral Notes: This
-			vaccine is administered as 2 tablets.
-			Notes: This vaccine is
-			administered as 2 tablets.
-		 Notes: This vaccine is administered as 2 tablets.</description>
+			vaccine is administered as 2 tablets.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -87,8 +84,7 @@
         <description>adenovirus vaccine, unspecified formulation Notes: This
 			CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a adenovirus vaccination when
-			noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a adenovirus vaccination when noted on a vaccination card)</description>
+			noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -150,8 +146,7 @@
         <value>801</value>
         <label>AS03 Adjuvant</label>
         <description>AS03 Adjuvant Notes: This is the adjuvant that is
-			packaged with H5N1 vaccine, adjuvanted
-		 Notes: This is the adjuvant that is packaged with H5N1 vaccine, adjuvanted</description>
+			packaged with H5N1 vaccine, adjuvanted</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -448,8 +443,7 @@
         <description>diphtheria, tetanus toxoids and acellular pertussis
 			vaccine, unspecified formulation Notes: This CVX code allows
 			reporting of a vaccination when formulation is unknown (for example,
-			when recording a DTaP vaccination when noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a DTaP vaccination when noted on a vaccination card)</description>
+			when recording a DTaP vaccination when noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -474,8 +468,7 @@
         <description>Diphtheria and Tetanus Toxoids and Acellular Pertussis
 			Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate
 			(Meningococcal Protein Conjugate), and Hepatitis B (Recombinant)
-			Vaccine. Notes: Note that this vaccine is different from CVX 132.
-		 Notes: Note that this vaccine is different from CVX 132.</description>
+			Vaccine. Notes: Note that this vaccine is different from CVX 132.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -623,8 +616,7 @@
         <description>Historical record of vaccine containing * diphtheria,
 			tetanus toxoids and acellular pertussis, * poliovirus, inactivated, *
 			Haemophilus influenzae type b conjugate, * Hepatitis B Notes: This is
-			not the same as CVX 146, Hexavalent vaccine.
-		 Notes: This is not the same as CVX 146, Hexavalent vaccine.</description>
+			not the same as CVX 146, Hexavalent vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -652,8 +644,7 @@
 			pertussis vaccine, Haemophilus influenzae type b conjugate, and
 			poliovirus vaccine, inactivated (DTaP-Hib-IPV) Notes: This CVX was
 			split off from CVX 102, to correctly identify the contents of the
-			vaccine.
-		 Notes: This CVX was split off from CVX 102, to correctly identify the contents of the vaccine.</description>
+			vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -719,8 +710,7 @@
         <label>DTP-Hib-Hep B</label>
         <description>DTP- Haemophilus influenzae type b conjugate and
 			hepatitis b vaccine Notes: This CVX has been corrected. This non-US
-			vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007.
-		 Notes: This CVX has been corrected. This non-US vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007 .</description>
+			vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -817,8 +807,7 @@
         <value>169</value>
         <label>Hep A, live attenuated</label>
         <description>Hep A, live attenuated-IM Notes: This vaccine is not
-			available in the US.
-		 Notes: This vaccine is not available in the US.</description>
+			available in the US.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -883,8 +872,7 @@
         <description>hepatitis A vaccine, pediatric/adolescent dosage, 3 dose
 			schedule Notes: This vaccine formulation is inactive and should not
 			be used, except to record historic vaccinations with this
-			formulation.
-		 Notes: This vaccine formulation is inactive and should not be used, except to record historic vaccinations with this formulation.</description>
+			formulation.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -908,8 +896,7 @@
         <label>Hep A, pediatric, unspecified formulation</label>
         <description>hepatitis A vaccine, pediatric dosage, unspecified
 			formulation Notes: Do NOT use this code. If formulation is unknown,
-			use CVX 85. There is only one formulation of Hep A, peds.
-		 Notes: Do NOT use this code. If formulation is unknown, use CVX 85. There is only one formulation of Hep A, peds.</description>
+			use CVX 85. There is only one formulation of Hep A, peds.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -934,8 +921,7 @@
         <description>hepatitis A vaccine, unspecified formulation Notes: This
 			CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a HepA vaccination when noted on
-			a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepA vaccination when noted on a vaccination card)</description>
+			a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -995,8 +981,7 @@
 			of Hepatitis B vaccine. It should not be used for the 2-dose
 			hepatitis B schedule for adolescents (11-15 year olds). It requires
 			Merck's Recombivax HB® adult formulation. Use code 43 for that
-			vaccine.
-		 Notes: This code applies to any standard pediatric formulation of Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B schedule for adolescents (11-15 year olds). It requires Merck's Recombivax HB adult formulation. Use code 43 for that vaccine.</description>
+			vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1035,8 +1020,7 @@
 			adolescent/high risk infant hepatitis B vaccine dosage. Code 42
 			should only be used to record historical records. For current
 			administration of hepatitis B vaccine, pediatric/adolescent dosage,
-			use code 08.
-		 Notes: As of August 27, 1998, Merck ceased distribution of their adolescent/high risk infant hepatitis B vaccine dosage. Code 42 should only be used to record historical records. For current administration of hepatitis B vaccine, pediatric/adolescent dosage, use code 08.</description>
+			use code 08.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1062,8 +1046,7 @@
 			1999, a 2-dose hepatitis B schedule for adolescents (11-15 year olds)
 			was FDA approved for Merck's Recombivax HB® adult formulation. Use
 			code 43 for the 2-dose. This code should be used for any use of
-			standard adult formulation of hepatitis B vaccine.
-		 Notes: As of September 1999, a 2-dose hepatitis B schedule for adolescents (11-15 year olds) was FDA approved for Merck's Recombivax HB adult formulation. Use code 43 for the 2-dose. This code should be used for any use of standard adult formulation of hepatitis B vaccine.</description>
+			standard adult formulation of hepatitis B vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1135,8 +1118,7 @@
         <description>hepatitis B vaccine, unspecified formulation Notes: This
 			CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a HepB vaccination when noted on
-			a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepB vaccination when noted on a vaccination card)</description>
+			a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1197,8 +1179,7 @@
         <label>Hepatitis A immune globulin</label>
         <description>Hepatitis A immune globulin Notes: Do not use this code.
 			This product may be used for Hep A and other viral infections. The
-			correct vaccine / CVX is 86 (IG).
-		 Notes: Do not use this code. This product may be used for Hep A and other viral infections. The correct vaccine / CVX is 86 (IG).</description>
+			correct vaccine / CVX is 86 (IG).</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1393,8 +1374,7 @@
         <label>Hib-Hep B</label>
         <description>Haemophilus influenzae type b conjugate and Hepatitis B
 			vaccine Notes: This vaccine may still be in use until the existing
-			lots expire on 8/19/16.
-		 Notes: This vaccine may still be in use until the existing lots expire on 8/19/16.</description>
+			lots expire on 8/19/16.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1501,8 +1481,7 @@
         <label>HPV, unspecified formulation</label>
         <description>HPV, unspecified formulation Notes: This CVX code allows
 			reporting of a vaccination when formulation is unknown (for example,
-			when recording a HPV vaccination when noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HPV vaccination when noted on a vaccination card)</description>
+			when recording a HPV vaccination when noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1613,8 +1592,7 @@
         <label>Influenza A monovalent (H5N1), ADJUVANTED-2013</label>
         <description>Influenza A monovalent (H5N1), adjuvanted, National
 			stockpile 2013 Notes: Approved by FDA 2013, adjuvant is mixed at
-			point of administration.
-		 Notes: Approved by FDA 2013, adjuvant is mixed at point of administration.</description>
+			point of administration.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1636,8 +1614,7 @@
         <label>Influenza nasal, unspecified formulation</label>
         <description>influenza nasal, unspecified formulation Notes: This CVX
 			should only be used for historical records where the formulation of
-			nasal flu vaccine is not known.
-		 Notes: This CVX should only be used for historical records where the formulation of nasal flu vaccine is not known.</description>
+			nasal flu vaccine is not known.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1723,8 +1700,7 @@
         <value>153</value>
         <label>Influenza, injectable, MDCK, preservative free</label>
         <description>Influenza, injectable, Madin Darby Canine Kidney,
-			preservative free Notes: ccIIV3
-		 Notes: ccIIV3</description>
+			preservative free Notes: ccIIV3</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1805,8 +1781,7 @@
         <value>158</value>
         <label>Influenza, injectable, quadrivalent</label>
         <description>influenza, injectable, quadrivalent, contains
-			preservative Notes: New in 2013. IIV4
-		 Notes: New in 2013. IIV4</description>
+			preservative Notes: New in 2013. IIV4</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1854,8 +1829,7 @@
         <value>150</value>
         <label>Influenza, injectable, quadrivalent, preservative free</label>
         <description>Influenza, injectable, quadrivalent, preservative free
-			Notes: New in 2012. IIV4
-		 Notes: New in 2012. IIV4</description>
+			Notes: New in 2012. IIV4</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1981,8 +1955,7 @@
         <value>111</value>
         <label>Influenza, live, intranasal</label>
         <description>influenza virus vaccine, live, attenuated, for intranasal
-			use Notes: LAIV3
-		 Notes: LAIV3</description>
+			use Notes: LAIV3</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2015,8 +1988,7 @@
         <value>149</value>
         <label>influenza, live, intranasal, quadrivalent</label>
         <description>influenza, live, intranasal, quadrivalent Notes: new in
-			2012. LAIV4
-		 Notes: new in 2012. LAIV4</description>
+			2012. LAIV4</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2052,8 +2024,7 @@
         <value>155</value>
         <label>Influenza, recombinant, injectable, preservative free</label>
         <description>Seasonal, trivalent, recombinant, injectable influenza
-			vaccine, preservative free Notes: RIV
-		 Notes: RIV</description>
+			vaccine, preservative free Notes: RIV</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2115,8 +2086,7 @@
         <value>141</value>
         <label>Influenza, seasonal, injectable</label>
         <description>Influenza, seasonal, injectable Notes: IIV3. This is one
-			of two codes replacing CVX 15, which is being retired.
-		 Notes: IIV3. This is one of two codes replacing CVX 15, which is being retired.</description>
+			of two codes replacing CVX 15, which is being retired.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2201,8 +2171,7 @@
         <label>Influenza, seasonal, injectable, preservative free</label>
         <description>Influenza, seasonal, injectable, preservative free Notes:
 			IIV3. This vaccine code is one of two which replace CVX 15,
-			influenza, split virus.
-		 Notes: IIV3. This vaccine code is one of two which replace CVX 15, influenza, split virus.</description>
+			influenza, split virus.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2305,8 +2274,7 @@
         <value>144</value>
         <label>Influenza, seasonal, intradermal, preservative free</label>
         <description>seasonal influenza, intradermal, preservative free Notes:
-			IIV3
-		 Notes: IIV3</description>
+			IIV3</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2339,8 +2307,7 @@
         <description>influenza virus vaccine, split virus (incl. purified
 			surface antigen)-retired CODE Notes: This code is being retired. It
 			will still be found in older immunization records. It included both
-			preservative free and non-preservative free.
-		 Notes: This code is being retired. It will still be found in older immunization records. It included both preservative free and non-preservative free.</description>
+			preservative free and non-preservative free.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2389,8 +2356,7 @@
         <description>influenza virus vaccine, unspecified formulation Notes:
 			This CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a Influenza vaccination when
-			noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Influenza vaccination when noted on a vaccination card)</description>
+			noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2521,8 +2487,7 @@
         <description>Japanese Encephalitis vaccine, unspecified formulation
 			Notes: This CVX code allows reporting of a vaccination when
 			formulation is unknown (for example, when recording a JE vaccination
-			when noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a JE vaccination when noted on a vaccination card)</description>
+			when noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2827,8 +2792,7 @@
 			used for historical doses of meningococcal conjugate vaccine where
 			the formulation is unknown (oligosaccharide vs polysaccharide). It is
 			not the same as CVX 108, Meningococcal, unspecified formulation. This
-			CVX is for unspecified Meningococcal conjugate vaccines.
-		 Notes: This CVX should only be used for historical doses of meningococcal conjugate vaccine where the formulation is unknown (oligosaccharide vs polysaccharide). It is not the same as CVX 108, Meningococcal, unspecified formulation. This CVX is for unspecified Meningococcal conjugate vaccines.</description>
+			CVX is for unspecified Meningococcal conjugate vaccines.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2937,8 +2901,7 @@
 			serogroups Notes: This CVX is intended for use when any one of the
 			meningococcal vaccines is recorded and there is no information about
 			which serogroups are protected against. This code should not be used
-			when a newly administered immunization is recorded.
-		 Notes: This CVX is intended for use when any one of the meningococcal vaccines is recorded and there is no information about which serogroups are protected against. This code should not be used when a newly administered immunization is recorded.</description>
+			when a newly administered immunization is recorded.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -2956,8 +2919,7 @@
 			polysaccaride) was given and the exact formulation was not recorded.
 			It should not be used to record newly administered immunizations. It
 			is not to be used when one of the meningococcal vaccines containing
-			other serogroups was administered.
-		 Notes: This CVX is intended for use when one of the meningococcal vaccines containing serogroups A, C, W and Y (conjugate or polysaccaride) was given and the exact formulation was not recorded. It should not be used to record newly administered immunizations. It is not to be used when one of the meningococcal vaccines containing other serogroups was administered.</description>
+			other serogroups was administered.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3061,8 +3023,7 @@
 			in VXU HL7 messages where the OBX segment is nested with the RXA
 			segment, but the message does not contain information about a vaccine
 			administration. An example of this use is to report the vaccines due
-			next for a patient when no vaccine administration is being reported.
-		 Notes: Code 998 was added for use in VXU HL7 messages where the OBX segment is nested with the RXA segment, but the message does not contain information about a vaccine administration. An example of this use is to report the vaccines due next for a patient when no vaccine administration is being reported.</description>
+			next for a patient when no vaccine administration is being reported.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3112,8 +3073,7 @@
 			code is used whenever the actual formulation is not determined or
 			when aggregating all Novel H1N1 Influenza-09 immunizations for
 			reporting to CRA. It should not be used for seasonal influenza
-			vaccine that is not otherwise specified. (NOS)
-		 Notes: This code is used whenever the actual formulation is not determined or when aggregating all Novel H1N1 Influenza-09 immunizations for reporting to CRA. It should not be used for seasonal influenza vaccine that is not otherwise specified. (NOS)</description>
+			vaccine that is not otherwise specified. (NOS)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3204,8 +3164,7 @@
         <value>02</value>
         <label>OPV</label>
         <description>trivalent poliovirus vaccine, live, oral Notes: This is
-			the OPV that was used in the US
-		 Notes: This is the OPV that was used in the US</description>
+			the OPV that was used in the US</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3231,8 +3190,7 @@
         <description>Non-US monovalent oral polio vaccine, unspecified
 			formulation Notes: This is a non-US vaccine that may be seen in some
 			immunization histories. It is composed of either Type 1, Type 2 or
-			Type 3 oral polio vaccine.
-		 Notes: This is a non-US vaccine that may be seen in some immunization histories. It is composed of either Type 1, Type 2 or Type 3 oral polio vaccine.</description>
+			Type 3 oral polio vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3243,8 +3201,7 @@
         <label>OPV bivalent</label>
         <description>Non-US bivalent oral polio vaccine (types 1 and 3) Notes:
 			This is a non-US vaccine that may be seen in some immunization
-			histories.
-		 Notes: This is a non-US vaccine that may be seen in some immunization histories.</description>
+			histories.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3255,8 +3212,7 @@
         <label>OPV, Unspecified</label>
         <description>Oral Polio Vaccine, Unspecified formulation Notes: This
 			code represents an oral polio vaccine where the specific formulation
-			is unknown.
-		 Notes: This code represents an oral polio vaccine where the specific formulation is unknown.</description>
+			is unknown.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3290,8 +3246,7 @@
         <value>177</value>
         <label>PCV10</label>
         <description>pneumococcal conjugate vaccine, 10 valent Notes: This is
-			a foreign vaccine
-		 Notes: This is a foreign vaccine</description>
+			a foreign vaccine</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3397,8 +3352,7 @@
         <label>Pneumococcal Conjugate, unspecified formulation</label>
         <description>Pneumococcal Conjugate, unspecified formulation Notes:
 			This CVX should only be used for historical records where the
-			formulation of pneumococcal conjugate vaccine is not known.
-		 Notes: This CVX should only be used for historical records where the formulation of pneumococcal conjugate vaccine is not known.</description>
+			formulation of pneumococcal conjugate vaccine is not known.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3458,8 +3412,7 @@
         <description>pneumococcal vaccine, unspecified formulation Notes: This
 			CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a pneumococcal vaccination when
-			noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a pneumococcal vaccination when noted on a vaccination card)</description>
+			noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3480,8 +3433,7 @@
         <description>poliovirus vaccine, unspecified formulation Notes: This
 			CVX code allows reporting of a vaccination when formulation is
 			unknown (for example, when recording a polio vaccination when noted
-			on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a polio vaccination when noted on a vaccination card)</description>
+			on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3583,8 +3535,7 @@
         <label>rabies, intramuscular injection</label>
         <description>rabies vaccine, for intramuscular injection RETIRED CODE
 			Notes: This CVX code has been retired. It is replace by CVX 175, or
-			CVX 176. It will continue to be found in historic records.
-		 Notes: This CVX code has been retired. It is replace by CVX 175, or CVX 176. It will continue to be found in historic records.</description>
+			CVX 176. It will continue to be found in historic records.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3610,8 +3561,7 @@
         <description>rabies vaccine, unspecified formulation Notes: This CVX
 			code allows reporting of a vaccination when formulation is unknown
 			(for example, when recording a rabies vaccination when noted on a
-			vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a rabies vaccination when noted on a vaccination card)</description>
+			vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3634,8 +3584,7 @@
         <value>99</value>
         <label>RESERVED - do not use</label>
         <description>RESERVED - do not use Notes: Code 99 will not be used in
-			this table to avoid confusion with code 999.
-		 Notes: Code 99 will not be used in this table to avoid confusion with code 999.</description>
+			this table to avoid confusion with code 999.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3669,8 +3618,7 @@
         <value>157</value>
         <label>Rho(D) -IG IM</label>
         <description>Rho(D) Immune globulin - IM Notes: This immune globulin
-			may be administered IM only.
-		 Notes: This immune globulin may be administered IM only.</description>
+			may be administered IM only.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3708,8 +3656,7 @@
         <value>156</value>
         <label>Rho(D)-IG</label>
         <description>Rho(D) Immune globulin- IV or IM Notes: This immune
-			globulin may be administered either IM or IV.
-		 Notes: This immune globulin may be administered either IM or IV.</description>
+			globulin may be administered either IM or IV.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -3986,8 +3933,7 @@
         <value>138</value>
         <label>Td (adult)</label>
         <description>tetanus and diphtheria toxoids, not adsorbed, for adult
-			use Notes: Note that this Td is not adsorbed.
-		 Notes: Note that this Td is not adsorbed.</description>
+			use Notes: Note that this Td is not adsorbed.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4080,8 +4026,7 @@
         <description>Td(adult) unspecified formulation Notes: This CVX code
 			allows reporting of a vaccination when formulation is unknown (for
 			example, when recording a Td vaccination when noted on a vaccination
-			card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Td vaccination when noted on a vaccination card)</description>
+			card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4146,8 +4091,7 @@
         <value>180</value>
         <label>tetanus immune globulin</label>
         <description>tetanus immune globulin Notes: This record duplicates CVX
-			13 (TIG). Do not use CVX 180.
-		 Notes: This record duplicates CVX 13 (TIG). Do not use CVX 180.</description>
+			13 (TIG). Do not use CVX 180.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4258,8 +4202,7 @@
         <value>98</value>
         <label>TST, unspecified formulation</label>
         <description>tuberculin skin test; unspecified formulation Notes: TB
-			Skin test is not vaccine.
-		 Notes: TB Skin test is not vaccine.</description>
+			Skin test is not vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4278,8 +4221,7 @@
         <value>95</value>
         <label>TST-OT tine test</label>
         <description>tuberculin skin test; old tuberculin, multipuncture
-			device Notes: TB Skin test is not vaccine.
-		 Notes: TB Skin test is not vaccine.</description>
+			device Notes: TB Skin test is not vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4298,8 +4240,7 @@
         <value>96</value>
         <label>TST-PPD intradermal</label>
         <description>tuberculin skin test; purified protein derivative
-			solution, intradermal Notes: TB Skin test is not vaccine.
-		 Notes: TB Skin test is not vaccine.</description>
+			solution, intradermal Notes: TB Skin test is not vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4318,8 +4259,7 @@
         <value>97</value>
         <label>TST-PPD tine test</label>
         <description>tuberculin skin test; purified protein derivative,
-			multipuncture device Notes: TB Skin test is not vaccine.
-		 Notes: TB Skin test is not vaccine.</description>
+			multipuncture device Notes: TB Skin test is not vaccine.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4440,8 +4380,7 @@
         <description>typhoid vaccine, unspecified formulation Notes: This CVX
 			code allows reporting of a vaccination when formulation is unknown
 			(for example, when recording a typhoid vaccination when noted on a
-			vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a typhoid vaccination when noted on a vaccination card)</description>
+			vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4507,8 +4446,7 @@
         <value>999</value>
         <label>unknown</label>
         <description>unknown vaccine or immune globulin Notes: This CVX code
-			has little utility and should rarely be used.
-		 Notes: This CVX code has little utility and should rarely be used.</description>
+			has little utility and should rarely be used.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4660,8 +4598,7 @@
         <description>Venezuelan equine encephalitis vaccine, unspecified
 			formulation Notes: This CVX code allows reporting of a vaccination
 			when formulation is unknown (for example, when recording a VEE
-			vaccination when noted on a vaccination card)
-		 Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a VEE vaccination when noted on a vaccination card)</description>
+			vaccination when noted on a vaccination card)</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4724,8 +4661,7 @@
         <label>yellow fever</label>
         <description>yellow fever vaccine Notes: This is the YF vaccine that
 			has been available in the US for years. It is stabilized with
-			sorbitol and gelatin.
-		 Notes: This is the YF vaccine that has been available in the US for years. It is stabilized with sorbitol and gelatin.</description>
+			sorbitol and gelatin.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -4753,8 +4689,7 @@
         <label>Yellow fever vaccine - alt</label>
         <description>Yellow fever vaccine alternative formulation Notes: This
 			vaccine is stabilized with sorbitol and lactose and has been used
-			outside the US for some time. It will be made available in the US.
-		 Notes: This vaccine is stabilized with sorbitol and lactose and has been used outside the US for some time. It will be made available in the US.</description>
+			outside the US for some time. It will be made available in the US.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
