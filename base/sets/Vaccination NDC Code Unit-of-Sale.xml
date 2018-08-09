@@ -2317,7 +2317,6 @@
             <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0883-41</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0883-41</link-to>
         </reference>
         <use-date>
             <not-before>20150803</not-before>
@@ -3064,7 +3063,6 @@
             <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">62577-0613-11</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">62577-0613-11</link-to>
         </reference>
         <use-date>
             <not-before>20140701</not-before>
@@ -3355,7 +3353,6 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0893-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0893-02</link-to>
         </reference>
         <use-date>
