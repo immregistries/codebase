@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codeset>
+	<label>Vaccination Lot Number Pattern</label>
+	<type>VACCINATION_LOT_NUMBER_PATTERN</type>
+	<code>
+		<value>A-Z][0-9]{4,4}'-'[0-9]$</value>
+		<label>A####-#</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+	<code>
+		<value>^[A-Z][0-9]{5,5}$</value>
+		<label>A#####</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+	<code>
+		<value>^[A-Z][0-9]{5,5}[A-Z]$</value>
+		<label>A#####A</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+
+	<code>
+		<value>^[A-Z]{2,2}[0-9]{3,3}[A-Z]{2,2}$</value>
+		<label>AA###AA</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+
+	<code>
+		<value>^[A-Z]{2,2}[0-9]{3,3}[A-Z]{3,3}$</value>
+		<label>AA###AAA</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+
+	<code>
+		<value>^\QM\E[0-9]{5,5}$</value>
+		<label>M#####</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+		</reference>
+	</code>
+
+
+	<code>
+		<value>^\QX\E[0-9]{5,5}$</value>
+		<label>X#####</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+		</reference>
+	</code>
+
+
+	<code>
+		<value>^\QA\E[0-9]{5,5}$</value>
+		<label>A#####</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+		</reference>
+	</code>
+
+	<code>
+		<value>^\QA\E[0-9]{5,5}$</value>
+		<label>A####</label>
+		<description></description>
+		<code-status>
+			<status>Valid</status>
+		</code-status>
+		<reference>
+			<link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+		</reference>
+	</code>
+
+</codeset>

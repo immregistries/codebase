@@ -525,6 +525,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">55045-3841-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0823-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0819-12</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QM\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QX\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QA\E[0-9]{5,5}$</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1407,6 +1410,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0483-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0482-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0913-01</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">A-Z][0-9]{4,4}'-'[0-9]$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}[A-Z]$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z]{2,2}[0-9]{3,3}[A-Z]{2,2}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z]{2,2}[0-9]{3,3}[A-Z]{3,3}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QA\E[0-9]{5,5}$</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
