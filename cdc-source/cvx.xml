@@ -364,6 +364,15 @@
 		<LastUpdated>5/28/2010</LastUpdated>
 	</CVXInfo>
 	<CVXInfo>
+		<ShortDescription>Hep A-Hep B, pediatric/adolescent</ShortDescription>
+		<FullVaccinename>hepatitis A and hepatitis B vaccine,
+			pediatric/adolescent (non-US)</FullVaccinename>
+		<CVXCode>193       </CVXCode>
+		<Notes>e.g. Twinrix Junior available in Canada</Notes>
+		<Status>Non-US</Status>
+		<LastUpdated>8/21/2018</LastUpdated>
+	</CVXInfo>
+	<CVXInfo>
 		<ShortDescription>Hep B, adolescent or pediatric</ShortDescription>
 		<FullVaccinename>hepatitis B vaccine, pediatric or
 			pediatric/adolescent dosage</FullVaccinename>

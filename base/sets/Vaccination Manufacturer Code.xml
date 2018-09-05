@@ -300,6 +300,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0519-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0519-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0629-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">AFLURIA</link-to>
         </reference>
         <use-date>
             <not-after>20160926</not-after>
@@ -339,6 +340,9 @@
             <link-to codeset="VACCINATION_TRADE_NAME">HEPLISAV-B</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">43528-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">43528-0002-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">43528-0003-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-3469-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">43528-0003-05</link-to>
         </reference>
         <use-date>
             <not-before>20171027</not-before>
@@ -514,6 +518,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0815-34</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Menveo</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">RABAVERT</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">SHINGRIX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-0734-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-01</link-to>
@@ -522,6 +528,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">55045-3841-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0823-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0819-12</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QM\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QX\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QA\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0898-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0898-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3096-00</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -594,6 +606,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0896-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0901-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0898-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0909-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0900-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0900-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0909-52</link-to>
         </reference>
         <use-date>
             <not-before>20130905</not-before>
@@ -997,7 +1013,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0208-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUVIRIN</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Bexsero</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09, preservative-free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">RABAVERT</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66521-0114-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0471-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0470-10</link-to>
@@ -1388,10 +1408,10 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Novel influenza-H1N1-09, preservative-free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0400-89</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0482-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6180-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-6177-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0708-48</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0482-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">76420-0483-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0913-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0400-20</link-to>
@@ -1400,6 +1420,24 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0483-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0482-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0913-01</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">A-Z][0-9]{4,4}'-'[0-9]$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}[A-Z]$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z]{2,2}[0-9]{3,3}[A-Z]{2,2}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z]{2,2}[0-9]{3,3}[A-Z]{3,3}$</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^\QA\E[0-9]{5,5}$</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0403-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0629-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0518-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0418-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0418-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-1693-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0403-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0418-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0418-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0629-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0518-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1693-09</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1476,6 +1514,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0119-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0119-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0119-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0118-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0018-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0418-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0318-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0018-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0018-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0118-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0418-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0318-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0018-03</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>
@@ -1595,6 +1643,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">IXIARO</link-to>
+        </reference>
         <use-date>
             <not-after>20180510</not-after>
         </use-date>
@@ -1610,6 +1661,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">PREVNAR 7</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-1970-49</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1970-50</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PREVNAR 13</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

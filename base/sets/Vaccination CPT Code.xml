@@ -172,12 +172,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">107</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">106</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
         </reference>
         <use-date/>
     </code>
@@ -276,7 +272,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">169</link-to>
         </reference>
@@ -404,8 +399,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date/>
@@ -433,8 +426,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
         </reference>
     </code>
@@ -978,9 +969,8 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">147</link-to>
         </reference>
         <use-date/>
     </code>
@@ -1062,8 +1052,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">127</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
         </reference>
@@ -1212,8 +1200,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">90</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">18</link-to>
         </reference>
         <use-date/>
@@ -1427,12 +1413,9 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>
@@ -1495,8 +1478,6 @@
             <status>Valid</status>
         </code-status>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">184</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">184</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
         </reference>
         <use-date/>
@@ -1520,8 +1501,5 @@
         <code-status>
             <status>Valid</status>
         </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
-        </reference>
     </code>
 </codeset>

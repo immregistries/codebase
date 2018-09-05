@@ -1255,6 +1255,30 @@
 	</CVXVGInfo>
 	<CVXVGInfo>
 		<Name>ShortDescription</Name>
+		<Value>Hep A-Hep B, pediatric/adolescent</Value>
+		<Name>CVXCode</Name>
+		<Value>193       </Value>
+		<Name>Status</Name>
+		<Value>Non-US</Value>
+		<Name>Vaccine Group Name</Name>
+		<Value>HepB</Value>
+		<Name>CVX for Vaccine Group</Name>
+		<Value>45</Value>
+	</CVXVGInfo>
+	<CVXVGInfo>
+		<Name>ShortDescription</Name>
+		<Value>Hep A-Hep B, pediatric/adolescent</Value>
+		<Name>CVXCode</Name>
+		<Value>193       </Value>
+		<Name>Status</Name>
+		<Value>Non-US</Value>
+		<Name>Vaccine Group Name</Name>
+		<Value>HepA</Value>
+		<Name>CVX for Vaccine Group</Name>
+		<Value>85</Value>
+	</CVXVGInfo>
+	<CVXVGInfo>
+		<Name>ShortDescription</Name>
 		<Value>DTaP</Value>
 		<Name>CVXCode</Name>
 		<Value>20        </Value>
