@@ -439,7 +439,7 @@
 		<Name>CPT Code</Name>
 		<Value>90644     </Value>
 		<Name>CPT Desc</Name>
-		<Value>Meningococcal conjugate vaccine, serogroups C &amp; Y and
+		<Value>Meningococcal conjugate vaccine, serogroups C & Y and
 			Haemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule,
 			when administered to children 6 weeks-18 months of age, for
 			intramuscular use</Value>
@@ -744,7 +744,7 @@
 		<Name>CVX Code</Name>
 		<Value>135       </Value>
 		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
+		<Value>6/25/2018</Value>
 	</CPTInfo>
 	<CPTInfo>
 		<Name>CPT Code</Name>
@@ -1936,7 +1936,7 @@
 		<Name>CVX Code</Name>
 		<Value>187       </Value>
 		<Name>LastUpdated</Name>
-		<Value>10/27/2017</Value>
+		<Value>6/25/2018</Value>
 	</CPTInfo>
 	<CPTInfo>
 		<Name>CPT Code</Name>
