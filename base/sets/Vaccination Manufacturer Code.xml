@@ -1420,7 +1420,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0483-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0482-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0913-01</link-to>
-            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">A-Z][0-9]{4,4}'-'[0-9]$</link-to>
             <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}$</link-to>
             <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{5,5}[A-Z]$</link-to>
             <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z]{2,2}[0-9]{3,3}[A-Z]{2,2}$</link-to>
@@ -1438,6 +1437,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0629-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0518-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1693-09</link-to>
+            <link-to codeset="VACCINATION_LOT_NUMBER_PATTERN">^[A-Z][0-9]{4,4}'-'[0-9]$</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

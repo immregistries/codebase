@@ -9,6 +9,17 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>PHC68</value>
@@ -17,6 +28,17 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>OTH</value>
@@ -25,6 +47,17 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>PHC70</value>
@@ -33,6 +66,63 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>VXC50</value>
+        <label>Public</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>VXC52</value>
+        <label>Public non-VFC</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>VXC51</value>
+        <label>Public VFC</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>VXC2</value>
@@ -41,6 +131,17 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>VXC3</value>
@@ -49,6 +150,17 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
     <code>
         <value>UNK</value>
@@ -57,5 +169,16 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V01</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V02</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V03</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V04</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V05</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V22</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V23</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V24</link-to>
+            <link-to codeset="FINANCIAL_STATUS_CODE">V25</link-to>
+        </reference>
     </code>
 </codeset>
