@@ -16079,7 +16079,7 @@
             </reference>
         </code>
         <code>
-            <value>A-Z][0-9]{4,4}'-'[0-9]$</value>
+            <value>^[A-Z][0-9]{4,4}'-'[0-9]$</value>
             <label>A####-#</label>
             <description></description>
             <code-status>
