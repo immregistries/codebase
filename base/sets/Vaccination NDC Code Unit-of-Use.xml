@@ -3409,6 +3409,90 @@
         </code-status>
     </code>
     <code>
+        <value>70461-0418-11</value>
+        <label>FLUCELVAX QUADRIVALENT (MULTI-DOSE VIAL)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">186</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0418-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-418-11</value>
+        <label>FLUCELVAX QUADRIVALENT (MULTI-DOSE VIAL)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0418-11</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461041811</value>
+        <label>FLUCELVAX QUADRIVALENT (MULTI-DOSE VIAL)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0418-11</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0318-04</value>
+        <label>FLUCELVAX QUADRIVALENT (PREFILLED SYRINGE)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0318-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-318-04</value>
+        <label>FLUCELVAX QUADRIVALENT (PREFILLED SYRINGE)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0318-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461031804</value>
+        <label>FLUCELVAX QUADRIVALENT (PREFILLED SYRINGE)</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0318-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>70461-0200-12</value>
         <label>Flucelvax, quad, with preservative</label>
         <description>Sequris - influenza, MDCK, quadrivalent, with preservative</description>
@@ -4690,6 +4774,48 @@
                 <new-code-value>66019-0303-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20180530</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0305-01</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live Intranasal (2018-2019)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0305-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180810</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-305-01</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live Intranasal (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0305-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180829</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019030501</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live Intranasal (2018-2019)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0305-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180829</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -8555,6 +8681,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">189</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">DVX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3469-00</link-to>
         </reference>
         <use-date>
             <not-before>20180101</not-before>
@@ -8836,6 +8963,48 @@
                 <new-code-value>58160-0810-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140605</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-2883-09</value>
+        <label>INFANRIX</label>
+        <description>A-S Medication Solutions - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">20</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2883-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180921</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-2883-9</value>
+        <label>INFANRIX</label>
+        <description>A-S Medication Solutions - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-2883-09</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20180924</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090288309</value>
+        <label>INFANRIX</label>
+        <description>A-S Medication Solutions - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-2883-09</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20180924</effective-date>
             </deprecated>
         </code-status>
     </code>
