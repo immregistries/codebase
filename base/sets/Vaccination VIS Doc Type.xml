@@ -88,23 +88,6 @@
         </use-date>
     </code>
     <code>
-        <value>253088698300003511180824</value>
-        <label>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">120</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">130</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">106</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">20</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180824</not-before>
-        </use-date>
-    </code>
-    <code>
         <value>253088698300006611981216</value>
         <label>Haemophilus Influenzae type b VIS</label>
         <description></description>
@@ -193,27 +176,6 @@
         </reference>
         <use-date>
             <not-before>20160720</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300005911181012</value>
-        <label>Hepatitis B Vaccine VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">51</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">44</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">42</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">43</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">189</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
-        </reference>
-        <use-date>
-            <not-before>20181012</not-before>
         </use-date>
     </code>
     <code>
@@ -561,20 +523,6 @@
         </reference>
         <use-date>
             <not-before>20160331</not-before>
-        </use-date>
-    </code>
-    <code>
-        <value>253088698300014111180824</value>
-        <label>Meningococcal ACWY Vaccines VIS</label>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
-        <reference>
-            <link-to codeset="VACCINATION_VIS_VACCINES">114</link-to>
-            <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
-        </reference>
-        <use-date>
-            <not-before>20180824</not-before>
         </use-date>
     </code>
     <code>

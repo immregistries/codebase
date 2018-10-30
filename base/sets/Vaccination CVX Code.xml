@@ -393,8 +393,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0810-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0810-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0298-10</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-2883-09</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2883-00</link-to>
         </reference>
         <use-date>
             <not-before>19910101</not-before>
@@ -1220,7 +1218,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">43528-0003-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-3469-09</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">43528-0003-05</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3469-00</link-to>
         </reference>
         <use-date>
             <not-before>20180510</not-before>
@@ -1769,8 +1766,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0200-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0201-01</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">flucelvax, quadrivalent, preservative free</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0318-04</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0318-03</link-to>
         </reference>
         <use-date>
             <not-before>20160616</not-before>
@@ -1794,8 +1789,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0301-10</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax, quadrivalent, with preservative</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90756</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0418-11</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0418-10</link-to>
         </reference>
         <use-date>
             <not-before>20170627</not-before>
@@ -2051,8 +2044,6 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0303-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0304-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0303-10</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0305-01</link-to>
-            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0305-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>

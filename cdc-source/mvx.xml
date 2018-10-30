@@ -106,8 +106,7 @@
 		<ManufacturerName>Biotest Pharmaceuticals Corporation
 		</ManufacturerName>
 		<Notes>New owner of NABI HB as of December 2007, Does NOT replace NABI
-			Biopharmaceuticals in this code list.
-		</Notes>
+			Biopharmaceuticals in this code list.</Notes>
 		<Status>Active</Status>
 		<LastUpdated>5/28/2010</LastUpdated>
 	</MVXInfo>
@@ -261,8 +260,7 @@
 	<MVXInfo>
 		<MVX_CODE>JPN</MVX_CODE>
 		<ManufacturerName>The Research Foundation for Microbial Diseases of
-			Osaka University (BIKEN)
-		</ManufacturerName>
+			Osaka University (BIKEN)</ManufacturerName>
 		<Notes></Notes>
 		<Status>Inactive</Status>
 		<LastUpdated>11/16/2017</LastUpdated>
@@ -330,8 +328,7 @@
 		<MVX_CODE>MIP</MVX_CODE>
 		<ManufacturerName>Emergent BioSolutions</ManufacturerName>
 		<Notes>Formerly Emergent BioDefense Operations Lansing and Michigan
-			Biologic Products Institute
-		</Notes>
+			Biologic Products Institute</Notes>
 		<Status>Active</Status>
 		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
@@ -362,8 +359,7 @@
 		</ManufacturerName>
 		<Notes>Novartis has sold its flu vaccines to Seqirus and other
 			vaccines to GlaxoSmithKline. While Novartis vaccines may still be in
-			circulation, its status is set to not active.
-		</Notes>
+			circulation, its status is set to not active.</Notes>
 		<Status>Inactive</Status>
 		<LastUpdated>4/13/2016</LastUpdated>
 	</MVXInfo>
@@ -421,8 +417,7 @@
 		<MVX_CODE>PFR</MVX_CODE>
 		<ManufacturerName>Pfizer, Inc</ManufacturerName>
 		<Notes>includes Wyeth-Lederle Vaccines and Pediatrics, Wyeth
-			Laboratories, Lederle Laboratories, and Praxis Biologics,
-		</Notes>
+			Laboratories, Lederle Laboratories, and Praxis Biologics,</Notes>
 		<Status>Active</Status>
 		<LastUpdated>5/28/2010</LastUpdated>
 	</MVXInfo>
@@ -430,8 +425,7 @@
 		<MVX_CODE>PMC</MVX_CODE>
 		<ManufacturerName>Sanofi Pasteur</ManufacturerName>
 		<Notes>formerly Aventis Pasteur, Pasteur Merieux Connaught; includes
-			Connaught Laboratories and Pasteur Merieux. Acquired ACAMBIS.
-		</Notes>
+			Connaught Laboratories and Pasteur Merieux. Acquired ACAMBIS.</Notes>
 		<Status>Active</Status>
 		<LastUpdated>11/16/2017</LastUpdated>
 	</MVXInfo>
@@ -474,8 +468,7 @@
 		<MVX_CODE>SEQ</MVX_CODE>
 		<ManufacturerName>Seqirus</ManufacturerName>
 		<Notes>Seqirus acquired the flu vaccines from Novartis. It also
-			includes the CSL vaccines.
-		</Notes>
+			includes the CSL vaccines.</Notes>
 		<Status>Active</Status>
 		<LastUpdated>4/13/2016</LastUpdated>
 	</MVXInfo>
@@ -517,8 +510,7 @@
 	<MVXInfo>
 		<MVX_CODE>USA</MVX_CODE>
 		<ManufacturerName>United States Army Medical Research and Material
-			Command
-		</ManufacturerName>
+			Command</ManufacturerName>
 		<Notes></Notes>
 		<Status>Inactive</Status>
 		<LastUpdated>11/16/2017</LastUpdated>
