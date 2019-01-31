@@ -1,1959 +1,1843 @@
 <?xml version="1.0"?>
 <CPTCodes>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90281     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Immune globulin (Ig), human, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>IG</Value>
-		<Name>CVX Code</Name>
-		<Value>86        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90283     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Immune globulin (IgIV), human, for intravenous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>IGIV</Value>
-		<Name>CVX Code</Name>
-		<Value>87        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90287     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Botulinum antitoxin, equine, any route</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>botulinum antitoxin</Value>
-		<Name>CVX Code</Name>
-		<Value>27        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90291     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Cytomegalovirus immune globulin (CMV-IgIV), human, for
-			intravenous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>CMVIG</Value>
-		<Name>CVX Code</Name>
-		<Value>29        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90296     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria antitoxin, equine, any route</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>diphtheria antitoxin</Value>
-		<Name>CVX Code</Name>
-		<Value>12        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90371     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B immune globulin (HBIg), human, for intramuscular
-			use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>HBIG</Value>
-		<Name>CVX Code</Name>
-		<Value>30        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90375     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rabies immune globulin (RIg), human, for intramuscular and/or
-			subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>RIG</Value>
-		<Name>CVX Code</Name>
-		<Value>34        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90376     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rabies immune globulin, heat-treated (RIg-HT), human, for
-			intramuscular and/or subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>RIG</Value>
-		<Name>CVX Code</Name>
-		<Value>34        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90378     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Respiratory syncytial virus, monoclonal antibody, recombinant,
-			for intramuscular use, 50 mg, each</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>RSV-MAb</Value>
-		<Name>CVX Code</Name>
-		<Value>93        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90379     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Respiratory syncytial virus immune globulin (RSV-IgIV), human,
-			for intravenous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>RSV-IGIV</Value>
-		<Name>CVX Code</Name>
-		<Value>71        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90389     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Tetanus immune globulin (TIg), human, for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>TIG</Value>
-		<Name>CVX Code</Name>
-		<Value>13        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90393     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Vaccinia immune globulin, human, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>vaccinia immune globulin</Value>
-		<Name>CVX Code</Name>
-		<Value>79        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90396     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Varicella-zoster immune globulin, human, for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>VZIG</Value>
-		<Name>CVX Code</Name>
-		<Value>36        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90470     </Value>
-		<Name>CPT Desc</Name>
-		<Value>H1N1 immunization administration (intramuscular, intranasal),
-			including counseling when performed</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Novel Influenza-H1N1-09, all formulations</Value>
-		<Name>CVX Code</Name>
-		<Value>128       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/31/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90476     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Adenovirus vaccine, type 4, live, for oral use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>adenovirus, type 4</Value>
-		<Name>CVX Code</Name>
-		<Value>54        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90477     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Adenovirus vaccine, type 7, live, for oral use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>adenovirus, type 7</Value>
-		<Name>CVX Code</Name>
-		<Value>55        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90581     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Anthrax vaccine, for subcutaneous or intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>anthrax</Value>
-		<Name>CVX Code</Name>
-		<Value>24        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90585     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Bacillus Calmette-Guerin vaccine (BCG) for tuberculosis, live,
-			for percutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>BCG</Value>
-		<Name>CVX Code</Name>
-		<Value>19        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90620     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Meningococcal recombinant protein and outer membrane vesicle
-			vaccine, serogroup B (MenB-4C), 2 dose schedule, for intramuscular
-			use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>meningococcal B, OMV</Value>
-		<Name>CVX Code</Name>
-		<Value>163       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90621     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Meningococcal recombinant lipoprotein vaccine, serogroup B
-			(MenB-FHbp), 2 or 3 dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>meningococcal B, recombinant</Value>
-		<Name>CVX Code</Name>
-		<Value>162       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90625     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Cholera vaccine, live, adult dosage, 1 dose schedule, for oral
-			use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>cholera, live attenuated</Value>
-		<Name>CVX Code</Name>
-		<Value>174       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/24/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90630     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (IIV4), split virus,
-			preservative free, for intradermal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, intradermal, quadrivalent, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>166       </Value>
-		<Name>LastUpdated</Name>
-		<Value>1/9/2015</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90632     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis A vaccine (HepA), adult dosage, for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep A, adult</Value>
-		<Name>CVX Code</Name>
-		<Value>52        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90633     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose
-			schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep A, ped/adol, 2 dose</Value>
-		<Name>CVX Code</Name>
-		<Value>83        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90634     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis A vaccine (HepA), pediatric/adolescent dosage-3 dose
-			schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep A, ped/adol, 3 dose</Value>
-		<Name>CVX Code</Name>
-		<Value>84        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90636     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis A and hepatitis B vaccine (HepA-HepB), adult dosage,
-			for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep A-Hep B</Value>
-		<Name>CVX Code</Name>
-		<Value>104       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90644     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Meningococcal conjugate vaccine, serogroups C &amp; Y and
-			Haemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule,
-			when administered to children 6 weeks-18 months of age, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Meningococcal C/Y-HIB PRP</Value>
-		<Name>CVX Code</Name>
-		<Value>148       </Value>
-		<Name>LastUpdated</Name>
-		<Value>1/9/2015</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90645     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hemophilus influenza b vaccine (Hib), HbOC conjugate (4 dose
-			schedule), for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib (HbOC)</Value>
-		<Name>CVX Code</Name>
-		<Value>47        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90646     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hemophilus influenza b vaccine (Hib), PRP-D conjugate, for
-			booster use only, intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib (PRP-D)</Value>
-		<Name>CVX Code</Name>
-		<Value>46        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90647     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Haemophilus influenzae type b vaccine (Hib), PRP-OMP conjugate,
-			3 dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib (PRP-OMP)</Value>
-		<Name>CVX Code</Name>
-		<Value>49        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90648     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Haemophilus influenzae type b vaccine (Hib), PRP-T conjugate, 4
-			dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib (PRP-T)</Value>
-		<Name>CVX Code</Name>
-		<Value>48        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90649     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Human Papillomavirus vaccine, types 6, 11, 16, 18, quadrivalent
-			(4vHPV), 3 dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>HPV, quadrivalent</Value>
-		<Name>CVX Code</Name>
-		<Value>62        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90650     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Human Papillomavirus vaccine, types 16, 18, bivalent (2vHPV), 3
-			dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>HPV, bivalent</Value>
-		<Name>CVX Code</Name>
-		<Value>118       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90651     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Human Papillomavirus vaccine types 6, 11, 16, 18, 31, 33, 45,
-			52, 58, nonavalent (9vHPV), 2 or 3 dose schedule, for intramuscular
-			use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>HPV9</Value>
-		<Name>CVX Code</Name>
-		<Value>165       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90653     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza vaccine, inactivated (IIV), subunit, adjuvanted, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, trivalent, adjuvanted</Value>
-		<Name>CVX Code</Name>
-		<Value>168       </Value>
-		<Name>LastUpdated</Name>
-		<Value>4/25/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90654     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (IIV3), split virus,
-			preservative-free, for intradermal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, seasonal, intradermal, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>144       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/1/2012</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90655     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (IIV3), split virus,
-			preservative free, 0.25 mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, seasonal, injectable, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>140       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90656     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (IIV3), split virus,
-			preservative free, 0.5 mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, seasonal, injectable, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>140       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90657     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (IIV3), split virus, 0.25 mL
-			dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, seasonal, injectable</Value>
-		<Name>CVX Code</Name>
-		<Value>141       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90658     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (IIV3), split virus, 0.5 mL
-			dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, seasonal, injectable</Value>
-		<Name>CVX Code</Name>
-		<Value>141       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90659     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, whole virus, for intramuscular or jet
-			injection use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, whole</Value>
-		<Name>CVX Code</Name>
-		<Value>16        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90660     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent, live (LAIV3), for
-			intranasal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, live, intranasal</Value>
-		<Name>CVX Code</Name>
-		<Value>111       </Value>
-		<Name>LastUpdated</Name>
-		<Value>4/25/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90661     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (ccIIV3), derived from cell
-			cultures, subunit, preservative and antibiotic free, 0.5 mL dosage,
-			for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, injectable, MDCK, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>153       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90662     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine (IIV), split virus, preservative free,
-			enhanced immunogenicity via increased antigen content, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, high dose seasonal</Value>
-		<Name>CVX Code</Name>
-		<Value>135       </Value>
-		<Name>LastUpdated</Name>
-		<Value>6/25/2018</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90663     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, pandemic formulation, H1N1</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Novel Influenza-H1N1-09, all formulations</Value>
-		<Name>CVX Code</Name>
-		<Value>128       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/31/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90664     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, live (LAIV), pandemic formulation, for
-			intranasal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Novel Influenza-H1N1-09, nasal</Value>
-		<Name>CVX Code</Name>
-		<Value>125       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/31/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90665     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Lyme disease vaccine, adult dosage, for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Lyme disease</Value>
-		<Name>CVX Code</Name>
-		<Value>66        </Value>
-		<Name>LastUpdated</Name>
-		<Value>4/25/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90666     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine (IIV), pandemic formulation, split
-			virus, preservative free, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Novel influenza-H1N1-09, preservative-free</Value>
-		<Name>CVX Code</Name>
-		<Value>126       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/31/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90668     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine (IIV), pandemic formulation, split
-			virus, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Novel influenza-H1N1-09</Value>
-		<Name>CVX Code</Name>
-		<Value>127       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/31/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90669     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Pneumococcal conjugate vaccine, 7 valent, for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>pneumococcal conjugate PCV 7</Value>
-		<Name>CVX Code</Name>
-		<Value>100       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90670     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Pneumococcal conjugate vaccine, 13 valent (PCV13), for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Pneumococcal conjugate PCV 13</Value>
-		<Name>CVX Code</Name>
-		<Value>133       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90672     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent, live (LAIV4), for
-			intranasal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, live, intranasal, quadrivalent</Value>
-		<Name>CVX Code</Name>
-		<Value>149       </Value>
-		<Name>LastUpdated</Name>
-		<Value>4/25/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90673     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, trivalent (RIV3), derived from
-			recombinant DNA, hemagglutinin (HA) protein only, preservative and
-			antibiotic free, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, recombinant, injectable, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>155       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/21/2013</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90674     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (ccIIV4), derived from
-			cell cultures, subunit, preservative and antibiotic free, 0.5 mL
-			dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, injectable, MDCK, preservative free, quadrivalent
-		</Value>
-		<Name>CVX Code</Name>
-		<Value>171       </Value>
-		<Name>LastUpdated</Name>
-		<Value>6/29/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90675     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rabies vaccine, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rabies, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>90        </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90676     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rabies vaccine, for intradermal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rabies, intradermal injection</Value>
-		<Name>CVX Code</Name>
-		<Value>40        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90680     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live,
-			for oral use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rotavirus, pentavalent</Value>
-		<Name>CVX Code</Name>
-		<Value>116       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90681     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rotavirus vaccine, human, attenuated (RV1), 2 dose schedule,
-			live, for oral use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rotavirus, monovalent</Value>
-		<Name>CVX Code</Name>
-		<Value>119       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90682     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (RIV4), derived from
-			recombinant DNA, hemagglutinin (HA) protein only, preservative and
-			antibiotic free, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, recombinant, quadrivalent,injectable, preservative
-			free</Value>
-		<Name>CVX Code</Name>
-		<Value>185       </Value>
-		<Name>LastUpdated</Name>
-		<Value>6/27/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90685     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (IIV4), split virus,
-			preservative free, 0.25 mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, injectable,quadrivalent, preservative free,
-			pediatric</Value>
-		<Name>CVX Code</Name>
-		<Value>161       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90686     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (IIV4), split virus,
-			preservative free, 0.5 mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, injectable, quadrivalent, preservative free</Value>
-		<Name>CVX Code</Name>
-		<Value>150       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90687     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.25
-			mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, injectable, quadrivalent</Value>
-		<Name>CVX Code</Name>
-		<Value>158       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90688     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.5
-			mL dosage, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, injectable, quadrivalent</Value>
-		<Name>CVX Code</Name>
-		<Value>158       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/31/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90690     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Typhoid vaccine, live, oral</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>typhoid, oral</Value>
-		<Name>CVX Code</Name>
-		<Value>25        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90691     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Typhoid vaccine, Vi capsular polysaccharide (ViCPs), for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>typhoid, ViCPs</Value>
-		<Name>CVX Code</Name>
-		<Value>101       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90692     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Typhoid vaccine, heat- and phenol-inactivated (H-P), for
-			subcutaneous or intradermal use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>typhoid, parenteral</Value>
-		<Name>CVX Code</Name>
-		<Value>41        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90693     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Typhoid vaccine, acetone-killed, dried (AKD), for subcutaneous
-			use (U.S. military)</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>typhoid, parenteral, AKD (U.S. military)</Value>
-		<Name>CVX Code</Name>
-		<Value>53        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90696     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine and
-			inactivated poliovirus vaccine (DTaP-IPV), when administered to
-			children 4 through 6 years of age, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP-IPV</Value>
-		<Name>CVX Code</Name>
-		<Value>130       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90697     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine,
-			inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP
-			conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP,IPV,Hib,HepB</Value>
-		<Name>CVX Code</Name>
-		<Value>146       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/24/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90698     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine,
-			Haemophilus influenzae type b, and inactivated poliovirus vaccine,
-			(DTaP-IPV/Hib), for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP-Hib-IPV</Value>
-		<Name>CVX Code</Name>
-		<Value>120       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90700     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, and acellular pertussis vaccine
-			(DTaP), when administered to individuals younger than 7 years, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>107       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90701     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, and whole cell pertussis vaccine
-			(DTP), for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTP</Value>
-		<Name>CVX Code</Name>
-		<Value>01        </Value>
-		<Name>LastUpdated</Name>
-		<Value>4/25/2016</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90702     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria and tetanus toxoids adsorbed (DT) when administered
-			to individuals younger than 7 years, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DT (pediatric)</Value>
-		<Name>CVX Code</Name>
-		<Value>28        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90703     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Tetanus toxoid adsorbed, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>tetanus toxoid, adsorbed</Value>
-		<Name>CVX Code</Name>
-		<Value>35        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90704     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Mumps virus vaccine, live, for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>mumps</Value>
-		<Name>CVX Code</Name>
-		<Value>07        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90705     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Measles virus vaccine, live, for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>measles</Value>
-		<Name>CVX Code</Name>
-		<Value>05        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90706     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rubella virus vaccine, live, for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rubella</Value>
-		<Name>CVX Code</Name>
-		<Value>06        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90707     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Measles, mumps and rubella virus vaccine (MMR), live, for
-			subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>MMR</Value>
-		<Name>CVX Code</Name>
-		<Value>03        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90708     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Measles and rubella virus vaccine, live, for subcutaneous use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>M/R</Value>
-		<Name>CVX Code</Name>
-		<Value>04        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90710     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Measles, mumps, rubella, and varicella vaccine (MMRV), live,
-			for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>MMRV</Value>
-		<Name>CVX Code</Name>
-		<Value>94        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90712     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Poliovirus vaccine, (any type[s]) (OPV), live, for oral use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>OPV, Unspecified</Value>
-		<Name>CVX Code</Name>
-		<Value>182       </Value>
-		<Name>LastUpdated</Name>
-		<Value>7/14/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90713     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Poliovirus vaccine, inactivated (IPV), for subcutaneous or
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>IPV</Value>
-		<Name>CVX Code</Name>
-		<Value>10        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90714     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Tetanus and diphtheria toxoids adsorbed (Td), preservative
-			free, when administered to individuals 7 years or older, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value>Beginning in 2005, this CPT code maps to TD preservative free.
-		</Value>
-		<Name>Vaccine Name</Name>
-		<Value>Td(adult) unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>139       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90715     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Tetanus, diphtheria toxoids and acellular pertussis vaccine
-			(Tdap), when administered to individuals 7 years or older, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Tdap</Value>
-		<Name>CVX Code</Name>
-		<Value>115       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90716     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Varicella virus vaccine (VAR), live, for subcutaneous use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>varicella</Value>
-		<Name>CVX Code</Name>
-		<Value>21        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90717     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Yellow fever vaccine, live, for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Yellow fever, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>184       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90718     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Tetanus and diphtheria toxoids (Td) adsorbed when administered
-			to individuals 7 years or older, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed
-		</Value>
-		<Name>CVX Code</Name>
-		<Value>09        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90720     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, and whole cell pertussis vaccine
-			and Hemophilus influenza B vaccine (DTP-Hib), for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTP-Hib</Value>
-		<Name>CVX Code</Name>
-		<Value>22        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90721     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, and acellular pertussis vaccine
-			and Hemophilus influenza B vaccine (DTaP/Hib), for intramuscular use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP-Hib</Value>
-		<Name>CVX Code</Name>
-		<Value>50        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90723     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine,
-			hepatitis B, and inactivated poliovirus vaccine (DTaP-HepB-IPV), for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>DTaP-Hep B-IPV</Value>
-		<Name>CVX Code</Name>
-		<Value>110       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90724     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>influenza, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>88        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90725     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Cholera vaccine for injectable use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>cholera, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>26        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90726     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Rabies vaccine</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>rabies, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>90        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90727     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Plague vaccine, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>plague</Value>
-		<Name>CVX Code</Name>
-		<Value>23        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90728     </Value>
-		<Name>CPT Desc</Name>
-		<Value>BCG vaccine</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>BCG</Value>
-		<Name>CVX Code</Name>
-		<Value>19        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90730     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis A vaccine</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep A, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>85        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90731     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>45        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90732     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Pneumococcal polysaccharide vaccine, 23-valent (PPSV23), adult
-			or immunosuppressed patient dosage, when administered to individuals
-			2 years or older, for subcutaneous or intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>pneumococcal polysaccharide PPV23</Value>
-		<Name>CVX Code</Name>
-		<Value>33        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90733     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Meningococcal polysaccharide vaccine, serogroups A, C, Y,
-			W-135, quadrivalent (MPSV4), for subcutaneous use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>meningococcal MPSV4</Value>
-		<Name>CVX Code</Name>
-		<Value>32        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90734     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Meningococcal conjugate vaccine, serogroups A, C, Y and W-135,
-			quadrivalent (MCV4 or MenACWY), for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>meningococcal MCV4, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>147       </Value>
-		<Name>LastUpdated</Name>
-		<Value>8/25/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90735     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Japanese encephalitis virus vaccine, for subcutaneous use
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Japanese encephalitis SC</Value>
-		<Name>CVX Code</Name>
-		<Value>39        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90736     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Zoster (shingles) vaccine (HZV), live, for subcutaneous
-			injection</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>zoster live</Value>
-		<Name>CVX Code</Name>
-		<Value>121       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90737     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hemophilus influenza B</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>17        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90738     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Japanese encephalitis virus vaccine, inactivated, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Japanese Encephalitis IM</Value>
-		<Name>CVX Code</Name>
-		<Value>134       </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90739     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), adult dosage, 2 dose schedule, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>HepB-CpG</Value>
-		<Name>CVX Code</Name>
-		<Value>189       </Value>
-		<Name>LastUpdated</Name>
-		<Value>10/27/2017</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90740     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), dialysis or immunosuppressed
-			patient dosage, 3 dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, dialysis</Value>
-		<Name>CVX Code</Name>
-		<Value>44        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90741     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Immunization, passive; immune serum globulin, human (ISG)
-		</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>IG, unspecified formulation</Value>
-		<Name>CVX Code</Name>
-		<Value>14        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90743     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), adolescent, 2 dose schedule, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, adult</Value>
-		<Name>CVX Code</Name>
-		<Value>43        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90744     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), pediatric/adolescent dosage, 3 dose
-			schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, adolescent or pediatric</Value>
-		<Name>CVX Code</Name>
-		<Value>08        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90745     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine, adolescent/high risk infant dosage, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, adolescent/high risk infant</Value>
-		<Name>CVX Code</Name>
-		<Value>42        </Value>
-		<Name>LastUpdated</Name>
-		<Value>3/17/2011</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90746     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), adult dosage, 3 dose schedule, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, adult</Value>
-		<Name>CVX Code</Name>
-		<Value>43        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90747     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B vaccine (HepB), dialysis or immunosuppressed
-			patient dosage, 4 dose schedule, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hep B, adult</Value>
-		<Name>CVX Code</Name>
-		<Value>43        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90748     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Hepatitis B and Haemophilus influenzae type b vaccine
-			(Hib-HepB), for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>Hib-Hep B</Value>
-		<Name>CVX Code</Name>
-		<Value>51        </Value>
-		<Name>LastUpdated</Name>
-		<Value>5/28/2010</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90750     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Zoster (shingles) vaccine (HZV), recombinant, subunit,
-			adjuvanted, for intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value></Value>
-		<Name>Vaccine Name</Name>
-		<Value>zoster recombinant</Value>
-		<Name>CVX Code</Name>
-		<Value>187       </Value>
-		<Name>LastUpdated</Name>
-		<Value>6/25/2018</Value>
-	</CPTInfo>
-	<CPTInfo>
-		<Name>CPT Code</Name>
-		<Value>90756     </Value>
-		<Name>CPT Desc</Name>
-		<Value>Influenza virus vaccine, quadrivalent (ccIIV4), derived from
-			cell cultures, subunit, antibiotic free, 0.5 mL dosage, for
-			intramuscular use</Value>
-		<Name>Status</Name>
-		<Value></Value>
-		<Name>Comments</Name>
-		<Value>Effective 1/1/2018</Value>
-		<Name>Vaccine Name</Name>
-		<Value>Influenza, injectable, MDCK, quadrivalent, preservative</Value>
-		<Name>CVX Code</Name>
-		<Value>186       </Value>
-		<Name>LastUpdated</Name>
-		<Value>10/27/2017</Value>
-	</CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90281     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Immune globulin (Ig), human, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>IG</Value>
+    <Name>CVX Code</Name>
+    <Value>86        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90283     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Immune globulin (IgIV), human, for intravenous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>IGIV</Value>
+    <Name>CVX Code</Name>
+    <Value>87        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90287     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Botulinum antitoxin, equine, any route</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>botulinum antitoxin</Value>
+    <Name>CVX Code</Name>
+    <Value>27        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90291     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Cytomegalovirus immune globulin (CMV-IgIV), human, for intravenous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>CMVIG</Value>
+    <Name>CVX Code</Name>
+    <Value>29        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90296     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria antitoxin, equine, any route</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>diphtheria antitoxin</Value>
+    <Name>CVX Code</Name>
+    <Value>12        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90371     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B immune globulin (HBIg), human, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HBIG</Value>
+    <Name>CVX Code</Name>
+    <Value>30        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90375     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies immune globulin (RIg), human, for intramuscular and/or subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>RIG</Value>
+    <Name>CVX Code</Name>
+    <Value>34        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90376     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies immune globulin, heat-treated (RIg-HT), human, for intramuscular and/or subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>RIG</Value>
+    <Name>CVX Code</Name>
+    <Value>34        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90378     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus, monoclonal antibody, recombinant, for intramuscular use, 50 mg, each</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>RSV-MAb</Value>
+    <Name>CVX Code</Name>
+    <Value>93        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90379     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus immune globulin (RSV-IgIV), human, for intravenous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>RSV-IGIV</Value>
+    <Name>CVX Code</Name>
+    <Value>71        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90389     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus immune globulin (TIg), human, for intramuscular use </Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>TIG</Value>
+    <Name>CVX Code</Name>
+    <Value>13        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90393     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Vaccinia immune globulin, human, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>vaccinia immune globulin</Value>
+    <Name>CVX Code</Name>
+    <Value>79        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90396     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Varicella-zoster immune globulin, human, for intramuscular use </Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>VZIG</Value>
+    <Name>CVX Code</Name>
+    <Value>36        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90470     </Value>
+    <Name>CPT Desc</Name>
+    <Value>H1N1 immunization administration (intramuscular, intranasal), including counseling when performed</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Novel Influenza-H1N1-09, all formulations</Value>
+    <Name>CVX Code</Name>
+    <Value>128       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/31/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90476     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Adenovirus vaccine, type 4, live, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>adenovirus, type 4</Value>
+    <Name>CVX Code</Name>
+    <Value>54        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90477     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Adenovirus vaccine, type 7, live, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>adenovirus, type 7</Value>
+    <Name>CVX Code</Name>
+    <Value>55        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90581     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Anthrax vaccine, for subcutaneous or intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>anthrax</Value>
+    <Name>CVX Code</Name>
+    <Value>24        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90585     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Bacillus Calmette-Guerin vaccine (BCG) for tuberculosis, live, for percutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>BCG</Value>
+    <Name>CVX Code</Name>
+    <Value>19        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90620     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), 2 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>meningococcal B, OMV</Value>
+    <Name>CVX Code</Name>
+    <Value>163       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90621     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal recombinant lipoprotein vaccine, serogroup B (MenB-FHbp), 2 or 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>meningococcal B, recombinant</Value>
+    <Name>CVX Code</Name>
+    <Value>162       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90625     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Cholera vaccine, live, adult dosage, 1 dose schedule, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>cholera, live attenuated</Value>
+    <Name>CVX Code</Name>
+    <Value>174       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/24/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90630     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, for intradermal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, intradermal, quadrivalent, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>166       </Value>
+    <Name>LastUpdated</Name>
+    <Value>1/9/2015</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90632     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis A vaccine (HepA), adult dosage, for intramuscular use </Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep A, adult</Value>
+    <Name>CVX Code</Name>
+    <Value>52        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90633     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep A, ped/adol, 2 dose</Value>
+    <Name>CVX Code</Name>
+    <Value>83        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90634     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis A vaccine (HepA), pediatric/adolescent dosage-3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep A, ped/adol, 3 dose</Value>
+    <Name>CVX Code</Name>
+    <Value>84        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90636     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis A and hepatitis B vaccine (HepA-HepB), adult dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep A-Hep B</Value>
+    <Name>CVX Code</Name>
+    <Value>104       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90644     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal conjugate vaccine, serogroups C &amp; Y and Haemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule, when administered to children 6 weeks-18 months of age, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Meningococcal C/Y-HIB PRP</Value>
+    <Name>CVX Code</Name>
+    <Value>148       </Value>
+    <Name>LastUpdated</Name>
+    <Value>1/9/2015</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90645     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hemophilus influenza b vaccine (Hib), HbOC conjugate (4 dose schedule), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib (HbOC)</Value>
+    <Name>CVX Code</Name>
+    <Value>47        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90646     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hemophilus influenza b vaccine (Hib), PRP-D conjugate, for booster use only, intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib (PRP-D)</Value>
+    <Name>CVX Code</Name>
+    <Value>46        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90647     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Haemophilus influenzae type b vaccine (Hib), PRP-OMP conjugate, 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib (PRP-OMP)</Value>
+    <Name>CVX Code</Name>
+    <Value>49        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90648     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Haemophilus influenzae type b vaccine (Hib), PRP-T conjugate, 4 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib (PRP-T)</Value>
+    <Name>CVX Code</Name>
+    <Value>48        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90649     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Human Papillomavirus vaccine, types 6, 11, 16, 18, quadrivalent (4vHPV), 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HPV, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>62        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90650     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Human Papillomavirus vaccine, types 16, 18, bivalent (2vHPV), 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HPV, bivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>118       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90651     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Human Papillomavirus vaccine types 6, 11, 16, 18, 31, 33, 45, 52, 58, nonavalent (9vHPV), 2 or 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HPV9</Value>
+    <Name>CVX Code</Name>
+    <Value>165       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90653     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza vaccine, inactivated (IIV), subunit, adjuvanted, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, trivalent, adjuvanted</Value>
+    <Name>CVX Code</Name>
+    <Value>168       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/25/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90654     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, preservative-free, for intradermal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, seasonal, intradermal, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>144       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/1/2012</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90655     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>140       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90656     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>140       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90657     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, 0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, seasonal, injectable</Value>
+    <Name>CVX Code</Name>
+    <Value>141       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90658     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, seasonal, injectable</Value>
+    <Name>CVX Code</Name>
+    <Value>141       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90659     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, whole virus, for intramuscular or jet injection use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, whole</Value>
+    <Name>CVX Code</Name>
+    <Value>16        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90660     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent, live (LAIV3), for intranasal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, live, intranasal</Value>
+    <Name>CVX Code</Name>
+    <Value>111       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/25/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90661     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (ccIIV3), derived from cell cultures, subunit, preservative and antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, injectable, MDCK, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>153       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90662     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, high dose seasonal</Value>
+    <Name>CVX Code</Name>
+    <Value>135       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/25/2018</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90663     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, pandemic formulation, H1N1</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Novel Influenza-H1N1-09, all formulations</Value>
+    <Name>CVX Code</Name>
+    <Value>128       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/31/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90664     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, live (LAIV), pandemic formulation, for intranasal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Novel Influenza-H1N1-09, nasal</Value>
+    <Name>CVX Code</Name>
+    <Value>125       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/31/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90665     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Lyme disease vaccine, adult dosage, for intramuscular use </Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Lyme disease</Value>
+    <Name>CVX Code</Name>
+    <Value>66        </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/25/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90666     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), pandemic formulation, split virus, preservative free, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Novel influenza-H1N1-09, preservative-free</Value>
+    <Name>CVX Code</Name>
+    <Value>126       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/31/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90668     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), pandemic formulation, split virus, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Novel influenza-H1N1-09</Value>
+    <Name>CVX Code</Name>
+    <Value>127       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/31/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90669     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Pneumococcal conjugate vaccine, 7 valent, for intramuscular use </Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>pneumococcal conjugate PCV 7</Value>
+    <Name>CVX Code</Name>
+    <Value>100       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90670     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Pneumococcal conjugate PCV 13</Value>
+    <Name>CVX Code</Name>
+    <Value>133       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90672     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent, live (LAIV4), for intranasal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, live, intranasal, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>149       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/25/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90673     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (RIV3), derived from recombinant DNA, hemagglutinin (HA) protein only, preservative and antibiotic free, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, recombinant, injectable, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>155       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/21/2013</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90674     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, preservative and antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, injectable, MDCK, preservative free, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>171       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/29/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90675     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies vaccine, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rabies, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>90        </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90676     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies vaccine, for intradermal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rabies, intradermal injection</Value>
+    <Name>CVX Code</Name>
+    <Value>40        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90680     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rotavirus, pentavalent</Value>
+    <Name>CVX Code</Name>
+    <Value>116       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90681     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rotavirus vaccine, human, attenuated (RV1), 2 dose schedule, live, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rotavirus, monovalent</Value>
+    <Name>CVX Code</Name>
+    <Value>119       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90682     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (RIV4), derived from recombinant DNA, hemagglutinin (HA) protein only, preservative and antibiotic free, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, recombinant, quadrivalent,injectable, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>185       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/27/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90685     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, 0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, injectable,quadrivalent, preservative free, pediatric</Value>
+    <Name>CVX Code</Name>
+    <Value>161       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90686     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>150       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90687     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, injectable, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>158       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90688     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, injectable, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>158       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/31/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90690     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Typhoid vaccine, live, oral</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>typhoid, oral</Value>
+    <Name>CVX Code</Name>
+    <Value>25        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90691     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Typhoid vaccine, Vi capsular polysaccharide (ViCPs), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>typhoid, ViCPs</Value>
+    <Name>CVX Code</Name>
+    <Value>101       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90692     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Typhoid vaccine, heat- and phenol-inactivated (H-P), for subcutaneous or intradermal use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>typhoid, parenteral</Value>
+    <Name>CVX Code</Name>
+    <Value>41        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90693     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Typhoid vaccine, acetone-killed, dried (AKD), for subcutaneous use (U.S. military)</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>typhoid, parenteral, AKD (U.S. military)</Value>
+    <Name>CVX Code</Name>
+    <Value>53        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90696     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine and inactivated poliovirus vaccine (DTaP-IPV), when administered to children 4 through 6 years of age, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP-IPV</Value>
+    <Name>CVX Code</Name>
+    <Value>130       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90697     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP,IPV,Hib,HepB</Value>
+    <Name>CVX Code</Name>
+    <Value>146       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/24/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90698     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine, Haemophilus influenzae type b, and inactivated poliovirus vaccine, (DTaP-IPV/Hib), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP-Hib-IPV</Value>
+    <Name>CVX Code</Name>
+    <Value>120       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90700     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, and acellular pertussis vaccine (DTaP), when administered to individuals younger than 7 years, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>107       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90701     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, and whole cell pertussis vaccine (DTP), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTP</Value>
+    <Name>CVX Code</Name>
+    <Value>01        </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/25/2016</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90702     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria and tetanus toxoids adsorbed (DT) when administered to individuals younger than 7 years, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DT (pediatric)</Value>
+    <Name>CVX Code</Name>
+    <Value>28        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90703     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus toxoid adsorbed, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>tetanus toxoid, adsorbed</Value>
+    <Name>CVX Code</Name>
+    <Value>35        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90704     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Mumps virus vaccine, live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>mumps</Value>
+    <Name>CVX Code</Name>
+    <Value>07        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90705     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Measles virus vaccine, live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>measles</Value>
+    <Name>CVX Code</Name>
+    <Value>05        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90706     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rubella virus vaccine, live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rubella</Value>
+    <Name>CVX Code</Name>
+    <Value>06        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90707     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Measles, mumps and rubella virus vaccine (MMR), live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>MMR</Value>
+    <Name>CVX Code</Name>
+    <Value>03        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90708     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Measles and rubella virus vaccine, live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>M/R</Value>
+    <Name>CVX Code</Name>
+    <Value>04        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90710     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Measles, mumps, rubella, and varicella vaccine (MMRV), live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>MMRV</Value>
+    <Name>CVX Code</Name>
+    <Value>94        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90712     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Poliovirus vaccine, (any type[s]) (OPV), live, for oral use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>OPV, Unspecified</Value>
+    <Name>CVX Code</Name>
+    <Value>182       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/14/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90713     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Poliovirus vaccine, inactivated (IPV), for subcutaneous or intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>IPV</Value>
+    <Name>CVX Code</Name>
+    <Value>10        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90714     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus and diphtheria toxoids adsorbed (Td), preservative free, when administered to individuals 7 years or older, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Beginning in 2005, this CPT code maps to TD preservative free.</Value>
+    <Name>Vaccine Name</Name>
+    <Value>Td(adult) unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>139       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90715     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus, diphtheria toxoids and acellular pertussis vaccine (Tdap), when administered to individuals 7 years or older, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Tdap</Value>
+    <Name>CVX Code</Name>
+    <Value>115       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90716     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Varicella virus vaccine (VAR), live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>varicella</Value>
+    <Name>CVX Code</Name>
+    <Value>21        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90717     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Yellow fever vaccine, live, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Yellow fever, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>184       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90718     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus and diphtheria toxoids (Td) adsorbed when administered to individuals 7 years or older, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Name>CVX Code</Name>
+    <Value>09        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90720     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, and whole cell pertussis vaccine and Hemophilus influenza B vaccine (DTP-Hib), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTP-Hib</Value>
+    <Name>CVX Code</Name>
+    <Value>22        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90721     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, and acellular pertussis vaccine and Hemophilus influenza B vaccine (DTaP/Hib), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP-Hib</Value>
+    <Name>CVX Code</Name>
+    <Value>50        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90723     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Diphtheria, tetanus toxoids, acellular pertussis vaccine, hepatitis B, and inactivated poliovirus vaccine (DTaP-HepB-IPV), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>DTaP-Hep B-IPV</Value>
+    <Name>CVX Code</Name>
+    <Value>110       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90724     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>88        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90725     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Cholera vaccine for injectable use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>cholera, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>26        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90726     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rabies, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>90        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90727     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Plague vaccine, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>plague</Value>
+    <Name>CVX Code</Name>
+    <Value>23        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90728     </Value>
+    <Name>CPT Desc</Name>
+    <Value>BCG vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>BCG</Value>
+    <Name>CVX Code</Name>
+    <Value>19        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90730     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis A vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep A, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>85        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90731     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>45        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90732     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Pneumococcal polysaccharide vaccine, 23-valent (PPSV23), adult or immunosuppressed patient dosage, when administered to individuals 2 years or older, for subcutaneous or intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>pneumococcal polysaccharide PPV23</Value>
+    <Name>CVX Code</Name>
+    <Value>33        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90733     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal polysaccharide vaccine, serogroups A, C, Y, W-135, quadrivalent (MPSV4), for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>meningococcal MPSV4</Value>
+    <Name>CVX Code</Name>
+    <Value>32        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90734     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal conjugate vaccine, serogroups A, C, Y and W-135, quadrivalent (MCV4 or MenACWY), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>meningococcal MCV4, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>147       </Value>
+    <Name>LastUpdated</Name>
+    <Value>8/25/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90735     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Japanese encephalitis virus vaccine, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Japanese encephalitis SC</Value>
+    <Name>CVX Code</Name>
+    <Value>39        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90736     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Zoster (shingles) vaccine (HZV), live, for subcutaneous injection</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>zoster live</Value>
+    <Name>CVX Code</Name>
+    <Value>121       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90737     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hemophilus influenza B</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>17        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90738     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Japanese encephalitis virus vaccine, inactivated, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Japanese Encephalitis IM</Value>
+    <Name>CVX Code</Name>
+    <Value>134       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90739     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), adult dosage, 2 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HepB-CpG</Value>
+    <Name>CVX Code</Name>
+    <Value>189       </Value>
+    <Name>LastUpdated</Name>
+    <Value>10/27/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90740     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, dialysis</Value>
+    <Name>CVX Code</Name>
+    <Value>44        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90741     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Immunization, passive; immune serum globulin, human (ISG)</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>IG, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>14        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90743     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), adolescent, 2 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adult</Value>
+    <Name>CVX Code</Name>
+    <Value>43        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90744     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), pediatric/adolescent dosage, 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adolescent or pediatric</Value>
+    <Name>CVX Code</Name>
+    <Value>08        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90745     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine, adolescent/high risk infant dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adolescent/high risk infant</Value>
+    <Name>CVX Code</Name>
+    <Value>42        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/17/2011</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90746     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), adult dosage, 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adult</Value>
+    <Name>CVX Code</Name>
+    <Value>43        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90747     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 4 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adult</Value>
+    <Name>CVX Code</Name>
+    <Value>43        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90748     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hib-Hep B</Value>
+    <Name>CVX Code</Name>
+    <Value>51        </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90750     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Zoster (shingles) vaccine (HZV), recombinant, subunit, adjuvanted, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>zoster recombinant</Value>
+    <Name>CVX Code</Name>
+    <Value>187       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/25/2018</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90756     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (ccIIV4), derived from cell cultures, subunit, antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Effective 1/1/2018</Value>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, injectable, MDCK, quadrivalent, preservative</Value>
+    <Name>CVX Code</Name>
+    <Value>186       </Value>
+    <Name>LastUpdated</Name>
+    <Value>10/27/2017</Value>
+  </CPTInfo>
 </CPTCodes>
