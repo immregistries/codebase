@@ -1896,4 +1896,16 @@
     <Name>CVX for Vaccine Group</Name>
     <Value>03</Value>
   </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Influenza, Southern Hemisphere</Value>
+    <Name>CVXCode</Name>
+    <Value>194       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>FLU</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>88</Value>
+  </CVXVGInfo>
 </VGCodes>

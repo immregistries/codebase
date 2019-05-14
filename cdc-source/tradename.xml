@@ -626,9 +626,9 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>4/21/2017</Value>
+    <Value>2/13/2019</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -2411,5 +2411,41 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>5/28/2010</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flublok quadrivalent</Value>
+    <Name>Short Description</Name>
+    <Value>influenza, recombinant, quadrivalent,injectable, preservative free</Value>
+    <Name>CVXCode</Name>
+    <Value>185       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>2/13/2019</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>VAXELIS</Value>
+    <Name>Short Description</Name>
+    <Value>DTaP,IPV,Hib,HepB</Value>
+    <Name>CVXCode</Name>
+    <Value>146       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>2/13/2019</Value>
   </prodInfo>
 </productnames>

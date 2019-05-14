@@ -165,8 +165,8 @@
     <FullVaccinename>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine.</FullVaccinename>
     <CVXCode>146       </CVXCode>
     <Notes>Note that this vaccine is different from CVX 132.</Notes>
-    <Status>Pending</Status>
-    <LastUpdated>9/14/2018</LastUpdated>
+    <Status>Active</Status>
+    <LastUpdated>2/13/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DTaP-Hep B-IPV</ShortDescription>
@@ -655,6 +655,14 @@
     <Notes>IIV3</Notes>
     <Status>Active</Status>
     <LastUpdated>7/17/2013</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, Southern Hemisphere</ShortDescription>
+    <FullVaccinename>Influenza, Southern Hemisphere, unspecified formulation</FullVaccinename>
+    <CVXCode>194       </CVXCode>
+    <Notes>This CVX code should only be used to record the current or historic administration of non-US influenza vaccines for the Southern Hemisphere seasonal influenza</Notes>
+    <Status>Non-US</Status>
+    <LastUpdated>12/14/2018</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, split (incl. purified surface antigen)</ShortDescription>

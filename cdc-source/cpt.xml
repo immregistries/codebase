@@ -164,7 +164,7 @@
     <Name>CPT Code</Name>
     <Value>90389     </Value>
     <Name>CPT Desc</Name>
-    <Value>Tetanus immune globulin (TIg), human, for intramuscular use </Value>
+    <Value>Tetanus immune globulin (TIg), human, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -196,7 +196,7 @@
     <Name>CPT Code</Name>
     <Value>90396     </Value>
     <Name>CPT Desc</Name>
-    <Value>Varicella-zoster immune globulin, human, for intramuscular use </Value>
+    <Value>Varicella-zoster immune globulin, human, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -356,7 +356,7 @@
     <Name>CPT Code</Name>
     <Value>90632     </Value>
     <Name>CPT Desc</Name>
-    <Value>Hepatitis A vaccine (HepA), adult dosage, for intramuscular use </Value>
+    <Value>Hepatitis A vaccine (HepA), adult dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -740,7 +740,7 @@
     <Name>CPT Code</Name>
     <Value>90665     </Value>
     <Name>CPT Desc</Name>
-    <Value>Lyme disease vaccine, adult dosage, for intramuscular use </Value>
+    <Value>Lyme disease vaccine, adult dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -788,7 +788,7 @@
     <Name>CPT Code</Name>
     <Value>90669     </Value>
     <Name>CPT Desc</Name>
-    <Value>Pneumococcal conjugate vaccine, 7 valent, for intramuscular use </Value>
+    <Value>Pneumococcal conjugate vaccine, 7 valent, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1784,11 +1784,11 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value/>
+    <Value>Note that the NDCs for Engerix-B are mapped to CVX 43 which is not specific to dialysis use</Value>
     <Name>Vaccine Name</Name>
-    <Value>Hep B, adult</Value>
+    <Value>Hep B, dialysis</Value>
     <Name>CVX Code</Name>
-    <Value>43        </Value>
+    <Value>44        </Value>
     <Name>LastUpdated</Name>
     <Value>5/28/2010</Value>
   </CPTInfo>
