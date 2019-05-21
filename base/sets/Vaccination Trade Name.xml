@@ -169,6 +169,20 @@
         </use-date>
     </code>
     <code>
+        <value>VAXELIS</value>
+        <label>DTaP,IPV,Hib,HepB</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190213</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>PEDIARIX</value>
         <label>DTaP-Hep B-IPV</label>
         <code-status>
@@ -805,9 +819,11 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
         </reference>
         <use-date>
             <not-before>20170421</not-before>
+            <not-after>20190213</not-after>
         </use-date>
     </code>
     <code>
