@@ -3077,6 +3077,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PSC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0718-10</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
         </reference>
         <use-date>
             <not-before>20180629</not-before>
@@ -12792,6 +12793,47 @@
                 <new-code-value>70460-0002-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20160617</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361-0245-58</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co - Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate) and Hepatitis B (Recombinant) Vaccine (DTaP-IPV-Hib-HepB dose for 6 wks through 4th yr)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20181221</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>63361-245-58</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co - Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate) and Hepatitis B (Recombinant) Vaccine (DTaP-IPV-Hib-HepB dose for 6 wks through 4th yr)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0245-58</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190213</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361024558</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co - Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate) and Hepatitis B (Recombinant) Vaccine (DTaP-IPV-Hib-HepB dose for 6 wks through 4th yr)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0245-58</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190213</effective-date>
             </deprecated>
         </code-status>
     </code>

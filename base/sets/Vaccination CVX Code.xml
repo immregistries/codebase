@@ -479,6 +479,8 @@
             <link-to codeset="VACCINE_GROUP">HIB</link-to>
             <link-to codeset="VACCINE_GROUP">POLIO</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90697</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VAXELIS</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0245-58</link-to>
         </reference>
         <use-date>
             <not-before>20110831</not-before>
@@ -2349,6 +2351,18 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>194</value>
+        <label>Influenza, Southern Hemisphere</label>
+        <description>Influenza, Southern Hemisphere, unspecified formulation Notes: This CVX code should only be used to record the current or historic administration of non-US influenza vaccines for the Southern Hemisphere seasonal influenza</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
         <value>15</value>

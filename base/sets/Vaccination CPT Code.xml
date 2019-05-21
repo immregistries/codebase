@@ -394,7 +394,7 @@
     <code>
         <value>90747</value>
         <label>Hep B, dialysis</label>
-        <description></description>
+        <description>Note that the NDCs for Engerix-B are mapped to CVX 43 which is not specific to dialysis use</description>
         <code-status>
             <status>Valid</status>
         </code-status>
