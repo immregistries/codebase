@@ -18,3 +18,10 @@ wget https://www2a.cdc.gov/vaccines/iis/iisstandards/downloads/NDC/NDC_Unit_sale
 wget https://www2a.cdc.gov/vaccines/iis/iisstandards/downloads/NDC/NDC_Linker.txt -O NDC_Linker.txt
 
 for f in *.xml; do xmllint -o $f --format $f; done
+
+iconv -f utf-16le -t utf-8 NDC_Unit_use.txt -o NDC_Unit_use.txt.new
+mv -f NDC_Unit_use.txt.new NDC_Unit_use.txt
+
+iconv -f utf-16le -t utf-8 NDC_Unit_sale.txt -o NDC_Unit_sale.txt.new
+mv -f NDC_Unit_sale.txt.new NDC_Unit_sale.txt
+
