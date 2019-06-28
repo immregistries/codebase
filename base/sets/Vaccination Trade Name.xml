@@ -1439,6 +1439,20 @@
         </use-date>
     </code>
     <code>
+        <value>TDVAX</value>
+        <label>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MBL</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190521</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Td, adsorbed</value>
         <label>Td (adult), adsorbed</label>
         <code-status>
@@ -1451,6 +1465,7 @@
         </reference>
         <use-date>
             <not-before>20170419</not-before>
+            <not-after>20190521</not-after>
         </use-date>
     </code>
     <code>

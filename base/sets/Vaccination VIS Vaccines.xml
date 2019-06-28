@@ -67,6 +67,20 @@
         </use-date>
     </code>
     <code>
+        <value>28</value>
+        <label>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300003511180824</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411151105</link-to>
+        </reference>
+        <use-date>
+            <not-before>20180824</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>106</value>
         <label>DTaP, 5 pertussis antigens</label>
         <description></description>
@@ -104,6 +118,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611150402</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300006611981216</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911181012</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300003511180824</link-to>
         </reference>
         <use-date>
             <not-before>20151105</not-before>

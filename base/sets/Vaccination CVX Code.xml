@@ -370,6 +370,19 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>195</value>
+        <label>DT, IPV adsorbed</label>
+        <description>Diptheria, Tetanus, Poliomyelitis adsorbed Notes: This code should be used to document non-US vaccines for DT,IPV such as Revaxis</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+            <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
         <value>20</value>
         <label>DTaP</label>
         <description>diphtheria, tetanus toxoids and acellular pertussis
@@ -481,6 +494,7 @@
             <link-to codeset="VACCINATION_CPT_CODE">90697</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">VAXELIS</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0245-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0245-10</link-to>
         </reference>
         <use-date>
             <not-before>20110831</not-before>
@@ -4077,6 +4091,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">21695-0413-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4133-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">14362-0111-04</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">TDVAX</link-to>
         </reference>
         <use-date>
             <not-before>20100820</not-before>
@@ -4103,6 +4118,7 @@
             <link-to codeset="VACCINATION_CPT_CODE">90714</link-to>
         </reference>
         <use-date>
+            <not-before>20190515</not-before>
             <not-expected-after>20100930</not-expected-after>
             <not-after>20100930</not-after>
         </use-date>
