@@ -4792,6 +4792,7 @@
         </reference>
         <use-date>
             <not-before>20180810</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -10337,6 +10338,7 @@
         </reference>
         <use-date>
             <not-before>19811123</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -10379,6 +10381,7 @@
         </reference>
         <use-date>
             <not-before>19811123</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -10761,6 +10764,7 @@
         </reference>
         <use-date>
             <not-before>19830707</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -12806,6 +12810,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0245-10</link-to>
         </reference>
         <use-date>
             <not-before>20181221</not-before>

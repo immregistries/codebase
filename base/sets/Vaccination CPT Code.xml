@@ -627,6 +627,14 @@
         </reference>
     </code>
     <code>
+        <value>90689</value>
+        <label>Influenza virus vaccine, quadrivalent (IIV4), inactivated, adjuvanted, preservative free, 0.25 mL dosage, for intramuscular use</label>
+        <description>This CPT represents the 0.25mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90687</value>
         <label>Influenza virus vaccine, quadrivalent (IIV4), split virus, 0.25 mL dosage, for intramuscular use</label>
         <description></description>
