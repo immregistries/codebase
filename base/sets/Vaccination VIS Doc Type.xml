@@ -99,6 +99,8 @@
             <link-to codeset="VACCINATION_VIS_VACCINES">106</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">20</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">28</link-to>
         </reference>
         <use-date>
             <not-before>20180824</not-before>
@@ -652,6 +654,7 @@
             <link-to codeset="VACCINATION_VIS_VACCINES">120</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">51</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">28</link-to>
         </reference>
         <use-date>
             <not-before>20151105</not-before>

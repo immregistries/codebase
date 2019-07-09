@@ -38,7 +38,7 @@
     <CVXCode>24        </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>6/11/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>anthrax immune globulin</ShortDescription>
@@ -137,6 +137,14 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>DT, IPV adsorbed</ShortDescription>
+    <FullVaccinename>Diptheria, Tetanus, Poliomyelitis adsorbed</FullVaccinename>
+    <CVXCode>195       </CVXCode>
+    <Notes>This code should be used to document non-US vaccines for DT,IPV such as Revaxis</Notes>
+    <Status>Non-US</Status>
+    <LastUpdated>6/11/2019</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>DTaP</ShortDescription>
     <FullVaccinename>diphtheria, tetanus toxoids and acellular pertussis vaccine</FullVaccinename>
     <CVXCode>20        </CVXCode>
@@ -166,7 +174,7 @@
     <CVXCode>146       </CVXCode>
     <Notes>Note that this vaccine is different from CVX 132.</Notes>
     <Status>Active</Status>
-    <LastUpdated>2/13/2019</LastUpdated>
+    <LastUpdated>5/2/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DTaP-Hep B-IPV</ShortDescription>
@@ -356,9 +364,9 @@
     <ShortDescription>Hep B, dialysis</ShortDescription>
     <FullVaccinename>hepatitis B vaccine, dialysis patient dosage</FullVaccinename>
     <CVXCode>44        </CVXCode>
-    <Notes/>
+    <Notes>NDCs that are used for both vaccine and dialysis (e.g. Engerix-B)  are mapped to CVX 43 which is not specific to dialysis use</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>5/8/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep B, unspecified formulation</ShortDescription>
@@ -662,7 +670,7 @@
     <CVXCode>194       </CVXCode>
     <Notes>This CVX code should only be used to record the current or historic administration of non-US influenza vaccines for the Southern Hemisphere seasonal influenza</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>12/14/2018</LastUpdated>
+    <LastUpdated>5/2/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, split (incl. purified surface antigen)</ShortDescription>
@@ -1268,9 +1276,9 @@
     <ShortDescription>Td(adult) unspecified formulation</ShortDescription>
     <FullVaccinename>Td(adult) unspecified formulation</FullVaccinename>
     <CVXCode>139       </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Td vaccination when noted on a vaccination card)</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
+    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown, or to allow mapping from a code set such as a CPT where the code description does not accurately align or  reflect the specificity of another CVX code  (for example, when recording a Td vaccination when noted on a vaccination card)</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/15/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Tdap</ShortDescription>
