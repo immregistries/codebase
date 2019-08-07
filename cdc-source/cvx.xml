@@ -138,7 +138,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DT, IPV adsorbed</ShortDescription>
-    <FullVaccinename>Diptheria, Tetanus, Poliomyelitis adsorbed</FullVaccinename>
+    <FullVaccinename>Diphtheria, Tetanus, Poliomyelitis adsorbed</FullVaccinename>
     <CVXCode>195       </CVXCode>
     <Notes>This code should be used to document non-US vaccines for DT,IPV such as Revaxis</Notes>
     <Status>Non-US</Status>
