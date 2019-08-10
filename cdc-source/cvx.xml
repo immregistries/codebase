@@ -142,7 +142,7 @@
     <CVXCode>195       </CVXCode>
     <Notes>This code should be used to document non-US vaccines for DT,IPV such as Revaxis</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>6/11/2019</LastUpdated>
+    <LastUpdated>7/30/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DTaP</ShortDescription>
@@ -1279,6 +1279,14 @@
     <Notes>This CVX code allows reporting of a vaccination when formulation is unknown, or to allow mapping from a code set such as a CPT where the code description does not accurately align or  reflect the specificity of another CVX code  (for example, when recording a Td vaccination when noted on a vaccination card)</Notes>
     <Status>Active</Status>
     <LastUpdated>5/15/2019</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Td, adsorbed, preservative free, adult use, Lf unspecified</ShortDescription>
+    <FullVaccinename>tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use, Lf unspecified</FullVaccinename>
+    <CVXCode>196       </CVXCode>
+    <Notes>Used when Td Lf specification is unknown</Notes>
+    <Status>Active</Status>
+    <LastUpdated>8/1/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Tdap</ShortDescription>
