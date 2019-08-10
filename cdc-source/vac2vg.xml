@@ -146,27 +146,27 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTP-Hib-Hep B</Value>
+    <Value>adenovirus, type 4</Value>
     <Name>CVXCode</Name>
-    <Value>102       </Value>
+    <Value>54        </Value>
     <Name>Status</Name>
-    <Value>Non-US</Value>
+    <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>ADENO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
+    <Value>82</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTP-Hib-Hep B</Value>
+    <Value>adenovirus, type 7</Value>
     <Name>CVXCode</Name>
-    <Value>102       </Value>
+    <Value>55        </Value>
     <Name>Status</Name>
-    <Value>Non-US</Value>
+    <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>ADENO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>82</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -518,21 +518,45 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP-IPV</Value>
+    <Value>adenovirus, unspecified formulation</Value>
     <Name>CVXCode</Name>
-    <Value>130       </Value>
+    <Value>82        </Value>
     <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
+    <Value>ADENO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
+    <Value>82</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP-IPV</Value>
+    <Value>anthrax</Value>
     <Name>CVXCode</Name>
-    <Value>130       </Value>
+    <Value>24        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>ANTHRAX</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>24</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>cholera, unspecified formulation</Value>
+    <Name>CVXCode</Name>
+    <Value>26        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>cholera</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>26</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DT (pediatric)</Value>
+    <Name>CVXCode</Name>
+    <Value>28        </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
@@ -542,23 +566,11 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Value>DT, IPV adsorbed</Value>
     <Name>CVXCode</Name>
-    <Value>132       </Value>
+    <Value>195       </Value>
     <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
-    <Name>CVXCode</Name>
-    <Value>132       </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
+    <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -566,27 +578,15 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Value>DT, IPV adsorbed</Value>
     <Name>CVXCode</Name>
-    <Value>132       </Value>
+    <Value>195       </Value>
     <Name>Status</Name>
-    <Value>Inactive</Value>
+    <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>POLIO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
-    <Name>CVXCode</Name>
-    <Value>132       </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>89</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -722,27 +722,15 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP,IPV,Hib,HepB</Value>
+    <Value>DTaP</Value>
     <Name>CVXCode</Name>
-    <Value>146       </Value>
+    <Value>20        </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP,IPV,Hib,HepB</Value>
-    <Name>CVXCode</Name>
-    <Value>146       </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -755,6 +743,18 @@
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP,IPV,Hib,HepB</Value>
+    <Name>CVXCode</Name>
+    <Value>146       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1034,30 +1034,6 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTAP/IPV/HIB - non-US</Value>
-    <Name>CVXCode</Name>
-    <Value>170       </Value>
-    <Name>Status</Name>
-    <Value>Non-US</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTAP/IPV/HIB - non-US</Value>
-    <Name>CVXCode</Name>
-    <Value>170       </Value>
-    <Name>Status</Name>
-    <Value>Non-US</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
     <Value>Influenza, injectable, MDCK, preservative free, quadrivalent</Value>
     <Name>CVXCode</Name>
     <Value>171       </Value>
@@ -1286,33 +1262,69 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DT, IPV adsorbed</Value>
+    <Value>DTaP,IPV,Hib,HepB</Value>
     <Name>CVXCode</Name>
-    <Value>195       </Value>
+    <Value>146       </Value>
     <Name>Status</Name>
-    <Value>Non-US</Value>
+    <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>Td</Value>
+    <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>139</Value>
+    <Value>17</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DT, IPV adsorbed</Value>
+    <Value>DTAP/IPV/HIB - non-US</Value>
     <Name>CVXCode</Name>
-    <Value>195       </Value>
+    <Value>170       </Value>
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>DTaP</Value>
+    <Value>DTAP/IPV/HIB - non-US</Value>
     <Name>CVXCode</Name>
-    <Value>20        </Value>
+    <Value>170       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-Hib</Value>
+    <Name>CVXCode</Name>
+    <Value>50        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>DTAP</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-Hib</Value>
+    <Name>CVXCode</Name>
+    <Value>50        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV</Value>
+    <Name>CVXCode</Name>
+    <Value>130       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
@@ -1322,15 +1334,63 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>varicella</Value>
+    <Value>DTaP-IPV</Value>
     <Name>CVXCode</Name>
-    <Value>21        </Value>
+    <Value>130       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>VARICELLA</Value>
+    <Value>POLIO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>21</Value>
+    <Value>89</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Name>CVXCode</Name>
+    <Value>132       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>DTAP</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Name>CVXCode</Name>
+    <Value>132       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>45</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Name>CVXCode</Name>
+    <Value>132       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Name>CVXCode</Name>
+    <Value>132       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>POLIO</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>89</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1358,63 +1418,63 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>plague</Value>
+    <Value>DTP-Hib-Hep B</Value>
     <Name>CVXCode</Name>
-    <Value>23        </Value>
+    <Value>102       </Value>
     <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>Plague</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>23</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>anthrax</Value>
-    <Name>CVXCode</Name>
-    <Value>24        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>ANTHRAX</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>24</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>typhoid, oral</Value>
-    <Name>CVXCode</Name>
-    <Value>25        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>TYPHOID</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>91</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>cholera, unspecified formulation</Value>
-    <Name>CVXCode</Name>
-    <Value>26        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>cholera</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>26</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DT (pediatric)</Value>
-    <Name>CVXCode</Name>
-    <Value>28        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTP-Hib-Hep B</Value>
+    <Name>CVXCode</Name>
+    <Value>102       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hep A, adult</Value>
+    <Name>CVXCode</Name>
+    <Value>52        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepA</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>85</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hep A, ped/adol, 2 dose</Value>
+    <Name>CVXCode</Name>
+    <Value>83        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepA</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>85</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hep A, ped/adol, 3 dose</Value>
+    <Name>CVXCode</Name>
+    <Value>84        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepA</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>85</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1430,87 +1490,15 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>meningococcal MPSV4</Value>
+    <Value>Hep A, unspecified formulation</Value>
     <Name>CVXCode</Name>
-    <Value>32        </Value>
+    <Value>85        </Value>
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>MENING</Value>
+    <Value>HepA</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>108</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>pneumococcal polysaccharide PPV23</Value>
-    <Name>CVXCode</Name>
-    <Value>33        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>PneumoPPV</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>33</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>yellow fever</Value>
-    <Name>CVXCode</Name>
-    <Value>37        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>YELLOWFEVER</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>184</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>rubella/mumps</Value>
-    <Name>CVXCode</Name>
-    <Value>38        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>MMR</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>03</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Japanese encephalitis SC</Value>
-    <Name>CVXCode</Name>
-    <Value>39        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>Japanese encephalitis</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>129</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>rabies, intradermal injection</Value>
-    <Name>CVXCode</Name>
-    <Value>40        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>RABIES</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>90</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>typhoid, parenteral</Value>
-    <Name>CVXCode</Name>
-    <Value>41        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>TYPHOID</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>91</Value>
+    <Value>85</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1562,150 +1550,6 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Hib (PRP-D)</Value>
-    <Name>CVXCode</Name>
-    <Value>46        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hib (HbOC)</Value>
-    <Name>CVXCode</Name>
-    <Value>47        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hib (PRP-T)</Value>
-    <Name>CVXCode</Name>
-    <Value>48        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hib (PRP-OMP)</Value>
-    <Name>CVXCode</Name>
-    <Value>49        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-Hib</Value>
-    <Name>CVXCode</Name>
-    <Value>50        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-Hib</Value>
-    <Name>CVXCode</Name>
-    <Value>50        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hib-Hep B</Value>
-    <Name>CVXCode</Name>
-    <Value>51        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hib-Hep B</Value>
-    <Name>CVXCode</Name>
-    <Value>51        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hep A, adult</Value>
-    <Name>CVXCode</Name>
-    <Value>52        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>typhoid, parenteral, AKD (U.S. military)</Value>
-    <Name>CVXCode</Name>
-    <Value>53        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>TYPHOID</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>91</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>adenovirus, type 4</Value>
-    <Name>CVXCode</Name>
-    <Value>54        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>ADENO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>82</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>adenovirus, type 7</Value>
-    <Name>CVXCode</Name>
-    <Value>55        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>ADENO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>82</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
     <Value>Hep C</Value>
     <Name>CVXCode</Name>
     <Value>58        </Value>
@@ -1730,6 +1574,78 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>Hib-Hep B</Value>
+    <Name>CVXCode</Name>
+    <Value>51        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>45</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hib (HbOC)</Value>
+    <Name>CVXCode</Name>
+    <Value>47        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hib (PRP-D)</Value>
+    <Name>CVXCode</Name>
+    <Value>46        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hib (PRP-OMP)</Value>
+    <Name>CVXCode</Name>
+    <Value>49        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hib (PRP-T)</Value>
+    <Name>CVXCode</Name>
+    <Value>48        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Hib-Hep B</Value>
+    <Name>CVXCode</Name>
+    <Value>51        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HIB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>17</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>HPV, quadrivalent</Value>
     <Name>CVXCode</Name>
     <Value>62        </Value>
@@ -1739,114 +1655,6 @@
     <Value>HPV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>137</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Lyme disease</Value>
-    <Name>CVXCode</Name>
-    <Value>66        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>Lyme disease</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>66</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>rotavirus, tetravalent</Value>
-    <Name>CVXCode</Name>
-    <Value>74        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>ROTAVIRUS</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>122</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>vaccinia (smallpox)</Value>
-    <Name>CVXCode</Name>
-    <Value>75        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>VACCINIA</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>75</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>VEE, live</Value>
-    <Name>CVXCode</Name>
-    <Value>80        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>VEE</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>92</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>VEE, inactivated</Value>
-    <Name>CVXCode</Name>
-    <Value>81        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>VEE</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>92</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>adenovirus, unspecified formulation</Value>
-    <Name>CVXCode</Name>
-    <Value>82        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>ADENO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>82</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hep A, ped/adol, 2 dose</Value>
-    <Name>CVXCode</Name>
-    <Value>83        </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hep A, ped/adol, 3 dose</Value>
-    <Name>CVXCode</Name>
-    <Value>84        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>Hep A, unspecified formulation</Value>
-    <Name>CVXCode</Name>
-    <Value>85        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1862,51 +1670,39 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>polio, unspecified formulation</Value>
+    <Value>Japanese encephalitis SC</Value>
     <Name>CVXCode</Name>
-    <Value>89        </Value>
+    <Value>39        </Value>
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
+    <Value>Japanese encephalitis</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
+    <Value>129</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>rabies, unspecified formulation</Value>
+    <Value>Lyme disease</Value>
     <Name>CVXCode</Name>
-    <Value>90        </Value>
+    <Value>66        </Value>
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RABIES</Value>
+    <Value>Lyme disease</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>90</Value>
+    <Value>66</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>typhoid, unspecified formulation</Value>
+    <Value>meningococcal MPSV4</Value>
     <Name>CVXCode</Name>
-    <Value>91        </Value>
+    <Value>32        </Value>
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>TYPHOID</Value>
+    <Value>MENING</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>91</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>VEE, unspecified formulation</Value>
-    <Name>CVXCode</Name>
-    <Value>92        </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>VEE</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>92</Value>
+    <Value>108</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1922,6 +1718,138 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>plague</Value>
+    <Name>CVXCode</Name>
+    <Value>23        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>Plague</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>23</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>pneumococcal polysaccharide PPV23</Value>
+    <Name>CVXCode</Name>
+    <Value>33        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>PneumoPPV</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>33</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>polio, unspecified formulation</Value>
+    <Name>CVXCode</Name>
+    <Value>89        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>POLIO</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>89</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>rabies, intradermal injection</Value>
+    <Name>CVXCode</Name>
+    <Value>40        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RABIES</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>90</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>rabies, unspecified formulation</Value>
+    <Name>CVXCode</Name>
+    <Value>90        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RABIES</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>90</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>rotavirus, tetravalent</Value>
+    <Name>CVXCode</Name>
+    <Value>74        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>ROTAVIRUS</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>122</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>rubella/mumps</Value>
+    <Name>CVXCode</Name>
+    <Value>38        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>MMR</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>03</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Td, adsorbed, preservative free, adult use, Lf unspecified</Value>
+    <Name>CVXCode</Name>
+    <Value>196       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>Td</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>139</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>typhoid, oral</Value>
+    <Name>CVXCode</Name>
+    <Value>25        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>TYPHOID</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>91</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>typhoid, parenteral</Value>
+    <Name>CVXCode</Name>
+    <Value>41        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>TYPHOID</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>91</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>typhoid, parenteral, AKD (U.S. military)</Value>
+    <Name>CVXCode</Name>
+    <Value>53        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>TYPHOID</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>91</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>MMRV</Value>
     <Name>CVXCode</Name>
     <Value>94        </Value>
@@ -1931,5 +1859,89 @@
     <Value>VARICELLA</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>21</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>typhoid, unspecified formulation</Value>
+    <Name>CVXCode</Name>
+    <Value>91        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>TYPHOID</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>91</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>vaccinia (smallpox)</Value>
+    <Name>CVXCode</Name>
+    <Value>75        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>VACCINIA</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>75</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>varicella</Value>
+    <Name>CVXCode</Name>
+    <Value>21        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>VARICELLA</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>21</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>VEE, inactivated</Value>
+    <Name>CVXCode</Name>
+    <Value>81        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>VEE</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>92</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>VEE, live</Value>
+    <Name>CVXCode</Name>
+    <Value>80        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>VEE</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>92</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>VEE, unspecified formulation</Value>
+    <Name>CVXCode</Name>
+    <Value>92        </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>VEE</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>92</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>yellow fever</Value>
+    <Name>CVXCode</Name>
+    <Value>37        </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>YELLOWFEVER</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>184</Value>
   </CVXVGInfo>
 </VGCodes>

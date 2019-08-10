@@ -1424,6 +1424,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">09</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">139</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">196</link-to>
         </reference>
         <use-date>
             <not-expected-after>20050101</not-expected-after>
