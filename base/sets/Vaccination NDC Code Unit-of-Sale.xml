@@ -16,8 +16,6 @@
         </reference>
         <use-date>
             <not-before>20160531</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -103,8 +101,6 @@
         </reference>
         <use-date>
             <not-before>20050610</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -147,8 +143,6 @@
         </reference>
         <use-date>
             <not-before>20131001</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -191,8 +185,6 @@
         </reference>
         <use-date>
             <not-before>20050610</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -235,8 +227,6 @@
         </reference>
         <use-date>
             <not-before>20050610</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -280,8 +270,6 @@
         </reference>
         <use-date>
             <not-before>20110531</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -838,8 +826,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -882,8 +868,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1011,8 +995,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1055,8 +1037,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1184,8 +1164,6 @@
         </reference>
         <use-date>
             <not-before>19890621</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1228,8 +1206,6 @@
         </reference>
         <use-date>
             <not-before>20161201</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1272,8 +1248,6 @@
         </reference>
         <use-date>
             <not-before>20161201</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1402,8 +1376,6 @@
         </reference>
         <use-date>
             <not-before>19701104</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1446,8 +1418,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1533,8 +1503,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1577,8 +1545,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1750,8 +1716,6 @@
         </reference>
         <use-date>
             <not-before>20020514</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1794,8 +1758,6 @@
         </reference>
         <use-date>
             <not-before>20020514</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -1838,8 +1800,6 @@
         </reference>
         <use-date>
             <not-before>20020514</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2011,8 +1971,6 @@
         </reference>
         <use-date>
             <not-before>20100329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2055,8 +2013,6 @@
         </reference>
         <use-date>
             <not-before>20070328</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2099,8 +2055,6 @@
         </reference>
         <use-date>
             <not-before>20070328</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2143,8 +2097,6 @@
         </reference>
         <use-date>
             <not-before>20070425</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2187,8 +2139,6 @@
         </reference>
         <use-date>
             <not-before>20070425</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2231,8 +2181,6 @@
         </reference>
         <use-date>
             <not-before>20070328</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2446,8 +2394,6 @@
         </reference>
         <use-date>
             <not-before>20180713</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -2876,8 +2822,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -3480,8 +3424,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -3524,8 +3466,6 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -4338,8 +4278,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -4382,8 +4320,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -4855,8 +4791,7 @@
         </reference>
         <use-date>
             <not-before>20180810</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -7088,8 +7023,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -7775,8 +7708,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -7819,8 +7750,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -7863,8 +7792,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -7907,8 +7834,6 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8206,8 +8131,6 @@
         </reference>
         <use-date>
             <not-before>20060608</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8250,8 +8173,6 @@
         </reference>
         <use-date>
             <not-before>20060608</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8294,8 +8215,6 @@
         </reference>
         <use-date>
             <not-before>20060608</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8338,8 +8257,6 @@
         </reference>
         <use-date>
             <not-before>20060608</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8382,8 +8299,6 @@
         </reference>
         <use-date>
             <not-before>20141210</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8426,8 +8341,7 @@
         </reference>
         <use-date>
             <not-before>20141210</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -8470,8 +8384,6 @@
         </reference>
         <use-date>
             <not-before>20141210</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8515,8 +8427,6 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8560,8 +8470,6 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8604,8 +8512,6 @@
         </reference>
         <use-date>
             <not-before>20070216</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8648,8 +8554,6 @@
         </reference>
         <use-date>
             <not-before>20070216</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8693,8 +8597,6 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8736,8 +8638,6 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8780,8 +8680,6 @@
         </reference>
         <use-date>
             <not-before>20180101</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8824,8 +8722,6 @@
         </reference>
         <use-date>
             <not-before>20180101</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8868,8 +8764,6 @@
         </reference>
         <use-date>
             <not-before>20180101</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8912,8 +8806,6 @@
         </reference>
         <use-date>
             <not-before>20151221</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -8956,8 +8848,6 @@
         </reference>
         <use-date>
             <not-before>20151221</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9043,8 +8933,6 @@
         </reference>
         <use-date>
             <not-before>20130930</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9087,8 +8975,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9131,8 +9017,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9175,8 +9059,6 @@
         </reference>
         <use-date>
             <not-before>20180921</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9218,10 +9100,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0804-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0802-02</link-to>
         </reference>
-        <use-date>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>58160-808-15</value>
@@ -9392,8 +9271,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9436,8 +9313,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9480,8 +9355,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9524,8 +9397,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9568,8 +9439,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9612,8 +9481,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9699,8 +9566,6 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9830,8 +9695,6 @@
         </reference>
         <use-date>
             <not-before>19901221</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9874,8 +9737,6 @@
         </reference>
         <use-date>
             <not-before>20180817</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9918,8 +9779,6 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -9964,8 +9823,6 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10008,8 +9865,6 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10052,8 +9907,6 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10096,8 +9949,6 @@
         </reference>
         <use-date>
             <not-before>20080709</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10140,8 +9991,6 @@
         </reference>
         <use-date>
             <not-before>20080709</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10227,8 +10076,6 @@
         </reference>
         <use-date>
             <not-before>19710421</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10400,8 +10247,6 @@
         </reference>
         <use-date>
             <not-before>20050114</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10573,8 +10418,7 @@
         </reference>
         <use-date>
             <not-before>19811123</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -10662,8 +10506,6 @@
         </reference>
         <use-date>
             <not-before>20170301</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10706,8 +10548,6 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10793,8 +10633,6 @@
         </reference>
         <use-date>
             <not-before>19891220</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10838,8 +10676,6 @@
         </reference>
         <use-date>
             <not-before>20080620</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10925,8 +10761,6 @@
         </reference>
         <use-date>
             <not-before>20140530</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -10969,8 +10803,7 @@
         </reference>
         <use-date>
             <not-before>19830707</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -11099,8 +10932,6 @@
         </reference>
         <use-date>
             <not-before>19830707</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11143,8 +10974,6 @@
         </reference>
         <use-date>
             <not-before>20140721</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11230,8 +11059,6 @@
         </reference>
         <use-date>
             <not-before>20100312</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11274,8 +11101,6 @@
         </reference>
         <use-date>
             <not-before>20100312</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11318,8 +11143,6 @@
         </reference>
         <use-date>
             <not-before>20100312</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11362,8 +11185,6 @@
         </reference>
         <use-date>
             <not-before>20150801</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11449,8 +11270,6 @@
         </reference>
         <use-date>
             <not-before>20150324</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11494,8 +11313,6 @@
         </reference>
         <use-date>
             <not-before>20161219</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11538,8 +11355,6 @@
         </reference>
         <use-date>
             <not-before>20140708</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11625,8 +11440,6 @@
         </reference>
         <use-date>
             <not-before>20180817</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11669,8 +11482,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11713,8 +11524,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11757,8 +11566,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11844,8 +11651,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11888,8 +11693,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11932,8 +11735,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -11974,10 +11775,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4995-01</link-to>
         </reference>
-        <use-date>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>0006-4995-00</value>
@@ -12019,8 +11817,6 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12149,8 +11945,6 @@
         </reference>
         <use-date>
             <not-before>20110113</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12193,8 +11987,6 @@
         </reference>
         <use-date>
             <not-before>20060203</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12237,8 +12029,6 @@
         </reference>
         <use-date>
             <not-before>20060203</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12281,8 +12071,6 @@
         </reference>
         <use-date>
             <not-before>20171020</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12325,8 +12113,6 @@
         </reference>
         <use-date>
             <not-before>20171020</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12369,8 +12155,6 @@
         </reference>
         <use-date>
             <not-before>20160927</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12413,8 +12197,6 @@
         </reference>
         <use-date>
             <not-before>20101208</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12457,8 +12239,6 @@
         </reference>
         <use-date>
             <not-before>20101208</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12544,8 +12324,6 @@
         </reference>
         <use-date>
             <not-before>20150701</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12588,8 +12366,6 @@
         </reference>
         <use-date>
             <not-before>19671013</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12675,8 +12451,6 @@
         </reference>
         <use-date>
             <not-before>19700727</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12848,8 +12622,6 @@
         </reference>
         <use-date>
             <not-before>20141105</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12892,8 +12664,6 @@
         </reference>
         <use-date>
             <not-before>20141105</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -12936,8 +12706,6 @@
         </reference>
         <use-date>
             <not-before>20141105</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13066,8 +12834,6 @@
         </reference>
         <use-date>
             <not-before>20070607</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13197,8 +12963,6 @@
         </reference>
         <use-date>
             <not-before>19941128</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13242,8 +13006,6 @@
         </reference>
         <use-date>
             <not-before>19941128</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13286,8 +13048,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -13331,8 +13092,6 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13375,8 +13134,6 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13420,8 +13177,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -13464,8 +13220,6 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13509,8 +13263,6 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13554,8 +13306,6 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13598,8 +13348,6 @@
         </reference>
         <use-date>
             <not-before>19950317</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13642,8 +13390,6 @@
         </reference>
         <use-date>
             <not-before>19950317</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13727,10 +13473,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
         </reference>
-        <use-date>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>70460-001-01</value>
@@ -13814,8 +13557,6 @@
         </reference>
         <use-date>
             <not-before>19920316</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13858,8 +13599,6 @@
         </reference>
         <use-date>
             <not-before>19920316</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13902,8 +13641,6 @@
         </reference>
         <use-date>
             <not-before>19530522</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13946,8 +13683,6 @@
         </reference>
         <use-date>
             <not-before>19530522</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -13990,8 +13725,6 @@
         </reference>
         <use-date>
             <not-before>20060525</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
@@ -14034,8 +13767,6 @@
         </reference>
         <use-date>
             <not-before>20060525</not-before>
-            <not-expected-after>20191120</not-expected-after>
-            <not-after>20200520</not-after>
         </use-date>
     </code>
     <code>
