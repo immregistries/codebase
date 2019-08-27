@@ -4791,6 +4791,7 @@
         </reference>
         <use-date>
             <not-before>20180810</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -8340,6 +8341,7 @@
         </reference>
         <use-date>
             <not-before>20141210</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -9098,8 +9100,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0804-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0802-02</link-to>
         </reference>
-        <use-date>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>58160-808-15</value>
@@ -10417,6 +10418,7 @@
         </reference>
         <use-date>
             <not-before>19811123</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -10801,6 +10803,7 @@
         </reference>
         <use-date>
             <not-before>19830707</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -11772,8 +11775,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4995-01</link-to>
         </reference>
-        <use-date>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>0006-4995-00</value>
@@ -13046,6 +13048,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -13174,6 +13177,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20190430</not-after>
         </use-date>
     </code>
     <code>
@@ -13469,8 +13473,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
         </reference>
-        <use-date>
-        </use-date>
+        <use-date/>
     </code>
     <code>
         <value>70460-001-01</value>
