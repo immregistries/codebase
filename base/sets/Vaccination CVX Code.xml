@@ -379,6 +379,7 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">Td</link-to>
             <link-to codeset="VACCINE_GROUP">POLIO</link-to>
+            <link-to codeset="VACCINE_GROUP">DTAP</link-to>
         </reference>
         <concept-type>foreign vaccine</concept-type>
     </code>
@@ -1721,6 +1722,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0393-65</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0403-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0403-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0405-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0405-65</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1860,6 +1863,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0418-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0900-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0629-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0419-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0897-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0631-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0419-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0897-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0631-15</link-to>
         </reference>
         <use-date>
             <not-before>20130820</not-before>
@@ -1943,6 +1952,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0418-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0418-50</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90689</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0319-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0896-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0906-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0419-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0419-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0319-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0896-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0906-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0419-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0419-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -1980,6 +1999,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0514-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0518-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0518-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0219-21</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0519-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0219-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0519-25</link-to>
         </reference>
         <use-date>
             <not-before>20140723</not-before>
@@ -2138,6 +2161,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42874-0117-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0718-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0718-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0719-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0719-10</link-to>
         </reference>
         <use-date>
             <not-before>20170421</not-before>
@@ -2424,6 +2449,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0018-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0018-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0019-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0019-03</link-to>
         </reference>
         <use-date>
             <not-before>20151210</not-before>
@@ -4129,6 +4156,22 @@
         </use-age>
         <concept-type>unspecified</concept-type>
         <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>196</value>
+        <label>Td, adsorbed, preservative free, adult use, Lf unspecified</label>
+        <description>tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use, Lf unspecified Notes: Used when Td Lf specification is unknown</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90714</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190801</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>115</value>

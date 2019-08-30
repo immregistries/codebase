@@ -85,8 +85,16 @@
     <Edition_Date>10/12/2018</Edition_Date>
     <VIS_encoded_string>253088698300005911181012</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Hepatitis B Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300005911190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/12/2018</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Haemophilus Influenzae type b VIS</VIS_Document_Type_Description>
@@ -165,8 +173,16 @@
     <Edition_Date>8/7/2015</Edition_Date>
     <VIS_encoded_string>253088698300009711150807</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000097</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Live Attenuated Influenza Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300009711190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000097</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/10/2015</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Influenza Vaccine - Inactivated VIS</VIS_Document_Type_Description>
@@ -197,8 +213,16 @@
     <Edition_Date>8/7/2015</Edition_Date>
     <VIS_encoded_string>253088698300010311150807</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000103</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Inactivated Influenza Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300010311190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000103</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/10/2015</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Japanese Encephalitis VIS</VIS_Document_Type_Description>
@@ -213,8 +237,16 @@
     <Edition_Date>1/24/2014</Edition_Date>
     <VIS_encoded_string>253088698300011011140124</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000110</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Japanese Encephalitis Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300011011190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000110</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>1/23/2014</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Measles/Mumps/Rubella VIS</VIS_Document_Type_Description>
@@ -229,8 +261,16 @@
     <Edition_Date>2/12/2018</Edition_Date>
     <VIS_encoded_string>253088698300012711180212</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000127</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Measles/Mumps/Rubella Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300012711190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000127</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/12/2018</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Measles/Mumps/Rubella/Varicella VIS</VIS_Document_Type_Description>
@@ -245,8 +285,16 @@
     <Edition_Date>2/12/2018</Edition_Date>
     <VIS_encoded_string>253088698300013411180212</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000134</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Measles/Mumps/Rubella/Varicella Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300013411190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000134</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/12/2018</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Meningococcal VIS</VIS_Document_Type_Description>
@@ -269,8 +317,16 @@
     <Edition_Date>8/24/2018</Edition_Date>
     <VIS_encoded_string>253088698300014111180824</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000141</VIS_GDTI_document_code>
-    <status>Current </status>
-    <Lastupdated>8/28/2018</Lastupdated>
+    <status>Historic </status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Meningococcal ACWY Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300014111190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000141</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Pneumococcal Conjugate (PCV13) VIS</VIS_Document_Type_Description>
@@ -413,8 +469,16 @@
     <Edition_Date>2/12/2018</Edition_Date>
     <VIS_encoded_string>253088698300024011180212</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000240</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Varicella Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300024011190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000240</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/12/2018</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Yellow Fever VIS</VIS_Document_Type_Description>
@@ -525,8 +589,16 @@
     <Edition_Date>8/9/2016</Edition_Date>
     <VIS_encoded_string>253088698300030111160809</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000301</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/15/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Meningococcal B Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/15/2019</Edition_Date>
+    <VIS_encoded_string>253088698300030111190815</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000301</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/9/2016</Lastupdated>
+    <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Cholera Vaccine VIS</VIS_Document_Type_Description>
