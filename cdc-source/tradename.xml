@@ -104,9 +104,27 @@
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>7/30/2019</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Adenovirus types 4 and 7</Value>
+    <Name>Short Description</Name>
+    <Value>Adenovirus types 4 and 7</Value>
+    <Name>CVXCode</Name>
+    <Value>143       </Value>
+    <Name>Manufacturer</Name>
+    <Value>TEVA Pharmaceuticals USA </Value>
+    <Name>MVX Code</Name>
+    <Value>TVA       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>8/7/2012</Value>
+    <Value>7/23/2019</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
