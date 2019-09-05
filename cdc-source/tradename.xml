@@ -182,6 +182,24 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>Afluria quadrivalent, preservative free, pediatric</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, injectable,quadrivalent, preservative free, pediatric</Value>
+    <Name>CVXCode</Name>
+    <Value>161       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>8/26/2019</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>Afluria, preservative free</Value>
     <Name>Short Description</Name>
     <Value>Influenza, seasonal, injectable, preservative free</Value>

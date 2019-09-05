@@ -583,6 +583,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0545-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0510-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0548-58</link-to>
         </reference>
         <use-date>
             <not-before>20080101</not-before>
@@ -1790,6 +1791,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">flucelvax, quadrivalent, preservative free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0318-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0318-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0319-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
         </reference>
         <use-date>
             <not-before>20160616</not-before>
@@ -1815,6 +1818,8 @@
             <link-to codeset="VACCINATION_CPT_CODE">90756</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0418-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0418-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0419-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
         </reference>
         <use-date>
             <not-before>20170627</not-before>
@@ -2003,6 +2008,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0519-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0219-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0519-25</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria quadrivalent, preservative free, pediatric</link-to>
         </reference>
         <use-date>
             <not-before>20140723</not-before>

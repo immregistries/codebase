@@ -1468,6 +1468,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0519-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0419-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0631-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0548-58</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1566,6 +1567,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0419-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0219-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0019-03</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria quadrivalent, preservative free, pediatric</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0319-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0419-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>

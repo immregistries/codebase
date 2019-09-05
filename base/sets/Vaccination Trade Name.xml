@@ -756,6 +756,20 @@
         </use-date>
     </code>
     <code>
+        <value>Afluria quadrivalent, preservative free, pediatric</value>
+        <label>Influenza, injectable,quadrivalent, preservative free, pediatric</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190826</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Fluzone Quad Intradermal</value>
         <label>influenza, intradermal, quadrivalent, preservative free</label>
         <code-status>

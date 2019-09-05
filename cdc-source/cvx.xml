@@ -1276,9 +1276,9 @@
     <ShortDescription>Td(adult) unspecified formulation</ShortDescription>
     <FullVaccinename>Td(adult) unspecified formulation</FullVaccinename>
     <CVXCode>139       </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown, or to allow mapping from a code set such as a CPT where the code description does not accurately align or  reflect the specificity of another CVX code  (for example, when recording a Td vaccination when noted on a vaccination card)</Notes>
+    <Notes>This CVX code allows reporting of a historic vaccination when the formulation is unknown (for example, when recording a Td vaccination when noted on a vaccination card)</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>5/15/2019</LastUpdated>
+    <LastUpdated>8/27/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Td, adsorbed, preservative free, adult use, Lf unspecified</ShortDescription>
@@ -1286,7 +1286,7 @@
     <CVXCode>196       </CVXCode>
     <Notes>Used when Td Lf specification is unknown</Notes>
     <Status>Active</Status>
-    <LastUpdated>8/1/2019</LastUpdated>
+    <LastUpdated>8/15/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Tdap</ShortDescription>
