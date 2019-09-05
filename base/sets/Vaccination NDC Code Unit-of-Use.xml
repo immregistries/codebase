@@ -59,6 +59,7 @@
         </reference>
         <use-date>
             <not-before>20080620</not-before>
+            <not-after>20190815</not-after>
         </use-date>
     </code>
     <code>
@@ -3667,6 +3668,90 @@
         </code-status>
     </code>
     <code>
+        <value>70461-0319-04</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-319-04</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0319-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461031904</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0319-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0419-11</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">186</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-419-11</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0419-11</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461041911</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0419-11</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>70461-0418-11</value>
         <label>FLUCELVAX QUADRIVALENT (MULTI-DOSE VIAL)</label>
         <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
@@ -3680,6 +3765,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190731</not-after>
         </use-date>
     </code>
     <code>
@@ -3722,6 +3808,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190731</not-after>
         </use-date>
     </code>
     <code>
@@ -11176,6 +11263,48 @@
                 <new-code-value>00006-4897-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140730</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0548-58</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND TETANUS TOXOID CONJUGATE VACCINE KIT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0510-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190815</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-548-58</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND TETANUS TOXOID CONJUGATE VACCINE KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0548-58</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190822</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281054858</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND TETANUS TOXOID CONJUGATE VACCINE KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0548-58</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190822</effective-date>
             </deprecated>
         </code-status>
     </code>

@@ -995,6 +995,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -1037,6 +1038,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -2520,6 +2522,7 @@
         </reference>
         <use-date>
             <not-before>20180713</not-before>
+            <not-after>20190731</not-after>
         </use-date>
     </code>
     <code>
@@ -2990,6 +2993,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -3663,6 +3667,90 @@
         </code-status>
     </code>
     <code>
+        <value>70461-0319-03</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0319-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190730</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-319-03</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0319-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461031903</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0319-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0419-10</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">186</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0419-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190730</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-419-10</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0419-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461041910</value>
+        <label>FLUCELVAX QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2019-2020)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0419-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190826</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>70461-0418-10</value>
         <label>FLUCELVAX QUADRIVALENT (MULTI-DOSE VIAL)</label>
         <description>Seqirus, Inc. - influenza, MDCK, quadrivalent (2018-2019)</description>
@@ -3676,6 +3764,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190731</not-after>
         </use-date>
     </code>
     <code>
@@ -4530,6 +4619,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -4572,6 +4662,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -7359,6 +7450,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -8086,6 +8178,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -8128,6 +8221,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -8170,6 +8264,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -8212,6 +8307,7 @@
         </reference>
         <use-date>
             <not-before>20180629</not-before>
+            <not-after>20190630</not-after>
         </use-date>
     </code>
     <code>
@@ -11219,6 +11315,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0545-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0548-58</link-to>
         </reference>
         <use-date>
             <not-before>20080620</not-before>
