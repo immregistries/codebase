@@ -2043,6 +2043,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0605-01</value>
+        <label>DENGVAXIA</label>
+        <description>Sanofi Pasteur Inc. - Dengue Tetravalent Vaccine, Live KIT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">56</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190501</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-605-01</value>
+        <label>DENGVAXIA</label>
+        <description>Sanofi Pasteur Inc. - Dengue Tetravalent Vaccine, Live KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0605-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281060501</value>
+        <label>DENGVAXIA</label>
+        <description>Sanofi Pasteur Inc. - Dengue Tetravalent Vaccine, Live KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0605-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190904</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0278-10</value>
         <label>DIPHTHERIA AND TETANUS TOXOIDS ADSORBED</label>
         <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CLOSTRIDIUM TETANI TOXOID</description>
@@ -2267,6 +2309,7 @@
         </reference>
         <use-date>
             <not-before>20070425</not-before>
+            <not-after>20190830</not-after>
         </use-date>
     </code>
     <code>
@@ -5244,6 +5287,48 @@
                 <new-code-value>66019-0305-10</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20180829</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0306-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190905</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-306-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0306-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019030610</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0306-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190910</effective-date>
             </deprecated>
         </code-status>
     </code>

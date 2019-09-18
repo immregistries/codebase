@@ -306,6 +306,12 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DENGUE</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">DENGVAXIA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0605-01</link-to>
+        </reference>
         <use-date>
             <not-before>19700101</not-before>
             <not-expected-before>19700101</not-expected-before>
@@ -2099,6 +2105,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0303-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0305-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0305-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0306-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
