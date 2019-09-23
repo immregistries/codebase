@@ -87,6 +87,20 @@
         </use-date>
     </code>
     <code>
+        <value>DENGVAXIA</value>
+        <label>dengue fever</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">56</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190904</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>DT(GENERIC)</value>
         <label>DT (pediatric)</label>
         <code-status>

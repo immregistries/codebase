@@ -53,6 +53,13 @@
         </reference>
     </code>
     <code>
+        <value>DENGUE</value>
+        <label>dengue fever</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">56</link-to>
+        </reference>
+    </code>
+    <code>
         <value>DTAP</value>
         <label>DTaP</label>
         <description></description>

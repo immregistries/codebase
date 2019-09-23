@@ -488,6 +488,24 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>DENGVAXIA</Value>
+    <Name>Short Description</Name>
+    <Value>dengue fever</Value>
+    <Name>CVXCode</Name>
+    <Value>56        </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>9/4/2019</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>DRYVAX</Value>
     <Name>Short Description</Name>
     <Value>vaccinia (smallpox)</Value>
