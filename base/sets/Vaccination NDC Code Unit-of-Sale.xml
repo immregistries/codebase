@@ -5301,6 +5301,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0306-01</link-to>
         </reference>
         <use-date>
             <not-before>20190905</not-before>
