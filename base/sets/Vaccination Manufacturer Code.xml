@@ -795,6 +795,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0305-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0306-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0306-01</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

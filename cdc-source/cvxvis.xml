@@ -1196,7 +1196,7 @@
     <CVXCode>03        </CVXCode>
     <CVXVaccineDescription>MMR</CVXVaccineDescription>
     <Fully-encodedString>253088698300012711190815</Fully-encodedString>
-    <VISDocumentName>Measles/Mumps/Rubella Vaccine VIS</VISDocumentName>
+    <VISDocumentName>MMR Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/15/2019</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
@@ -1220,7 +1220,7 @@
     <CVXCode>94        </CVXCode>
     <CVXVaccineDescription>MMRV</CVXVaccineDescription>
     <Fully-encodedString>253088698300013411190815</Fully-encodedString>
-    <VISDocumentName>Measles/Mumps/Rubella/Varicella Vaccine VIS</VISDocumentName>
+    <VISDocumentName>MMRV Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/15/2019</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
