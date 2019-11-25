@@ -31,7 +31,7 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Haemophilus Influenzae type b VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>Hib Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000066</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.html"/>
@@ -73,13 +73,13 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>PCV13 Vaccine VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>PCV13 VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000158</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.html"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Pneumococcal Polysaccharide VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>PPSV23 VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000165</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.html"/>
