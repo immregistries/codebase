@@ -1026,6 +1026,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90690     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Typhoid vaccine, live, oral</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Typhoid conjugate vaccine (TCV)</Value>
+    <Name>CVX Code</Name>
+    <Value>190       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90691     </Value>
     <Name>CPT Desc</Name>
     <Value>Typhoid vaccine, Vi capsular polysaccharide (ViCPs), for intramuscular use</Value>
@@ -1071,6 +1087,22 @@
     <Value>53        </Value>
     <Name>LastUpdated</Name>
     <Value>5/28/2010</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90694     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, quadrivalent (aIIV4), inactivated, adjuvanted, preservative free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Name>CVX Code</Name>
+    <Value>150       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/25/2019</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1588,7 +1620,7 @@
     <Name>CPT Code</Name>
     <Value>90734     </Value>
     <Name>CPT Desc</Name>
-    <Value>Meningococcal conjugate vaccine, serogroups A, C, Y and W-135, quadrivalent (MCV4 or MenACWY), for intramuscular use</Value>
+    <Value>Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, diphtheria toxoid carrier (MenACWY-D) or CRM197 carrier (MenACWY-CRM), for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1598,7 +1630,7 @@
     <Name>CVX Code</Name>
     <Value>147       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/22/2019</Value>
+    <Value>9/24/2019</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>

@@ -1123,6 +1123,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">69401-0000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70460-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">69401-0000-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70460-0004-01</link-to>
         </reference>
         <use-date>
             <not-before>20150624</not-before>

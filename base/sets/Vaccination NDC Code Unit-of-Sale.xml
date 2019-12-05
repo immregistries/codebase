@@ -9366,6 +9366,7 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
+            <not-after>20191004</not-after>
         </use-date>
     </code>
     <code>
@@ -9999,6 +10000,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10041,6 +10043,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10083,6 +10086,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10125,6 +10129,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10167,6 +10172,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10209,6 +10215,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10294,6 +10301,7 @@
         </reference>
         <use-date>
             <not-before>20090915</not-before>
+            <not-after>20100630</not-after>
         </use-date>
     </code>
     <code>
@@ -10551,6 +10559,7 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
+            <not-after>20191004</not-after>
         </use-date>
     </code>
     <code>
@@ -13095,6 +13104,7 @@
         </reference>
         <use-date>
             <not-before>19671013</not-before>
+            <not-after>20191004</not-after>
         </use-date>
     </code>
     <code>
@@ -14227,6 +14237,48 @@
                 <new-code-value>70460-0001-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70460-0004-01</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - Cholera Vaccine, Live, Oral</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190915</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70460-004-01</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - Cholera Vaccine, Live, Oral</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70460-0004-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20190925</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70460000401</value>
+        <label>Vaxchora</label>
+        <description>Paxvax, Inc. - Cholera Vaccine, Live, Oral</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70460-0004-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20190925</effective-date>
             </deprecated>
         </code-status>
     </code>
