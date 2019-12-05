@@ -116,9 +116,9 @@
     <ShortDescription>dengue fever</ShortDescription>
     <FullVaccinename>dengue fever vaccine</FullVaccinename>
     <CVXCode>56        </CVXCode>
-    <Notes>Applies to Dengue tetravalent product (e.g. DENGVAXIA)</Notes>
+    <Notes>Applies to dengue tetravalent product (e.g. DENGVAXIA)</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/4/2019</LastUpdated>
+    <LastUpdated>9/24/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>diphtheria antitoxin</ShortDescription>
