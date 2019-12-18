@@ -553,6 +553,14 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>influenza, high-dose, quadrivalent</ShortDescription>
+    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, preservative free</FullVaccinename>
+    <CVXCode>197       </CVXCode>
+    <Notes>Target population 65 and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>12/10/2019</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Influenza, injectable, MDCK, preservative free</ShortDescription>
     <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney, preservative free</FullVaccinename>
     <CVXCode>153       </CVXCode>

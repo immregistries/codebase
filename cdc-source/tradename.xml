@@ -956,6 +956,24 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>FLUZONE High-Dose Quadrivalent</Value>
+    <Name>Short Description</Name>
+    <Value>influenza, high-dose, quadrivalent</Value>
+    <Name>CVXCode</Name>
+    <Value>197       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>12/9/2019</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>Fluzone Quad Intradermal</Value>
     <Name>Short Description</Name>
     <Value>influenza, intradermal, quadrivalent, preservative free</Value>
