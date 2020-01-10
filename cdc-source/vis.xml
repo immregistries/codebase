@@ -13,8 +13,16 @@
     <Edition_Date>6/11/2014</Edition_Date>
     <VIS_encoded_string>253088698300001111140611</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000011</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/8/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Adenovirus Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/8/2020</Edition_Date>
+    <VIS_encoded_string>253088698300001111200108</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000011</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>6/11/2014</Lastupdated>
+    <Lastupdated>1/8/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Anthrax VIS</VIS_Document_Type_Description>
@@ -29,8 +37,16 @@
     <Edition_Date>3/21/2018</Edition_Date>
     <VIS_encoded_string>253088698300002811180321</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000028</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/8/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Anthrax Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/8/2020</Edition_Date>
+    <VIS_encoded_string>253088698300002811200108</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000028</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>3/21/2018</Lastupdated>
+    <Lastupdated>1/8/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Diphtheria/Tetanus/Pertussis (DTaP) VIS</VIS_Document_Type_Description>
@@ -421,8 +437,16 @@
     <Edition_Date>10/6/2009</Edition_Date>
     <VIS_encoded_string>253088698300018911091006</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000189</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/8/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Rabies Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/8/2020</Edition_Date>
+    <VIS_encoded_string>253088698300018911200108</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000189</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/24/2012</Lastupdated>
+    <Lastupdated>1/8/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Rotavirus VIS</VIS_Document_Type_Description>
