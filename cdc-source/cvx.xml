@@ -556,9 +556,9 @@
     <ShortDescription>influenza, high-dose, quadrivalent</ShortDescription>
     <FullVaccinename>influenza, high-dose seasonal, quadrivalent, preservative free</FullVaccinename>
     <CVXCode>197       </CVXCode>
-    <Notes>Target population 65 and older</Notes>
+    <Notes>Target population 65 and older, starting season 2020/2021, no exact CPT map at this time</Notes>
     <Status>Active</Status>
-    <LastUpdated>12/10/2019</LastUpdated>
+    <LastUpdated>1/29/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, injectable, MDCK, preservative free</ShortDescription>

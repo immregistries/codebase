@@ -1018,9 +1018,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>typhoid, oral</Value>
+    <Value>Typhoid conjugate vaccine (TCV)</Value>
     <Name>CVX Code</Name>
-    <Value>25        </Value>
+    <Value>190       </Value>
     <Name>LastUpdated</Name>
     <Value>5/28/2010</Value>
   </CPTInfo>
@@ -1034,9 +1034,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Typhoid conjugate vaccine (TCV)</Value>
+    <Value>typhoid, oral</Value>
     <Name>CVX Code</Name>
-    <Value>190       </Value>
+    <Value>25        </Value>
     <Name>LastUpdated</Name>
     <Value>5/28/2010</Value>
   </CPTInfo>
