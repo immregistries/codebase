@@ -61,8 +61,16 @@
     <Edition_Date>8/24/2018</Edition_Date>
     <VIS_encoded_string>253088698300003511180824</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000035</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>4/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>4/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300003511200401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000035</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/28/2018</Lastupdated>
+    <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Hepatitis A VIS</VIS_Document_Type_Description>
@@ -565,8 +573,16 @@
     <Edition_Date>3/30/2011</Edition_Date>
     <VIS_encoded_string>253088698300025711110330</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000257</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>4/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Yellow Fever VIS</VIS_Document_Type_Description>
+    <Edition_Date>4/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300025711200401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000257</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/8/2013</Lastupdated>
+    <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Multiple Vaccines VIS</VIS_Document_Type_Description>
@@ -589,8 +605,16 @@
     <Edition_Date>11/5/2015</Edition_Date>
     <VIS_encoded_string>253088698300026411151105</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000264</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>4/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Multi Pediatric Vaccines VIS</VIS_Document_Type_Description>
+    <Edition_Date>4/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300026411200401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000264</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>11/5/2015</Lastupdated>
+    <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VIS_Document_Type_Description>
@@ -605,8 +629,16 @@
     <Edition_Date>2/24/2015</Edition_Date>
     <VIS_encoded_string>253088698300027111150224</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>4/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VIS_Document_Type_Description>
+    <Edition_Date>4/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300027111200401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/24/2015</Lastupdated>
+    <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tetanus/Diphtheria (Td) VIS</VIS_Document_Type_Description>
@@ -629,8 +661,16 @@
     <Edition_Date>4/11/2017</Edition_Date>
     <VIS_encoded_string>253088698300028811170411</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000288</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>4/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Tetanus/Diphtheria (Td) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>4/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300028811200401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000288</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>4/11/2017</Lastupdated>
+    <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Human papillomavirus Vaccine, 9-valent (Gardasil 9) VIS</VIS_Document_Type_Description>
