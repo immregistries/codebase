@@ -1476,6 +1476,14 @@
             <link-to codeset="VACCINATION_TRADE_NAME">DENGVAXIA</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0606-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0605-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Quadrivalent</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0120-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0246-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0561-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0544-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0120-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0252-51</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0511-05</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

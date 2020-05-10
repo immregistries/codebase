@@ -826,6 +826,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20191220</not-after>
         </use-date>
     </code>
     <code>
@@ -868,6 +869,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20191220</not-after>
         </use-date>
     </code>
     <code>
@@ -3850,6 +3852,7 @@
         </reference>
         <use-date>
             <not-before>20180701</not-before>
+            <not-after>20190731</not-after>
         </use-date>
     </code>
     <code>
@@ -7608,6 +7611,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0120-65</value>
+        <label>FLUZONE High-Dose Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, high dose, quadrivalent (2020-2021)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">197</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0120-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20191101</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-120-65</value>
+        <label>FLUZONE High-Dose Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, high dose, quadrivalent (2020-2021)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0120-65</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200129</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281012065</value>
+        <label>FLUZONE High-Dose Quadrivalent</label>
+        <description>Sanofi Pasteur Inc. - influenza, high dose, quadrivalent (2020-2021)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0120-65</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200129</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0712-40</value>
         <label>fluzone ID quadrivalent</label>
         <description>Sanofi - influenza vaccine quadrivalent ID</description>
@@ -9409,6 +9454,7 @@
         </reference>
         <use-date>
             <not-before>20180101</not-before>
+            <not-after>20191220</not-after>
         </use-date>
     </code>
     <code>
@@ -9493,6 +9539,7 @@
         </reference>
         <use-date>
             <not-before>20180101</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -9691,6 +9738,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0252-51</value>
+        <label>IMOVAX RABIES</label>
+        <description>Sanofi Pasteur Inc. - RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">175</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0246-58</link-to>
+        </reference>
+        <use-date>
+            <not-before>20191025</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-252-51</value>
+        <label>IMOVAX RABIES</label>
+        <description>Sanofi Pasteur Inc. - RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0252-51</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200122</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281025251</value>
+        <label>IMOVAX RABIES</label>
+        <description>Sanofi Pasteur Inc. - RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0252-51</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200122</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0810-11</value>
         <label>INFANRIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS VACCINE ADSORBED</description>
@@ -9788,6 +9877,7 @@
         </reference>
         <use-date>
             <not-before>20180921</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -10473,6 +10563,7 @@
         </reference>
         <use-date>
             <not-before>20180817</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -11443,6 +11534,49 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0511-05</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND HAEMOPHILUS B CONJUGATE (TETANUS TOXOID CONJUGATE) VACCINE</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">120</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0561-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0544-58</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200101</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-511-05</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND HAEMOPHILUS B CONJUGATE (TETANUS TOXOID CONJUGATE) VACCINE</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0511-05</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200123</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281051105</value>
+        <label>PENTACEL</label>
+        <description>Sanofi Pasteur Inc. - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, INACTIVATED POLIOVIRUS AND HAEMOPHILUS B CONJUGATE (TETANUS TOXOID CONJUGATE) VACCINE</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0511-05</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200123</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>76420-0470-10</value>
         <label>Physicians EZ Use Flu Kit</label>
         <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
@@ -11712,6 +11846,7 @@
         </reference>
         <use-date>
             <not-before>20140721</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -12178,6 +12313,7 @@
         </reference>
         <use-date>
             <not-before>20180817</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -14422,6 +14558,7 @@
         </reference>
         <use-date>
             <not-before>19530522</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
@@ -14464,6 +14601,7 @@
         </reference>
         <use-date>
             <not-before>19530522</not-before>
+            <not-after>20200101</not-after>
         </use-date>
     </code>
     <code>
