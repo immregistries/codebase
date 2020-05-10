@@ -102,7 +102,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>120       </CVXCode>
@@ -110,7 +110,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>110       </CVXCode>
@@ -118,7 +118,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>106       </CVXCode>
@@ -126,7 +126,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>130       </CVXCode>
@@ -134,7 +134,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>20        </CVXCode>
@@ -142,7 +142,7 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>28        </CVXCode>
@@ -150,6 +150,62 @@
     <Fully-encodedString>253088698300003511180824</Fully-encodedString>
     <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/24/2018</VISEditionDate>
+    <Status>Historic</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>146       </CVXCode>
+    <CVXVaccineDescription>DTaP,IPV,Hib,HepB</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>120       </CVXCode>
+    <CVXVaccineDescription>DTaP-Hib-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>110       </CVXCode>
+    <CVXVaccineDescription>DTaP-Hep B-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>106       </CVXCode>
+    <CVXVaccineDescription>DTaP, 5 pertussis antigens</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>130       </CVXCode>
+    <CVXVaccineDescription>DTaP-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>20        </CVXCode>
+    <CVXVaccineDescription>DTaP</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>28        </CVXCode>
+    <CVXVaccineDescription>DT (pediatric)</CVXVaccineDescription>
+    <Fully-encodedString>253088698300003511200401</Fully-encodedString>
+    <VISDocumentName>DTaP (Diphtheria, Tetanus, Pertussis) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -1806,7 +1862,7 @@
     <Fully-encodedString>253088698300025711110330</Fully-encodedString>
     <VISDocumentName>Yellow Fever VIS</VISDocumentName>
     <VISEditionDate>3/30/2011</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>183       </CVXCode>
@@ -1814,6 +1870,22 @@
     <Fully-encodedString>253088698300025711110330</Fully-encodedString>
     <VISDocumentName>Yellow Fever VIS</VISDocumentName>
     <VISEditionDate>3/30/2011</VISEditionDate>
+    <Status>Historic</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>37        </CVXCode>
+    <CVXVaccineDescription>yellow fever</CVXVaccineDescription>
+    <Fully-encodedString>253088698300025711200401</Fully-encodedString>
+    <VISDocumentName>Yellow Fever VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>183       </CVXCode>
+    <CVXVaccineDescription>Yellow fever vaccine - alt</CVXVaccineDescription>
+    <Fully-encodedString>253088698300025711200401</Fully-encodedString>
+    <VISDocumentName>Yellow Fever VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -2046,7 +2118,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>48        </CVXCode>
@@ -2054,7 +2126,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>10        </CVXCode>
@@ -2062,7 +2134,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>08        </CVXCode>
@@ -2070,7 +2142,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>49        </CVXCode>
@@ -2078,7 +2150,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>110       </CVXCode>
@@ -2086,7 +2158,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>106       </CVXCode>
@@ -2094,7 +2166,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>130       </CVXCode>
@@ -2102,7 +2174,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>28        </CVXCode>
@@ -2110,7 +2182,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>20        </CVXCode>
@@ -2118,7 +2190,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>120       </CVXCode>
@@ -2126,7 +2198,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>51        </CVXCode>
@@ -2134,7 +2206,7 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>146       </CVXCode>
@@ -2142,6 +2214,102 @@
     <Fully-encodedString>253088698300026411151105</Fully-encodedString>
     <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
     <VISEditionDate>11/5/2015</VISEditionDate>
+    <Status>Historic</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>133       </CVXCode>
+    <CVXVaccineDescription>Pneumococcal conjugate PCV 13</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>48        </CVXCode>
+    <CVXVaccineDescription>Hib (PRP-T)</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>10        </CVXCode>
+    <CVXVaccineDescription>IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>08        </CVXCode>
+    <CVXVaccineDescription>Hep B, adolescent or pediatric</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>49        </CVXCode>
+    <CVXVaccineDescription>Hib (PRP-OMP)</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>110       </CVXCode>
+    <CVXVaccineDescription>DTaP-Hep B-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>106       </CVXCode>
+    <CVXVaccineDescription>DTaP, 5 pertussis antigens</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>130       </CVXCode>
+    <CVXVaccineDescription>DTaP-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>28        </CVXCode>
+    <CVXVaccineDescription>DT (pediatric)</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>20        </CVXCode>
+    <CVXVaccineDescription>DTaP</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>120       </CVXCode>
+    <CVXVaccineDescription>DTaP-Hib-IPV</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>146       </CVXCode>
+    <CVXVaccineDescription>DTaP,IPV,Hib,HepB</CVXVaccineDescription>
+    <Fully-encodedString>253088698300026411200401</Fully-encodedString>
+    <VISDocumentName>Multi Pediatric Vaccines VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -2158,6 +2326,14 @@
     <Fully-encodedString>253088698300027111150224</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VISDocumentName>
     <VISEditionDate>2/24/2015</VISEditionDate>
+    <Status>Historic</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>115       </CVXCode>
+    <CVXVaccineDescription>Tdap</CVXVaccineDescription>
+    <Fully-encodedString>253088698300027111200401</Fully-encodedString>
+    <VISDocumentName>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -2246,7 +2422,7 @@
     <Fully-encodedString>253088698300028811170411</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
     <VISEditionDate>4/11/2017</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>138       </CVXCode>
@@ -2254,7 +2430,7 @@
     <Fully-encodedString>253088698300028811170411</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
     <VISEditionDate>4/11/2017</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>142       </CVXCode>
@@ -2262,7 +2438,7 @@
     <Fully-encodedString>253088698300028811170411</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
     <VISEditionDate>4/11/2017</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>35        </CVXCode>
@@ -2270,7 +2446,7 @@
     <Fully-encodedString>253088698300028811170411</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
     <VISEditionDate>4/11/2017</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>113       </CVXCode>
@@ -2278,6 +2454,30 @@
     <Fully-encodedString>253088698300028811170411</Fully-encodedString>
     <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
     <VISEditionDate>4/11/2017</VISEditionDate>
+    <Status>Historic</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>09        </CVXCode>
+    <CVXVaccineDescription>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</CVXVaccineDescription>
+    <Fully-encodedString>253088698300028811200401</Fully-encodedString>
+    <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>113       </CVXCode>
+    <CVXVaccineDescription>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</CVXVaccineDescription>
+    <Fully-encodedString>253088698300028811200401</Fully-encodedString>
+    <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>196       </CVXCode>
+    <CVXVaccineDescription>Td, adsorbed, preservative free, adult use, Lf unspecified</CVXVaccineDescription>
+    <Fully-encodedString>253088698300028811200401</Fully-encodedString>
+    <VISDocumentName>Tetanus/Diphtheria (Td) Vaccine VIS</VISDocumentName>
+    <VISEditionDate>4/1/2020</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
