@@ -591,6 +591,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0560-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0510-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0548-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0561-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0544-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0511-05</link-to>
         </reference>
         <use-date>
             <not-before>20080101</not-before>
@@ -1742,6 +1745,24 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>197</value>
+        <label>influenza, high-dose, quadrivalent</label>
+        <description>influenza, high-dose seasonal, quadrivalent, preservative free Notes: Target population 65 and older, starting season 2020/2021, no exact CPT map at this time</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Quadrivalent</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0120-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0120-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200129</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>153</value>
@@ -3603,6 +3624,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0248-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0250-51</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">IMOVAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0246-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0252-51</link-to>
         </reference>
         <use-date>
             <not-before>20161018</not-before>

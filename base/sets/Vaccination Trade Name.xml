@@ -616,6 +616,20 @@
         </use-date>
     </code>
     <code>
+        <value>FLUZONE High-Dose Quadrivalent</value>
+        <label>influenza, high-dose, quadrivalent</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">197</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200129</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Flucelvax</value>
         <label>Influenza, injectable, MDCK, preservative free</label>
         <code-status>
