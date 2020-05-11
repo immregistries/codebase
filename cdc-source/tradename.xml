@@ -992,6 +992,60 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>FLUZONE Quadrivalent Southern Hemisphere</Value>
+    <Name>Short Description</Name>
+    <Value>influenza, Southern Hemisphere, preservative free</Value>
+    <Name>CVXCode</Name>
+    <Value>201       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>3/12/2020</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>FLUZONE Quadrivalent Southern Hemisphere</Value>
+    <Name>Short Description</Name>
+    <Value>influenza, Southern Hemisphere, quadrivalent, with preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>202       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>3/12/2020</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>FLUZONE Quadrivalent Southern Hemisphere, Pediatric</Value>
+    <Name>Short Description</Name>
+    <Value>influenza, Southern Hemisphere, pediatric, preservative free</Value>
+    <Name>CVXCode</Name>
+    <Value>200       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>4/21/2020</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>Fluzone Quadrivalent, pediatric</Value>
     <Name>Short Description</Name>
     <Value>Influenza, injectable,quadrivalent, preservative free, pediatric</Value>

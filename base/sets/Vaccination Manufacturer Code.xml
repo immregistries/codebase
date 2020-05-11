@@ -1484,6 +1484,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0120-65</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0252-51</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0511-05</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere, Pediatric</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0336-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0320-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0181-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0336-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
