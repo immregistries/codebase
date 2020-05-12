@@ -1044,6 +1044,35 @@
         </use-date>
     </code>
     <code>
+        <value>FLUZONE Quadrivalent Southern Hemisphere, Pediatric</value>
+        <label>influenza, Southern Hemisphere, pediatric, preservative free</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">200</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200421</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUZONE Quadrivalent Southern Hemisphere</value>
+        <label>influenza, Southern Hemisphere, preservative free</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200312</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Fluad</value>
         <label>influenza, trivalent, adjuvanted</label>
         <code-status>

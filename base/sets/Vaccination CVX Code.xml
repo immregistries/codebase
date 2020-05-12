@@ -503,6 +503,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">VAXELIS</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0245-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0245-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-10</link-to>
         </reference>
         <use-date>
             <not-before>20110831</not-before>
@@ -708,6 +710,15 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>198</value>
+        <label>DTP-hepB-Hib Pentavalent Non-US</label>
+        <description>Diphtheria, pertussis, tetanus, hepatitis B, Haemophilus Influenza Type b, (Pentavalent) Notes: This represents the non-US pentavalent vaccine. Should be used for historic documentation in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
         <value>22</value>
@@ -2439,6 +2450,57 @@
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
         <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>200</value>
+        <label>influenza, Southern Hemisphere, pediatric, preservative free</label>
+        <description>influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free Notes: Pediatric dose for ages 6-35 months</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere, Pediatric</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0181-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200506</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>201</value>
+        <label>influenza, Southern Hemisphere, preservative free</label>
+        <description>influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, no preservative Notes: Represents single dose vial</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0320-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200506</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>202</value>
+        <label>influenza, Southern Hemisphere, quadrivalent, with preservative</label>
+        <description>influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, with preservative Notes: Represents multi-dose vial</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0336-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0336-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200506</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>15</value>

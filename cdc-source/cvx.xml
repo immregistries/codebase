@@ -233,6 +233,14 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>DTP-hepB-Hib Pentavalent Non-US</ShortDescription>
+    <FullVaccinename>Diphtheria, pertussis, tetanus, hepatitis B, Haemophilus Influenza Type b, (Pentavalent)</FullVaccinename>
+    <CVXCode>198       </CVXCode>
+    <Notes>This represents the non-US pentavalent vaccine.  Should be used for historic documentation in US</Notes>
+    <Status>Non-US</Status>
+    <LastUpdated>4/22/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>DTP-Hib</ShortDescription>
     <FullVaccinename>DTP-Haemophilus influenzae type b conjugate vaccine</FullVaccinename>
     <CVXCode>22        </CVXCode>
@@ -674,11 +682,35 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, Southern Hemisphere</ShortDescription>
-    <FullVaccinename>Influenza, Southern Hemisphere, unspecified formulation</FullVaccinename>
+    <FullVaccinename>Influenza, Southern Hemisphere, unspecified formulation (Non-US)</FullVaccinename>
     <CVXCode>194       </CVXCode>
-    <Notes>This CVX code should only be used to record the current or historic administration of non-US influenza vaccines for the Southern Hemisphere seasonal influenza</Notes>
+    <Notes>This CVX code should only be used to record  current or historic administration of a non-US influenza vaccine for the Southern Hemisphere seasonal influenza</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>5/2/2019</LastUpdated>
+    <LastUpdated>4/21/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>influenza, Southern Hemisphere, pediatric, preservative free</ShortDescription>
+    <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free</FullVaccinename>
+    <CVXCode>200       </CVXCode>
+    <Notes>Pediatric dose for ages 6-35 months</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/6/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>influenza, Southern Hemisphere, preservative free</ShortDescription>
+    <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, no preservative</FullVaccinename>
+    <CVXCode>201       </CVXCode>
+    <Notes>Represents single dose vial</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/6/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>influenza, Southern Hemisphere, quadrivalent, with preservative</ShortDescription>
+    <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, with preservative</FullVaccinename>
+    <CVXCode>202       </CVXCode>
+    <Notes>Represents multi-dose vial</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/6/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, split (incl. purified surface antigen)</ShortDescription>

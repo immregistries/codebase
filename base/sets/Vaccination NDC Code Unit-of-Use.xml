@@ -5312,6 +5312,7 @@
         </reference>
         <use-date>
             <not-before>20190905</not-before>
+            <not-after>20200306</not-after>
         </use-date>
     </code>
     <code>
@@ -8768,6 +8769,132 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0336-78</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0336-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190930</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-336-78</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0336-78</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281033678</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0336-78</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0320-88</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190930</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-320-88</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0320-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281032088</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0320-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0181-00</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose, Pediatric 0.25mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">200</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190930</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-181-00</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose, Pediatric 0.25mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0181-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281018100</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose, Pediatric 0.25mL (2020 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0181-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200422</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0516-00</value>
         <label>Fluzone Quadrivalent, pediatric</label>
         <description>Sanofi - Influenza vaccine, quadrivalent</description>
@@ -9294,6 +9421,7 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
+            <not-after>20200303</not-after>
         </use-date>
     </code>
     <code>
@@ -12149,6 +12277,7 @@
         </reference>
         <use-date>
             <not-before>20140708</not-before>
+            <not-after>20200331</not-after>
         </use-date>
     </code>
     <code>
@@ -13772,6 +13901,7 @@
         </reference>
         <use-date>
             <not-before>20181221</not-before>
+            <not-after>20200410</not-after>
         </use-date>
     </code>
     <code>
@@ -13797,6 +13927,48 @@
                 <new-code-value>63361-0245-58</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20190213</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361-0243-58</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co. - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTap-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200401</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>63361-243-58</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co. - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTap-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0243-58</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20200415</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361024358</value>
+        <label>VAXELIS</label>
+        <description>MCM Vaccine Co. - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTap-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0243-58</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20200415</effective-date>
             </deprecated>
         </code-status>
     </code>
