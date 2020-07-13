@@ -567,8 +567,8 @@
             <not-after>20111231</not-after>
         </use-date>
         <use-age>
-            <not-before-month>168</not-before-month>
-            <not-after-month>228</not-after-month>
+            <not-before-month>1</not-before-month>
+            <not-after-month>84</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>12 years</test-age>
@@ -635,7 +635,7 @@
             <not-expected-before>20080101</not-expected-before>
         </use-date>
         <use-age>
-            <not-before-month>48</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>84</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -900,7 +900,7 @@
             <not-expected-before>19950101</not-expected-before>
         </use-date>
         <use-age>
-            <not-before-month>1</not-before-month>
+            <not-before-month>6</not-before-month>
             <not-after-month>228</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -925,7 +925,7 @@
             <not-after>20100528</not-after>
         </use-date>
         <use-age>
-            <not-before-month>1</not-before-month>
+            <not-before-month>6</not-before-month>
             <not-after-month>228</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -949,7 +949,7 @@
             <not-after>20100528</not-after>
         </use-date>
         <use-age>
-            <not-before-month>1</not-before-month>
+            <not-before-month>6</not-before-month>
             <not-after-month>228</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -974,7 +974,7 @@
             <not-after>20100930</not-after>
         </use-date>
         <use-age>
-            <not-before-month>1</not-before-month>
+            <not-before-month>6</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
         <concept-type>unspecified</concept-type>
@@ -1358,7 +1358,7 @@
             <not-expected-before>19960101</not-expected-before>
         </use-date>
         <use-age>
-            <not-before-month>2</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>71</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -1394,7 +1394,7 @@
             <not-expected-before>19960101</not-expected-before>
         </use-date>
         <use-age>
-            <not-before-month>2</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>71</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -1420,7 +1420,7 @@
             <not-after>20100930</not-after>
         </use-date>
         <use-age>
-            <not-before-month>2</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>71</not-after-month>
         </use-age>
         <concept-type>unspecified</concept-type>
@@ -1449,7 +1449,7 @@
             <not-after>20160311</not-after>
         </use-date>
         <use-age>
-            <not-before-month>2</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>71</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -3164,7 +3164,7 @@
             <not-before>20100528</not-before>
         </use-date>
         <use-age>
-            <not-before-month>12</not-before-month>
+            <not-before-month>6</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -3628,7 +3628,7 @@
             <not-after>20100930</not-after>
         </use-date>
         <use-age>
-            <not-before-month>2</not-before-month>
+            <not-before-month>1</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
         <concept-type>unspecified</concept-type>
@@ -3937,7 +3937,7 @@
         </use-date>
         <use-age>
             <not-before-month>1</not-before-month>
-            <not-after-month>6</not-after-month>
+            <not-after-month>8</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
@@ -3983,7 +3983,7 @@
         </use-date>
         <use-age>
             <not-before-month>1</not-before-month>
-            <not-after-month>1440</not-after-month>
+            <not-after-month>8</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
@@ -4004,7 +4004,7 @@
         </use-date>
         <use-age>
             <not-before-month>1</not-before-month>
-            <not-after-month>1440</not-after-month>
+            <not-after-month>8</not-after-month>
         </use-age>
         <concept-type>unspecified</concept-type>
         <test-age>2 months</test-age>
@@ -4309,7 +4309,7 @@
             <not-expected-before>20050101</not-expected-before>
         </use-date>
         <use-age>
-            <not-before-month>120</not-before-month>
+            <not-before-month>84</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
