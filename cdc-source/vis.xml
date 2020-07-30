@@ -85,8 +85,16 @@
     <Edition_Date>7/20/2016</Edition_Date>
     <VIS_encoded_string>253088698300004211160720</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000042</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>7/28/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Hepatitis A Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>7/28/2020</Edition_Date>
+    <VIS_encoded_string>253088698300004211200728</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000042</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>7/20/2016</Lastupdated>
+    <Lastupdated>7/28/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Hepatitis B VIS</VIS_Document_Type_Description>
@@ -633,7 +641,7 @@
     <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VIS_Document_Type_Description>
+    <VIS_Document_Type_Description>Tetanus, Diphtheria, and Pertussis (Tdap) VIS</VIS_Document_Type_Description>
     <Edition_Date>4/1/2020</Edition_Date>
     <VIS_encoded_string>253088698300027111200401</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>

@@ -969,6 +969,14 @@
         <use-date/>
     </code>
     <code>
+        <value>90619</value>
+        <label>Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, tetanus toxoid carrier (MenACWY-TT), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90734</value>
         <label>Meningococcal MCV4O</label>
         <description></description>

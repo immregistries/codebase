@@ -233,6 +233,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211111025</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211160720</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211200728</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
@@ -248,6 +249,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211111025</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211160720</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211200728</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
@@ -267,6 +269,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911160720</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911181012</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911190815</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300004211200728</link-to>
         </reference>
         <use-date>
             <not-before>20160720</not-before>
