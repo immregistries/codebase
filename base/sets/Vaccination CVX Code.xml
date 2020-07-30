@@ -1692,6 +1692,24 @@
         <test-age>2 years</test-age>
     </code>
     <code>
+        <value>205</value>
+        <label>Influenza vaccine, quadrivalent, adjuvanted</label>
+        <description>influenza, seasonal vaccine, quadrivalent, adjuvanted, .5mL dose, preservative free</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUAD Quadrivalent</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0120-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0120-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200722</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>123</value>
         <label>influenza, H5N1-1203</label>
         <description>influenza virus vaccine, H5N1, A/Vietnam/1203/2004
@@ -1832,6 +1850,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0318-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0319-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0320-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0320-03</link-to>
         </reference>
         <use-date>
             <not-before>20160616</not-before>
@@ -1859,6 +1879,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0418-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0419-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0420-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0420-10</link-to>
         </reference>
         <use-date>
             <not-before>20170627</not-before>
@@ -1913,6 +1935,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0419-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0897-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0631-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0420-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0633-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0633-15</link-to>
         </reference>
         <use-date>
             <not-before>20130820</not-before>
@@ -2006,6 +2032,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0906-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0419-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0419-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0320-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0885-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0816-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0420-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0420-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0320-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0885-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0816-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-50</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -2048,6 +2084,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0219-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0519-25</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Afluria quadrivalent, preservative free, pediatric</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0220-21</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0520-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0220-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0520-25</link-to>
         </reference>
         <use-date>
             <not-before>20140723</not-before>
@@ -2210,6 +2250,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0718-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0719-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0719-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0720-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0720-10</link-to>
         </reference>
         <use-date>
             <not-before>20170421</not-before>
@@ -2449,6 +2491,9 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
+        <use-date>
+            <not-after>20200716</not-after>
+        </use-date>
         <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
@@ -2462,6 +2507,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere, Pediatric</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0181-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2479,6 +2525,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0320-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2496,6 +2543,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Quadrivalent Southern Hemisphere</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0336-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0336-15</link-to>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2549,6 +2597,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0018-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0019-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0019-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0020-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0020-03</link-to>
         </reference>
         <use-date>
             <not-before>20151210</not-before>
@@ -3100,6 +3150,24 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 years</test-age>
+    </code>
+    <code>
+        <value>203</value>
+        <label>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</label>
+        <description>meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">MenQuadfi</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0590-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200527</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>167</value>
@@ -4120,6 +4188,22 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>206</value>
+        <label>Smallpox monkeypox vaccine (National Stockpile)</label>
+        <description>smallpox monkeypox vaccine, live attenuated, preservative free (National Stockpile) Notes: National Stockpile Only. FDA US Licensed products JYNNEOS (also brandnames IMVAMUNE, IMVANEX)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">VACCINIA</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">JYNNEOS</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200720</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>76</value>

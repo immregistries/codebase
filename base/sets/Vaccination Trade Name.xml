@@ -602,6 +602,20 @@
         </use-date>
     </code>
     <code>
+        <value>FLUAD Quadrivalent</value>
+        <label>Influenza vaccine, quadrivalent, adjuvanted</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">205</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200720</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>FLUZONE-HIGH DOSE</value>
         <label>Influenza, high dose seasonal</label>
         <code-status>
@@ -1235,6 +1249,20 @@
         </use-date>
     </code>
     <code>
+        <value>MenQuadfi</value>
+        <label>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">203</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200527</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>M-M-R II</value>
         <label>MMR</label>
         <code-status>
@@ -1479,6 +1507,19 @@
         </reference>
         <use-date>
             <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>JYNNEOS</value>
+        <label>Smallpox monkeypox vaccine (National Stockpile)</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200717</not-before>
         </use-date>
     </code>
     <code>

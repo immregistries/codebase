@@ -39,7 +39,7 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Live Attenuated Influenza Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000097</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.html"/>
   </VISURLInfo>
   <VISURLInfo>
@@ -133,7 +133,7 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/multi.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>Tetanus, Diphtheria, and Pertussis (Tdap) VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000271</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.html"/>

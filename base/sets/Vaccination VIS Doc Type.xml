@@ -235,6 +235,21 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300004211200728</value>
+        <label>Hepatitis A Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">104</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">83</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200728</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300005911160720</value>
         <label>Hepatitis B Vaccine VIS</label>
         <code-status>

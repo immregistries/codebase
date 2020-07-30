@@ -290,6 +290,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90619     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, tetanus toxoid carrier (MenACWY-TT), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</Value>
+    <Name>CVX Code</Name>
+    <Value>203       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/24/2019</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90620     </Value>
     <Name>CPT Desc</Name>
     <Value>Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), 2 dose schedule, for intramuscular use</Value>

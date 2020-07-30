@@ -539,6 +539,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2883-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0896-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0896-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0885-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0885-52</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -619,6 +621,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0897-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0897-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0906-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0816-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0816-52</link-to>
         </reference>
         <use-date>
             <not-before>20130905</not-before>
@@ -1040,6 +1044,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0114-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0471-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">76420-0470-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0020-04</link-to>
         </reference>
         <use-date>
             <not-after>20160413</not-after>
@@ -1494,6 +1499,19 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">MenQuadfi</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0720-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0420-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0420-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0520-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0633-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0590-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0720-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0633-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0520-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-05</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1597,6 +1615,21 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0419-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUAD Quadrivalent</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0220-21</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0420-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0320-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0020-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0120-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0420-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0320-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0220-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0320-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0020-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0120-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0320-03</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>

@@ -485,8 +485,8 @@
     <FullVaccinename>human papilloma virus vaccine, quadrivalent</FullVaccinename>
     <CVXCode>62        </CVXCode>
     <Notes/>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <Status>Active</Status>
+    <LastUpdated>6/2/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>HPV, unspecified formulation</ShortDescription>
@@ -545,6 +545,14 @@
     <LastUpdated>1/28/2013</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Influenza vaccine, quadrivalent, adjuvanted</ShortDescription>
+    <FullVaccinename>influenza, seasonal vaccine, quadrivalent, adjuvanted, .5mL dose, preservative free</FullVaccinename>
+    <CVXCode>205       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>7/22/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>influenza, H5N1-1203</ShortDescription>
     <FullVaccinename>influenza virus vaccine, H5N1, A/Vietnam/1203/2004 (national stockpile)</FullVaccinename>
     <CVXCode>123       </CVXCode>
@@ -562,11 +570,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, high-dose, quadrivalent</ShortDescription>
-    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, preservative free</FullVaccinename>
+    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, .7mL dose, preservative free</FullVaccinename>
     <CVXCode>197       </CVXCode>
-    <Notes>Target population 65 and older, starting season 2020/2021, no exact CPT map at this time</Notes>
+    <Notes>Target population 65 and older, starting season 2020/2021</Notes>
     <Status>Active</Status>
-    <LastUpdated>1/29/2020</LastUpdated>
+    <LastUpdated>7/22/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, injectable, MDCK, preservative free</ShortDescription>
@@ -682,11 +690,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, Southern Hemisphere</ShortDescription>
-    <FullVaccinename>Influenza, Southern Hemisphere, unspecified formulation (Non-US)</FullVaccinename>
+    <FullVaccinename>influenza, Southern Hemisphere, unspecified formulation</FullVaccinename>
     <CVXCode>194       </CVXCode>
-    <Notes>This CVX code should only be used to record  current or historic administration of a non-US influenza vaccine for the Southern Hemisphere seasonal influenza</Notes>
-    <Status>Non-US</Status>
-    <LastUpdated>4/21/2020</LastUpdated>
+    <Notes>This CVX code should be used to record administration of Southern Hemisphere influenza vaccine where formulation is unknown</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>7/16/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, pediatric, preservative free</ShortDescription>
@@ -935,6 +943,14 @@
     <Notes/>
     <Status>Inactive</Status>
     <LastUpdated>10/27/2017</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</ShortDescription>
+    <FullVaccinename>meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free</FullVaccinename>
+    <CVXCode>203       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>5/27/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal, unknown serogroups</ShortDescription>
@@ -1279,6 +1295,14 @@
     <Notes/>
     <Status>Inactive</Status>
     <LastUpdated>5/28/2010</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Smallpox monkeypox vaccine (National Stockpile)</ShortDescription>
+    <FullVaccinename>smallpox monkeypox vaccine, live attenuated, preservative free (National Stockpile)</FullVaccinename>
+    <CVXCode>206       </CVXCode>
+    <Notes>National Stockpile Only. FDA US Licensed products JYNNEOS (also brandnames IMVAMUNE, IMVANEX) </Notes>
+    <Status>Active</Status>
+    <LastUpdated>7/20/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Staphylococcus bacterio lysate</ShortDescription>
