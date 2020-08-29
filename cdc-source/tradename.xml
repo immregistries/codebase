@@ -314,24 +314,6 @@
     <Name>CVXCode</Name>
     <Value>163       </Value>
     <Name>Manufacturer</Name>
-    <Value>GlaxoSmithKline</Value>
-    <Name>MVX Code</Name>
-    <Value>SKB       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>3/22/2016</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>Bexsero</Value>
-    <Name>Short Description</Name>
-    <Value>meningococcal B, OMV</Value>
-    <Name>CVXCode</Name>
-    <Value>163       </Value>
-    <Name>Manufacturer</Name>
     <Value>Novartis Pharmaceutical Corporation</Value>
     <Name>MVX Code</Name>
     <Value>NOV       </Value>
@@ -341,6 +323,24 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>2/2/2015</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Bexsero</Value>
+    <Name>Short Description</Name>
+    <Value>meningococcal B, OMV</Value>
+    <Name>CVXCode</Name>
+    <Value>163       </Value>
+    <Name>Manufacturer</Name>
+    <Value>GlaxoSmithKline</Value>
+    <Name>MVX Code</Name>
+    <Value>SKB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>3/22/2016</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -692,13 +692,13 @@
     <Name>CVXCode</Name>
     <Value>185       </Value>
     <Name>Manufacturer</Name>
-    <Value>Protein Sciences</Value>
+    <Value>Sanofi Pasteur</Value>
     <Name>MVX Code</Name>
-    <Value>PSC       </Value>
+    <Value>PMC       </Value>
     <Name>MVX Status</Name>
-    <Value>Inactive</Value>
+    <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Inactive</Value>
+    <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>5/2/2019</Value>
   </prodInfo>
@@ -710,13 +710,13 @@
     <Name>CVXCode</Name>
     <Value>185       </Value>
     <Name>Manufacturer</Name>
-    <Value>Sanofi Pasteur</Value>
+    <Value>Protein Sciences</Value>
     <Name>MVX Code</Name>
-    <Value>PMC       </Value>
+    <Value>PSC       </Value>
     <Name>MVX Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
     <Value>5/2/2019</Value>
   </prodInfo>
