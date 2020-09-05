@@ -474,6 +474,32 @@
         </use-date>
     </code>
     <code>
+        <value>205</value>
+        <label>Inactivated Influenza Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311190815</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190815</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>197</value>
+        <label>Inactivated Influenza Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311190815</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190815</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>150</value>
         <label>Influenza Vaccine - Inactivated VIS</label>
         <code-status>
