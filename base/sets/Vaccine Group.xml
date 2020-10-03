@@ -53,6 +53,19 @@
         </reference>
     </code>
     <code>
+        <value>COVID-19</value>
+        <label>COVID-19</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">900</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">901</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">902</link-to>
+        </reference>
+    </code>
+    <code>
         <value>DENGUE</value>
         <label>dengue fever</label>
         <reference>

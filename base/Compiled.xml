@@ -11231,6 +11231,69 @@
         <label>Vaccination CVX Code</label>
         <type>VACCINATION_CVX_CODE</type>
         <code>
+            <value>900</value>
+            <label>mRNA-1273</label>
+            <description>Moderna COVID-19 Vaccine</description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            </reference>
+            <use-date>
+                <not-before>20201001</not-before>
+                <not-expected-before>20201001</not-expected-before>
+            </use-date>
+            <use-age>
+                <not-before-month>1</not-before-month>
+                <not-after-month>1440</not-after-month>
+            </use-age>
+            <concept-type>vaccine</concept-type>
+            <test-age>12 years</test-age>
+        </code>
+        <code>
+            <value>901</value>
+            <label>BNT162b2</label>
+            <description>Pfizer/BioNTech COVID-19 Vaccine</description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            </reference>
+            <use-date>
+                <not-before>20201001</not-before>
+                <not-expected-before>20201001</not-expected-before>
+            </use-date>
+            <use-age>
+                <not-before-month>1</not-before-month>
+                <not-after-month>1440</not-after-month>
+            </use-age>
+            <concept-type>vaccine</concept-type>
+            <test-age>12 years</test-age>
+        </code>
+        <code>
+            <value>902</value>
+            <label>COVID Unspecified</label>
+            <description>COVID-19 Vaccine</description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            </reference>
+            <use-date>
+                <not-before>20201001</not-before>
+                <not-expected-before>20201001</not-expected-before>
+            </use-date>
+            <use-age>
+                <not-before-month>1</not-before-month>
+                <not-after-month>1440</not-after-month>
+            </use-age>
+            <concept-type>vaccine</concept-type>
+            <test-age>12 years</test-age>
+        </code>
+        <code>
             <value>143</value>
             <label>Adenovirus types 4 and 7</label>
             <description>Adenovirus, type 4 and type 7, live, oral Notes: This
@@ -53804,6 +53867,19 @@
                 <link-to codeset="VACCINATION_CVX_CODE">173</link-to>
                 <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
                 <link-to codeset="VACCINATION_CVX_CODE">172</link-to>
+            </reference>
+        </code>
+        <code>
+            <value>COVID-19</value>
+            <label>COVID-19</label>
+            <description></description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">900</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">901</link-to>
+                <link-to codeset="VACCINATION_CVX_CODE">902</link-to>
             </reference>
         </code>
         <code>
