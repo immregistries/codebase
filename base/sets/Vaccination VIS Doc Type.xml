@@ -481,6 +481,8 @@
             <link-to codeset="VACCINATION_VIS_VACCINES">171</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">158</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">153</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">205</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">197</link-to>
         </reference>
         <use-date>
             <not-before>20190815</not-before>

@@ -302,7 +302,7 @@
     <Name>CVX Code</Name>
     <Value>203       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/24/2019</Value>
+    <Value>7/28/2020</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -722,6 +722,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90662     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>influenza, high-dose, quadrivalent</Value>
+    <Name>CVX Code</Name>
+    <Value>197       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90663     </Value>
     <Name>CPT Desc</Name>
     <Value>Influenza virus vaccine, pandemic formulation, H1N1</Value>
@@ -1114,9 +1130,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Value>Influenza vaccine, quadrivalent, adjuvanted</Value>
     <Name>CVX Code</Name>
-    <Value>150       </Value>
+    <Value>205       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
