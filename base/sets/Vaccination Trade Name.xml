@@ -18,6 +18,35 @@
         </use-date>
     </code>
     <code>
+        <value>Moderna COVID-19 Vaccine</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Pfizer COVID-19 Vaccine</value>
+        <label>Pfizer COVID-19 Vaccine</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+        </use-date>
+    </code>
+    <code>
+    <code>
         <value>BIOTHRAX</value>
         <label>anthrax</label>
         <code-status>
