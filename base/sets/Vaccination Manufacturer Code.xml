@@ -938,6 +938,22 @@
         </use-date>
     </code>
     <code>
+        <value>MOD</value>
+        <label>Moderna US, Inc.</label>
+        <description>Moderna US, Inc.</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>NAB</value>
         <label>NABI</label>
         <description>formerly North American Biologicals, Inc.</description>
@@ -1146,14 +1162,17 @@
         <reference>
             <link-to codeset="VACCINATION_TRADE_NAME">Trumenba</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">PREVNAR 13</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer COVID-19 Vaccine</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-1971-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-0100-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-1971-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-0100-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

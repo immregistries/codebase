@@ -66,6 +66,54 @@
         <test-age>12 years</test-age>
     </code>
     <code>
+        <value>207</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 100 mcg 0.5 mL dose</label>
+        <description>SARS-COV-2 COVID-19 vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg 0.5mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+            <not-expected-before>20201001</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
+        <value>208</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 30 mcg 0.3 mL dose</label>
+        <description>SARS-COV-2 COVID-19 vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg 0.3mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer COVID-19 Vaccine</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+            <not-expected-before>20201001</not-expected-before>
+        </use-date>
+        <use-age>
+            <not-before-month>1</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
+    </code>
+    <code>
         <value>143</value>
         <label>Adenovirus types 4 and 7</label>
         <description>Adenovirus, type 4 and type 7, live, oral Notes: This
