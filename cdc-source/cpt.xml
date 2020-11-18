@@ -714,9 +714,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -730,9 +730,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1050,9 +1050,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Typhoid conjugate vaccine (TCV)</Value>
+    <Value>typhoid, oral</Value>
     <Name>CVX Code</Name>
-    <Value>190       </Value>
+    <Value>25        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1066,9 +1066,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>typhoid, oral</Value>
+    <Value>Typhoid conjugate vaccine (TCV)</Value>
     <Name>CVX Code</Name>
-    <Value>25        </Value>
+    <Value>190       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1903,5 +1903,37 @@
     <Value>186       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91300     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3mL dosage, diluent reconstituted, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential EUA authorization</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</Value>
+    <Name>CVX Code</Name>
+    <Value>208       </Value>
+    <Name>LastUpdated</Name>
+    <Value>11/11/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91301     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</Value>
+    <Name>CVX Code</Name>
+    <Value>207       </Value>
+    <Name>LastUpdated</Name>
+    <Value>11/11/2020</Value>
   </CPTInfo>
 </CPTCodes>

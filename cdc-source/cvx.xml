@@ -41,33 +41,9 @@
     <LastUpdated>6/11/2019</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>anthrax immune globulin</ShortDescription>
-    <FullVaccinename>anthrax immune globulin</FullVaccinename>
-    <CVXCode>181       </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>1/31/2017</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>AS03 Adjuvant</ShortDescription>
-    <FullVaccinename>AS03 Adjuvant</FullVaccinename>
-    <CVXCode>801       </CVXCode>
-    <Notes>This is the adjuvant that is packaged with H5N1 vaccine, adjuvanted</Notes>
-    <Status>Active</Status>
-    <LastUpdated>2/7/2014</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>BCG</ShortDescription>
     <FullVaccinename>Bacillus Calmette-Guerin vaccine</FullVaccinename>
     <CVXCode>19        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>botulinum antitoxin</ShortDescription>
-    <FullVaccinename>botulinum antitoxin</FullVaccinename>
-    <CVXCode>27        </CVXCode>
     <Notes/>
     <Status>Active</Status>
     <LastUpdated>5/28/2010</LastUpdated>
@@ -105,12 +81,20 @@
     <LastUpdated>6/17/2016</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>CMVIG</ShortDescription>
-    <FullVaccinename>cytomegalovirus immune globulin, intravenous</FullVaccinename>
-    <CVXCode>29        </CVXCode>
-    <Notes/>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</FullVaccinename>
+    <CVXCode>207       </CVXCode>
+    <Notes>Potential EUA, 2-dose vaccine</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>11/2/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose</FullVaccinename>
+    <CVXCode>208       </CVXCode>
+    <Notes>Potential EUA, 2-dose vaccine</Notes>
+    <Status>Active</Status>
+    <LastUpdated>11/2/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>dengue fever</ShortDescription>
@@ -119,14 +103,6 @@
     <Notes>Applies to dengue tetravalent product (e.g. DENGVAXIA)</Notes>
     <Status>Active</Status>
     <LastUpdated>9/24/2019</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>diphtheria antitoxin</ShortDescription>
-    <FullVaccinename>diphtheria antitoxin</FullVaccinename>
-    <CVXCode>12        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DT (pediatric)</ShortDescription>
@@ -262,15 +238,7 @@
     <CVXCode>57        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>HBIG</ShortDescription>
-    <FullVaccinename>hepatitis B immune globulin</FullVaccinename>
-    <CVXCode>30        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep A, adult</ShortDescription>
@@ -279,14 +247,6 @@
     <Notes/>
     <Status>Active</Status>
     <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Hep A, IG</ShortDescription>
-    <FullVaccinename>Hepatitis A immune globulin</FullVaccinename>
-    <CVXCode>154       </CVXCode>
-    <Notes>Do not use this code. This product may be used for Hep A and other viral infections. The correct vaccine / CVX is 86 (IG).</Notes>
-    <Status>Never Active</Status>
-    <LastUpdated>4/1/2013</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep A, live attenuated</ShortDescription>
@@ -390,7 +350,7 @@
     <CVXCode>58        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep E</ShortDescription>
@@ -398,7 +358,7 @@
     <CVXCode>59        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>HepB-CpG</ShortDescription>
@@ -414,7 +374,7 @@
     <CVXCode>60        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hib (HbOC)</ShortDescription>
@@ -470,7 +430,7 @@
     <CVXCode>61        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>HPV, bivalent</ShortDescription>
@@ -503,30 +463,6 @@
     <Notes/>
     <Status>Active</Status>
     <LastUpdated>12/11/2014</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>IG</ShortDescription>
-    <FullVaccinename>immune globulin, intramuscular</FullVaccinename>
-    <CVXCode>86        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>IG, unspecified formulation</ShortDescription>
-    <FullVaccinename>immune globulin, unspecified formulation</FullVaccinename>
-    <CVXCode>14        </CVXCode>
-    <Notes/>
-    <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>IGIV</ShortDescription>
-    <FullVaccinename>immune globulin, intravenous</FullVaccinename>
-    <CVXCode>87        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza A monovalent (H5N1), ADJUVANTED-2013</ShortDescription>
@@ -790,7 +726,7 @@
     <CVXCode>63        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>leishmaniasis</ShortDescription>
@@ -798,7 +734,7 @@
     <CVXCode>64        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>leprosy</ShortDescription>
@@ -806,7 +742,7 @@
     <CVXCode>65        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Lyme disease</ShortDescription>
@@ -830,7 +766,7 @@
     <CVXCode>67        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>measles</ShortDescription>
@@ -846,7 +782,7 @@
     <CVXCode>68        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal A polysaccharide (non-US)</ShortDescription>
@@ -1134,7 +1070,7 @@
     <CVXCode>70        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Rabies - IM Diploid cell culture</ShortDescription>
@@ -1182,31 +1118,7 @@
     <CVXCode>72        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Rho(D) - Unspecified formulation</ShortDescription>
-    <FullVaccinename>Rho(D) Unspecified formulation</FullVaccinename>
-    <CVXCode>159       </CVXCode>
-    <Notes/>
-    <Status>Inactive</Status>
-    <LastUpdated>9/5/2013</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Rho(D) -IG IM</ShortDescription>
-    <FullVaccinename>Rho(D) Immune globulin - IM</FullVaccinename>
-    <CVXCode>157       </CVXCode>
-    <Notes>This immune globulin may be administered IM only.</Notes>
-    <Status>Active</Status>
-    <LastUpdated>8/13/2013</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Rho(D)-IG</ShortDescription>
-    <FullVaccinename>Rho(D) Immune globulin- IV or IM</FullVaccinename>
-    <CVXCode>156       </CVXCode>
-    <Notes>This immune globulin may be administered either IM or IV.</Notes>
-    <Status>Active</Status>
-    <LastUpdated>7/26/2013</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Rift Valley fever</ShortDescription>
@@ -1214,15 +1126,7 @@
     <CVXCode>73        </CVXCode>
     <Notes/>
     <Status>Never Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>RIG</ShortDescription>
-    <FullVaccinename>rabies immune globulin</FullVaccinename>
-    <CVXCode>34        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>rotavirus, monovalent</ShortDescription>
@@ -1257,30 +1161,6 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>RSV-IGIV</ShortDescription>
-    <FullVaccinename>respiratory syncytial virus immune globulin, intravenous</FullVaccinename>
-    <CVXCode>71        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>RSV-MAb</ShortDescription>
-    <FullVaccinename>respiratory syncytial virus monoclonal antibody (palivizumab), intramuscular</FullVaccinename>
-    <CVXCode>93        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>RSV-MAb (new)</ShortDescription>
-    <FullVaccinename>respiratory syncytial virus monoclonal antibody (motavizumab), intramuscular</FullVaccinename>
-    <CVXCode>145       </CVXCode>
-    <Notes/>
-    <Status>Never Active</Status>
-    <LastUpdated>10/27/2017</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>rubella</ShortDescription>
     <FullVaccinename>rubella virus vaccine</FullVaccinename>
     <CVXCode>06        </CVXCode>
@@ -1297,20 +1177,20 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED</FullVaccinename>
+    <CVXCode>213       </CVXCode>
+    <Notes>Unspecified code for COVID-19 not to be used to record patient administration</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>11/16/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Smallpox monkeypox vaccine (National Stockpile)</ShortDescription>
     <FullVaccinename>smallpox monkeypox vaccine, live attenuated, preservative free (National Stockpile)</FullVaccinename>
     <CVXCode>206       </CVXCode>
     <Notes>National Stockpile Only. FDA US Licensed products JYNNEOS (also brandnames IMVAMUNE, IMVANEX) </Notes>
     <Status>Active</Status>
     <LastUpdated>7/20/2020</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Staphylococcus bacterio lysate</ShortDescription>
-    <FullVaccinename>Staphylococcus bacteriophage lysate</FullVaccinename>
-    <CVXCode>76        </CVXCode>
-    <Notes/>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Td (adult)</ShortDescription>
@@ -1361,14 +1241,6 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>tetanus immune globulin</ShortDescription>
-    <FullVaccinename>tetanus immune globulin</FullVaccinename>
-    <CVXCode>180       </CVXCode>
-    <Notes>This record duplicates CVX 13 (TIG). Do not use CVX 180.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>2/6/2017</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>tetanus toxoid, adsorbed</ShortDescription>
     <FullVaccinename>tetanus toxoid, adsorbed</FullVaccinename>
     <CVXCode>35        </CVXCode>
@@ -1399,46 +1271,6 @@
     <Notes/>
     <Status>Non-US</Status>
     <LastUpdated>10/27/2017</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>TIG</ShortDescription>
-    <FullVaccinename>tetanus immune globulin</FullVaccinename>
-    <CVXCode>13        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>TST, unspecified formulation</ShortDescription>
-    <FullVaccinename>tuberculin skin test; unspecified formulation</FullVaccinename>
-    <CVXCode>98        </CVXCode>
-    <Notes>TB Skin test is not vaccine.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>TST-OT tine test</ShortDescription>
-    <FullVaccinename>tuberculin skin test; old tuberculin, multipuncture device</FullVaccinename>
-    <CVXCode>95        </CVXCode>
-    <Notes>TB Skin test is not vaccine.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>TST-PPD intradermal</ShortDescription>
-    <FullVaccinename>tuberculin skin test; purified protein derivative solution, intradermal</FullVaccinename>
-    <CVXCode>96        </CVXCode>
-    <Notes>TB Skin test is not vaccine.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>TST-PPD tine test</ShortDescription>
-    <FullVaccinename>tuberculin skin test; purified protein derivative, multipuncture device</FullVaccinename>
-    <CVXCode>97        </CVXCode>
-    <Notes>TB Skin test is not vaccine.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>tularemia vaccine</ShortDescription>
@@ -1521,14 +1353,6 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>vaccinia immune globulin</ShortDescription>
-    <FullVaccinename>vaccinia immune globulin</FullVaccinename>
-    <CVXCode>79        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>varicella</ShortDescription>
     <FullVaccinename>varicella virus vaccine</FullVaccinename>
     <CVXCode>21        </CVXCode>
@@ -1559,22 +1383,6 @@
     <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a VEE vaccination when noted on a vaccination card)</Notes>
     <Status>Inactive</Status>
     <LastUpdated>9/30/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>VZIG</ShortDescription>
-    <FullVaccinename>varicella zoster immune globulin</FullVaccinename>
-    <CVXCode>36        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>VZIG (IND)</ShortDescription>
-    <FullVaccinename>varicella zoster immune globulin (Investigational New Drug)</FullVaccinename>
-    <CVXCode>117       </CVXCode>
-    <Notes/>
-    <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>yellow fever</ShortDescription>
@@ -1625,6 +1433,86 @@
     <LastUpdated>10/27/2017</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>anthrax immune globulin</ShortDescription>
+    <FullVaccinename>anthrax immune globulin</FullVaccinename>
+    <CVXCode>181       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>AS03 Adjuvant</ShortDescription>
+    <FullVaccinename>AS03 Adjuvant</FullVaccinename>
+    <CVXCode>801       </CVXCode>
+    <Notes>This is the adjuvant that is packaged with H5N1 vaccine, adjuvanted</Notes>
+    <Status>Active</Status>
+    <LastUpdated>10/27/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>botulinum antitoxin</ShortDescription>
+    <FullVaccinename>botulinum antitoxin</FullVaccinename>
+    <CVXCode>27        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>CMVIG</ShortDescription>
+    <FullVaccinename>cytomegalovirus immune globulin, intravenous</FullVaccinename>
+    <CVXCode>29        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>diphtheria antitoxin</ShortDescription>
+    <FullVaccinename>diphtheria antitoxin</FullVaccinename>
+    <CVXCode>12        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>HBIG</ShortDescription>
+    <FullVaccinename>hepatitis B immune globulin</FullVaccinename>
+    <CVXCode>30        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Hep A, IG</ShortDescription>
+    <FullVaccinename>Hepatitis A immune globulin</FullVaccinename>
+    <CVXCode>154       </CVXCode>
+    <Notes>Do not use this code. This product may be used for Hep A and other viral infections. The correct vaccine / CVX is 86 (IG).</Notes>
+    <Status>Never Active</Status>
+    <LastUpdated>9/9/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>IG</ShortDescription>
+    <FullVaccinename>immune globulin, intramuscular</FullVaccinename>
+    <CVXCode>86        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>IG, unspecified formulation</ShortDescription>
+    <FullVaccinename>immune globulin, unspecified formulation</FullVaccinename>
+    <CVXCode>14        </CVXCode>
+    <Notes/>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>IGIV</ShortDescription>
+    <FullVaccinename>immune globulin, intravenous</FullVaccinename>
+    <CVXCode>87        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>no vaccine administered</ShortDescription>
     <FullVaccinename>no vaccine administered</FullVaccinename>
     <CVXCode>998       </CVXCode>
@@ -1638,7 +1526,119 @@
     <CVXCode>99        </CVXCode>
     <Notes>Code 99 will not be used in this table to avoid confusion with code 999.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>9/9/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Rho(D) - Unspecified formulation</ShortDescription>
+    <FullVaccinename>Rho(D) Unspecified formulation</FullVaccinename>
+    <CVXCode>159       </CVXCode>
+    <Notes/>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Rho(D) -IG IM</ShortDescription>
+    <FullVaccinename>Rho(D) Immune globulin - IM</FullVaccinename>
+    <CVXCode>157       </CVXCode>
+    <Notes>This immune globulin may be administered IM only.</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Rho(D)-IG</ShortDescription>
+    <FullVaccinename>Rho(D) Immune globulin- IV or IM</FullVaccinename>
+    <CVXCode>156       </CVXCode>
+    <Notes>This immune globulin may be administered either IM or IV.</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>RIG</ShortDescription>
+    <FullVaccinename>rabies immune globulin</FullVaccinename>
+    <CVXCode>34        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>RSV-IGIV</ShortDescription>
+    <FullVaccinename>respiratory syncytial virus immune globulin, intravenous</FullVaccinename>
+    <CVXCode>71        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>RSV-MAb</ShortDescription>
+    <FullVaccinename>respiratory syncytial virus monoclonal antibody (palivizumab), intramuscular</FullVaccinename>
+    <CVXCode>93        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>RSV-MAb (new)</ShortDescription>
+    <FullVaccinename>respiratory syncytial virus monoclonal antibody (motavizumab), intramuscular</FullVaccinename>
+    <CVXCode>145       </CVXCode>
+    <Notes/>
+    <Status>Never Active</Status>
+    <LastUpdated>9/9/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Staphylococcus bacterio lysate</ShortDescription>
+    <FullVaccinename>Staphylococcus bacteriophage lysate</FullVaccinename>
+    <CVXCode>76        </CVXCode>
+    <Notes/>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>tetanus immune globulin</ShortDescription>
+    <FullVaccinename>tetanus immune globulin</FullVaccinename>
+    <CVXCode>180       </CVXCode>
+    <Notes>This record duplicates CVX 13 (TIG). Do not use CVX 180.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/9/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>TIG</ShortDescription>
+    <FullVaccinename>tetanus immune globulin</FullVaccinename>
+    <CVXCode>13        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>TST, unspecified formulation</ShortDescription>
+    <FullVaccinename>tuberculin skin test; unspecified formulation</FullVaccinename>
+    <CVXCode>98        </CVXCode>
+    <Notes>TB Skin test is not vaccine.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>TST-OT tine test</ShortDescription>
+    <FullVaccinename>tuberculin skin test; old tuberculin, multipuncture device</FullVaccinename>
+    <CVXCode>95        </CVXCode>
+    <Notes>TB Skin test is not vaccine.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>TST-PPD intradermal</ShortDescription>
+    <FullVaccinename>tuberculin skin test; purified protein derivative solution, intradermal</FullVaccinename>
+    <CVXCode>96        </CVXCode>
+    <Notes>TB Skin test is not vaccine.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>TST-PPD tine test</ShortDescription>
+    <FullVaccinename>tuberculin skin test; purified protein derivative, multipuncture device</FullVaccinename>
+    <CVXCode>97        </CVXCode>
+    <Notes>TB Skin test is not vaccine.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>unknown</ShortDescription>
@@ -1646,6 +1646,30 @@
     <CVXCode>999       </CVXCode>
     <Notes>This CVX code has little utility and should rarely be used.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>10/27/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>vaccinia immune globulin</ShortDescription>
+    <FullVaccinename>vaccinia immune globulin</FullVaccinename>
+    <CVXCode>79        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>VZIG</ShortDescription>
+    <FullVaccinename>varicella zoster immune globulin</FullVaccinename>
+    <CVXCode>36        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>9/4/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>VZIG (IND)</ShortDescription>
+    <FullVaccinename>varicella zoster immune globulin (Investigational New Drug)</FullVaccinename>
+    <CVXCode>117       </CVXCode>
+    <Notes/>
+    <Status>Never Active</Status>
+    <LastUpdated>9/9/2020</LastUpdated>
   </CVXInfo>
 </CVXCodes>
