@@ -1331,6 +1331,28 @@
         <use-date/>
     </code>
     <code>
+        <value>91301</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>91300</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3mL dosage, diluent reconstituted, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+        </reference>
+    </code>
+    <code>
         <value>90714</value>
         <label>Td (adult) preservative free</label>
         <description></description>

@@ -54,15 +54,9 @@
     </code>
     <code>
         <value>COVID-19</value>
-        <label>COVID-19</label>
-        <description></description>
-        <code-status>
-            <status>Valid</status>
-        </code-status>
+        <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</label>
         <reference>
-            <link-to codeset="VACCINATION_CVX_CODE">900</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">901</link-to>
-            <link-to codeset="VACCINATION_CVX_CODE">902</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">213</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
         </reference>
@@ -400,6 +394,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">177</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">133</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">100</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">109</link-to>
         </reference>
     </code>
     <code>
@@ -411,6 +406,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">109</link-to>
         </reference>
     </code>
     <code>

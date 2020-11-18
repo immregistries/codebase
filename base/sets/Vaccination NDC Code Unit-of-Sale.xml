@@ -12179,6 +12179,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0273-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-10</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201016</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-273-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0273-99</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201102</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777027399</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0273-99</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201102</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0811-52</value>
         <label>PEDIARIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
@@ -12389,6 +12431,87 @@
                 <new-code-value>49281-0511-05</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20200123</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-1000-02</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201104</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-1000-2</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1000-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201111</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267100002</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1000-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201111</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-1000-03</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>59267-1000-3</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1000-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201111</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267100003</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, reconstituted, 30 mcg/0.3mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1000-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201111</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -13675,6 +13798,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4047-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4047-02</link-to>
         </reference>
         <use-date>
             <not-before>20060203</not-before>
@@ -13717,6 +13841,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4047-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4047-02</link-to>
         </reference>
         <use-date>
             <not-before>20060203</not-before>
@@ -13829,6 +13954,45 @@
                 <new-code-value>58160-0819-12</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20171027</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-5147-00</value>
+        <label>Shingrix</label>
+        <description>A-S Medication Solutions - Zoster Vaccine Recombinant, Adjuvanted KIT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">187</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-01</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>50090-5147-0</value>
+        <label>Shingrix</label>
+        <description>A-S Medication Solutions - Zoster Vaccine Recombinant, Adjuvanted KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-5147-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201030</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090514700</value>
+        <label>Shingrix</label>
+        <description>A-S Medication Solutions - Zoster Vaccine Recombinant, Adjuvanted KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-5147-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201030</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -15317,6 +15481,45 @@
                 <new-code-value>63361-0243-10</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20200423</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361-0243-15</value>
+        <label>VAXELIS</label>
+        <description>MSP Vaccine Company - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTaP-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-88</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>63361-243-15</value>
+        <label>VAXELIS</label>
+        <description>MSP Vaccine Company - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTaP-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0243-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201030</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>63361024315</value>
+        <label>VAXELIS</label>
+        <description>MSP Vaccine Company - diphtheria and tetanus toxoids and acellular pertussis, inactivated poliovirus, haemophilus b conjugate and hepatitis b vaccine (DTaP-IPV-Hib-HepB)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>63361-0243-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201030</effective-date>
             </deprecated>
         </code-status>
     </code>
