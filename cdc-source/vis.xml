@@ -641,7 +641,7 @@
     <Lastupdated>4/1/2020</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>Tetanus, Diphtheria, and Pertussis (Tdap) VIS</VIS_Document_Type_Description>
+    <VIS_Document_Type_Description>Tetanus, Diphtheria, Pertussis (Tdap) VIS</VIS_Document_Type_Description>
     <Edition_Date>4/1/2020</Edition_Date>
     <VIS_encoded_string>253088698300027111200401</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>
@@ -767,5 +767,21 @@
     <VIS_GDTI_document_code>0886983000325</VIS_GDTI_document_code>
     <status>Current</status>
     <Lastupdated>10/30/2019</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>12/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300033211201201</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>12/1/2020</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>12/1/2020</Edition_Date>
+    <VIS_encoded_string>253088698300034911201201</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000349</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>12/1/2020</Lastupdated>
   </VISInfo>
 </VISLookup>

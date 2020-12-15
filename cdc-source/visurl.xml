@@ -133,7 +133,7 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/multi.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Tetanus, Diphtheria, and Pertussis (Tdap) VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>Tetanus, Diphtheria, Pertussis (Tdap) VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000271</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.html"/>
@@ -167,5 +167,17 @@
     <VIS_GDTI_document_Conceptcode>0886983000325</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles-recombinant.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles-recombinant.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000332</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000349</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/modernatx.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/modernatx.html"/>
   </VISURLInfo>
 </VISURL>
