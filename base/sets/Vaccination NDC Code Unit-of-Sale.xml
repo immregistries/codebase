@@ -1410,6 +1410,47 @@
         </code-status>
     </code>
     <code>
+        <value>00310-1222-15</value>
+        <label>ASTRAZENECA COVID-19 VACCINE</label>
+        <description>AstraZeneca Pharmaceuticals LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">210</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00310-1222-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201222</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0310-1222-15</value>
+        <label>ASTRAZENECA COVID-19 VACCINE</label>
+        <description>AstraZeneca Pharmaceuticals LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00310-1222-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210106</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00310122215</value>
+        <label>ASTRAZENECA COVID-19 VACCINE</label>
+        <description>AstraZeneca Pharmaceuticals LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00310-1222-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210106</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00052-0603-02</value>
         <label>BCG VACCINE</label>
         <description>Organon Pharmaceuticals USA - BACILLUS CALMETTE-GUERIN SUBSTRAIN TICE LIVE ANTIGEN</description>
@@ -1465,6 +1506,7 @@
         </reference>
         <use-date>
             <not-before>20161201</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -1507,6 +1549,7 @@
         </reference>
         <use-date>
             <not-before>20161201</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -1677,6 +1720,7 @@
         </reference>
         <use-date>
             <not-before>20090724</not-before>
+            <not-after>20201026</not-after>
         </use-date>
     </code>
     <code>
@@ -9423,6 +9467,7 @@
         </reference>
         <use-date>
             <not-before>20190930</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -9465,6 +9510,7 @@
         </reference>
         <use-date>
             <not-before>20190930</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -9507,6 +9553,7 @@
         </reference>
         <use-date>
             <not-before>20190930</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -11467,6 +11514,7 @@
         </reference>
         <use-date>
             <not-before>20090330</not-before>
+            <not-after>20201123</not-after>
         </use-date>
     </code>
     <code>
@@ -11534,6 +11582,48 @@
                 <new-code-value>42515-0002-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>62195-0051-01</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">134</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">62195-0051-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201123</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>62195-051-01</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>62195-0051-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20201229</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>62195005101</value>
+        <label>Ixiaro</label>
+        <description>Vetter Pharma Fertigung GmbH &amp; Co. KG - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>62195-0051-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20201229</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -12191,7 +12281,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
         </reference>
         <use-date>
-            <not-before>20201016</not-before>
+            <not-before>20201218</not-before>
         </use-date>
     </code>
     <code>
@@ -12447,7 +12537,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
         </reference>
         <use-date>
-            <not-before>20201104</not-before>
+            <not-before>20201212</not-before>
         </use-date>
     </code>
     <code>
@@ -12488,6 +12578,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
         </reference>
+        <use-date>
+            <not-before>20201212</not-before>
+        </use-date>
     </code>
     <code>
         <value>59267-1000-3</value>
@@ -13125,6 +13218,7 @@
         </reference>
         <use-date>
             <not-before>20161219</not-before>
+            <not-after>20201231</not-after>
         </use-date>
     </code>
     <code>
@@ -13969,6 +14063,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0828-01</link-to>
         </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+        </use-date>
     </code>
     <code>
         <value>50090-5147-0</value>
@@ -15496,6 +15593,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-88</link-to>
         </reference>
+        <use-date>
+            <not-before>20201001</not-before>
+        </use-date>
     </code>
     <code>
         <value>63361-243-15</value>

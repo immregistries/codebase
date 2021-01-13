@@ -81,20 +81,28 @@
     <LastUpdated>6/17/2016</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL </FullVaccinename>
+    <CVXCode>210       </CVXCode>
+    <Notes>Potential EUA, 2-dose vaccine</Notes>
+    <Status>Active</Status>
+    <LastUpdated>12/22/2020</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</FullVaccinename>
     <CVXCode>207       </CVXCode>
-    <Notes>Potential EUA, 2-dose vaccine</Notes>
+    <Notes>EUA 12/18/2020, 2-dose vaccine</Notes>
     <Status>Active</Status>
-    <LastUpdated>11/2/2020</LastUpdated>
+    <LastUpdated>12/22/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose</FullVaccinename>
     <CVXCode>208       </CVXCode>
-    <Notes>Potential EUA, 2-dose vaccine</Notes>
+    <Notes>EUA 12/11/2020, 2-dose vaccine</Notes>
     <Status>Active</Status>
-    <LastUpdated>11/2/2020</LastUpdated>
+    <LastUpdated>12/12/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>dengue fever</ShortDescription>

@@ -109,6 +109,32 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300034911201201</value>
+        <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">207</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300033211201201</value>
+        <label>COVID-19 Pfizer BioNTech Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">208</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201201</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300003511070517</value>
         <label>Diphtheria/Tetanus/Pertussis (DTaP) VIS</label>
         <code-status>

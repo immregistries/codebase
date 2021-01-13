@@ -164,9 +164,9 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -176,9 +176,9 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -296,6 +296,18 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
+    <Value>POLIO</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>89</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-Hep B-IPV</Value>
+    <Name>CVXCode</Name>
+    <Value>110       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
@@ -311,18 +323,6 @@
     <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>45</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-Hep B-IPV</Value>
-    <Name>CVXCode</Name>
-    <Value>110       </Value>
-    <Name>Status</Name>
-    <Value>Active</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -752,9 +752,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
+    <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -764,9 +764,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
+    <Value>POLIO</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>89</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1052,18 +1052,6 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>POLIO</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>89</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTAP/IPV/HIB - non-US</Value>
-    <Name>CVXCode</Name>
-    <Value>170       </Value>
-    <Name>Status</Name>
-    <Value>Non-US</Value>
-    <Name>Vaccine Group Name</Name>
     <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>17</Value>
@@ -1079,6 +1067,18 @@
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTAP/IPV/HIB - non-US</Value>
+    <Name>CVXCode</Name>
+    <Value>170       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>POLIO</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>89</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1478,6 +1478,30 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </Value>
+    <Name>CVXCode</Name>
+    <Value>210       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED</Value>
+    <Name>CVXCode</Name>
+    <Value>213       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>DTP-Hib</Value>
     <Name>CVXCode</Name>
     <Value>22        </Value>
@@ -1760,9 +1784,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1772,9 +1796,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>17</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -2063,17 +2087,5 @@
     <Value>VARICELLA</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>21</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED</Value>
-    <Name>CVXCode</Name>
-    <Value>213       </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>COVID-19</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>213</Value>
   </CVXVGInfo>
 </VGCodes>

@@ -1912,13 +1912,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential EUA authorization</Value>
+    <Value>COVID-19 Vaccine - EUA authorization 12/11/2020</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>208       </Value>
     <Name>LastUpdated</Name>
-    <Value>11/11/2020</Value>
+    <Value>12/29/2020</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1928,12 +1928,28 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
+    <Value>COVID-19 Vaccine - EUA authorization 12/18/2020 </Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
-    <Value>11/11/2020</Value>
+    <Value>12/29/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91302     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, chimpanzee adenovirus Oxford 1 (ChAdOx1) vector, preservative free, 5x1010 viral particles/0.5mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </Value>
+    <Name>CVX Code</Name>
+    <Value>210       </Value>
+    <Name>LastUpdated</Name>
+    <Value>12/29/2020</Value>
   </CPTInfo>
 </CPTCodes>
