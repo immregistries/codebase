@@ -1751,6 +1751,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0002-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-01</link-to>
         </reference>
         <use-date>
             <not-before>20160719</not-before>

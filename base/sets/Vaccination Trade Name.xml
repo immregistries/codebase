@@ -87,6 +87,19 @@
         </use-date>
     </code>
     <code>
+        <value>AstraZeneca COVID-19 Vaccine</value>
+        <label>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">210</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201209</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Moderna COVID-19 Vaccine</value>
         <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</label>
         <code-status>
