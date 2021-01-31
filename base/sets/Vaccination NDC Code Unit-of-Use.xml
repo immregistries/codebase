@@ -102,6 +102,7 @@
         </reference>
         <use-date>
             <not-before>20131001</not-before>
+            <not-after>20210120</not-after>
         </use-date>
     </code>
     <code>
@@ -11504,6 +11505,47 @@
                 <new-code-value>42515-0002-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20180406</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59676-0580-05</value>
+        <label>Janssen COVID-19 Vaccine</label>
+        <description>Janssen Products, LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mLee, 0.5 mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">212</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59676-0580-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59676-580-05</value>
+        <label>Janssen COVID-19 Vaccine</label>
+        <description>Janssen Products, LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mLee, 0.5 mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59676-0580-05</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210125</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59676058005</value>
+        <label>Janssen COVID-19 Vaccine</label>
+        <description>Janssen Products, LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mLee, 0.5 mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59676-0580-05</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210125</effective-date>
             </deprecated>
         </code-status>
     </code>

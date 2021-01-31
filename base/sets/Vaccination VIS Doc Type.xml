@@ -109,6 +109,32 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300035611210201</value>
+        <label>COVID-19 AstraZeneca Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">210</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300036311210201</value>
+        <label>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">212</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210201</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300034911201201</value>
         <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
