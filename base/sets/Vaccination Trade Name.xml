@@ -87,6 +87,19 @@
         </use-date>
     </code>
     <code>
+        <value>Janssen (J&amp;J) COVID-19 Vaccine</value>
+        <label>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">212</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210113</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>AstraZeneca COVID-19 Vaccine</value>
         <label>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</label>
         <code-status>

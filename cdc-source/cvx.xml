@@ -81,12 +81,20 @@
     <LastUpdated>6/17/2016</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL</FullVaccinename>
+    <CVXCode>212       </CVXCode>
+    <Notes>Potential EUA, 1-dose vaccine </Notes>
+    <Status>Active</Status>
+    <LastUpdated>1/26/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL </FullVaccinename>
     <CVXCode>210       </CVXCode>
     <Notes>Potential EUA, 2-dose vaccine</Notes>
     <Status>Active</Status>
-    <LastUpdated>12/22/2020</LastUpdated>
+    <LastUpdated>1/26/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</ShortDescription>

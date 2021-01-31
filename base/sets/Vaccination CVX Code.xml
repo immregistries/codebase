@@ -301,6 +301,24 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>212</value>
+        <label>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL Notes: Potential EUA, 1-dose vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Janssen (J&amp;J) COVID-19 Vaccine</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59676-0580-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59676-0580-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210126</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>210</value>
         <label>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</label>
         <description>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL Notes: Potential EUA, 2-dose vaccine</description>
@@ -312,6 +330,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">AstraZeneca COVID-19 Vaccine</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00310-1222-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00310-1222-15</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91302</link-to>
         </reference>
         <use-date>
             <not-before>20201222</not-before>
