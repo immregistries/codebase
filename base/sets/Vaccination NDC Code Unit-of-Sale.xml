@@ -12484,6 +12484,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0273-98</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0182-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210401</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-273-98</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0273-98</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210407</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777027398</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0273-98</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210407</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0811-52</value>
         <label>PEDIARIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>

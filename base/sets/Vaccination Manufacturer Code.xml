@@ -1550,6 +1550,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0337-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0182-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0321-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-98</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
