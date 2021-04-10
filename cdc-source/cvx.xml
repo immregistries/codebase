@@ -81,6 +81,14 @@
     <LastUpdated>6/17/2016</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</FullVaccinename>
+    <CVXCode>211       </CVXCode>
+    <Notes>Pending FDA EUA Authorization</Notes>
+    <Status>Active</Status>
+    <LastUpdated>4/6/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL</FullVaccinename>
     <CVXCode>212       </CVXCode>
@@ -247,6 +255,22 @@
     <Notes>This CVX has been corrected. This non-US vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007 .</Notes>
     <Status>Non-US</Status>
     <LastUpdated>5/20/2016</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Ebola Zaire vaccine, live, recombinant, 1mL dose</ShortDescription>
+    <FullVaccinename>Ebola Zaire vaccine, live, recombinant, 1mL dose </FullVaccinename>
+    <CVXCode>204       </CVXCode>
+    <Notes>FDA Approval Pending</Notes>
+    <Status>Active</Status>
+    <LastUpdated>4/6/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Ebola, unspecified</ShortDescription>
+    <FullVaccinename>Ebola, unspecified</FullVaccinename>
+    <CVXCode>214       </CVXCode>
+    <Notes/>
+    <Status>Inactive</Status>
+    <LastUpdated>4/6/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>hantavirus</ShortDescription>
@@ -1201,7 +1225,7 @@
     <LastUpdated>11/16/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Smallpox monkeypox vaccine (National Stockpile)</ShortDescription>
+    <ShortDescription>smallpox monkeypox vaccine (National Stockpile)</ShortDescription>
     <FullVaccinename>smallpox monkeypox vaccine, live attenuated, preservative free (National Stockpile)</FullVaccinename>
     <CVXCode>206       </CVXCode>
     <Notes>National Stockpile Only. FDA US Licensed products JYNNEOS (also brandnames IMVAMUNE, IMVANEX) </Notes>

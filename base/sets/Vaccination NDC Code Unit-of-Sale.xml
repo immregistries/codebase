@@ -5826,6 +5826,7 @@
         </reference>
         <use-date>
             <not-before>20200810</not-before>
+            <not-after>20210401</not-after>
         </use-date>
     </code>
     <code>
@@ -9584,6 +9585,134 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0337-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0337-78</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210204</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-337-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0337-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281033715</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 0.5mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0337-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0182-25</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.25 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">200</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0182-00</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210204</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-182-25</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.25 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0182-25</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281018225</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.25 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0182-25</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0321-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0321-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210204</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-321-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0321-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281032150</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2021 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0321-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210401</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0516-25</value>
         <label>Fluzone Quadrivalent, pediatric</label>
         <description>Sanofi - Influenza vaccine, quadrivalent</description>
@@ -10107,6 +10236,7 @@
         </reference>
         <use-date>
             <not-before>20070216</not-before>
+            <not-after>20210211</not-after>
         </use-date>
     </code>
     <code>
@@ -10192,6 +10322,7 @@
         </reference>
         <use-date>
             <not-before>20070413</not-before>
+            <not-after>20210211</not-after>
         </use-date>
     </code>
     <code>

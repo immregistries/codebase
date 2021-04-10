@@ -46,7 +46,7 @@
     <Name>CVX Code</Name>
     <Value>27        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -78,7 +78,7 @@
     <Name>CVX Code</Name>
     <Value>12        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -158,7 +158,7 @@
     <Name>CVX Code</Name>
     <Value>71        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -222,7 +222,7 @@
     <Name>CVX Code</Name>
     <Value>128       </Value>
     <Name>LastUpdated</Name>
-    <Value>8/31/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -462,7 +462,7 @@
     <Name>CVX Code</Name>
     <Value>47        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -478,7 +478,7 @@
     <Name>CVX Code</Name>
     <Value>46        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -670,7 +670,7 @@
     <Name>CVX Code</Name>
     <Value>16        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -750,7 +750,7 @@
     <Name>CVX Code</Name>
     <Value>128       </Value>
     <Name>LastUpdated</Name>
-    <Value>8/31/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -782,7 +782,7 @@
     <Name>CVX Code</Name>
     <Value>66        </Value>
     <Name>LastUpdated</Name>
-    <Value>4/25/2016</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -830,7 +830,7 @@
     <Name>CVX Code</Name>
     <Value>100       </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1050,9 +1050,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Typhoid conjugate vaccine (TCV)</Value>
+    <Value>typhoid, oral</Value>
     <Name>CVX Code</Name>
-    <Value>190       </Value>
+    <Value>25        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1066,9 +1066,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>typhoid, oral</Value>
+    <Value>Typhoid conjugate vaccine (TCV)</Value>
     <Name>CVX Code</Name>
-    <Value>25        </Value>
+    <Value>190       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1102,7 +1102,7 @@
     <Name>CVX Code</Name>
     <Value>41        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1118,7 +1118,7 @@
     <Name>CVX Code</Name>
     <Value>53        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1214,7 +1214,7 @@
     <Name>CVX Code</Name>
     <Value>01        </Value>
     <Name>LastUpdated</Name>
-    <Value>4/25/2016</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1246,7 +1246,7 @@
     <Name>CVX Code</Name>
     <Value>35        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1262,7 +1262,7 @@
     <Name>CVX Code</Name>
     <Value>07        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1278,7 +1278,7 @@
     <Name>CVX Code</Name>
     <Value>05        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1294,7 +1294,7 @@
     <Name>CVX Code</Name>
     <Value>06        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1326,7 +1326,7 @@
     <Name>CVX Code</Name>
     <Value>04        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1358,7 +1358,7 @@
     <Name>CVX Code</Name>
     <Value>182       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/14/2017</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1454,7 +1454,7 @@
     <Name>CVX Code</Name>
     <Value>09        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1470,7 +1470,7 @@
     <Name>CVX Code</Name>
     <Value>22        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1486,7 +1486,7 @@
     <Name>CVX Code</Name>
     <Value>50        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1518,7 +1518,7 @@
     <Name>CVX Code</Name>
     <Value>88        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1534,7 +1534,7 @@
     <Name>CVX Code</Name>
     <Value>26        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1550,7 +1550,7 @@
     <Name>CVX Code</Name>
     <Value>90        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1566,7 +1566,7 @@
     <Name>CVX Code</Name>
     <Value>23        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1582,7 +1582,7 @@
     <Name>CVX Code</Name>
     <Value>19        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1598,7 +1598,7 @@
     <Name>CVX Code</Name>
     <Value>85        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1614,7 +1614,7 @@
     <Name>CVX Code</Name>
     <Value>45        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1678,7 +1678,7 @@
     <Name>CVX Code</Name>
     <Value>39        </Value>
     <Name>LastUpdated</Name>
-    <Value>5/28/2010</Value>
+    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1710,7 +1710,7 @@
     <Name>CVX Code</Name>
     <Value>17        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1774,7 +1774,7 @@
     <Name>CVX Code</Name>
     <Value>14        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1822,7 +1822,7 @@
     <Name>CVX Code</Name>
     <Value>42        </Value>
     <Name>LastUpdated</Name>
-    <Value>3/17/2011</Value>
+    <Value>3/3/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>

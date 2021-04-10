@@ -301,6 +301,22 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>211</value>
+        <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose Notes: Pending FDA EUA Authorization</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210406</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>212</value>
         <label>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</label>
         <description>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL Notes: Potential EUA, 1-dose vaccine</description>
@@ -312,6 +328,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Janssen (J&amp;J) COVID-19 Vaccine</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59676-0580-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59676-0580-15</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91303</link-to>
         </reference>
         <use-date>
             <not-before>20210126</not-before>
@@ -350,6 +367,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-99</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-15</link-to>
         </reference>
         <use-date>
             <not-before>20201102</not-before>
@@ -847,6 +865,37 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>204</value>
+        <label>Ebola Zaire vaccine, live, recombinant, 1mL dose</label>
+        <description>Ebola Zaire vaccine, live, recombinant, 1mL dose Notes: FDA Approval Pending</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Ebola</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">ERVEBO (Ebola Zaire Vaccine, Live)</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210406</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>214</value>
+        <label>Ebola, unspecified</label>
+        <description>Ebola, unspecified</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Ebola</link-to>
+        </reference>
+        <use-date>
+            <not-after>20210406</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>57</value>
@@ -2588,6 +2637,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0181-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0181-25</link-to>
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0182-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0182-25</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2606,6 +2657,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0320-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0320-50</link-to>
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0321-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0321-50</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2624,6 +2677,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0336-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0336-15</link-to>
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0337-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0337-15</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>

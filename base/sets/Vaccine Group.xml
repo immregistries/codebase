@@ -61,6 +61,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">210</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">212</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">211</link-to>
         </reference>
     </code>
     <code>
@@ -93,6 +94,14 @@
             <link-to codeset="VACCINATION_CVX_CODE">22</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">102</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">195</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>Ebola</value>
+        <label>Ebola Zaire vaccine, live, recombinant, 1mL dose</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">214</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">204</link-to>
         </reference>
     </code>
     <code>
