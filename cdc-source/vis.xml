@@ -770,19 +770,27 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
-    <Edition_Date>12/1/2020</Edition_Date>
+    <Edition_Date>4/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300033211201201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>12/1/2020</Lastupdated>
+    <Lastupdated>4/6/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
     <Edition_Date>12/1/2020</Edition_Date>
     <VIS_encoded_string>253088698300034911201201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000349</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>3/26/2021</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>3/26/2021</Edition_Date>
+    <VIS_encoded_string>253088698300034911210401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000349</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>12/1/2020</Lastupdated>
+    <Lastupdated>3/26/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 AstraZeneca Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description>
@@ -794,10 +802,10 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description>
-    <Edition_Date>2/1/2021</Edition_Date>
+    <Edition_Date>3/19/2021</Edition_Date>
     <VIS_encoded_string>253088698300036311210201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000363</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/1/2021</Lastupdated>
+    <Lastupdated>4/6/2021</Lastupdated>
   </VISInfo>
 </VISLookup>

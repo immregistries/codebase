@@ -87,6 +87,20 @@
         </use-date>
     </code>
     <code>
+        <value>Novavax COVID-19 Vaccine</value>
+        <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">211</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210323</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Janssen (J&amp;J) COVID-19 Vaccine</value>
         <label>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</label>
         <code-status>
@@ -332,6 +346,20 @@
         </reference>
         <use-date>
             <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>ERVEBO (Ebola Zaire Vaccine, Live)</value>
+        <label>Ebola Zaire vaccine, live, recombinant, 1mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">204</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210323</not-before>
         </use-date>
     </code>
     <code>

@@ -84,6 +84,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300034911201201</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300034911210401</link-to>
         </reference>
         <use-date>
             <not-before>20201201</not-before>
