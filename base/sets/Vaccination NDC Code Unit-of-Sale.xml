@@ -12494,6 +12494,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0182-00</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-15</link-to>
         </reference>
         <use-date>
             <not-before>20210401</not-before>
