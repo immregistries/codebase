@@ -714,9 +714,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -730,9 +730,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1053,22 +1053,6 @@
     <Value>typhoid, oral</Value>
     <Name>CVX Code</Name>
     <Value>25        </Value>
-    <Name>LastUpdated</Name>
-    <Value>4/14/2020</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
-    <Value>90690     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Typhoid vaccine, live, oral</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Typhoid conjugate vaccine (TCV)</Value>
-    <Name>CVX Code</Name>
-    <Value>190       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1967,5 +1951,21 @@
     <Value>212       </Value>
     <Name>LastUpdated</Name>
     <Value>1/25/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91304     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>211       </Value>
+    <Name>LastUpdated</Name>
+    <Value>5/11/2021</Value>
   </CPTInfo>
 </CPTCodes>

@@ -1375,6 +1375,14 @@
         </reference>
     </code>
     <code>
+        <value>91304</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90714</value>
         <label>Td (adult) preservative free</label>
         <description></description>
