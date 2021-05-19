@@ -161,6 +161,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300033211210501</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">208</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210510</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300033211201201</value>
         <label>COVID-19 Pfizer BioNTech Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -843,6 +856,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">136</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">114</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">203</link-to>
         </reference>
         <use-date>
             <not-before>20190815</not-before>

@@ -773,8 +773,16 @@
     <Edition_Date>4/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300033211201201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>5/10/2021</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>5/10/2021</Edition_Date>
+    <VIS_encoded_string>253088698300033211210501</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>4/6/2021</Lastupdated>
+    <Lastupdated>5/10/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>

@@ -98,6 +98,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300033211201201</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300033211210501</link-to>
         </reference>
         <use-date>
             <not-before>20201201</not-before>
@@ -847,6 +848,19 @@
         </reference>
         <use-date>
             <not-before>20140124</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>203</value>
+        <label>Meningococcal ACWY Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111190815</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190815</not-before>
         </use-date>
     </code>
     <code>
