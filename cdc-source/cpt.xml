@@ -714,9 +714,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -730,9 +730,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1892,7 +1892,7 @@
     <Name>CPT Code</Name>
     <Value>91300     </Value>
     <Name>CPT Desc</Name>
-    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3mL dosage, diluent reconstituted, for intramuscular use</Value>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3mL dosage, diluent reconstituted, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1902,13 +1902,13 @@
     <Name>CVX Code</Name>
     <Value>208       </Value>
     <Name>LastUpdated</Name>
-    <Value>12/29/2020</Value>
+    <Value>7/7/2021</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
     <Value>91301     </Value>
     <Name>CPT Desc</Name>
-    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5mL dosage, for intramuscular use</Value>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5mL dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1918,7 +1918,7 @@
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
-    <Value>12/29/2020</Value>
+    <Value>7/7/2021</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1934,7 +1934,7 @@
     <Name>CVX Code</Name>
     <Value>210       </Value>
     <Name>LastUpdated</Name>
-    <Value>12/29/2020</Value>
+    <Value>7/7/2021</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1956,7 +1956,7 @@
     <Name>CPT Code</Name>
     <Value>91304     </Value>
     <Name>CPT Desc</Name>
-    <Value>Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5mL dosage, for intramuscular use</Value>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5mL dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1966,6 +1966,6 @@
     <Name>CVX Code</Name>
     <Value>211       </Value>
     <Name>LastUpdated</Name>
-    <Value>5/11/2021</Value>
+    <Value>6/16/2021</Value>
   </CPTInfo>
 </CPTCodes>
