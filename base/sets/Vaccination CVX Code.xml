@@ -301,6 +301,116 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>510</value>
+        <label>COVID-19 IV Non-US Vaccine (BIBP, Sinopharm)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (BIBP, Sinopharm) Notes: WHO authorized pandemic vaccine. Recognized towards immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Sinopharm (BIBP) COVID-19 Vaccine</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>511</value>
+        <label>COVID-19 IV Non-US Vaccine (CoronaVac, Sinovac)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (CoronaVac, Sinovac) Notes: WHO authorized pandemic vaccine. Recognized towards immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Coronavac (Sinovac) COVID-19 Vaccine</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>502</value>
+        <label>COVID-19 IV Non-US Vaccine (COVAXIN)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (COVAXIN) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>501</value>
+        <label>COVID-19 IV Non-US Vaccine (QAZCOVID-IN)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (QAZCOVID-IN) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>503</value>
+        <label>COVID-19 LAV Non-US Vaccine (COVIVAC)</label>
+        <description>SARS-COV-2 COVID-19 Live Attenuated Virus Non-US Vaccine Product (COVIVAC) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>500</value>
+        <label>COVID-19 Non-US Vaccine, Product Unknown</label>
+        <description>SARS-COV-2 COVID-19 Non-US Vaccine, Specific Product Unknown Notes: Pandemic Non-US Covid Administration - specific CVX or product unknown</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>507</value>
+        <label>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>509</value>
+        <label>COVID-19 PS Non-US Vaccine (EpiVacCorona)</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (EpiVacCorona) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>508</value>
+        <label>COVID-19 PS Non-US Vaccine (Jiangsu Province Centers for Disease Control and Prevention)</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Jiangsu Province Centers for Disease Control and Prevention) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
         <value>211</value>
         <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
         <description>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose Notes: Pending FDA EUA Authorization</description>
@@ -312,6 +422,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0100-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0100-10</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91304</link-to>
         </reference>
         <use-date>
             <not-before>20210406</not-before>
@@ -350,11 +461,48 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00310-1222-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00310-1222-15</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91302</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">AstraZeneca COVID-19 Vaccine (Non-US tradenames include VAXZEVRIA, COVISHIELD)</link-to>
         </reference>
         <use-date>
             <not-before>20201222</not-before>
         </use-date>
         <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>506</value>
+        <label>COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology)</label>
+        <description>SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (CanSino Biological Inc./Beijing Institute of Biotechnology) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>504</value>
+        <label>COVID-19 VVnr Non-US Vaccine (Sputnik Light)</label>
+        <description>SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (Sputnik Light) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>505</value>
+        <label>COVID-19 VVnr Non-US Vaccine (Sputnik V)</label>
+        <description>SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (Sputnik V) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
         <value>207</value>
@@ -371,6 +519,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-99</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-98</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
         </reference>
         <use-date>
             <not-before>20201102</not-before>
@@ -391,6 +540,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-03</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (Non-US COMIRNATY)</link-to>
         </reference>
         <use-date>
             <not-before>20201102</not-before>
@@ -1833,6 +1983,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUAD Quadrivalent</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0120-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0120-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0121-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0121-03</link-to>
         </reference>
         <use-date>
             <not-before>20200722</not-before>
@@ -1917,6 +2069,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Quadrivalent</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0120-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0120-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0121-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0121-65</link-to>
         </reference>
         <use-date>
             <not-before>20200129</not-before>
@@ -1982,6 +2136,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0319-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0320-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0320-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0321-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0321-03</link-to>
         </reference>
         <use-date>
             <not-before>20160616</not-before>
@@ -2011,6 +2167,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0419-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0420-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0420-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0421-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0421-10</link-to>
         </reference>
         <use-date>
             <not-before>20170627</not-before>
@@ -2069,6 +2227,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0633-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0420-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0633-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0635-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0635-15</link-to>
         </reference>
         <use-date>
             <not-before>20130820</not-before>
@@ -2172,6 +2332,14 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0816-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0420-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0887-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0818-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0421-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0421-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0887-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0818-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0421-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0421-50</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -2218,6 +2386,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0520-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0220-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0520-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0521-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0521-25</link-to>
         </reference>
         <use-date>
             <not-before>20140723</not-before>
@@ -2384,6 +2554,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0719-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0720-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0720-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0721-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0721-10</link-to>
         </reference>
         <use-date>
             <not-before>20170421</not-before>
@@ -3923,6 +4095,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63851-0501-01</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">RABAVERT</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3096-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0013-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0010-01</link-to>
         </reference>
         <use-date>
             <not-before>20161018</not-before>
