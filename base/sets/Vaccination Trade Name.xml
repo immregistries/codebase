@@ -67,6 +67,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">OTC</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
         </reference>
         <use-date>
             <not-before>20130809</not-before>
@@ -84,6 +85,32 @@
         </reference>
         <use-date>
             <not-before>20160617</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Sinopharm (BIBP) COVID-19 Vaccine</value>
+        <label>COVID-19 IV Non-US Vaccine (BIBP, Sinopharm)</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">510</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210713</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Coronavac (Sinovac) COVID-19 Vaccine</value>
+        <label>COVID-19 IV Non-US Vaccine (CoronaVac, Sinovac)</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">511</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210713</not-before>
         </use-date>
     </code>
     <code>
@@ -127,6 +154,19 @@
         </use-date>
     </code>
     <code>
+        <value>AstraZeneca COVID-19 Vaccine (Non-US tradenames include VAXZEVRIA, COVISHIELD)</value>
+        <label>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">210</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210713</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Moderna COVID-19 Vaccine</value>
         <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</label>
         <code-status>
@@ -141,6 +181,20 @@
         </use-date>
     </code>
     <code>
+        <value>Moderna COVID-19 Vaccine (non-US Spikevax)</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210713</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Pfizer-BioNTech COVID-19 Vaccine</value>
         <label>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</label>
         <code-status>
@@ -152,6 +206,20 @@
         </reference>
         <use-date>
             <not-before>20201111</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Pfizer-BioNTech COVID-19 Vaccine (Non-US COMIRNATY)</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210712</not-before>
         </use-date>
     </code>
     <code>
