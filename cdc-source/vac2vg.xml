@@ -164,9 +164,9 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -176,9 +176,9 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1506,7 +1506,7 @@
     <Name>CVXCode</Name>
     <Value>211       </Value>
     <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Pending</Value>
     <Name>Vaccine Group Name</Name>
     <Value>COVID-19</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -1547,6 +1547,30 @@
     <Value>Ebola</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>214</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Pneumococcal conjugate PCV15, polysaccharide CRM197 conjugate, adjuvant, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>215       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>PneumoPCV</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>152</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Pneumococcal conjugate PCV20, polysaccharide CRM197 conjugate, adjuvant, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>216       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>PneumoPCV</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>152</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1832,9 +1856,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>17</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1844,9 +1868,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1934,7 +1958,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences</Value>
+    <Value>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharm + Inst of Micro, Chinese Acad of Sciences)</Value>
     <Name>CVXCode</Name>
     <Value>507       </Value>
     <Name>Status</Name>
