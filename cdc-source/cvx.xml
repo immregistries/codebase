@@ -129,12 +129,12 @@
     <LastUpdated>7/15/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences</ShortDescription>
+    <ShortDescription>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharm + Inst of Micro, Chinese Acad of Sciences)</ShortDescription>
     <FullVaccinename>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences)</FullVaccinename>
     <CVXCode>507       </CVXCode>
-    <Notes>Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US</Notes>
+    <Notes>Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/15/2021</LastUpdated>
+    <LastUpdated>8/18/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 PS Non-US Vaccine (EpiVacCorona)</ShortDescription>
@@ -157,8 +157,8 @@
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</FullVaccinename>
     <CVXCode>211       </CVXCode>
     <Notes>Pending FDA EUA Authorization</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/6/2021</LastUpdated>
+    <Status>Pending</Status>
+    <LastUpdated>8/23/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
@@ -1169,6 +1169,22 @@
     <LastUpdated>6/26/2014</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Pneumococcal conjugate PCV15, polysaccharide CRM197 conjugate, adjuvant, PF</ShortDescription>
+    <FullVaccinename>Pneumococcal conjugate vaccine 15-valent (PCV15), polysaccharide CRM197 conjugate, adjuvant, preservative free</FullVaccinename>
+    <CVXCode>215       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>8/18/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Pneumococcal conjugate PCV20, polysaccharide CRM197 conjugate, adjuvant, PF</ShortDescription>
+    <FullVaccinename>Pneumococcal conjugate vaccine 20-valent (PCV20), polysaccharide CRM197 conjugate, adjuvant, preservative free</FullVaccinename>
+    <CVXCode>216       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>8/18/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Pneumococcal Conjugate, unspecified formulation</ShortDescription>
     <FullVaccinename>Pneumococcal Conjugate, unspecified formulation</FullVaccinename>
     <CVXCode>152       </CVXCode>
@@ -1318,7 +1334,7 @@
     <CVXCode>213       </CVXCode>
     <Notes>Unspecified code for COVID-19 not to be used to record patient US administration. May be used to record historic US administration if product not known.  CVX code 500 should be used to record Non-US vaccine where product is not known.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>7/21/2021</LastUpdated>
+    <LastUpdated>7/31/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Smallpox monkeypox vaccine (National Stockpile)</ShortDescription>
