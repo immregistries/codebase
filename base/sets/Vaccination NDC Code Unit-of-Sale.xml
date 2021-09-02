@@ -1213,6 +1213,7 @@
         </reference>
         <use-date>
             <not-before>20200702</not-before>
+            <not-after>20210701</not-after>
         </use-date>
     </code>
     <code>
@@ -1255,6 +1256,7 @@
         </reference>
         <use-date>
             <not-before>20200702</not-before>
+            <not-after>20210701</not-after>
         </use-date>
     </code>
     <code>
@@ -1297,6 +1299,7 @@
         </reference>
         <use-date>
             <not-before>20200702</not-before>
+            <not-after>20210701</not-after>
         </use-date>
     </code>
     <code>
@@ -1322,6 +1325,132 @@
                 <new-code-value>33332-0320-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20200714</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332-0221-20</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, pediatric 6-35 months of age (2021-2022)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">161</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0221-21</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210702</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-221-20</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, pediatric 6-35 months of age (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0221-20</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210818</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332022120</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, pediatric 6-35 months of age (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0221-20</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210818</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332-0321-01</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent (2021-2022)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0321-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210702</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-321-01</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0321-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332032101</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0321-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332-0421-10</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2021-2022)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0421-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210702</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-421-10</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0421-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332042110</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0421-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210816</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -2022,6 +2151,7 @@
         </reference>
         <use-date>
             <not-before>20210601</not-before>
+            <not-after>20210801</not-after>
         </use-date>
     </code>
     <code>
@@ -2871,6 +3001,7 @@
         </reference>
         <use-date>
             <not-before>20200701</not-before>
+            <not-after>20210731</not-after>
         </use-date>
     </code>
     <code>
@@ -6154,6 +6285,48 @@
                 <new-code-value>66019-0307-10</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20200819</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0308-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2021-2022)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0308-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210802</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-308-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0308-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019030810</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2021-2022)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0308-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210816</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -13811,6 +13984,90 @@
         </code-status>
     </code>
     <code>
+        <value>00005-2000-10</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">216</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210810</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0005-2000-10</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00005-2000-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00005200010</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00005-2000-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00005-2000-02</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">216</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210810</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0005-2000-02</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00005-2000-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00005200002</value>
+        <label>Prevnar 20</label>
+        <description>Wyeth Pharmaceutical Division of Wyeth Holdings LLC - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00005-2000-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00006-4171-00</value>
         <label>ProQuad</label>
         <description>Merck Sharp &amp; Dohme Corp. - MEASLES, MUMPS, RUBELLA AND VARICELLA VIRUS VACCINE LIVE</description>
@@ -16202,7 +16459,10 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70460-0002-02</link-to>
         </reference>
-        <use-date/>
+        <use-date>
+            <not-before>20161003</not-before>
+            <not-after>20210801</not-after>
+        </use-date>
     </code>
     <code>
         <value>70460-001-01</value>
@@ -16396,6 +16656,90 @@
                 <new-code-value>63361-0243-15</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20201030</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006-4329-02</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">215</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4329-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201118</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0006-4329-02</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4329-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006432902</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4329-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006-4329-03</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">215</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4329-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201118</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0006-4329-03</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4329-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006432903</value>
+        <label>VAXNEUVANCE</label>
+        <description>Merck Sharp &amp; Dohme Corp. - Pneumococcal 15-valent Conjugate Vaccine CRM197 Protein adsorbed</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4329-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210816</effective-date>
             </deprecated>
         </code-status>
     </code>

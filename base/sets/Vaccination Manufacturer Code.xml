@@ -809,6 +809,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0306-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0307-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0307-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0308-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0308-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -920,6 +922,10 @@
             <link-to codeset="VACCINATION_TRADE_NAME">TICE BCG</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00052-0603-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00052-0603-02</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VAXNEUVANCE</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4329-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4329-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4329-03</link-to>
         </reference>
         <use-date>
             <not-before>20121018</not-before>
@@ -1196,6 +1202,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-03</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (Non-US COMIRNATY)</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (COMIRNATY)</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PREVNAR 20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1701,6 +1712,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0121-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0421-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0321-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0421-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0221-21</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0321-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0221-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0321-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0421-10</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>

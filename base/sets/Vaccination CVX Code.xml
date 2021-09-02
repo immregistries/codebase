@@ -541,6 +541,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1000-03</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (Non-US COMIRNATY)</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (COMIRNATY)</link-to>
         </reference>
         <use-date>
             <not-before>20201102</not-before>
@@ -2229,6 +2230,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0633-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0635-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0635-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0421-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0421-10</link-to>
         </reference>
         <use-date>
             <not-before>20130820</not-before>
@@ -2340,6 +2343,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0818-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0421-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0421-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0321-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0321-01</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -2388,6 +2393,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0520-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0521-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0521-25</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0221-21</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0221-20</link-to>
         </reference>
         <use-date>
             <not-before>20140723</not-before>
@@ -2482,6 +2489,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0306-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0307-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0307-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0308-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0308-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -3932,6 +3941,44 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>215</value>
+        <label>Pneumococcal conjugate PCV15, polysaccharide CRM197 conjugate, adjuvant, PF</label>
+        <description>Pneumococcal conjugate vaccine 15-valent (PCV15), polysaccharide CRM197 conjugate, adjuvant, preservative free</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPCV</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VAXNEUVANCE</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4329-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4329-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4329-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210818</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>216</value>
+        <label>Pneumococcal conjugate PCV20, polysaccharide CRM197 conjugate, adjuvant, PF</label>
+        <description>Pneumococcal conjugate vaccine 20-valent (PCV20), polysaccharide CRM197 conjugate, adjuvant, preservative free</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">PneumoPCV</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PREVNAR 20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210818</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>152</value>
