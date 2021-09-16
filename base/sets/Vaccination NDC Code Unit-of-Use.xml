@@ -11007,6 +11007,48 @@
         </code-status>
     </code>
     <code>
+        <value>50090-1502-09</value>
+        <label>HAVRIX</label>
+        <description>A-S Medication Solutions - HEPATITIS A VACCINE Adult Dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">52</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1502-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-1502-9</value>
+        <label>HAVRIX</label>
+        <description>A-S Medication Solutions - HEPATITIS A VACCINE Adult Dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-1502-09</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210913</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090150209</value>
+        <label>HAVRIX</label>
+        <description>A-S Medication Solutions - HEPATITIS A VACCINE Adult Dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-1502-09</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210913</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>43528-0002-01</value>
         <label>HEPLISAV-B</label>
         <description>Dynavax Technologies Corporation - HEPATITIS B VACCINE (RECOMBINANT)</description>
@@ -13428,6 +13470,136 @@
                 <new-code-value>59267-1000-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20201111</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-1025-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211001</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-1025-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1025-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267102501</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1025-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-1055-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">218</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211001</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-1055-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1055-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267105501</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-1055-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-0078-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">219</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211101</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-0078-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-0078-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267007801</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-0078-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20210910</effective-date>
             </deprecated>
         </code-status>
     </code>

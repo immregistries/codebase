@@ -546,6 +546,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0013-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0887-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0010-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-1502-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1502-00</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1207,6 +1209,17 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-02</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1025-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1055-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0078-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

@@ -1196,6 +1196,22 @@
         <use-date/>
     </code>
     <code>
+        <value>90671</value>
+        <label>Pneumococcal conjugate vaccine, 15 valent (PCV15), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>90677</value>
+        <label>Pneumococcal conjugate vaccine, 20 valent (PCV20), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90732</value>
         <label>pneumococcal polysaccharide PPV23</label>
         <description></description>
@@ -1364,6 +1380,14 @@
         </reference>
     </code>
     <code>
+        <value>91305</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>91300</value>
         <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3mL dosage, diluent reconstituted, for intramuscular use</label>
         <description>COVID-19 Vaccine - Potential EUA authorization</description>
@@ -1373,6 +1397,14 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
         </reference>
+    </code>
+    <code>
+        <value>91306</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 50 mcg/0.25 mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization for booster dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>91304</value>
@@ -1564,6 +1596,14 @@
             <link-to codeset="VACCINATION_CVX_CODE">37</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90758</value>
+        <label>Zaire ebolavirus vaccine, live, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90736</value>
