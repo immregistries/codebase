@@ -237,6 +237,23 @@
         </use-date>
     </code>
     <code>
+        <value>Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">219</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">218</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210910</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>DENGVAXIA</value>
         <label>dengue fever</label>
         <code-status>

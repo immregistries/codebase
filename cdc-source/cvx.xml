@@ -156,25 +156,25 @@
     <ShortDescription>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</FullVaccinename>
     <CVXCode>211       </CVXCode>
-    <Notes>Pending FDA EUA Authorization</Notes>
+    <Notes>Potential FDA EUA Authorization</Notes>
     <Status>Pending</Status>
-    <LastUpdated>8/23/2021</LastUpdated>
+    <LastUpdated>9/8/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL</FullVaccinename>
     <CVXCode>212       </CVXCode>
-    <Notes>EUA 02/27/2021, 1-dose vaccine. Used to record Janssen/J&amp;J vaccines administered in the US and in non-US locations</Notes>
+    <Notes>FDA EUA 02/27/2021, 1-dose vaccine. Used to record Janssen/J&amp;J vaccines administered in the US and in non-US locations</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/12/2021</LastUpdated>
+    <LastUpdated>9/8/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL </FullVaccinename>
     <CVXCode>210       </CVXCode>
-    <Notes>Potential EUA, 2-dose vaccine. AstraZeneca vaccine is authorized by the WHO and recognized towards immunity in the US. Non-US WHO authorized tradenames/identifiers include VAXZEVRIA, AZD1222, ChAdOx1 nCoV-19, COVISHIELD</Notes>
+    <Notes>Potential FDA EUA, 2-dose vaccine. AstraZeneca vaccine is authorized by the WHO and recognized towards immunity in the US. Non-US WHO authorized tradenames/identifiers include VAXZEVRIA, AZD1222, ChAdOx1 nCoV-19, COVISHIELD</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/27/2021</LastUpdated>
+    <LastUpdated>9/8/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology)</ShortDescription>
@@ -201,20 +201,44 @@
     <LastUpdated>7/15/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</ShortDescription>
-    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose</FullVaccinename>
-    <CVXCode>207       </CVXCode>
-    <Notes>EUA 12/18/2020, 2-dose vaccine.  Used to record Moderna vaccines administered in the US and in non-US locations (includes tradename Spikevax)</Notes>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
+    <CVXCode>218       </CVXCode>
+    <Notes>Potential FDA EUA, Pfizer tris-sucrose vaccine for 5 through 11 years of age</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/13/2021</LastUpdated>
+    <LastUpdated>9/13/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg or 50 mcg dose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg or 50 mcg dose</FullVaccinename>
+    <CVXCode>207       </CVXCode>
+    <Notes>FDA EUA 12/18/2020, 2-dose vaccine.  Used to record Moderna vaccines administered in the US and in non-US locations (includes tradename Spikevax)</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/8/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
+    <CVXCode>219       </CVXCode>
+    <Notes>Potential FDA EUA, Pfizer tris-sucrose vaccine for 2 through 4  years of age</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/8/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose</FullVaccinename>
     <CVXCode>208       </CVXCode>
-    <Notes>EUA 12/11/2020, 2-dose vaccine. Used to record Pfizer vaccines administered in the US and in non-US locations (includes tradename Comirnaty)</Notes>
+    <Notes>FDA BLA 08/23/2021 for adult dose (16+ years). Still under EUA for adolescent doses and presentations. EUA 12/11/2020, 2-dose vaccine. Used to record Pfizer vaccines administered in the US and in non-US locations (includes tradename Comirnaty)</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/12/2021</LastUpdated>
+    <LastUpdated>9/10/2021</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation</FullVaccinename>
+    <CVXCode>217       </CVXCode>
+    <Notes>Potential FDA EUA, Pfizer tris-sucrose formuation vaccine for ages 12 and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2021</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>dengue fever</ShortDescription>
