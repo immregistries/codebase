@@ -714,9 +714,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -730,9 +730,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1400,13 +1400,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Beginning in 2005, this CPT code maps to TD preservative free.</Value>
+    <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td, adsorbed, preservative free, adult use, Lf unspecified</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>196       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
-    <Value>4/14/2020</Value>
+    <Value>10/8/2021</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1455,22 +1455,6 @@
     <Value>184       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
-    <Value>90718     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Tetanus and diphtheria toxoids (Td) adsorbed when administered to individuals 7 years or older, for intramuscular use</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
-    <Name>CVX Code</Name>
-    <Value>09        </Value>
-    <Name>LastUpdated</Name>
-    <Value>2/28/2017</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2047,5 +2031,21 @@
     <Value>207       </Value>
     <Name>LastUpdated</Name>
     <Value>9/13/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91307     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 10 mcg/0.2 mL dosage, diluent reconstituted, tris-sucrose formulation, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential EUA authorization, Pediatric dose requires dilution</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</Value>
+    <Name>CVX Code</Name>
+    <Value>218       </Value>
+    <Name>LastUpdated</Name>
+    <Value>10/8/2021</Value>
   </CPTInfo>
 </CPTCodes>
