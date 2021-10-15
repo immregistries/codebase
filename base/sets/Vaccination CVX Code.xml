@@ -517,6 +517,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1055-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1055-02</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91307</link-to>
         </reference>
         <use-date>
             <not-before>20210913</not-before>
@@ -539,6 +540,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0273-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0273-98</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91306</link-to>
         </reference>
         <use-date>
             <not-before>20201102</not-before>
@@ -601,6 +603,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-04</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91305</link-to>
         </reference>
         <use-date>
             <not-before>20210913</not-before>
