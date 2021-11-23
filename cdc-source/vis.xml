@@ -922,11 +922,19 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
-    <Edition_Date>9/22/2021</Edition_Date>
+    <Edition_Date>11/19/2021</Edition_Date>
     <VIS_encoded_string>253088698300033211210501</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>9/22/2021</Lastupdated>
+    <Lastupdated>11/19/2021</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-Pediatric</VIS_Document_Type_Description>
+    <Edition_Date>10/29/2021</Edition_Date>
+    <VIS_encoded_string>253088698300042411211001</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000424</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>10/29/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
@@ -941,8 +949,16 @@
     <Edition_Date>8/27/2021</Edition_Date>
     <VIS_encoded_string>253088698300034911210401</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000349</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>10/20/2021</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>11/19/2021</Edition_Date>
+    <VIS_encoded_string>253088698300034911210601</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000349</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/27/2021</Lastupdated>
+    <Lastupdated>11/19/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 AstraZeneca Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description>
@@ -953,11 +969,11 @@
     <Lastupdated>7/27/2021</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description>
-    <Edition_Date>7/8/2021</Edition_Date>
+    <VIS_Document_Type_Description>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>10/20/2021</Edition_Date>
     <VIS_encoded_string>253088698300036311210201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000363</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>7/8/2021</Lastupdated>
+    <Lastupdated>10/20/2021</Lastupdated>
   </VISInfo>
 </VISLookup>

@@ -335,6 +335,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">COVAXIN (Bharat) COVID-19 Vaccine</link-to>
         </reference>
         <concept-type>foreign vaccine</concept-type>
     </code>
@@ -4923,7 +4924,15 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Tick-borne encephalitis</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">TICOVAC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0411-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-10</link-to>
+        </reference>
         <use-date>
+            <not-before>20211104</not-before>
             <not-expected-after>20100528</not-expected-after>
             <not-after>20100528</not-after>
         </use-date>

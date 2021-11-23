@@ -1489,6 +1489,14 @@
         <use-date/>
     </code>
     <code>
+        <value>90627</value>
+        <label>Tick-borne encephalitis virus vaccine, inactivated; 0.5 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90389</value>
         <label>TIG</label>
         <description></description>

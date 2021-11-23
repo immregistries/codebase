@@ -15270,6 +15270,49 @@
         </code-status>
     </code>
     <code>
+        <value>00069-0411-01</value>
+        <label>TicoVac</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - tick-borne encephalitis vaccine, .5mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211025</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-0411-01</value>
+        <label>TicoVac</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - tick-borne encephalitis vaccine, .5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0411-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20211104</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069041101</value>
+        <label>TicoVac</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - tick-borne encephalitis vaccine, .5mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0411-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20211104</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0298-10</value>
         <label>TRIPEDIA</label>
         <description>Sanofi Pasteur Inc. - CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED), CLOSTRIDIUM TETANI TOXOID ANT</description>
@@ -16056,7 +16099,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4329-03</link-to>
         </reference>
         <use-date>
-            <not-before>20201118</not-before>
+            <not-before>20210716</not-before>
         </use-date>
     </code>
     <code>

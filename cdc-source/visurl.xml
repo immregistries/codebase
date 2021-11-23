@@ -99,8 +99,8 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Rotavirus Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000196</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Live Zoster Vaccine VIS</VIS_Document_Type_Description_ConceptName>
@@ -171,7 +171,7 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000332</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.html"/>
   </VISURLInfo>
   <VISURLInfo>
@@ -185,5 +185,11 @@
     <VIS_GDTI_document_Conceptcode>0886983000363</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/janssen.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/janssen.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-Pediatric</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000424</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.html"/>
   </VISURLInfo>
 </VISURL>

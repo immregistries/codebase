@@ -114,6 +114,19 @@
         </use-date>
     </code>
     <code>
+        <value>COVAXIN (Bharat) COVID-19 Vaccine</value>
+        <label>COVID-19 IV Non-US Vaccine (COVAXIN)</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">502</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211109</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Novavax COVID-19 Vaccine</value>
         <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
         <code-status>
@@ -1830,6 +1843,20 @@
         </reference>
         <use-date>
             <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>TICOVAC</value>
+        <label>tick-borne encephalitis</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211104</not-before>
         </use-date>
     </code>
     <code>
