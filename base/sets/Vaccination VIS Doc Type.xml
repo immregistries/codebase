@@ -161,6 +161,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300034911210601</value>
+        <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">207</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211119</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300033211210501</value>
         <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -168,6 +181,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">208</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">217</link-to>
         </reference>
         <use-date>
             <not-before>20210510</not-before>
@@ -1287,6 +1301,19 @@
         </reference>
         <use-date>
             <not-before>20191030</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300042411211001</value>
+        <label>Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-Pediatric</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">218</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211029</not-before>
         </use-date>
     </code>
     <code>

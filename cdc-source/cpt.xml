@@ -354,6 +354,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90627     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tick-borne encephalitis virus vaccine, inactivated; 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>tick-borne encephalitis</Value>
+    <Name>CVX Code</Name>
+    <Value>77        </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/13/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90630     </Value>
     <Name>CPT Desc</Name>
     <Value>Influenza virus vaccine, quadrivalent (IIV4), split virus, preservative free, for intradermal use</Value>

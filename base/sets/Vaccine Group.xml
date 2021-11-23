@@ -524,6 +524,13 @@
         </reference>
     </code>
     <code>
+        <value>Tick-borne encephalitis</value>
+        <label>tick-borne encephalitis</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
+        </reference>
+    </code>
+    <code>
         <value>TYPHOID</value>
         <label>Typhoid</label>
         <description></description>

@@ -3213,7 +3213,7 @@
     <CVXVaccineDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</CVXVaccineDescription>
     <Fully-encodedString>253088698300033211210501</Fully-encodedString>
     <VISDocumentName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</VISDocumentName>
-    <VISEditionDate>9/22/2021</VISEditionDate>
+    <VISEditionDate>11/19/2021</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -3230,7 +3230,7 @@
     <Fully-encodedString>253088698300034911210401</Fully-encodedString>
     <VISDocumentName>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VISDocumentName>
     <VISEditionDate>8/27/2021</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>210       </CVXCode>
@@ -3245,7 +3245,31 @@
     <CVXVaccineDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</CVXVaccineDescription>
     <Fully-encodedString>253088698300036311210201</Fully-encodedString>
     <VISDocumentName>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VISDocumentName>
-    <VISEditionDate>7/8/2021</VISEditionDate>
+    <VISEditionDate>10/20/2021</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>217       </CVXCode>
+    <CVXVaccineDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</CVXVaccineDescription>
+    <Fully-encodedString>253088698300033211210501</Fully-encodedString>
+    <VISDocumentName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</VISDocumentName>
+    <VISEditionDate>11/19/2021</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>218       </CVXCode>
+    <CVXVaccineDescription>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</CVXVaccineDescription>
+    <Fully-encodedString>253088698300042411211001</Fully-encodedString>
+    <VISDocumentName>Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-Pediatric</VISDocumentName>
+    <VISEditionDate>10/29/2021</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>207       </CVXCode>
+    <CVXVaccineDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg or 50 mcg dose</CVXVaccineDescription>
+    <Fully-encodedString>253088698300034911210601</Fully-encodedString>
+    <VISDocumentName>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VISDocumentName>
+    <VISEditionDate>11/19/2021</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
 </CVXVIS>
