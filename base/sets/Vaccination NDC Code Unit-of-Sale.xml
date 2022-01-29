@@ -10288,6 +10288,7 @@
         </reference>
         <use-date>
             <not-before>20210204</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -10332,6 +10333,7 @@
         </reference>
         <use-date>
             <not-before>20210204</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -10374,6 +10376,7 @@
         </reference>
         <use-date>
             <not-before>20210204</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -11394,6 +11397,7 @@
         </reference>
         <use-date>
             <not-before>20130930</not-before>
+            <not-after>20211207</not-after>
         </use-date>
     </code>
     <code>
@@ -13358,6 +13362,7 @@
         </reference>
         <use-date>
             <not-before>19891220</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -13698,6 +13703,7 @@
         </reference>
         <use-date>
             <not-before>20211101</not-before>
+            <not-after>20220101</not-after>
         </use-date>
     </code>
     <code>
@@ -14149,6 +14155,47 @@
                 <new-code-value>00006-4837-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>75052-0001-10</value>
+        <label>PREHEVBRIO</label>
+        <description>VBI Vaccines (Delaware) Inc. - Hepatitis B vaccine (recombinant), Al(OH)3 adjuvanted</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">220</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">75052-0001-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>75052-001-10</value>
+        <label>PREHEVBRIO</label>
+        <description>VBI Vaccines (Delaware) Inc. - Hepatitis B vaccine (recombinant), Al(OH)3 adjuvanted</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>75052-0001-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220112</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>75052000110</value>
+        <label>PREHEVBRIO</label>
+        <description>VBI Vaccines (Delaware) Inc. - Hepatitis B vaccine (recombinant), Al(OH)3 adjuvanted</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>75052-0001-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220112</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -14761,6 +14808,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -14803,6 +14851,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -14845,6 +14894,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -14930,6 +14980,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -14972,6 +15023,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -15014,6 +15066,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -15054,7 +15107,9 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4995-01</link-to>
         </reference>
-        <use-date/>
+        <use-date>
+            <not-after>20211231</not-after>
+        </use-date>
     </code>
     <code>
         <value>0006-4995-00</value>
@@ -15096,6 +15151,7 @@
         </reference>
         <use-date>
             <not-before>19860723</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -16500,6 +16556,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -16542,6 +16599,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -16628,6 +16686,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -16671,6 +16730,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>
@@ -16714,6 +16774,7 @@
         </reference>
         <use-date>
             <not-before>19960329</not-before>
+            <not-after>20211231</not-after>
         </use-date>
     </code>
     <code>

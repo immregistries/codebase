@@ -1938,6 +1938,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90759     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), 3-antigen (S, Pre-S1, Pre-S2), 10 mcg dosage, 3 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>HepB recombinant, Al(OH)3</Value>
+    <Name>CVX Code</Name>
+    <Value>220       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/13/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>91300     </Value>
     <Name>CPT Desc</Name>
     <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, diluent reconstituted, for intramuscular use</Value>

@@ -617,6 +617,19 @@
         </use-date>
     </code>
     <code>
+        <value>PREHEVBRIO Hepatitis B Vaccine (Recombinant)</value>
+        <label>HepB recombinant, Al(OH)3</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">220</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220112</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>HEPLISAV-B</value>
         <label>HepB-CpG</label>
         <code-status>
