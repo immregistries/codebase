@@ -419,6 +419,14 @@
         </use-date>
     </code>
     <code>
+        <value>90759</value>
+        <label>Hepatitis B vaccine (HepB), 3-antigen (S, Pre-S1, Pre-S2), 10 mcg dosage, 3 dose schedule, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90739</value>
         <label>Hepatitis B, adult dosage (2 dose schedule), for intramuscular use</label>
         <description></description>

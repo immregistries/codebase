@@ -119,6 +119,19 @@
         </use-date>
     </code>
     <code>
+        <value>56</value>
+        <label>Dengue Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300046211211217</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211217</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>20</value>
         <label>Diphtheria/Tetanus/Pertussis (DTaP) VIS</label>
         <code-status>
@@ -459,6 +472,19 @@
         </reference>
         <use-date>
             <not-before>20160720</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>220</value>
+        <label>Hepatitis B Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300005911211015</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211015</not-before>
         </use-date>
     </code>
     <code>

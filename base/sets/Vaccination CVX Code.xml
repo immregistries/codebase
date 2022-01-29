@@ -1591,6 +1591,24 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>220</value>
+        <label>HepB recombinant, Al(OH)3</label>
+        <description>Hepatitis B vaccine (recombinant), Al(OH)3 adjuvanted Notes: New Hep B vaccine 1/2022</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">HepB</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PREHEVBRIO Hepatitis B Vaccine (Recombinant)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">75052-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">75052-0001-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220119</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>189</value>
         <label>HepB-CpG</label>
         <description>Hepatitis B vaccine (recombinant), CpG adjuvanted</description>

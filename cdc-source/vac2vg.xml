@@ -1634,6 +1634,18 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>HepB recombinant, Al(OH)3</Value>
+    <Name>CVXCode</Name>
+    <Value>220       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>HepB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>45</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>plague</Value>
     <Name>CVXCode</Name>
     <Value>23        </Value>
