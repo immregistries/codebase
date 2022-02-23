@@ -168,6 +168,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">207</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">221</link-to>
         </reference>
         <use-date>
             <not-before>20211119</not-before>
@@ -185,6 +186,19 @@
         </reference>
         <use-date>
             <not-before>20210510</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300048611220101</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">219</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220301</not-before>
         </use-date>
     </code>
     <code>
@@ -1371,6 +1385,21 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300049311220204</value>
+        <label>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">216</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">215</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220204</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300016511091006</value>
         <label>Pneumococcal Polysaccharide VIS</label>
         <description></description>
@@ -1533,6 +1562,19 @@
         </reference>
         <use-date>
             <not-before>20191030</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300032511220204</value>
+        <label>Recombinant Zoster Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">187</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220204</not-before>
         </use-date>
     </code>
     <code>

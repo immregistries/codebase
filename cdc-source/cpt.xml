@@ -1946,7 +1946,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>HepB recombinant, Al(OH)3</Value>
+    <Value>HepB recombinant, 3-antigen, Al(OH)3</Value>
     <Name>CVX Code</Name>
     <Value>220       </Value>
     <Name>LastUpdated</Name>
@@ -1978,7 +1978,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA authorization 12/18/2020 </Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg or 50 mcg dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</Value>
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
@@ -2040,13 +2040,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
+    <Value>COVID-19 Vaccine - EUA authorization </Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</Value>
     <Name>CVX Code</Name>
     <Value>217       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/13/2021</Value>
+    <Value>2/10/2022</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2056,13 +2056,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential  EUA authorization for booster dose</Value>
+    <Value>COVID-19 Vaccine - EUA authorization for booster dose</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg or 50 mcg dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</Value>
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/13/2021</Value>
+    <Value>2/10/2022</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2072,12 +2072,28 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential EUA authorization, Pediatric dose requires dilution</Value>
+    <Value>COVID-19 Vaccine - EUA authorization, Pediatric 5-11 yrs dose requires dilution</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</Value>
     <Name>CVX Code</Name>
     <Value>218       </Value>
     <Name>LastUpdated</Name>
-    <Value>10/8/2021</Value>
+    <Value>2/10/2022</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91308     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 3 mcg/0.2 mL dosage, diluent reconstituted, tris-sucrose formulation, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential EUA authorization for children under 5 yrs</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</Value>
+    <Name>CVX Code</Name>
+    <Value>219       </Value>
+    <Name>LastUpdated</Name>
+    <Value>2/10/2022</Value>
   </CPTInfo>
 </CPTCodes>

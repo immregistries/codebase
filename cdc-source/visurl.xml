@@ -73,12 +73,6 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Pneumococcal Conjugate Vaccine (PCV13) VIS</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000158</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>PPSV23 VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000165</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf"/>
@@ -187,9 +181,9 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/janssen.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-Pediatric</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5 - 11 years</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000424</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.pdf"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.pdf "/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.html"/>
   </VISURLInfo>
   <VISURLInfo>
@@ -197,5 +191,17 @@
     <VIS_GDTI_document_Conceptcode>0886983000462</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/dengue.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/dengue.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000486</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children-under-5-years.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children-under-5-years.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000493</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv.html"/>
   </VISURLInfo>
 </VISURL>

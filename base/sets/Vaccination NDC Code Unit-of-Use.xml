@@ -2050,6 +2050,49 @@
         </code-status>
     </code>
     <code>
+        <value>00069-2025-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-25</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220301</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2025-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2025-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220214</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069202501</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2025-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220214</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00006-4898-01</value>
         <label>COMVAX</label>
         <description>Merck Sharp &amp; Dohme Corp. - HAEMOPHILUS B CONJUGATE (MENINGOCOCCAL PROTEIN CONJUGATE) AND HEPATITIS B (RECOMBINANT) VACCINE</description>
@@ -13182,6 +13225,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0275-05</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">221</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0275-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220103</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-275-05</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0275-05</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220209</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777027505</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0275-05</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220209</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0811-43</value>
         <label>PEDIARIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
@@ -14160,6 +14245,48 @@
                 <new-code-value>49281-0562-58</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20151030</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0564-88</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0564-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220204</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-564-88</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0564-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220210</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281056488</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0564-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220210</effective-date>
             </deprecated>
         </code-status>
     </code>
