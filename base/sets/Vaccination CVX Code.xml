@@ -605,9 +605,30 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1025-04</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91305</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2025-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-25</link-to>
         </reference>
         <use-date>
             <not-before>20210913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>221</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose Notes: Pre-EUA Authorization Use for Moderna booster dose 2.5mL vial presentation only</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0275-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0275-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220214</not-before>
         </use-date>
         <concept-type>vaccine</concept-type>
     </code>
@@ -942,6 +963,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0812-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0812-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0562-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0564-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0564-15</link-to>
         </reference>
         <use-date>
             <not-before>20080101</not-before>
@@ -4889,6 +4912,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0800-83</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0820-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0800-83</link-to>
+            <link-to codeset="VACCINE_GROUP">Td</link-to>
         </reference>
         <use-date>
             <not-after>20150814</not-after>

@@ -92,6 +92,19 @@
         </use-date>
     </code>
     <code>
+        <value>221</value>
+        <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300034911210601</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220131</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>217</value>
         <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -102,6 +115,19 @@
         </reference>
         <use-date>
             <not-before>20211119</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>219</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300048611220101</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220301</not-before>
         </use-date>
     </code>
     <code>
@@ -1123,6 +1149,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411200401</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300015811210806</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411211015</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
         </reference>
         <use-date>
             <not-before>20151105</not-before>
@@ -1135,6 +1162,32 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+    </code>
+    <code>
+        <value>216</value>
+        <label>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220204</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>215</value>
+        <label>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220204</not-before>
+        </use-date>
     </code>
     <code>
         <value>33</value>
@@ -1201,6 +1254,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300032511180212</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300032511191030</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300032511220204</link-to>
         </reference>
         <use-date>
             <not-before>20180212</not-before>
