@@ -506,6 +506,35 @@
         <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
+        <value>226</value>
+        <label>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 10mcg/0.5mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, D614, prefusion spike recombinant protein subunit (CoV2 preS dTM), AS03 adjuvant added, preservative free, 10mcg/0.5mL dose Notes: Pre-EUA Authorization, Sanofi Primary Series dose - requires addition of AS03 adjuvant</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Sanofi COVID-19</link-to>
+        </reference>
+        <concept-type>pending</concept-type>
+    </code>
+    <code>
+        <value>225</value>
+        <label>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, D614, prefusion spike recombinant protein subunit (CoV2 preS dTM), AS03 adjuvant added, preservative free, 5mcg/0.5mL dose Notes: Pre-EUA Authorization, Sanofi Booster dose - requires addition of AS03 adjuvant</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Sanofi COVID-19</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220310</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>218</value>
         <label>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation Notes: Potential FDA EUA, Pfizer tris-sucrose vaccine for 5 through 11 years of age</description>
@@ -561,6 +590,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0078-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0078-02</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91308</link-to>
         </reference>
         <use-date>
             <not-before>20210908</not-before>
@@ -2949,6 +2979,8 @@
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0321-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0321-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0322-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0322-50</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -2969,6 +3001,8 @@
             <link-to codeset="VACCINE_GROUP">FLU</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0337-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0337-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0339-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0339-15</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -4984,6 +5018,56 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>223</value>
+        <label>Tick-borne encephalitis, inactivated, PF, 0.25mL</label>
+        <description>Tick-borne encephalitis vaccine, inactivated, preservative free, 0.25mL dose Notes: Pediatric dose vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Tick-borne encephalitis</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">TICOVAC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220303</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>224</value>
+        <label>Tick-borne encephalitis, inactivated, PF, 0.5mL</label>
+        <description>Tick-borne encephalitis vaccine, inactivated, preservative free, 0.5mL dose Notes: Adult dose vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Tick-borne encephalitis</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">TICOVAC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0411-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0411-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220304</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>222</value>
+        <label>Tick-borne encephalitis, unspecified</label>
+        <description>Tick-borne encephalitis vaccine, unspecified Notes: Unspecified Code - should only be used when specific vaccine administered is unknown</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Tick-borne encephalitis</link-to>
+        </reference>
+        <use-date>
+            <not-after>20220303</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>13</value>

@@ -1405,6 +1405,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">219</link-to>
+        </reference>
     </code>
     <code>
         <value>91305</value>
@@ -1438,6 +1441,14 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
         </reference>
+    </code>
+    <code>
+        <value>91309</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 50 mcg/0.5 mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization booser dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>91304</value>
@@ -1503,6 +1514,14 @@
             <link-to codeset="VACCINATION_CVX_CODE">35</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90626</value>
+        <label>Tick-borne encephalitis virus vaccine, inactivated; 0.25 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90627</value>

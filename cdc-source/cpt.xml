@@ -354,6 +354,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90626     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tick-borne encephalitis virus vaccine, inactivated; 0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.25mL</Value>
+    <Name>CVX Code</Name>
+    <Value>223       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/13/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90627     </Value>
     <Name>CPT Desc</Name>
     <Value>Tick-borne encephalitis virus vaccine, inactivated; 0.5 mL dosage, for intramuscular use</Value>
@@ -362,9 +378,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>tick-borne encephalitis</Value>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.5mL</Value>
     <Name>CVX Code</Name>
-    <Value>77        </Value>
+    <Value>224       </Value>
     <Name>LastUpdated</Name>
     <Value>9/13/2021</Value>
   </CPTInfo>
@@ -730,9 +746,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -746,9 +762,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1226,9 +1242,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP, unspecified formulation</Value>
+    <Value>DTaP</Value>
     <Name>CVX Code</Name>
-    <Value>107       </Value>
+    <Value>20        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -2026,7 +2042,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - Potential  EUA authorization </Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>211       </Value>
     <Name>LastUpdated</Name>
@@ -2095,5 +2111,21 @@
     <Value>219       </Value>
     <Name>LastUpdated</Name>
     <Value>2/10/2022</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91309     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 50 mcg/0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Potential EUA authorization booser dose</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</Value>
+    <Name>CVX Code</Name>
+    <Value>221       </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/10/2022</Value>
   </CPTInfo>
 </CPTCodes>

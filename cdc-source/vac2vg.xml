@@ -200,9 +200,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
+    <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -212,9 +212,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
+    <Value>HepA</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>85</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -596,9 +596,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HIB</Value>
+    <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>17</Value>
+    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -608,9 +608,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
+    <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
+    <Value>17</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1502,11 +1502,11 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVXCode</Name>
     <Value>211       </Value>
     <Name>Status</Name>
-    <Value>Pending</Value>
+    <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
     <Value>COVID-19</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -1651,6 +1651,66 @@
     <Value>221       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Tick-borne encephalitis, unspecified</Value>
+    <Name>CVXCode</Name>
+    <Value>222       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>Tick-borne encephalitis</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>222</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.25mL</Value>
+    <Name>CVXCode</Name>
+    <Value>223       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>Tick-borne encephalitis</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>222</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.5mL</Value>
+    <Name>CVXCode</Name>
+    <Value>224       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>Tick-borne encephalitis</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>222</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</Value>
+    <Name>CVXCode</Name>
+    <Value>225       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 10mcg/0.5mL</Value>
+    <Name>CVXCode</Name>
+    <Value>226       </Value>
+    <Name>Status</Name>
+    <Value>Pending</Value>
     <Name>Vaccine Group Name</Name>
     <Value>COVID-19</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -2222,15 +2282,15 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>tick-borne encephalitis</Value>
+    <Value>Tick-borne encephalitis vaccine (non-US)</Value>
     <Name>CVXCode</Name>
     <Value>77        </Value>
     <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
     <Value>Tick-borne encephalitis</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>77</Value>
+    <Value>222</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>

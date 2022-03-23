@@ -180,6 +180,21 @@
         </use-date>
     </code>
     <code>
+        <value>Sanofi COVID-19</value>
+        <label>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">226</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220310</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Moderna COVID-19 Vaccine</value>
         <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose</label>
         <code-status>
@@ -1868,6 +1883,8 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">224</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">223</link-to>
         </reference>
         <use-date>
             <not-before>20211104</not-before>
