@@ -78,6 +78,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">219</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">221</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">226</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
         </reference>
     </code>
     <code>
@@ -531,6 +533,9 @@
         <label>tick-borne encephalitis</label>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">222</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">223</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">224</link-to>
         </reference>
     </code>
     <code>

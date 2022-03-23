@@ -10490,6 +10490,90 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0322-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0322-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220215</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-322-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0322-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220304</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281032250</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0322-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220304</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0339-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0339-78</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220215</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-339-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0339-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220304</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281033915</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-Dose 5 mL (2022 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0339-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220304</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0516-25</value>
         <label>Fluzone Quadrivalent, pediatric</label>
         <description>Sanofi - Influenza vaccine, quadrivalent</description>
@@ -16124,6 +16208,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0411-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">224</link-to>
         </reference>
         <use-date>
             <not-before>20211025</not-before>
@@ -16166,6 +16251,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">77</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0411-01</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">224</link-to>
         </reference>
         <use-date>
             <not-before>20211025</not-before>

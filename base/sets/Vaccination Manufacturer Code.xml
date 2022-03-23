@@ -1612,6 +1612,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0521-25</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0564-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0564-15</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Sanofi COVID-19</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0339-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0322-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0322-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0339-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
