@@ -218,6 +218,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">221</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">227</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">228</link-to>
         </reference>
         <use-date>
             <not-before>20210713</not-before>
@@ -1758,6 +1760,19 @@
         </reference>
         <use-date>
             <not-after>20100901</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>Covifenz</value>
+        <label>SARS-COV-2 COVID-19 VLP Non-US Vaccine (Medicago, Covifenz)</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">512</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220411</not-before>
         </use-date>
     </code>
     <code>
