@@ -1541,6 +1541,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0618-78</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0618-20</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220401</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-618-78</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0618-78</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220411</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281061878</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0618-78</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220411</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0802-02</value>
         <label>AS03 Adjuvant</label>
         <description>GlaxoSmithKline - Adjuvant</description>
@@ -6349,6 +6391,7 @@
         </reference>
         <use-date>
             <not-before>20210802</not-before>
+            <not-after>20220315</not-after>
         </use-date>
     </code>
     <code>

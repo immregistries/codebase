@@ -1540,6 +1540,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0618-20</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0618-78</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220401</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-618-20</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0618-20</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220411</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281061820</value>
+        <label>ANTIGEN COMPONENT</label>
+        <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0618-20</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220411</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00310-1222-15</value>
         <label>ASTRAZENECA COVID-19 VACCINE</label>
         <description>AstraZeneca Pharmaceuticals LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</description>
@@ -6386,6 +6428,7 @@
         </reference>
         <use-date>
             <not-before>20210802</not-before>
+            <not-after>20220315</not-after>
         </use-date>
     </code>
     <code>

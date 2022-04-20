@@ -301,6 +301,18 @@
         <test-age>2 months</test-age>
     </code>
     <code>
+        <value>516</value>
+        <label>COV-2 COVID-19 Inactivated Non-US Vaccine Product (Minhai Biotechnology Co, KCONVAC)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated Non-US Vaccine Product (Minhai Biotechnology Co, KCONVAC) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
         <value>510</value>
         <label>COVID-19 IV Non-US Vaccine (BIBP, Sinopharm)</label>
         <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (BIBP, Sinopharm) Notes: WHO authorized pandemic vaccine. Recognized towards immunity in US</description>
@@ -528,6 +540,8 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Sanofi COVID-19</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0618-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0618-20</link-to>
         </reference>
         <use-date>
             <not-before>20220310</not-before>
@@ -656,9 +670,42 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0275-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0275-99</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91309</link-to>
         </reference>
         <use-date>
             <not-before>20220214</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>228</value>
+        <label>COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, pediatric 25 mcg/0.25 mL dose Notes: Pre-EUA Moderna Pediatric 6mo to&lt;6yr 2.5 mL vial, 25 mcg/0.25 mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220412</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>227</value>
+        <label>COVID-19, mRNA, LNP-S, PF, pediatric 50 mcg/0.5 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, pediatric 50 mcg/0.5 mL dose Notes: Pre-EUA Moderna Pediatric 6yr to&lt;12 yr vaccine 2.5 mL vial, 50 mcg/0.5 mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220412</not-before>
         </use-date>
         <concept-type>vaccine</concept-type>
     </code>
@@ -3572,6 +3619,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">MENACTRA</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0589-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0589-05</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90734</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -4708,6 +4756,67 @@
             <not-after>20201116</not-after>
         </use-date>
         <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>514</value>
+        <label>SARS-COV-2 COVID-19 DNA Non-US Vaccine (Zydus Cadila, ZyCoV-D)</label>
+        <description>SARS-COV-2 COVID-19 DNA Non-US Vaccine Product (Zydus Cadila, ZyCoV-D) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>513</value>
+        <label>SARS-COV-2 COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom, Zifivax)</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Anhui Zhifei Longcom, Zifivax) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>517</value>
+        <label>SARS-COV-2 COVID-19 PS Non-US Vaccine (Biological E Limited, Corbevax)</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Biological E Limited, Corbevax) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>515</value>
+        <label>SARS-COV-2 COVID-19 PS Non-US Vaccine (Medigen, MVC-COV1901)</label>
+        <description>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Medigen, MVC-COV1901) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>512</value>
+        <label>SARS-COV-2 COVID-19 VLP Non-US Vaccine (Medicago, Covifenz)</label>
+        <description>SARS-COV-2 COVID-19 Virus Like Particle (VLP) Non-US Vaccine Product (Medicago, Covifenz) Notes: Pandemic Non-US Vaccine not Authorized by WHO - ACIP does recognize towards immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Covifenz</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
         <value>206</value>
