@@ -226,6 +226,20 @@
         </use-date>
     </code>
     <code>
+        <value>SPIKEVAX</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220518</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Pfizer-BioNTech COVID-19 Vaccine</value>
         <label>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</label>
         <code-status>
@@ -282,6 +296,21 @@
         </reference>
         <use-date>
             <not-before>20210910</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>COMIRNATY</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220518</not-before>
         </use-date>
     </code>
     <code>

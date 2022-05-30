@@ -77,6 +77,32 @@
         </use-date>
     </code>
     <code>
+        <value>228</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300051611220501</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>227</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300050911220501</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>207</value>
         <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -102,6 +128,19 @@
         </reference>
         <use-date>
             <not-before>20220131</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>211</value>
+        <label>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300037011220101</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
         </use-date>
     </code>
     <code>
@@ -142,6 +181,19 @@
         </reference>
         <use-date>
             <not-before>20201201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>225</value>
+        <label>COVID-19 Sanofi-GSK EUA Recipient-Caregiver Fact Sheet - Booster</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300052311220401</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
         </use-date>
     </code>
     <code>
@@ -1226,6 +1278,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911091006</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911200108</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911220602</link-to>
         </reference>
         <use-date>
             <not-before>20091006</not-before>
@@ -1240,6 +1293,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911091006</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911200108</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300018911220602</link-to>
         </reference>
         <use-date>
             <not-before>20091006</not-before>
