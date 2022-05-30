@@ -549,8 +549,16 @@
     <Edition_Date>1/8/2020</Edition_Date>
     <VIS_encoded_string>253088698300018911200108</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000189</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>6/2/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Rabies Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>6/2/2022</Edition_Date>
+    <VIS_encoded_string>253088698300018911220602</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000189</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>1/8/2020</Lastupdated>
+    <Lastupdated>6/2/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Rotavirus VIS</VIS_Document_Type_Description>
@@ -930,11 +938,11 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-12 years and older</VIS_Document_Type_Description>
-    <Edition_Date>3/29/2022</Edition_Date>
+    <Edition_Date>5/17/2022</Edition_Date>
     <VIS_encoded_string>253088698300033211210501</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000332</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>3/29/2022</Lastupdated>
+    <Lastupdated>5/17/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
@@ -970,19 +978,27 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description>
-    <Edition_Date>1/31/2022</Edition_Date>
+    <Edition_Date>5/5/2022</Edition_Date>
     <VIS_encoded_string>253088698300036311210201</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000363</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/23/2022</Lastupdated>
+    <Lastupdated>5/9/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5 - 11 years</VIS_Document_Type_Description>
-    <Edition_Date>1/3/2022</Edition_Date>
+    <VIS_Document_Type_Description>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
+    <Edition_Date>6/1/2022</Edition_Date>
+    <VIS_encoded_string>253088698300037011220101</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000370</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>4/29/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VIS_Document_Type_Description>
+    <Edition_Date>5/17/2022</Edition_Date>
     <VIS_encoded_string>253088698300042411211001</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000424</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/4/2022</Lastupdated>
+    <Lastupdated>5/17/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Dengue Vaccine VIS</VIS_Document_Type_Description>
@@ -1007,5 +1023,29 @@
     <VIS_GDTI_document_code>0886983000493</VIS_GDTI_document_code>
     <status>Current</status>
     <Lastupdated>2/4/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</VIS_Document_Type_Description>
+    <Edition_Date>6/1/2022</Edition_Date>
+    <VIS_encoded_string>253088698300050911220501</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000509</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>4/29/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</VIS_Document_Type_Description>
+    <Edition_Date>6/1/2022</Edition_Date>
+    <VIS_encoded_string>253088698300051611220501</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000516</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>4/29/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Sanofi-GSK EUA Recipient-Caregiver Fact Sheet - Booster</VIS_Document_Type_Description>
+    <Edition_Date>6/1/2022</Edition_Date>
+    <VIS_encoded_string>253088698300052311220401</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000523</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>5/6/2022</Lastupdated>
   </VISInfo>
 </VISLookup>

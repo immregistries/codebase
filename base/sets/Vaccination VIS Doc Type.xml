@@ -135,6 +135,32 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300051611220501</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">228</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300050911220501</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">227</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300034911201201</value>
         <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -175,6 +201,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300037011220101</value>
+        <label>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">211</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300033211210501</value>
         <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -212,6 +251,19 @@
         </reference>
         <use-date>
             <not-before>20201201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300052311220401</value>
+        <label>COVID-19 Sanofi-GSK EUA Recipient-Caregiver Fact Sheet - Booster</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">225</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
         </use-date>
     </code>
     <code>
@@ -1520,6 +1572,20 @@
         </reference>
         <use-date>
             <not-before>20200108</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300018911220602</value>
+        <label>Rabies Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">175</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">176</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220602</not-before>
         </use-date>
     </code>
     <code>
