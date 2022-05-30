@@ -12748,6 +12748,47 @@
         </code-status>
     </code>
     <code>
+        <value>50632-0001-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0001-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210317</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50632-001-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0001-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220520</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632000102</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0001-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220520</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0812-11</value>
         <label>KINRIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED AND INACTIVATED POLIOVIRUS VACCINE</description>
@@ -13487,7 +13528,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0275-05</link-to>
         </reference>
         <use-date>
-            <not-before>20220103</not-before>
+            <not-before>20220329</not-before>
         </use-date>
     </code>
     <code>
@@ -13513,6 +13554,90 @@
                 <new-code-value>80777-0275-99</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220210</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0279-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose, 6mo-&lt;6yr</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">228</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0279-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-279-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose, 6mo-&lt;6yr</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0279-99</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220518</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777027999</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose, 6mo-&lt;6yr</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0279-99</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220518</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0277-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 50 mcg/0.5 mL dose, 6yr-&lt;12yr</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">227</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0277-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-277-99</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 50 mcg/0.5 mL dose, 6yr-&lt;12yr</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0277-99</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220518</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777027799</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, pediatric 50 mcg/0.5 mL dose, 6yr-&lt;12yr</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0277-99</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220518</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -15812,6 +15937,48 @@
                 <new-code-value>50090-5147-00</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20201030</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0100-99</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0100-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-100-99</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0100-99</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220519</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777010099</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0100-99</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220519</effective-date>
             </deprecated>
         </code-status>
     </code>
