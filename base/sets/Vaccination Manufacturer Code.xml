@@ -371,6 +371,9 @@
             <link-to codeset="VACCINATION_TRADE_NAME">BIOTHRAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">64678-0211-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">64678-0211-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">ACAM2000</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0330-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-02</link-to>
         </reference>
         <use-date>
             <not-before>20140429</not-before>
@@ -548,6 +551,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0010-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-1502-09</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1502-00</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Priorix</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0855-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0831-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0855-19</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0824-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
