@@ -3,6 +3,48 @@
     <label>Vaccination NDC for Unit-of-Sale</label>
     <type>VACCINATION_NDC_CODE_UNIT_OF_SALE</type>
     <code>
+        <value>71665-0330-02</value>
+        <label>ACAM2000</label>
+        <description>Emergent Product Development Gaithersburg Inc. - Smallpox/Vaccinia Vaccine - National Stockpile</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0330-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20070831</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>71665-330-02</value>
+        <label>ACAM2000</label>
+        <description>Emergent Product Development Gaithersburg Inc. - Smallpox/Vaccinia Vaccine - National Stockpile</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>71665-0330-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220615</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>71665033002</value>
+        <label>ACAM2000</label>
+        <description>Emergent Product Development Gaithersburg Inc. - Smallpox/Vaccinia Vaccine - National Stockpile</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>71665-0330-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220615</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0545-03</value>
         <label>ACTHIB</label>
         <description>Sanofi Pasteur Inc. - HAEMOPHILUS INFLUENZAE TYPE B STRAIN 1482 CAPSULAR POLYSACCHARIDE TETANUS TOXOID CONJUGATE ANTIGEN</description>
@@ -1582,6 +1624,47 @@
         </code-status>
     </code>
     <code>
+        <value>58160-0855-19</value>
+        <label>AS03</label>
+        <description>GlaxoSmithKline Biologicals SA - AS03 Adjuvant Solution</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0855-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20201110</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-855-19</value>
+        <label>AS03</label>
+        <description>GlaxoSmithKline Biologicals SA - AS03 Adjuvant Solution</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0855-19</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220615</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160085519</value>
+        <label>AS03</label>
+        <description>GlaxoSmithKline Biologicals SA - AS03 Adjuvant Solution</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0855-19</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220615</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00310-1222-15</value>
         <label>ASTRAZENECA COVID-19 VACCINE</label>
         <description>AstraZeneca Pharmaceuticals LP - SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</description>
@@ -2149,7 +2232,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2025-01</link-to>
         </reference>
         <use-date>
-            <not-before>20220301</not-before>
+            <not-before>20220518</not-before>
         </use-date>
     </code>
     <code>
@@ -12802,6 +12885,7 @@
         </reference>
         <use-date>
             <not-before>20080709</not-before>
+            <not-after>20220610</not-after>
         </use-date>
     </code>
     <code>
@@ -13613,6 +13697,7 @@
         </reference>
         <use-date>
             <not-before>20220601</not-before>
+            <not-after>20220601</not-after>
         </use-date>
     </code>
     <code>
@@ -14827,6 +14912,48 @@
                 <new-code-value>00005-2000-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0824-15</value>
+        <label>Priorix</label>
+        <description>GlaxoSmithKline Biologicals SA - Measles, Mumps, and Rubella Vaccine, Live</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">03</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0831-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220603</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-824-15</value>
+        <label>Priorix</label>
+        <description>GlaxoSmithKline Biologicals SA - Measles, Mumps, and Rubella Vaccine, Live</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0824-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20220614</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160082415</value>
+        <label>Priorix</label>
+        <description>GlaxoSmithKline Biologicals SA - Measles, Mumps, and Rubella Vaccine, Live</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0824-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20220614</effective-date>
             </deprecated>
         </code-status>
     </code>
