@@ -155,6 +155,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">227</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">221</link-to>
         </reference>
         <use-date>
             <not-before>20220601</not-before>
@@ -1753,6 +1754,19 @@
         </reference>
         <use-date>
             <not-before>20091006</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300053011220601</value>
+        <label>Smallpox-Monkeypox Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">206</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220601</not-before>
         </use-date>
     </code>
     <code>
