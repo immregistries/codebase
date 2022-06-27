@@ -542,9 +542,26 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Sanofi COVID-19</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0618-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0618-20</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91310</link-to>
         </reference>
         <use-date>
             <not-before>20220310</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>229</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 50 mcg/0.5 mL dose Notes: Pre-EUA Moderna bivalent adult booster original strain + omicron strain</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220615</not-before>
         </use-date>
         <concept-type>vaccine</concept-type>
     </code>
@@ -694,6 +711,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0279-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0279-99</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91311</link-to>
         </reference>
         <use-date>
             <not-before>20220412</not-before>
@@ -715,6 +733,7 @@
         </reference>
         <use-date>
             <not-before>20220412</not-before>
+            <not-after>20220615</not-after>
         </use-date>
         <concept-type>vaccine</concept-type>
     </code>
@@ -3744,6 +3763,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">54868-0980-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-0980-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4681-00</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Priorix</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0831-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0824-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -5482,6 +5504,8 @@
             <link-to codeset="VACCINE_GROUP">VACCINIA</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">ACAM2000</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">DRYVAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0330-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

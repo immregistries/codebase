@@ -1384,6 +1384,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
+        </reference>
     </code>
     <code>
         <value>91307</value>
@@ -1414,6 +1417,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">228</link-to>
+        </reference>
     </code>
     <code>
         <value>91308</value>
