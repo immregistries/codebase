@@ -556,6 +556,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0831-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0855-19</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0824-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0890-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0890-52</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -640,6 +642,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0816-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0818-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0818-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0808-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0808-52</link-to>
         </reference>
         <use-date>
             <not-before>20130905</not-before>
@@ -1245,6 +1249,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2025-25</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">COMIRNATY</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0297-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0297-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0297-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1635,6 +1642,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0339-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0618-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0618-20</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0722-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0122-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0422-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0637-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0422-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0722-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0122-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0422-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0422-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0637-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1765,6 +1782,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0221-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0321-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0421-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0322-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0422-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0122-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0322-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0422-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0422-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0322-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0122-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0322-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0422-10</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>
