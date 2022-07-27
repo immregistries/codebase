@@ -356,6 +356,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300054711220630</value>
+        <label>Ebola Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">204</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220630</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300006611210806</value>
         <label>Haemophilus Influenzae type b (Hib) Vaccine VIS</label>
         <code-status>
