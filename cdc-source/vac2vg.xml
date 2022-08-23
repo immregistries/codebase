@@ -152,6 +152,18 @@
     <Name>Status</Name>
     <Value>Non-US</Value>
     <Name>Vaccine Group Name</Name>
+    <Value>HepB</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>45</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTP-Hib-Hep B</Value>
+    <Name>CVXCode</Name>
+    <Value>102       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
@@ -167,18 +179,6 @@
     <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTP-Hib-Hep B</Value>
-    <Name>CVXCode</Name>
-    <Value>102       </Value>
-    <Name>Status</Name>
-    <Value>Non-US</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -224,7 +224,7 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>VACCINIA</Value>
+    <Value>Orthopoxvirus</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>75</Value>
   </CVXVGInfo>
@@ -584,6 +584,18 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
+    <Value>DTAP</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
+    <Name>CVXCode</Name>
+    <Value>132       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
     <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>45</Value>
@@ -599,18 +611,6 @@
     <Value>HIB</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>17</Value>
-  </CVXVGInfo>
-  <CVXVGInfo>
-    <Name>ShortDescription</Name>
-    <Value>DTaP-IPV-HIB-HEP B, historical</Value>
-    <Name>CVXCode</Name>
-    <Value>132       </Value>
-    <Name>Status</Name>
-    <Value>Inactive</Value>
-    <Name>Vaccine Group Name</Name>
-    <Value>DTAP</Value>
-    <Name>CVX for Vaccine Group</Name>
-    <Value>107</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1442,13 +1442,13 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Vaccinia, smallpox monkeypox vaccine live, PF</Value>
+    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
     <Name>CVXCode</Name>
     <Value>206       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>VACCINIA</Value>
+    <Value>Orthopoxvirus</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>75</Value>
   </CVXVGInfo>
@@ -1742,7 +1742,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
     <Name>CVXCode</Name>
     <Value>229       </Value>
     <Name>Status</Name>
@@ -1811,6 +1811,30 @@
     <Value>DTAP</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>107</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 30 mcg/0.3 mL dose</Value>
+    <Name>CVXCode</Name>
+    <Value>300       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</Value>
+    <Name>CVXCode</Name>
+    <Value>301       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -2384,7 +2408,7 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>VACCINIA</Value>
+    <Value>Orthopoxvirus</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>75</Value>
   </CVXVGInfo>

@@ -421,7 +421,7 @@
     <Edition_Date>8/24/2018</Edition_Date>
     <VIS_encoded_string>253088698300014111180824</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000141</VIS_GDTI_document_code>
-    <status>Historic </status>
+    <status>Historic</status>
     <Lastupdated>8/15/2019</Lastupdated>
   </VISInfo>
   <VISInfo>
@@ -986,11 +986,11 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description>
-    <Edition_Date>7/13/2022</Edition_Date>
+    <Edition_Date>8/19/2022</Edition_Date>
     <VIS_encoded_string>253088698300037011220101</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000370</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>7/13/2022</Lastupdated>
+    <Lastupdated>8/19/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VIS_Document_Type_Description>
@@ -1033,7 +1033,7 @@
     <Lastupdated>6/17/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</VIS_Document_Type_Description>
+    <VIS_Document_Type_Description>????oric0053053011220601ne VISent-Caregiver Fact Sheet - Booster6mo to &lt;6yrs</VIS_Document_Type_Description>
     <Edition_Date>6/17/2022</Edition_Date>
     <VIS_encoded_string>253088698300051611220501</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000516</VIS_GDTI_document_code>
@@ -1053,8 +1053,16 @@
     <Edition_Date>6/1/2022</Edition_Date>
     <VIS_encoded_string>253088698300053011220601</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/23/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>8/23/2022</Edition_Date>
+    <VIS_encoded_string>253088698300053011220823</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>6/1/2022</Lastupdated>
+    <Lastupdated>8/23/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>

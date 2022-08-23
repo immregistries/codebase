@@ -1488,6 +1488,14 @@
         </reference>
     </code>
     <code>
+        <value>90611</value>
+        <label>Smallpox and monkeypox vaccine, attenuated vaccinia virus, live, non-replicating, preservative free, 0.5 mL dosage, suspension, for subcutaneous use</label>
+        <description>CPT Code to be used for JYNNEOS vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90714</value>
         <label>Td (adult) preservative free</label>
         <description></description>
@@ -1634,6 +1642,14 @@
             <link-to codeset="VACCINATION_CVX_CODE">101</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90622</value>
+        <label>Vaccinia (smallpox) virus vaccine, live, lyophilized, 0.3 mL dosage, for percutaneous use</label>
+        <description>CPT Code to be used for ACAM2000 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90393</value>

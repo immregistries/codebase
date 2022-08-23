@@ -294,6 +294,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">219</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">218</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">301</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">300</link-to>
         </reference>
         <use-date>
             <not-before>20210910</not-before>

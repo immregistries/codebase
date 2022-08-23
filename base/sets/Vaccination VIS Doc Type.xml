@@ -1783,6 +1783,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300053011220823</value>
+        <label>Smallpox-Monkeypox Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">206</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220823</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300028811210806</value>
         <label>Td (Tetanus, Diphtheria) Vaccine VIS</label>
         <code-status>

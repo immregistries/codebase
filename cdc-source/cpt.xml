@@ -290,6 +290,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90611     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Smallpox and monkeypox vaccine, attenuated vaccinia virus, live, non-replicating, preservative free, 0.5 mL dosage, suspension, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>CPT Code to be used for JYNNEOS vaccine</Value>
+    <Name>Vaccine Name</Name>
+    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
+    <Name>CVX Code</Name>
+    <Value>206       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/27/2022</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90619     </Value>
     <Name>CPT Desc</Name>
     <Value>Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, tetanus toxoid carrier (MenACWY-TT), for intramuscular use</Value>
@@ -335,6 +351,22 @@
     <Value>162       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90622     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Vaccinia (smallpox) virus vaccine, live, lyophilized, 0.3 mL dosage, for percutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>CPT Code to be used for ACAM2000 vaccine</Value>
+    <Name>Vaccine Name</Name>
+    <Value>vaccinia (smallpox)</Value>
+    <Name>CVX Code</Name>
+    <Value>75        </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/27/2022</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
