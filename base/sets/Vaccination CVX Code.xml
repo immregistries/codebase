@@ -552,6 +552,44 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>301</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 10 mcg/0.2 mL dose, tris-sucrose formulation Notes: Pre-EUA Pfizer bivalent booster, ages 5-11 yrs, original strain + omicron BA.4/BA.5</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0565-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0565-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220817</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>300</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 30 mcg/0.3 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 30 mcg/0.3 mL dose, tris-sucrose formulation Notes: Pre-EUA Pfizer bivalent booster, ages adult 12+, original strain + omicron BA.4/BA.5</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0304-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-1404-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0304-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1404-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220817</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>229</value>
         <label>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL dose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 50 mcg/0.5 mL dose Notes: Pre-EUA Moderna bivalent adult booster original strain + omicron strain</description>
@@ -561,6 +599,8 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0282-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0282-99</link-to>
         </reference>
         <use-date>
             <not-before>20220615</not-before>
@@ -2726,6 +2766,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0307-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0308-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0308-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0309-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0309-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -4887,6 +4929,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">JYNNEOS</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
+            <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
         </reference>
         <use-date>
             <not-before>20200720</not-before>
@@ -5535,6 +5578,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">DRYVAX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0330-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-02</link-to>
+            <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -5555,6 +5599,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINE_GROUP">VACCINIA</link-to>
+            <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
         </reference>
         <use-date>
             <not-expected-after>20100528</not-expected-after>

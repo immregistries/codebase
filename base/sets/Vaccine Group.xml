@@ -89,6 +89,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">515</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">512</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">229</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">301</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">300</link-to>
         </reference>
     </code>
     <code>
@@ -573,6 +575,15 @@
             <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">105</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>Orthopoxvirus</value>
+        <label>vaccinia (smallpox) diluted</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">105</link-to>
         </reference>
     </code>
     <code>
