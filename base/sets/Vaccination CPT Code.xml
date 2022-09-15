@@ -1389,6 +1389,38 @@
         </reference>
     </code>
     <code>
+        <value>91315</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, bivalent spike protein, preservative free, 10 mcg/0.2 mL dosage, diluent reconstituted, tris-sucrose formulation, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization bivalent booster for ages 5 yrs through 11 yrs</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91312</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, bivalent spike protein, preservative free, 30 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</label>
+        <description>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster ages 12+ yrs</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91314</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, bivalent, preservative free, 25 mcg/0.25 mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - Potential EUA authorization bivalent booster for ages 6 yrs through 11 yrs</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91313</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, bivalent, preservative free, 50 mcg/0.5 mL dosage, for intramuscular use</label>
+        <description>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster for ages 18+ yrs, potential EUA ages 6 yrs through 17 yrs</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>91307</value>
         <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 10 mcg/0.2 mL dosage, diluent reconstituted, tris-sucrose formulation, for intramuscular use</label>
         <description>COVID-19 Vaccine - Potential EUA authorization, Pediatric dose requires dilution</description>
@@ -1494,6 +1526,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+        </reference>
     </code>
     <code>
         <value>90714</value>
@@ -1650,6 +1685,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
+        </reference>
     </code>
     <code>
         <value>90393</value>

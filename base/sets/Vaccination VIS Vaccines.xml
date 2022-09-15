@@ -103,6 +103,19 @@
         </use-date>
     </code>
     <code>
+        <value>229</value>
+        <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Adult Fact Sheet</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300034911210601</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220831</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>207</value>
         <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -168,6 +181,19 @@
         </reference>
         <use-date>
             <not-before>20220301</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>300</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-12 years and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300033211210501</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220831</not-before>
         </use-date>
     </code>
     <code>

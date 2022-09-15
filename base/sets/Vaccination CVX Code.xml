@@ -4930,6 +4930,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
             <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90611</link-to>
         </reference>
         <use-date>
             <not-before>20200720</not-before>
@@ -5579,6 +5580,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0330-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-02</link-to>
             <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90622</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
