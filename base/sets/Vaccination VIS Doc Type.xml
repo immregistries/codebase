@@ -203,6 +203,21 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300034911220901</value>
+        <label>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet - 6 yrs and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">221</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">207</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">229</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221012</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300037011220101</value>
         <label>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
