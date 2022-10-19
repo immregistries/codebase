@@ -778,9 +778,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -794,9 +794,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1796,7 +1796,7 @@
     <Name>CPT Code</Name>
     <Value>90739     </Value>
     <Name>CPT Desc</Name>
-    <Value>Hepatitis B vaccine (HepB), adult dosage, 2 dose schedule, for intramuscular use</Value>
+    <Value>Hepatitis B vaccine (HepB), CpG-adjuvanted, adult dosage, 2 dose or 4 dose schedule, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -1806,7 +1806,7 @@
     <Name>CVX Code</Name>
     <Value>189       </Value>
     <Name>LastUpdated</Name>
-    <Value>4/14/2020</Value>
+    <Value>9/16/2022</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
