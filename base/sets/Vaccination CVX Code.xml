@@ -552,6 +552,24 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>230</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 10 mcg/0.2 mL dose Notes: Pre-EUA Moderna bivalent booster (ages 6 mo through 5 yrs), original strain + omicron BA.4/BA.5</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0283-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0283-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221014</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>301</value>
         <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 10 mcg/0.2 mL dose, tris-sucrose formulation Notes: Pre-EUA Pfizer bivalent booster, ages 5-11 yrs, original strain + omicron BA.4/BA.5</description>
@@ -588,6 +606,24 @@
         </reference>
         <use-date>
             <not-before>20220817</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>302</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 3 mcg/0.2 mL dose, tris-sucrose formulation Notes: Pre-EUA Pfizer bivalent (ages 6 mo through 4 yrs), original strain + omicron BA.4/BA.5</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0609-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0609-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221019</not-before>
         </use-date>
         <concept-type>vaccine</concept-type>
     </code>
@@ -4265,6 +4301,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00005-2000-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00005-2000-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-6026-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6026-00</link-to>
         </reference>
         <use-date>
             <not-before>20210818</not-before>

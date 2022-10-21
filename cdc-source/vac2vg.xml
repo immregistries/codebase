@@ -1698,7 +1698,7 @@
     <Name>CVXCode</Name>
     <Value>225       </Value>
     <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Never Active</Value>
     <Name>Vaccine Group Name</Name>
     <Value>COVID-19</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -1710,7 +1710,7 @@
     <Name>CVXCode</Name>
     <Value>226       </Value>
     <Name>Status</Name>
-    <Value>Pending</Value>
+    <Value>Never Active</Value>
     <Name>Vaccine Group Name</Name>
     <Value>COVID-19</Value>
     <Name>CVX for Vaccine Group</Name>
@@ -1763,6 +1763,18 @@
     <Value>Plague</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>23</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</Value>
+    <Name>CVXCode</Name>
+    <Value>230       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1829,6 +1841,18 @@
     <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</Value>
     <Name>CVXCode</Name>
     <Value>301       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</Value>
+    <Name>CVXCode</Name>
+    <Value>302       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>

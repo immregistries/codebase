@@ -14349,6 +14349,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0283-02</value>
+        <label>Moderna COVID-19 Vaccine, Bivalent</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mLdose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">230</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0283-99</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220923</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-283-02</value>
+        <label>Moderna COVID-19 Vaccine, Bivalent</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mLdose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0283-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20221017</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777028302</value>
+        <label>Moderna COVID-19 Vaccine, Bivalent</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mLdose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0283-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20221017</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0811-43</value>
         <label>PEDIARIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
@@ -14924,6 +14966,48 @@
         </code-status>
     </code>
     <code>
+        <value>59267-0609-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine, Bivalent</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, bivalent booster, PF, 3 mcg/0.2 mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">302</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0609-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220815</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-0609-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine, Bivalent</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, bivalent booster, PF, 3 mcg/0.2 mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-0609-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20221017</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267060901</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine, Bivalent</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, LNP-S, bivalent booster, PF, 3 mcg/0.2 mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-0609-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20221017</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>76420-0470-10</value>
         <label>Physicians EZ Use Flu Kit</label>
         <description>MedChem Manufacturing Inc. dba Enovachem - INFLUENZA A VIRUS A/CHRISTCHURCH/16/2010 NIB-74 (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED), INFLUENZ</description>
@@ -15358,6 +15442,48 @@
                 <new-code-value>00005-2000-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20210823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-6026-01</value>
+        <label>PREVNAR 20</label>
+        <description>A-S Medication Solutions - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">216</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6026-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210810</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-6026-1</value>
+        <label>PREVNAR 20</label>
+        <description>A-S Medication Solutions - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-6026-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20221017</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090602601</value>
+        <label>PREVNAR 20</label>
+        <description>A-S Medication Solutions - Pneumococcal 20-valent Conjugate Vaccine (PCV20)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-6026-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20221017</effective-date>
             </deprecated>
         </code-status>
     </code>
