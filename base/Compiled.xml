@@ -1695,6 +1695,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_VACCINES">218</link-to>
+                <link-to codeset="VACCINATION_VIS_VACCINES">301</link-to>
             </reference>
             <use-date>
                 <not-before>20211029</not-before>
@@ -43424,6 +43425,19 @@
             </reference>
             <use-date>
                 <not-before>20211119</not-before>
+            </use-date>
+        </code>
+        <code>
+            <value>301</value>
+            <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</label>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300042411211001</link-to>
+            </reference>
+            <use-date>
+                <not-before>20221012</not-before>
             </use-date>
         </code>
         <code>

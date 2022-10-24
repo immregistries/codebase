@@ -1422,6 +1422,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">218</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">301</link-to>
         </reference>
         <use-date>
             <not-before>20211029</not-before>
