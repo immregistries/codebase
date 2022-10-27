@@ -1397,7 +1397,7 @@
         <use-date>
             <not-after>20210406</not-after>
         </use-date>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
     </code>
     <code>
         <value>57</value>
@@ -1583,7 +1583,7 @@
             <not-before-month>6</not-before-month>
             <not-after-month>228</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>12 months</test-age>
     </code>
     <code>
@@ -3251,7 +3251,7 @@
         <use-date>
             <not-after>20200716</not-after>
         </use-date>
-        <concept-type>foreign vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
     </code>
     <code>
         <value>200</value>
@@ -3532,7 +3532,7 @@
             <not-before-month>1</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>2 months</test-age>
     </code>
     <code>
@@ -3774,7 +3774,7 @@
             <not-before-month>108</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>16 years</test-age>
     </code>
     <code>
@@ -3981,7 +3981,7 @@
             <not-before-month>1</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>11 years</test-age>
     </code>
     <code>
@@ -4299,7 +4299,7 @@
         <use-date>
             <not-after>20170117</not-after>
         </use-date>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
     </code>
     <code>
         <value>69</value>
@@ -5075,7 +5075,7 @@
             <not-before-month>5</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>20 years</test-age>
     </code>
     <code>
@@ -5318,7 +5318,7 @@
             <not-before-month>84</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>12 years</test-age>
     </code>
     <code>
@@ -5434,7 +5434,7 @@
             <not-before-month>84</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>12 years</test-age>
     </code>
     <code>
@@ -5514,7 +5514,7 @@
         <use-date>
             <not-after>20220303</not-after>
         </use-date>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
     </code>
     <code>
         <value>13</value>
@@ -6070,7 +6070,7 @@
             <not-before-month>8</not-before-month>
             <not-after-month>720</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>2 years</test-age>
     </code>
     <code>
@@ -6141,7 +6141,7 @@
             <not-before-month>204</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>vaccine</concept-type>
+        <concept-type>unspecified</concept-type>
         <test-age>60 years</test-age>
     </code>
 </codeset>
