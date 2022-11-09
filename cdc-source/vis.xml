@@ -1069,8 +1069,8 @@
     <Edition_Date>8/23/2022</Edition_Date>
     <VIS_encoded_string>253088698300053011220823</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>8/23/2022</Lastupdated>
+    <status>Historic</status>
+    <Lastupdated>11/14/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>
@@ -1079,5 +1079,13 @@
     <VIS_GDTI_document_code>0886983000547</VIS_GDTI_document_code>
     <status>Current</status>
     <Lastupdated>6/30/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>11/14/2022</Edition_Date>
+    <VIS_encoded_string>253088698300053011221114</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>11/14/2022</Lastupdated>
   </VISInfo>
 </VISLookup>
