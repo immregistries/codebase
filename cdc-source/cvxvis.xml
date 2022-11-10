@@ -3446,7 +3446,7 @@
     <Fully-encodedString>253088698300053011220823</Fully-encodedString>
     <VISDocumentName>Smallpox-Monkeypox Vaccine VIS</VISDocumentName>
     <VISEditionDate>8/23/2022</VISEditionDate>
-    <Status>Current</Status>
+    <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
     <CVXCode>204       </CVXCode>
@@ -3462,6 +3462,14 @@
     <Fully-encodedString>253088698300042411211001</Fully-encodedString>
     <VISDocumentName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VISDocumentName>
     <VISEditionDate>10/12/2022</VISEditionDate>
+    <Status>Current</Status>
+  </CVXVISMapping>
+  <CVXVISMapping>
+    <CVXCode>206       </CVXCode>
+    <CVXVaccineDescription>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</CVXVaccineDescription>
+    <Fully-encodedString>253088698300053011221114</Fully-encodedString>
+    <VISDocumentName>Smallpox-Monkeypox Vaccine VIS</VISDocumentName>
+    <VISEditionDate>11/14/2022</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
 </CVXVIS>
