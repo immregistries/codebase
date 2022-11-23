@@ -2232,13 +2232,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - Potential EUA authorization bivalent booster for ages 6 yrs through 11 yrs</Value>
+    <Value>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster for ages 6 yrs through 11 yrs</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>229       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>11/18/2022</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2255,5 +2255,21 @@
     <Value>301       </Value>
     <Name>LastUpdated</Name>
     <Value>9/2/2022</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91316     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, bivalent, preservative free, 10 mcg/0.2 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>COVID-19 Vaccine - Pre-EUA authorization bivalent vaccine booster for ages 6 mo through 5 yrs</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>230       </Value>
+    <Name>LastUpdated</Name>
+    <Value>11/18/2022</Value>
   </CPTInfo>
 </CPTCodes>
