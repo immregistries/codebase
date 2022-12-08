@@ -2162,7 +2162,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology)</Value>
+    <Value>COVID-19 VVnr Non-US Vaccine (CONVIDECIA), CanSino Biological Inc./Beijing Institute of Biotechnology)</Value>
     <Name>CVXCode</Name>
     <Value>506       </Value>
     <Name>Status</Name>
@@ -2330,6 +2330,30 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>COVID-19 Inactivated, Non-US Vaccine (VLA2001, Valneva)</Value>
+    <Name>CVXCode</Name>
+    <Value>518       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine (Spikevax Bivalent), Moderna</Value>
+    <Name>CVXCode</Name>
+    <Value>519       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>Hep A, adult</Value>
     <Name>CVXCode</Name>
     <Value>52        </Value>
@@ -2339,6 +2363,18 @@
     <Value>HepA</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>85</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine Product (Comirnaty Bivalent), Pfizer-BioNTech</Value>
+    <Name>CVXCode</Name>
+    <Value>520       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
