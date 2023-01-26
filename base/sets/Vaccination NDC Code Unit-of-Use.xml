@@ -2999,6 +2999,48 @@
         </code-status>
     </code>
     <code>
+        <value>00006-4293-01</value>
+        <label>ERVEBO</label>
+        <description>Merck Sharp &amp; Dohme LLC - Ebola Zaire vaccine, live, recombinant, 1mL dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">204</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4293-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20191219</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0006-4293-01</value>
+        <label>ERVEBO</label>
+        <description>Merck Sharp &amp; Dohme LLC - Ebola Zaire vaccine, live, recombinant, 1mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4293-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230106</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006429301</value>
+        <label>ERVEBO</label>
+        <description>Merck Sharp &amp; Dohme LLC - Ebola Zaire vaccine, live, recombinant, 1mL dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4293-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230106</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>66521-0000-11</value>
         <label>Fluad</label>
         <description>Novartis - TRIVALENT INFLUENZA WITH ADJUVANT 2015/2016</description>
@@ -14081,6 +14123,48 @@
                 <new-code-value>58160-0959-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170421</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0827-03</value>
+        <label>Menveo</label>
+        <description>GlaxoSmithKline Biologicals SA - Meningococcal A,C,Y,W-135 oligosaccharide conjugate, single vial</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">136</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0827-30</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221209</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-827-03</value>
+        <label>Menveo</label>
+        <description>GlaxoSmithKline Biologicals SA - Meningococcal A,C,Y,W-135 oligosaccharide conjugate, single vial</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0827-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20221216</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160082703</value>
+        <label>Menveo</label>
+        <description>GlaxoSmithKline Biologicals SA - Meningococcal A,C,Y,W-135 oligosaccharide conjugate, single vial</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0827-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20221216</effective-date>
             </deprecated>
         </code-status>
     </code>

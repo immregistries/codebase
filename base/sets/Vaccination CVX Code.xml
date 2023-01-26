@@ -320,6 +320,18 @@
         <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
+        <value>518</value>
+        <label>COVID-19 Inactivated, Non-US Vaccine (VLA2001, Valneva)</label>
+        <description>SARS-COV-2 COVID-19 Inactivated, Non-US Vaccine (VLA2001, Valneva) Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
         <value>510</value>
         <label>COVID-19 IV Non-US Vaccine (BIBP, Sinopharm)</label>
         <description>SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (BIBP, Sinopharm) Notes: WHO authorized pandemic vaccine. Recognized towards immunity in US</description>
@@ -379,6 +391,32 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>519</value>
+        <label>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine (Spikevax Bivalent), Moderna</label>
+        <description>SARS-COV-2 COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine (Spikevax Bivalent), Moderna Notes: Pandemic Non-US Vaccine not Authorized by WHO - Is authorized by EU and counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.1 (Non-US Tradename Spikevax Bivalent)</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
+        <value>520</value>
+        <label>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine Product, Pfizer-BioNTech</label>
+        <description>SARS-COV-2 COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine Product (Comirnaty Bivalent), Pfizer-BioNTech Notes: Pandemic Non-US Vaccine. Authorized by WHO 10/19/2022 - Counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer COVID-19 Bivalent, Original + BA.1 (Non-US Tradename COMIRNATY Bivalent)</link-to>
         </reference>
         <concept-type>foreign vaccine</concept-type>
     </code>
@@ -443,6 +481,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0100-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0100-10</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91304</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine (Non-US Tradenames NUVAXOVID, COVOVAX)</link-to>
         </reference>
         <use-date>
             <not-before>20210406</not-before>
@@ -507,6 +546,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">CONVIDECIA (CanSino Biologics) COVID-19 Vaccine</link-to>
         </reference>
         <concept-type>foreign vaccine</concept-type>
     </code>
@@ -578,6 +618,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (non-US Spikevax)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0283-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0283-99</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename Spikevax Bivalent)</link-to>
         </reference>
         <use-date>
             <not-before>20221014</not-before>
@@ -597,6 +638,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0565-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0565-02</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91315</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</link-to>
         </reference>
         <use-date>
             <not-before>20220817</not-before>
@@ -623,6 +665,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0304-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-1404-02</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91312</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</link-to>
         </reference>
         <use-date>
             <not-before>20220817</not-before>
@@ -646,6 +689,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (EUA labeled) COMIRNATY (BLA labeled)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0609-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0609-02</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</link-to>
         </reference>
         <use-date>
             <not-before>20221019</not-before>
@@ -666,6 +710,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0282-99</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91314</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91313</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename Spikevax Bivalent)</link-to>
         </reference>
         <use-date>
             <not-before>20220615</not-before>
@@ -1373,6 +1418,8 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">Ebola</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">ERVEBO (Ebola Zaire Vaccine, Live)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4293-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4293-02</link-to>
         </reference>
         <use-date>
             <not-before>20210406</not-before>
@@ -2853,6 +2900,7 @@
         </reference>
         <use-date>
             <not-before>20141215</not-before>
+            <not-after>20221215</not-after>
         </use-date>
         <use-age>
             <not-before-month>204</not-before-month>
@@ -3199,6 +3247,7 @@
         </reference>
         <use-date>
             <not-before>20130717</not-before>
+            <not-after>20221215</not-after>
         </use-date>
         <use-age>
             <not-before-month>6</not-before-month>
@@ -3230,6 +3279,7 @@
         </reference>
         <use-date>
             <not-before>20130717</not-before>
+            <not-after>20221215</not-after>
         </use-date>
         <use-age>
             <not-before-month>6</not-before-month>
@@ -3875,6 +3925,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0959-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">46028-0208-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0955-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0827-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0827-30</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

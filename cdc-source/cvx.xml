@@ -286,7 +286,7 @@
     <CVXCode>218       </CVXCode>
     <Notes>FDA EUA (5 yrs through 11 yrs), Pfizer tris-sucrose pediatric primary series, IC, and booster </Notes>
     <Status>Active</Status>
-    <LastUpdated>9/6/2022</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</ShortDescription>
@@ -318,7 +318,7 @@
     <CVXCode>217       </CVXCode>
     <Notes>FDA EUA (12+ yrs) and BLA (16+ yrs), Pfizer adult primary series and IC dose tris-sucrose formulation. EUA 8/31/2022 rescinded monovalent booster dose</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/6/2022</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</ShortDescription>
@@ -374,7 +374,7 @@
     <CVXCode>195       </CVXCode>
     <Notes>This code should be used to document non-US vaccines for DT,IPV such as Revaxis</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/30/2019</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DTaP</ShortDescription>
@@ -470,7 +470,7 @@
     <CVXCode>198       </CVXCode>
     <Notes>This represents the non-US pentavalent vaccine.  Should be used for historic documentation in US</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>4/22/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DTP-Hib</ShortDescription>
@@ -492,9 +492,9 @@
     <ShortDescription>Ebola Zaire vaccine, live, recombinant, 1mL dose</ShortDescription>
     <FullVaccinename>Ebola Zaire vaccine, live, recombinant, 1mL dose </FullVaccinename>
     <CVXCode>204       </CVXCode>
-    <Notes>FDA Approved ERVEBO Vaccine.  NDCs and SPL not yet listed</Notes>
+    <Notes>FDA Approved ERVEBO Vaccine. </Notes>
     <Status>Active</Status>
-    <LastUpdated>12/19/2022</LastUpdated>
+    <LastUpdated>1/12/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Ebola, unspecified</ShortDescription>
@@ -762,11 +762,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza vaccine, quadrivalent, adjuvanted</ShortDescription>
-    <FullVaccinename>influenza, seasonal vaccine, quadrivalent, adjuvanted, .5mL dose, preservative free</FullVaccinename>
+    <FullVaccinename>influenza, seasonal vaccine, quadrivalent, adjuvanted, 0.5mL dose, preservative free</FullVaccinename>
     <CVXCode>205       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>7/22/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, H5N1-1203</ShortDescription>
@@ -786,11 +786,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, high-dose, quadrivalent</ShortDescription>
-    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, .7mL dose, preservative free</FullVaccinename>
+    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, 0.7mL dose, preservative free</FullVaccinename>
     <CVXCode>197       </CVXCode>
     <Notes>Target population 65 and older, starting season 2020/2021</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/22/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, injectable, MDCK, preservative free</ShortDescription>
@@ -918,7 +918,7 @@
     <CVXCode>200       </CVXCode>
     <Notes>Pediatric dose for ages 6-35 months</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/6/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, preservative free</ShortDescription>
@@ -926,7 +926,7 @@
     <CVXCode>201       </CVXCode>
     <Notes>Represents single dose vial</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/6/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, quadrivalent, with preservative</ShortDescription>
@@ -934,7 +934,7 @@
     <CVXCode>202       </CVXCode>
     <Notes>Represents multi-dose vial</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/6/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, split (incl. purified surface antigen)</ShortDescription>
@@ -1162,11 +1162,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</ShortDescription>
-    <FullVaccinename>meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free</FullVaccinename>
+    <FullVaccinename>meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine 0.5mL dose, preservative free</FullVaccinename>
     <CVXCode>203       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>5/27/2020</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal, unknown serogroups</ShortDescription>
@@ -1638,7 +1638,7 @@
     <CVXCode>190       </CVXCode>
     <Notes/>
     <Status>Non-US</Status>
-    <LastUpdated>7/23/2021</LastUpdated>
+    <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>typhoid, oral</ShortDescription>

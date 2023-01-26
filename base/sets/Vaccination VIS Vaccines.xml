@@ -90,6 +90,19 @@
         </use-date>
     </code>
     <code>
+        <value>230</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300051611220501</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221207</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>227</value>
         <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</label>
         <code-status>
@@ -197,6 +210,19 @@
         </reference>
         <use-date>
             <not-before>20220301</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>302</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300048611220101</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221208</not-before>
         </use-date>
     </code>
     <code>
@@ -1436,6 +1462,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300053011220601</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300053011220823</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300053011221114</link-to>
         </reference>
         <use-date>
             <not-before>20220601</not-before>
