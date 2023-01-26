@@ -127,6 +127,34 @@
         </use-date>
     </code>
     <code>
+        <value>Moderna COVID-19 Bivalent, Original + BA.1 (Non-US Tradename Spikevax Bivalent)</value>
+        <label>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine (Spikevax Bivalent), Moderna</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">519</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221117</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Pfizer COVID-19 Bivalent, Original + BA.1 (Non-US Tradename COMIRNATY Bivalent)</value>
+        <label>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine Product, Pfizer-BioNTech</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">520</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221117</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Novavax COVID-19 Vaccine</value>
         <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
         <code-status>
@@ -180,6 +208,19 @@
         </use-date>
     </code>
     <code>
+        <value>CONVIDECIA (CanSino Biologics) COVID-19 Vaccine</value>
+        <label>COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">506</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221101</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Sanofi COVID-19</value>
         <label>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</label>
         <code-status>
@@ -192,6 +233,37 @@
         </reference>
         <use-date>
             <not-before>20220310</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 30 mcg/0.3 mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">300</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">302</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">301</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221116</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Moderna COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename Spikevax Bivalent)</value>
+        <label>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">229</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">230</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221116</not-before>
         </use-date>
     </code>
     <code>
@@ -316,6 +388,20 @@
         </reference>
         <use-date>
             <not-before>20220518</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Novavax COVID-19 Vaccine (Non-US Tradenames NUVAXOVID, COVOVAX)</value>
+        <label>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">211</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221116</not-before>
         </use-date>
     </code>
     <code>
@@ -1082,6 +1168,7 @@
         </reference>
         <use-date>
             <not-before>20141215</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1244,6 +1331,7 @@
         </reference>
         <use-date>
             <not-before>20100927</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1258,6 +1346,7 @@
         </reference>
         <use-date>
             <not-before>20170605</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1272,6 +1361,7 @@
         </reference>
         <use-date>
             <not-before>20170612</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1286,6 +1376,7 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1300,6 +1391,7 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
@@ -1314,6 +1406,7 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+            <not-after>20221215</not-after>
         </use-date>
     </code>
     <code>
