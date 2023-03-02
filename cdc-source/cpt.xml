@@ -298,7 +298,7 @@
     <Name>Comments</Name>
     <Value>CPT Code to be used for JYNNEOS vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
+    <Value>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</Value>
     <Name>CVX Code</Name>
     <Value>206       </Value>
     <Name>LastUpdated</Name>
@@ -314,7 +314,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</Value>
+    <Value>meningococcal conjugate quadrivalent, MenACWY-TT (MCV4)</Value>
     <Name>CVX Code</Name>
     <Value>203       </Value>
     <Name>LastUpdated</Name>

@@ -469,6 +469,18 @@
         <concept-type>foreign vaccine</concept-type>
     </code>
     <code>
+        <value>521</value>
+        <label>COVID-19 SP, protein-based, adjuvanted (VidPrevtyn Beta), Sanofi-GSK</label>
+        <description>SARS-COV-2 (COVID-19) vaccine SP, protein-based, adjuvanted, B.1.351 strain (VidPrevtyn Beta), Sanofi-GSK Notes: Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+        </reference>
+        <concept-type>foreign vaccine</concept-type>
+    </code>
+    <code>
         <value>211</value>
         <label>COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</label>
         <description>SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose Notes: Pending FDA EUA Authorization</description>
@@ -482,6 +494,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0100-10</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91304</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine (Non-US Tradenames NUVAXOVID, COVOVAX)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0102-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0102-10</link-to>
         </reference>
         <use-date>
             <not-before>20210406</not-before>
@@ -619,6 +633,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0283-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0283-99</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename Spikevax Bivalent)</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91316</link-to>
         </reference>
         <use-date>
             <not-before>20221014</not-before>
@@ -690,6 +705,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-0609-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-0609-02</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91317</link-to>
         </reference>
         <use-date>
             <not-before>20221019</not-before>
@@ -4919,6 +4935,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">ROTARIX</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0851-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0854-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0740-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0740-21</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

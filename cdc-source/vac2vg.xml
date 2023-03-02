@@ -200,9 +200,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepA</Value>
+    <Value>HepB</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>85</Value>
+    <Value>45</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -212,9 +212,9 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>HepB</Value>
+    <Value>HepA</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>45</Value>
+    <Value>85</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -272,9 +272,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>PneumoPPV</Value>
+    <Value>PneumoPCV</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>33</Value>
+    <Value>152</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -284,9 +284,9 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>PneumoPCV</Value>
+    <Value>PneumoPPV</Value>
     <Name>CVX for Vaccine Group</Name>
-    <Value>152</Value>
+    <Value>33</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
@@ -1406,7 +1406,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</Value>
+    <Value>meningococcal conjugate quadrivalent, MenACWY-TT (MCV4)</Value>
     <Name>CVXCode</Name>
     <Value>203       </Value>
     <Name>Status</Name>
@@ -1442,7 +1442,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
+    <Value>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</Value>
     <Name>CVXCode</Name>
     <Value>206       </Value>
     <Name>Status</Name>
@@ -2378,6 +2378,18 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>COVID-19 SP, protein-based, adjuvanted (VidPrevtyn Beta), Sanofi-GSK</Value>
+    <Name>CVXCode</Name>
+    <Value>521       </Value>
+    <Name>Status</Name>
+    <Value>Non-US</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>COVID-19</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>213</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>typhoid, parenteral, AKD (U.S. military)</Value>
     <Name>CVXCode</Name>
     <Value>53        </Value>
@@ -2414,7 +2426,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>dengue fever</Value>
+    <Value>dengue fever tetravalent</Value>
     <Name>CVXCode</Name>
     <Value>56        </Value>
     <Name>Status</Name>
