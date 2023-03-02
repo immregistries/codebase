@@ -14477,6 +14477,48 @@
         </code-status>
     </code>
     <code>
+        <value>80631-0102-01</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">211</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0102-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80631-102-01</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0102-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230222</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80631010201</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0102-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230222</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0811-43</value>
         <label>PEDIARIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED, HEPATITIS B (RECOMBINANT) AND INACT</description>
@@ -16360,6 +16402,48 @@
                 <new-code-value>58160-0851-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141113</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0740-02</value>
+        <label>Rotarix</label>
+        <description>GlaxoSmithKline Biologicals SA - ROTAVIRUS VACCINE, LIVE, ORAL, PRE-FILLED APPLICATOR</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">119</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0740-21</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230201</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-740-02</value>
+        <label>Rotarix</label>
+        <description>GlaxoSmithKline Biologicals SA - ROTAVIRUS VACCINE, LIVE, ORAL, PRE-FILLED APPLICATOR</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0740-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230213</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160074002</value>
+        <label>Rotarix</label>
+        <description>GlaxoSmithKline Biologicals SA - ROTAVIRUS VACCINE, LIVE, ORAL, PRE-FILLED APPLICATOR</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0740-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230213</effective-date>
             </deprecated>
         </code-status>
     </code>
