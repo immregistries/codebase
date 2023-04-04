@@ -3317,7 +3317,7 @@
     <CVXVaccineDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</CVXVaccineDescription>
     <Fully-encodedString>253088698300036311210201</Fully-encodedString>
     <VISDocumentName>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VISDocumentName>
-    <VISEditionDate>5/5/2022</VISEditionDate>
+    <VISEditionDate>3/13/2023</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -3357,7 +3357,7 @@
     <CVXVaccineDescription>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</CVXVaccineDescription>
     <Fully-encodedString>253088698300048611220101</Fully-encodedString>
     <VISDocumentName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</VISDocumentName>
-    <VISEditionDate>12/8/2022</VISEditionDate>
+    <VISEditionDate>3/14/2023</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>
@@ -3365,7 +3365,7 @@
     <CVXVaccineDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</CVXVaccineDescription>
     <Fully-encodedString>253088698300048611220101</Fully-encodedString>
     <VISDocumentName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</VISDocumentName>
-    <VISEditionDate>12/8/2022</VISEditionDate>
+    <VISEditionDate>3/14/2023</VISEditionDate>
     <Status>Current</Status>
   </CVXVISMapping>
   <CVXVISMapping>

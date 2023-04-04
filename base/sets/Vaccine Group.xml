@@ -316,6 +316,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">200</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">231</link-to>
         </reference>
     </code>
     <code>

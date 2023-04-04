@@ -11,6 +11,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">143</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">BRR</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">TVA</link-to>
         </reference>
         <use-date>
             <not-before>20120807</not-before>
@@ -95,6 +96,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">510</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SPH</link-to>
         </reference>
         <use-date>
             <not-before>20210713</not-before>
@@ -108,6 +110,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">511</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SNV</link-to>
         </reference>
         <use-date>
             <not-before>20210713</not-before>
@@ -121,6 +124,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">502</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BBI</link-to>
         </reference>
         <use-date>
             <not-before>20211109</not-before>
@@ -176,6 +180,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">212</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">JSN</link-to>
         </reference>
         <use-date>
             <not-before>20210113</not-before>
@@ -202,6 +207,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">210</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">ASZ</link-to>
         </reference>
         <use-date>
             <not-before>20210713</not-before>
@@ -215,6 +221,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">506</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">CAN</link-to>
         </reference>
         <use-date>
             <not-before>20221101</not-before>
@@ -510,6 +517,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">146</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSP</link-to>
         </reference>
         <use-date>
             <not-before>20190213</not-before>
@@ -762,6 +770,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">220</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VBI</link-to>
         </reference>
         <use-date>
             <not-before>20220112</not-before>
@@ -1410,6 +1419,20 @@
         </use-date>
     </code>
     <code>
+        <value>FLUZONE High-Dose Quadrivalent Southern Hemisphere</value>
+        <label>influenza, Southern Hemisphere, high-dose, quadrivalent</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">231</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230314</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>FLUZONE Quadrivalent Southern Hemisphere, Pediatric</value>
         <label>influenza, Southern Hemisphere, pediatric, preservative free</label>
         <code-status>
@@ -1911,6 +1934,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">512</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MDO</link-to>
         </reference>
         <use-date>
             <not-before>20220411</not-before>
@@ -1924,6 +1948,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
         </reference>
         <use-date>
             <not-before>20200717</not-before>

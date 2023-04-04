@@ -238,7 +238,7 @@
     <CVXCode>226       </CVXCode>
     <Notes>EUA submission withdrawn by Sanofi</Notes>
     <Status>Never Active</Status>
-    <LastUpdated>10/18/2022</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</ShortDescription>
@@ -246,7 +246,7 @@
     <CVXCode>225       </CVXCode>
     <Notes>EUA submission withdrawn by Sanofi</Notes>
     <Status>Never Active</Status>
-    <LastUpdated>10/18/2022</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</ShortDescription>
@@ -921,6 +921,14 @@
     <LastUpdated>7/16/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>influenza, Southern Hemisphere, high-dose, quadrivalent</ShortDescription>
+    <FullVaccinename>influenza, seasonal, Southern Hemisphere, high-dose, quadrivalent, 0.7mL dose, preservative free</FullVaccinename>
+    <CVXCode>231       </CVXCode>
+    <Notes>Target population 65 and older, starting Southern Hemisphere season 2023</Notes>
+    <Status>Active</Status>
+    <LastUpdated>3/14/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, pediatric, preservative free</ShortDescription>
     <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free</FullVaccinename>
     <CVXCode>200       </CVXCode>
@@ -1334,7 +1342,7 @@
     <CVXCode>216       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>8/18/2021</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Pneumococcal Conjugate, unspecified formulation</ShortDescription>
@@ -1870,7 +1878,7 @@
     <CVXCode>14        </CVXCode>
     <Notes/>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>IGIV</ShortDescription>
@@ -1886,7 +1894,7 @@
     <CVXCode>998       </CVXCode>
     <Notes>Code 998 was added for use in VXU HL7 messages where the OBX segment is nested with the RXA segment, but the message does not contain information about a vaccine administration. An example of this use is to report the vaccines due next for a patient when no vaccine administration is being reported.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RESERVED - do not use</ShortDescription>
@@ -1902,7 +1910,7 @@
     <CVXCode>159       </CVXCode>
     <Notes/>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Rho(D) -IG IM</ShortDescription>
@@ -1958,7 +1966,7 @@
     <CVXCode>76        </CVXCode>
     <Notes/>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>tetanus immune globulin</ShortDescription>
@@ -1982,7 +1990,7 @@
     <CVXCode>98        </CVXCode>
     <Notes>TB Skin test is not vaccine.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>TST-OT tine test</ShortDescription>
@@ -1990,7 +1998,7 @@
     <CVXCode>95        </CVXCode>
     <Notes>TB Skin test is not vaccine.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>TST-PPD intradermal</ShortDescription>
@@ -1998,7 +2006,7 @@
     <CVXCode>96        </CVXCode>
     <Notes>TB Skin test is not vaccine.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>TST-PPD tine test</ShortDescription>
@@ -2006,7 +2014,7 @@
     <CVXCode>97        </CVXCode>
     <Notes>TB Skin test is not vaccine.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/4/2020</LastUpdated>
+    <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>unknown</ShortDescription>
