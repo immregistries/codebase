@@ -1778,6 +1778,18 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>influenza, Southern Hemisphere, high-dose, quadrivalent</Value>
+    <Name>CVXCode</Name>
+    <Value>231       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>FLU</Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>88</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>anthrax</Value>
     <Name>CVXCode</Name>
     <Value>24        </Value>

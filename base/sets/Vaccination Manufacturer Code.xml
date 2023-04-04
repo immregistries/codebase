@@ -78,6 +78,22 @@
         </use-date>
     </code>
     <code>
+        <value>ASZ</value>
+        <label>AstraZeneca</label>
+        <description>Parent Company of MedImmune</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">AstraZeneca COVID-19 Vaccine (Non-US tradenames include VAXZEVRIA, COVISHIELD)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00310-1222-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00310-1222-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221101</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>AVB</value>
         <label>Aventis Behring L.L.C.</label>
         <description>part of CSL</description>
@@ -117,6 +133,22 @@
         <use-date>
             <not-before>20110320</not-before>
             <not-after>20171116</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>BN</value>
+        <label>Bavarian Nordic A/S</label>
+        <description>manufacturer of national stockpile smallpox vaccine Jynneos</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">JYNNEOS</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200717</not-before>
         </use-date>
     </code>
     <code>
@@ -180,6 +212,20 @@
         </use-date>
     </code>
     <code>
+        <value>BBI</value>
+        <label>Bharat Biotech International Limited</label>
+        <description>Non-US COVID-19 Vaccine Manufacturer - WHO Authorized (COVAXIN)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">COVAXIN (Bharat) COVID-19 Vaccine</link-to>
+        </reference>
+        <use-date>
+            <not-before>20211109</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>BTP</value>
         <label>Biotest Pharmaceuticals Corporation</label>
         <description>New owner of NABI HB as of December 2007, Does NOT replace NABI Biopharmaceuticals in this code list.</description>
@@ -199,6 +245,20 @@
         </code-status>
         <use-date>
             <not-after>20140429</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>CAN</value>
+        <label>CanSino Biologics, Inc</label>
+        <description>Non-US COVID-19 vaccine manufacturer, WHO Authorized (CONVIDECIA) on 5/19/2022</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">CONVIDECIA (CanSino Biologics) COVID-19 Vaccine</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221101</not-before>
         </use-date>
     </code>
     <code>
@@ -695,6 +755,22 @@
         </use-date>
     </code>
     <code>
+        <value>JSN</value>
+        <label>Janssen</label>
+        <description>Division of Johnson and Johnson, manufacturer of Covid-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Janssen (J&amp;J) COVID-19 Vaccine</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59676-0580-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59676-0580-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20221101</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>JNJ</value>
         <label>Johnson and Johnson</label>
         <description>acquired CRUCELL which acquired Berna</description>
@@ -785,6 +861,20 @@
         <use-date>
             <not-before>20150921</not-before>
             <not-after>20171116</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>MDO</value>
+        <label>Medicago, Inc</label>
+        <description>Non-US COVID-19 vaccine manufacturer Cofivenz vaccine recognized by ACIP</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Covifenz</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220413</not-before>
         </use-date>
     </code>
     <code>
@@ -1013,6 +1103,24 @@
         </use-date>
     </code>
     <code>
+        <value>MSP</value>
+        <label>MSP Vaccine Company - (partnership Merck and Sanofi Pasteur)</label>
+        <description>US Based - Joint manufacturing partnership, initial vaccine Vaxelis 10/2020</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">VAXELIS</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-58</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">63361-0243-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">63361-0243-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210727</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>NAB</value>
         <label>NABI</label>
         <description>formerly North American Biologicals, Inc.</description>
@@ -1160,6 +1268,7 @@
         </reference>
         <use-date>
             <not-before>20101102</not-before>
+            <not-after>20210721</not-after>
         </use-date>
     </code>
     <code>
@@ -1200,7 +1309,7 @@
     <code>
         <value>PAX</value>
         <label>PaxVax</label>
-        <description></description>
+        <description>Emergent Biosolutions acquired PaxVax 8/2021, US Vaccines starting to label under Emergent Travel Health Inc.</description>
         <code-status>
             <status>Valid</status>
         </code-status>
@@ -1681,6 +1790,13 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0422-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0422-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0637-15</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Quadrivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0379-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0323-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0355-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0379-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0355-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0323-50</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1827,6 +1943,34 @@
         </use-date>
     </code>
     <code>
+        <value>SPH</value>
+        <label>Sinopharm-Biotech</label>
+        <description>Non-US COVID-19 Vaccine Manufacturer - WHO Authorized</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Sinopharm (BIBP) COVID-19 Vaccine</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210715</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>SNV</value>
+        <label>Sinovac</label>
+        <description>Non-US COVID-19 Vaccine Manufacturer - WHO Authorized (Sinovac, CoronaVac)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Coronavac (Sinovac) COVID-19 Vaccine</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210712</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>SOL</value>
         <label>Solvay Pharmaceuticals</label>
         <description>Part of Abbott</description>
@@ -1860,6 +2004,23 @@
         <use-date>
             <not-before>20100528</not-before>
             <not-after>20171116</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>TVA</value>
+        <label>TEVA Pharmaceuticals USA</label>
+        <description>BARR Laboratories merged with TEVA in 2007. The MVX for Barr was retired in 2011, TEVA continues to produce the former BARR vaccines</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">Adenovirus types 4 and 7</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0174-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">51285-0175-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">51285-0138-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20190723</not-before>
         </use-date>
     </code>
     <code>
@@ -1932,6 +2093,22 @@
         <use-date>
             <not-expected-after>20100528</not-expected-after>
             <not-after>20100528</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>VBI</value>
+        <label>VBI Vaccines, Inc</label>
+        <description>New Vaccine Manufacturer added 1/2022</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_TRADE_NAME">PREHEVBRIO Hepatitis B Vaccine (Recombinant)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">75052-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">75052-0001-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20220413</not-before>
         </use-date>
     </code>
     <code>
