@@ -163,18 +163,6 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles-recombinant.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet-12 years and older</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000332</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna Vaccine EUA Recipient-Caregiver Fact Sheet - 6 yrs and older</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000349</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/modernatx.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/modernatx.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Janssen Vaccine EUA Recipient-Caregiver Fact Sheet </VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000363</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/janssen.pdf"/>
@@ -187,22 +175,10 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/novavax.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000424</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.pdf "/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Dengue Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000462</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/dengue.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/dengue.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000486</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children-under-5-years.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-children-under-5-years.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</VIS_Document_Type_Description_ConceptName>
@@ -211,22 +187,10 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Sanofi-GSK EUA Recipient-Caregiver Fact Sheet - Booster</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000523</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/sanofi.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/sanofi.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000509</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-children-6-years-under-12-years.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-children-6-years-under-12-years.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000516</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-children-6-months-under-6-years.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-children-6-months-under-6-years.html"/>
+    <VIS_Document_Type_Description_ConceptName>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000530</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/smallpox-monkeypox.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/smallpox-monkeypox.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Ebola Vaccine VIS</VIS_Document_Type_Description_ConceptName>
@@ -235,9 +199,15 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ebola.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000530</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/smallpox-monkeypox.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/smallpox-monkeypox.html"/>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000585</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-over-5-months.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-over-5-months.html"/>
+  </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000592</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.html"/>
   </VISURLInfo>
 </VISURL>
