@@ -149,8 +149,16 @@
     <Edition_Date>10/15/2021</Edition_Date>
     <VIS_encoded_string>253088698300005911211015</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>5/12/2023</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Hepatitis B Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>5/12/2023</Edition_Date>
+    <VIS_encoded_string>253088698300005911230512</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/15/2021</Lastupdated>
+    <Lastupdated>5/12/2023</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Haemophilus Influenzae type b VIS</VIS_Document_Type_Description>
@@ -1029,8 +1037,16 @@
     <Edition_Date>2/4/2022</Edition_Date>
     <VIS_encoded_string>253088698300049311220204</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000493</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>5/12/2023</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</VIS_Document_Type_Description>
+    <Edition_Date>5/12/2023</Edition_Date>
+    <VIS_encoded_string>253088698300049311230512</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000493</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>2/4/2022</Lastupdated>
+    <Lastupdated>5/12/2023</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</VIS_Document_Type_Description>
@@ -1073,14 +1089,6 @@
     <Lastupdated>11/14/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
-    <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>
-    <Edition_Date>6/30/2022</Edition_Date>
-    <VIS_encoded_string>253088698300054711220630</VIS_encoded_string>
-    <VIS_GDTI_document_code>0886983000547</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>6/30/2022</Lastupdated>
-  </VISInfo>
-  <VISInfo>
     <VIS_Document_Type_Description>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description>
     <Edition_Date>11/14/2022</Edition_Date>
     <VIS_encoded_string>253088698300053011221114</VIS_encoded_string>
@@ -1089,12 +1097,20 @@
     <Lastupdated>11/14/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
+    <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>6/30/2022</Edition_Date>
+    <VIS_encoded_string>253088698300054711220630</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000547</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>6/30/2022</Lastupdated>
+  </VISInfo>
+  <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description>
-    <Edition_Date>4/18/2023</Edition_Date>
+    <Edition_Date>4/28/2023</Edition_Date>
     <VIS_encoded_string>253088698300058511230401</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000585</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>4/18/2023</Lastupdated>
+    <Lastupdated>4/28/2023</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description>
