@@ -400,6 +400,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
         </reference>
         <use-date/>
     </code>
