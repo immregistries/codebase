@@ -13531,6 +13531,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-03</link-to>
         </reference>
         <use-date>
             <not-before>20210317</not-before>
@@ -14166,6 +14167,48 @@
                 <new-code-value>49281-0590-58</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20200527</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-6180-01</value>
+        <label>MENQUADFI</label>
+        <description>A-S Medication Solutions - meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">203</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6180-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230503</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-6180-1</value>
+        <label>MENQUADFI</label>
+        <description>A-S Medication Solutions - meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-6180-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230510</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090618001</value>
+        <label>MENQUADFI</label>
+        <description>A-S Medication Solutions - meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-6180-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230510</effective-date>
             </deprecated>
         </code-status>
     </code>

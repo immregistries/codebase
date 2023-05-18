@@ -1822,6 +1822,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-0734-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-2219-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">54868-2219-00</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">90747</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -4042,6 +4043,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">MenQuadfi</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0590-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-6180-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6180-00</link-to>
         </reference>
         <use-date>
             <not-before>20200527</not-before>
@@ -5245,6 +5248,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
             <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90611</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-03</link-to>
         </reference>
         <use-date>
             <not-before>20200720</not-before>
