@@ -302,7 +302,7 @@
     <Name>CVX Code</Name>
     <Value>206       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/27/2022</Value>
+    <Value>4/11/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -366,7 +366,7 @@
     <Name>CVX Code</Name>
     <Value>75        </Value>
     <Name>LastUpdated</Name>
-    <Value>7/27/2022</Value>
+    <Value>4/11/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -778,9 +778,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -794,9 +794,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1914,9 +1914,9 @@
     <Name>Comments</Name>
     <Value>Note that the NDCs for Engerix-B are mapped to CVX 43 which is not specific to dialysis use</Value>
     <Name>Vaccine Name</Name>
-    <Value>Hep B, dialysis</Value>
+    <Value>Hep B, adult</Value>
     <Name>CVX Code</Name>
-    <Value>44        </Value>
+    <Value>43        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -2202,7 +2202,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster ages 12+ yrs</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 30 mcg/0.3 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 30 mcg/0.3 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>300       </Value>
     <Name>LastUpdated</Name>
@@ -2218,7 +2218,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster for ages 18+ yrs, potential EUA ages 6 yrs through 17 yrs</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>229       </Value>
     <Name>LastUpdated</Name>
@@ -2234,7 +2234,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA authorized 8/31/2022 bivalent booster for ages 6 yrs through 11 yrs</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>229       </Value>
     <Name>LastUpdated</Name>
@@ -2250,7 +2250,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - Potential EUA authorization bivalent booster for ages 5 yrs through 11 yrs</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL dose</Value>
     <Name>CVX Code</Name>
     <Value>301       </Value>
     <Name>LastUpdated</Name>
@@ -2266,7 +2266,7 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA authorized 12/8/2022  bivalent booster (Moderna) for ages 6 mo through 5 yrs</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL</Value>
     <Name>CVX Code</Name>
     <Value>230       </Value>
     <Name>LastUpdated</Name>

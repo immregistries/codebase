@@ -1742,7 +1742,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</Value>
     <Name>CVXCode</Name>
     <Value>229       </Value>
     <Name>Status</Name>
@@ -1766,7 +1766,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL</Value>
     <Name>CVXCode</Name>
     <Value>230       </Value>
     <Name>Status</Name>
@@ -1838,7 +1838,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 30 mcg/0.3 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 30 mcg/0.3 mL dose</Value>
     <Name>CVXCode</Name>
     <Value>300       </Value>
     <Name>Status</Name>
@@ -1850,7 +1850,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent booster, PF, 10 mcg/0.2 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL dose</Value>
     <Name>CVXCode</Name>
     <Value>301       </Value>
     <Name>Status</Name>
