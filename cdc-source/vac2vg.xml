@@ -1874,6 +1874,30 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>303       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RSV </Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>304</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>Respiratory syncytial virus (RSV), unspecified </Value>
+    <Name>CVXCode</Name>
+    <Value>304       </Value>
+    <Name>Status</Name>
+    <Value>Inactive</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RSV </Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>304</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>Hep A, pediatric, unspecified formulation</Value>
     <Name>CVXCode</Name>
     <Value>31        </Value>

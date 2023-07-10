@@ -1900,6 +1900,20 @@
         </use-date>
     </code>
     <code>
+        <value>Arexvy</value>
+        <label>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230606</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>MERUVAX II</value>
         <label>rubella</label>
         <code-status>
