@@ -1273,6 +1273,14 @@
         </use-date>
     </code>
     <code>
+        <value>90679</value>
+        <label>Respiratory syncytial virus vaccine, preF, recombinant, subunit, adjuvanted, for intramuscular use</label>
+        <description>CPT Code to be Used for Arexvy</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90375</value>
         <label>RIG</label>
         <description></description>

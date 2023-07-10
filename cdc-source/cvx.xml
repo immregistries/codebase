@@ -1425,6 +1425,14 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Respiratory syncytial virus (RSV), unspecified </ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV), unspecified </FullVaccinename>
+    <CVXCode>304       </CVXCode>
+    <Notes/>
+    <Status>Inactive</Status>
+    <LastUpdated>6/6/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>rheumatic fever</ShortDescription>
     <FullVaccinename>rheumatic fever vaccine</FullVaccinename>
     <CVXCode>72        </CVXCode>
@@ -1471,6 +1479,14 @@
     <Notes/>
     <Status>Inactive</Status>
     <LastUpdated>9/30/2010</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV), vaccine, recombinant, protein subunit RSV prefusion F, adjuvant reconstituted, 0.5 mL, preservative free</FullVaccinename>
+    <CVXCode>303       </CVXCode>
+    <Notes>Adults 60 years and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>6/6/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>rubella</ShortDescription>

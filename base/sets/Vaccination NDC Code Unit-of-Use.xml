@@ -1732,6 +1732,48 @@
         </code-status>
     </code>
     <code>
+        <value>58160-0723-03</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (antigen component)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0848-11</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230503</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-723-03</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (antigen component)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0723-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230605</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160072303</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (antigen component)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0723-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230605</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0855-01</value>
         <label>AS03</label>
         <description>GlaxoSmithKline Biologicals SA - AS03 Adjuvant Solution</description>
@@ -11867,6 +11909,48 @@
         </code-status>
     </code>
     <code>
+        <value>50090-4958-00</value>
+        <label>GARDASIL 9</label>
+        <description>A-S Medication Solutions - HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">165</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-4958-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230522</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-4958-0</value>
+        <label>GARDASIL 9</label>
+        <description>A-S Medication Solutions - HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-4958-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230525</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090495800</value>
+        <label>GARDASIL 9</label>
+        <description>A-S Medication Solutions - HUMAN PAPILLOMAVIRUS 9-VALENT VACCINE, RECOMBINANT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-4958-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230525</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0825-43</value>
         <label>HAVRIX</label>
         <description>GlaxoSmithKline Biologicals SA - HEPATITIS A VACCINE</description>
@@ -16010,6 +16094,48 @@
                 <new-code-value>49281-0564-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220210</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0564-58</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">130</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0564-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200206</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-564-58</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0564-58</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230606</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281056458</value>
+        <label>QUADRACEL</label>
+        <description>Sanofi Pasteur Inc. - DTAP adsorbed and inactivated poliovirus vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0564-58</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230606</effective-date>
             </deprecated>
         </code-status>
     </code>

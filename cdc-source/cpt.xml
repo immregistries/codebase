@@ -302,7 +302,7 @@
     <Name>CVX Code</Name>
     <Value>206       </Value>
     <Name>LastUpdated</Name>
-    <Value>4/11/2023</Value>
+    <Value>5/31/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -366,7 +366,7 @@
     <Name>CVX Code</Name>
     <Value>75        </Value>
     <Name>LastUpdated</Name>
-    <Value>4/11/2023</Value>
+    <Value>5/31/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -778,9 +778,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -794,9 +794,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1023,6 +1023,22 @@
     <Value>216       </Value>
     <Name>LastUpdated</Name>
     <Value>9/13/2021</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90679     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus vaccine, preF, recombinant, subunit, adjuvanted, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>CPT Code to be Used for Arexvy</Value>
+    <Name>Vaccine Name</Name>
+    <Value>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>303       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/6/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>

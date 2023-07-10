@@ -509,6 +509,14 @@
         </reference>
     </code>
     <code>
+        <value>RSV</value>
+        <label>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">304</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+        </reference>
+    </code>
+    <code>
         <value>RUBELLA</value>
         <label>Rubella</label>
         <description></description>
