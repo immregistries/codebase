@@ -210,4 +210,10 @@
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.html"/>
   </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000608</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html"/>
+  </VISURLInfo>
 </VISURL>

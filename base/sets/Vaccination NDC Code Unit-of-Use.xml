@@ -3,6 +3,50 @@
     <label>Vaccination NDC for Unit-of-Use</label>
     <type>VACCINATION_NDC_CODE_UNIT_OF_USE</type>
     <code>
+        <value>00069-0207-01</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - respiratory syncytial virus (RSV) bivalent vaccine (antigen component)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">305</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-05</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230712</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-0207-01</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - respiratory syncytial virus (RSV) bivalent vaccine (antigen component)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0207-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069020701</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - respiratory syncytial virus (RSV) bivalent vaccine (antigen component)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0207-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>71665-0330-01</value>
         <label>ACAM2000</label>
         <description>Emergent Product Development Gaithersburg Inc. - Smallpox (Vaccinia) Vaccine, Live (National Stockpile)</description>
@@ -1688,6 +1732,90 @@
         </code-status>
     </code>
     <code>
+        <value>33332-0423-11</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0423-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-423-11</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0423-11</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230717</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332042311</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0423-11</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230717</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332-0323-04</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0323-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>33332-323-04</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0323-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230717</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>33332032304</value>
+        <label>Afluria Quadrivalent</label>
+        <description>Seqirus PTY LTD. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>33332-0323-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230717</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0618-78</value>
         <label>ANTIGEN COMPONENT</label>
         <description>Sanofi Pasteur Inc. - COVID-19, D614, recomb, preS dTM, AS03 adjuvant add, PF, 5mcg/0.5mL</description>
@@ -2033,6 +2161,90 @@
                 <new-code-value>46028-0114-11</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150521</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0575-00</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 50mg/0.5mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">306</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0575-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230718</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-575-00</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 50mg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0575-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230725</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281057500</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 50mg/0.5mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0575-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230725</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0574-88</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 100mg/1.0mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">307</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0574-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230718</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-574-88</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 100mg/1.0mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0574-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230725</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281057488</value>
+        <label>BEYFORTUS</label>
+        <description>Sanofi Pasteur Inc. - Nirsevimab monoclonal antibody 100mg/1.0mL</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0574-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230725</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -3475,6 +3687,48 @@
         </code-status>
     </code>
     <code>
+        <value>70461-0123-04</value>
+        <label>FLUAD QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza vaccine, quadrivalent, adjuvanted, preservative free (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">205</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0123-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-123-04</value>
+        <label>FLUAD QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza vaccine, quadrivalent, adjuvanted, preservative free (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0123-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230711</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461012304</value>
+        <label>FLUAD QUADRIVALENT</label>
+        <description>Seqirus, Inc. - influenza vaccine, quadrivalent, adjuvanted, preservative free (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0123-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230711</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0883-41</value>
         <label>FLUARIX</label>
         <description>GlaxoSmithKline Biologicals SA - INFLUENZA VIRUS VACCINE</description>
@@ -4121,6 +4375,48 @@
         </code-status>
     </code>
     <code>
+        <value>58160-0909-41</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0909-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-909-41</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0909-41</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160090941</value>
+        <label>FLUARIX QUADRIVALENT</label>
+        <description>GlaxoSmithKline Biologicals SA - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0909-41</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>42874-0015-01</value>
         <label>Flublok</label>
         <description>Protein Sciences Corporation - influenza virus vaccine</description>
@@ -4592,6 +4888,48 @@
                 <new-code-value>49281-0722-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0723-88</value>
+        <label>Flublok Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">185</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0723-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-723-88</value>
+        <label>Flublok Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0723-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281072388</value>
+        <label>Flublok Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza, quadrivalent, recombinant, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0723-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -5238,6 +5576,90 @@
                 <new-code-value>70461-0422-11</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0423-11</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">186</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0423-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-423-11</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0423-11</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461042311</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0423-11</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0323-04</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">171</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0323-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-323-04</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0323-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461032304</value>
+        <label>Flucelvax Quadrivalent</label>
+        <description>Seqirus Inc. - influenza, MDCK, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0323-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -6397,6 +6819,48 @@
                 <new-code-value>19515-0808-41</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>19515-0814-41</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0814-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-814-41</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>19515-0814-41</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230711</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>19515081441</value>
+        <label>Flulaval Quadrivalent</label>
+        <description>ID Biomedical Corporation of Quebec - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>19515-0814-41</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230711</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -9411,6 +9875,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0123-88</value>
+        <label>Fluzone High-Dose Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, high dose, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">197</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0123-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-123-88</value>
+        <label>Fluzone High-Dose Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, high dose, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0123-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281012388</value>
+        <label>Fluzone High-Dose Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, high dose, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0123-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0379-88</value>
         <label>FLUZONE High-Dose Quadrivalent Southern Hemisphere</label>
         <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-Dose 0.7 mL (2023 season southern hemisphere)</description>
@@ -10954,6 +11460,90 @@
                 <new-code-value>49281-0422-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220719</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0423-88</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">150</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0423-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-423-88</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0423-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281042388</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, single-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0423-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0639-78</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">158</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0639-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-639-78</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0639-78</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230718</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281063978</value>
+        <label>Fluzone Quadrivalent Northern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - influenza vaccine, quadrivalent, multi-dose (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0639-78</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230718</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -17100,6 +17690,48 @@
                 <new-code-value>49281-0215-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20150722</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-2062-01</value>
+        <label>TENIVAC</label>
+        <description>A-S Medication Solutions - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">113</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2062-00</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230630</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-2062-1</value>
+        <label>TENIVAC</label>
+        <description>A-S Medication Solutions - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-2062-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230711</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090206201</value>
+        <label>TENIVAC</label>
+        <description>A-S Medication Solutions - CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) AND CORYNEBACTERIUM DIPHTHERIAE TOXOID</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-2062-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230711</effective-date>
             </deprecated>
         </code-status>
     </code>

@@ -1898,6 +1898,42 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
+    <Value>RSV, bivalent, protein subunit RSVpreF, diluent reconstituted, 0.5 mL, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>305       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RSV </Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>304</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</Value>
+    <Name>CVXCode</Name>
+    <Value>306       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RSV </Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>304</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
+    <Value>RSV, mAb, nirsevimab-alip, 1.0 mL, neonate to 24 months</Value>
+    <Name>CVXCode</Name>
+    <Value>307       </Value>
+    <Name>Status</Name>
+    <Value>Active</Value>
+    <Name>Vaccine Group Name</Name>
+    <Value>RSV </Value>
+    <Name>CVX for Vaccine Group</Name>
+    <Value>304</Value>
+  </CVXVGInfo>
+  <CVXVGInfo>
+    <Name>ShortDescription</Name>
     <Value>Hep A, pediatric, unspecified formulation</Value>
     <Name>CVXCode</Name>
     <Value>31        </Value>

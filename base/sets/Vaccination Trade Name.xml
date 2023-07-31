@@ -1900,6 +1900,35 @@
         </use-date>
     </code>
     <code>
+        <value>ABRYSVO</value>
+        <label>RSV, bivalent, protein subunit RSVpreF, diluent reconstituted, 0.5 mL, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">305</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230712</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>BEYFORTUS</value>
+        <label>RSV, mAb, nirsevimab-alip, 1.0 mL, neonate to 24 months</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">307</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">306</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230721</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Arexvy</value>
         <label>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</label>
         <code-status>
