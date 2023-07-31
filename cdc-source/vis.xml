@@ -749,8 +749,16 @@
     <Edition_Date>10/15/2021</Edition_Date>
     <VIS_encoded_string>253088698300026411211015</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000264</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>7/24/2023</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Multi Pediatric Vaccines VIS</VIS_Document_Type_Description>
+    <Edition_Date>7/24/2023</Edition_Date>
+    <VIS_encoded_string>253088698300026411230724</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000264</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/15/2021</Lastupdated>
+    <Lastupdated>7/24/2023</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tetanus/Diphtheria/Pertussis (Tdap) VIS</VIS_Document_Type_Description>
@@ -1119,5 +1127,13 @@
     <VIS_GDTI_document_code>0886983000592</VIS_GDTI_document_code>
     <status>Current</status>
     <Lastupdated>4/18/2023</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>RSV (Respiratory Syncytial Virus) Vaccine</VIS_Document_Type_Description>
+    <Edition_Date>7/24/2023</Edition_Date>
+    <VIS_encoded_string>253088698300060811230724</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000608</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>7/24/2023</Lastupdated>
   </VISInfo>
 </VISLookup>

@@ -626,6 +626,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Arexvy</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0723-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0848-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0909-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0909-52</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -712,6 +714,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0818-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0808-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0808-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0814-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0814-52</link-to>
         </reference>
         <use-date>
             <not-before>20130905</not-before>
@@ -1396,6 +1400,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6026-00</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer COVID-19 Bivalent, Original + BA.1 (Non-US Tradename COMIRNATY Bivalent)</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">ABRYSVO</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0207-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-05</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1807,6 +1816,21 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6180-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0564-58</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0564-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">BEYFORTUS</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0575-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0574-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0723-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0123-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0423-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0639-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-2062-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0575-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0574-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0723-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0123-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0639-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0423-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2062-00</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1947,6 +1971,16 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0122-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0322-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0422-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0423-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0323-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0123-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0423-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0323-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0323-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0423-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0123-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0423-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0323-03</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>

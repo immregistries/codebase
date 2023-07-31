@@ -1388,6 +1388,32 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300026411230724</value>
+        <label>Multi Pediatric Vaccines VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">120</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">10</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">146</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">130</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">106</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">110</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">48</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">08</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">49</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">28</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">216</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">20</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">215</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230724</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300026411121116</value>
         <label>Multiple Vaccines VIS</label>
         <code-status>
@@ -1823,6 +1849,20 @@
         </reference>
         <use-date>
             <not-before>20150415</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300060811230724</value>
+        <label>RSV (Respiratory Syncytial Virus) Vaccine</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">303</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">305</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230724</not-before>
         </use-date>
     </code>
     <code>

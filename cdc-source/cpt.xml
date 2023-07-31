@@ -146,19 +146,35 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
-    <Value>90379     </Value>
+    <Value>90380     </Value>
     <Name>CPT Desc</Name>
-    <Value>Respiratory syncytial virus immune globulin (RSV-IgIV), human, for intravenous use</Value>
+    <Value>Respiratory syncytial virus, monoclonal antibody, seasonal dose; 0.5 mL dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value/>
+    <Value>CPT Code to be used for Beyfortus 0.5 mL</Value>
     <Name>Vaccine Name</Name>
-    <Value>RSV-IGIV</Value>
+    <Value>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</Value>
     <Name>CVX Code</Name>
-    <Value>71        </Value>
+    <Value>306       </Value>
     <Name>LastUpdated</Name>
-    <Value>2/28/2017</Value>
+    <Value>7/21/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90381     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus, monoclonal antibody, seasonal dose; 1 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>CPT Code to be used for Beyfortus 1.0 mL</Value>
+    <Name>Vaccine Name</Name>
+    <Value>RSV, mAb, nirsevimab-alip, 1.0 mL, neonate to 24 months</Value>
+    <Name>CVX Code</Name>
+    <Value>307       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/21/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -778,9 +794,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -794,9 +810,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1026,6 +1042,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90678     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus vaccine, preF, subunit, bivalent, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>CPT Code to be used for ABRYZVO</Value>
+    <Name>Vaccine Name</Name>
+    <Value>RSV, bivalent, protein subunit RSVpreF, diluent reconstituted, 0.5 mL, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>305       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/21/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90679     </Value>
     <Name>CPT Desc</Name>
     <Value>Respiratory syncytial virus vaccine, preF, recombinant, subunit, adjuvanted, for intramuscular use</Value>
@@ -1038,7 +1070,7 @@
     <Name>CVX Code</Name>
     <Value>303       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/6/2023</Value>
+    <Value>7/19/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1741,6 +1773,22 @@
     <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
     <Value>114       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90734     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, diphtheria toxoid carrier (MenACWY-D) or CRM197 carrier (MenACWY-CRM), for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Meningococcal MCV4O</Value>
+    <Name>CVX Code</Name>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>

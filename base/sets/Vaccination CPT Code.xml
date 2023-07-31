@@ -1279,6 +1279,33 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>90678</value>
+        <label>Respiratory syncytial virus vaccine, preF, subunit, bivalent, for intramuscular use</label>
+        <description>CPT Code to be used for ABRYZVO</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>90380</value>
+        <label>Respiratory syncytial virus, monoclonal antibody, seasonal dose; 0.5 mL dosage, for intramuscular use</label>
+        <description>CPT Code to be used for Beyfortus 0.5 mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>90381</value>
+        <label>Respiratory syncytial virus, monoclonal antibody, seasonal dose; 1 mL dosage, for intramuscular use</label>
+        <description>CPT Code to be used for Beyfortus 1.0 mL</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90375</value>
