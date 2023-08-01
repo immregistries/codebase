@@ -1290,6 +1290,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">305</link-to>
+        </reference>
     </code>
     <code>
         <value>90380</value>
@@ -1298,6 +1301,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">306</link-to>
+        </reference>
     </code>
     <code>
         <value>90381</value>
@@ -1306,6 +1312,9 @@
         <code-status>
             <status>Valid</status>
         </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">307</link-to>
+        </reference>
     </code>
     <code>
         <value>90375</value>
