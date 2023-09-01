@@ -1490,19 +1490,19 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;,  (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
     <LastUpdated>7/25/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>RSV, mAb, nirsevimab-alip, 1.0 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1.0 mL, neonates and children to 24 months</FullVaccinename>
+    <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/25/2023</LastUpdated>
+    <LastUpdated>8/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</ShortDescription>

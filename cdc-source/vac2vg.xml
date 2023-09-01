@@ -1880,7 +1880,7 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RSV </Value>
+    <Value>RSV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>304</Value>
   </CVXVGInfo>
@@ -1892,7 +1892,7 @@
     <Name>Status</Name>
     <Value>Inactive</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RSV </Value>
+    <Value>RSV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>304</Value>
   </CVXVGInfo>
@@ -1904,7 +1904,7 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RSV </Value>
+    <Value>RSV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>304</Value>
   </CVXVGInfo>
@@ -1916,19 +1916,19 @@
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RSV </Value>
+    <Value>RSV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>304</Value>
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>RSV, mAb, nirsevimab-alip, 1.0 mL, neonate to 24 months</Value>
+    <Value>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</Value>
     <Name>CVXCode</Name>
     <Value>307       </Value>
     <Name>Status</Name>
     <Value>Active</Value>
     <Name>Vaccine Group Name</Name>
-    <Value>RSV </Value>
+    <Value>RSV</Value>
     <Name>CVX for Vaccine Group</Name>
     <Value>304</Value>
   </CVXVGInfo>
