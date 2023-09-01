@@ -7625,6 +7625,48 @@
         </code-status>
     </code>
     <code>
+        <value>66019-0310-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2023-2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">149</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0310-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230814</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-310-10</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0310-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230822</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019031010</value>
+        <label>FluMist Quadrivalent</label>
+        <description>MedImmune, LLC - Influenza Vaccine Live, Quadrivalent, Intranasal (2023-2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0310-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230822</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>66521-0117-02</value>
         <label>Fluvirin</label>
         <description>Novartis Vaccines and Diagnostics Limited - </description>
