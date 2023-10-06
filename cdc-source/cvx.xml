@@ -305,6 +305,14 @@
     <LastUpdated>9/7/2022</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 25 mcg/0.25 mL dose</FullVaccinename>
+    <CVXCode>311       </CVXCode>
+    <Notes>Moderna Fall 2023 6 months through 11 years of age</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>219       </CVXCode>
@@ -327,6 +335,14 @@
     <Notes>FDA EUA (12+ yrs) and BLA (16+ yrs), Pfizer adult primary series and IC dose tris-sucrose formulation. EUA 8/31/2022 rescinded monovalent booster dose</Notes>
     <Status>Active</Status>
     <LastUpdated>1/17/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</FullVaccinename>
+    <CVXCode>312       </CVXCode>
+    <Notes>Moderna Fall 2023 12 years and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</ShortDescription>
@@ -353,12 +369,44 @@
     <LastUpdated>6/15/2022</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 10 mcg/0.3 mL dose</FullVaccinename>
+    <CVXCode>310       </CVXCode>
+    <Notes>Pfizer Fall 2023 5 years through 11 years of age</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 3 mcg/0.3 mL dose</FullVaccinename>
+    <CVXCode>308       </CVXCode>
+    <Notes>Pfizer Fall 2023 6 months through 4 years of age</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 30 mcg/0.3 mL dose</FullVaccinename>
+    <CVXCode>309       </CVXCode>
+    <Notes>Pfizer Fall 2023 12 years and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/13/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL dose</FullVaccinename>
     <CVXCode>211       </CVXCode>
     <Notes>EUA 07/13/2022, 2-dose vaccine. Used to record Novavax vaccines administered in the US and in non-US locations (includes tradenames NUVAXOVID, COVOVAX)</Notes>
     <Status>Active</Status>
     <LastUpdated>11/29/2022</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 5 mcg/0.5 mL dose</FullVaccinename>
+    <CVXCode>313       </CVXCode>
+    <Notes>Novavax Fall 2023 12 years and older</Notes>
+    <Status>Active</Status>
+    <LastUpdated>9/1/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>dengue fever tetravalent</ShortDescription>
@@ -1425,12 +1473,28 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Respiratory syncytial virus (RSV) MAB, unspecified</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody (MAB), unspecified</FullVaccinename>
+    <CVXCode>315       </CVXCode>
+    <Notes>Unspecified, for historic records where the specific RSV MAB administered is not known</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/19/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Respiratory syncytial virus (RSV) vaccine, unspecified</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV) vaccine, unspecified</FullVaccinename>
+    <CVXCode>314       </CVXCode>
+    <Notes>Unspecified, for historic records where the specific vaccine administered is not known</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/19/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Respiratory syncytial virus (RSV), unspecified </ShortDescription>
     <FullVaccinename>Respiratory syncytial virus (RSV), unspecified </FullVaccinename>
     <CVXCode>304       </CVXCode>
-    <Notes/>
+    <Notes>Unspecified, for historic records where it is not known if RSV vaccine or RSV MAB was administered</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>6/6/2023</LastUpdated>
+    <LastUpdated>9/20/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>rheumatic fever</ShortDescription>

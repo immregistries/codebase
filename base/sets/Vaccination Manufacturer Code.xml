@@ -1109,6 +1109,14 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0283-99</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.1 (Non-US Tradename Spikevax Bivalent)</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename Spikevax Bivalent)</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (US only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0287-07</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0287-92</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-95</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-93</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-96</link-to>
         </reference>
         <use-date>
             <not-before>20201001</not-before>
@@ -1261,6 +1269,9 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine (Non-US Tradenames NUVAXOVID, COVOVAX)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0102-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0102-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine, Adjuvanted (US Only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0105-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0105-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1407,6 +1418,15 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-05</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2392-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2362-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4331-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4315-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2362-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2392-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4331-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4315-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

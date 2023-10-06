@@ -77,6 +77,19 @@
         </use-date>
     </code>
     <code>
+        <value>311</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300061511230901</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>228</value>
         <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6mo to &lt;6yrs</label>
         <code-status>
@@ -176,6 +189,19 @@
         </use-date>
     </code>
     <code>
+        <value>313</value>
+        <label>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300037011230901</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231003</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>217</value>
         <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -186,6 +212,32 @@
         </reference>
         <use-date>
             <not-before>20211119</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>310</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300058511230901</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>308</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300058511230901</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
         </use-date>
     </code>
     <code>
@@ -1466,6 +1518,32 @@
         </reference>
         <use-date>
             <not-before>20141022</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>306</value>
+        <label>RSV (Respiratory Syncytial Virus) preventative antibody IIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300062211230925</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230925</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>307</value>
+        <label>RSV (Respiratory Syncytial Virus) preventative antibody IIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300062211230925</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230925</not-before>
         </use-date>
     </code>
     <code>

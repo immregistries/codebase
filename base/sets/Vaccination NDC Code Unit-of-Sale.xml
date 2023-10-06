@@ -2762,6 +2762,90 @@
         </code-status>
     </code>
     <code>
+        <value>00069-2362-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2362-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2362-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2362-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069236210</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2362-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-2392-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2392-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2392-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2392-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069239210</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 30 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2392-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00006-4898-00</value>
         <label>COMVAX</label>
         <description>Merck Sharp &amp; Dohme Corp. - HAEMOPHILUS B CONJUGATE (MENINGOCOCCAL PROTEIN CONJUGATE) AND HEPATITIS B (RECOMBINANT) VACCINE</description>
@@ -15523,6 +15607,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0287-92</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 25 mcg/0.25 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0287-07</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-287-92</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 25 mcg/0.25 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0287-92</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777028792</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 25 mcg/0.25 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0287-92</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>80777-0282-99</value>
         <label>Moderna COVID-19 Vaccine, Bivalent</label>
         <description>Moderna US, Inc. - COVID-19, mRNA, LNP-S, bivalent booster, PF, 50 mcg/0.5 mL or 25mcg/0.25mL dose</description>
@@ -15649,6 +15775,48 @@
                 <new-code-value>80631-0102-10</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230222</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80631-0105-02</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron XBB.1.55, 5 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0105-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230901</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80631-105-02</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron XBB.1.55, 5 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0105-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80631010502</value>
+        <label>NOVAVAX COVID-19 Vaccine, Adjuvanted</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron XBB.1.55, 5 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0105-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -16263,6 +16431,90 @@
                 <new-code-value>59267-1055-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20210910</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-4331-02</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 10 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4331-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-4331-2</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 10 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4331-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267433102</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 10 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4331-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-4315-02</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 3 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4315-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-4315-2</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 3 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4315-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267431502</value>
+        <label>PFIZER-BIONTECH COVID-19 VACCINE</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, tris-sucrose, Omicron XBB.1.5, 3 mcg/0.3 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4315-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -18395,6 +18647,132 @@
                 <new-code-value>80777-0100-99</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20220519</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0102-95</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-102-95</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-95</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777010295</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-95</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0102-93</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-102-93</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-93</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777010293</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-93</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0102-96</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-102-96</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-96</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777010296</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron XBB.1.5, 50 mcg/0.5 mL (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0102-96</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20230912</effective-date>
             </deprecated>
         </code-status>
     </code>

@@ -135,6 +135,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300061511230901</value>
+        <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">311</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300059211230401</value>
         <label>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</label>
         <code-status>
@@ -246,6 +259,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300037011230901</value>
+        <label>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">313</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231003</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300033211210501</value>
         <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -258,6 +284,20 @@
         </reference>
         <use-date>
             <not-before>20210510</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300058511230901</value>
+        <label>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">310</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">308</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230911</not-before>
         </use-date>
     </code>
     <code>
@@ -1849,6 +1889,20 @@
         </reference>
         <use-date>
             <not-before>20150415</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300062211230925</value>
+        <label>RSV (Respiratory Syncytial Virus) preventative antibody IIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">306</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">307</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230925</not-before>
         </use-date>
     </code>
     <code>
