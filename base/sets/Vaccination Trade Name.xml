@@ -315,9 +315,24 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
         </reference>
         <use-date>
             <not-before>20220518</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Moderna COVID-19 Vaccine (US only)</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230906</not-before>
         </use-date>
     </code>
     <code>
@@ -392,9 +407,25 @@
             <link-to codeset="VACCINATION_CVX_CODE">217</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
         </reference>
         <use-date>
             <not-before>20220518</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Pfizer-BioNTech COVID-19 Vaccine (US Only)</value>
+        <label>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230906</not-before>
         </use-date>
     </code>
     <code>
@@ -409,6 +440,20 @@
         </reference>
         <use-date>
             <not-before>20221116</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>Novavax COVID-19 Vaccine, Adjuvanted (US Only)</value>
+        <label>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230906</not-before>
         </use-date>
     </code>
     <code>

@@ -795,6 +795,24 @@
         <test-age>16 years</test-age>
     </code>
     <code>
+        <value>311</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 25 mcg/0.25 mL dose Notes: Moderna Fall 2023 6 months through 11 years of age</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (US only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0287-07</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0287-92</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>219</value>
         <label>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2mL dose, tris-sucrose formulation Notes: Potential FDA EUA, Pfizer tris-sucrose vaccine for 2 through 4 years of age</description>
@@ -879,6 +897,27 @@
         <test-age>16 years</test-age>
     </code>
     <code>
+        <value>312</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose Notes: Moderna Fall 2023 12 years and older</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">SPIKEVAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0102-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-95</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-93</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-96</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>221</value>
         <label>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose Notes: Pre-EUA Authorization Use for Moderna booster dose 2.5mL vial presentation only</description>
@@ -949,6 +988,81 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>8 years</test-age>
+    </code>
+    <code>
+        <value>310</value>
+        <label>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 10 mcg/0.3 mL dose Notes: Pfizer Fall 2023 5 years through 11 years of age</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4331-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4331-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>308</value>
+        <label>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 3 mcg/0.3 mL dose Notes: Pfizer Fall 2023 6 months through 4 years of age</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4315-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4315-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>309</value>
+        <label>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 30 mcg/0.3 mL dose Notes: Pfizer Fall 2023 12 years and older</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">COMIRNATY</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2392-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2362-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2362-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2392-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230913</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>313</value>
+        <label>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 5 mcg/0.5 mL dose Notes: Novavax Fall 2023 12 years and older</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_CPT_CODE">91304</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine, Adjuvanted (US Only)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0105-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0105-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230901</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>56</value>
@@ -4865,6 +4979,36 @@
         </use-age>
         <concept-type>non vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>315</value>
+        <label>Respiratory syncytial virus (RSV) MAB, unspecified</label>
+        <description>Respiratory syncytial virus (RSV) monoclonal antibody (MAB), unspecified Notes: Unspecified, for historic records where the specific RSV MAB administered is not known</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RSV</link-to>
+        </reference>
+        <use-date>
+            <not-after>20230919</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
+        <value>314</value>
+        <label>Respiratory syncytial virus (RSV) vaccine, unspecified</label>
+        <description>Respiratory syncytial virus (RSV) vaccine, unspecified Notes: Unspecified, for historic records where the specific vaccine administered is not known</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RSV</link-to>
+        </reference>
+        <use-date>
+            <not-after>20230919</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>304</value>

@@ -2136,13 +2136,29 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>COVID-19 Vaccine - EUA authorized for ages 12+ yrs </Value>
+    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>313       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/8/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91304     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>211       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>9/8/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2351,5 +2367,85 @@
     <Value>302       </Value>
     <Name>LastUpdated</Name>
     <Value>12/13/2022</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91318     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 3 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>308       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/19/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91319     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 10 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>310       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/19/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91320     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 30 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>309       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/14/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91321     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 25 mcg/0.25 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>311       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/14/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91322     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 50 mcg/0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>312       </Value>
+    <Name>LastUpdated</Name>
+    <Value>9/14/2023</Value>
   </CPTInfo>
 </CPTCodes>

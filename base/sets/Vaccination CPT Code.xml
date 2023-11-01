@@ -1434,6 +1434,22 @@
         </reference>
     </code>
     <code>
+        <value>91321</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 25 mcg/0.25 mL dosage, for intramuscular use</label>
+        <description>Fall 2023 COVID-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91322</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 50 mcg/0.5 mL dosage, for intramuscular use</label>
+        <description>Fall 2023 COVID-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>91315</value>
         <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, bivalent spike protein, preservative free, 10 mcg/0.2 mL dosage, diluent reconstituted, tris-sucrose formulation, for intramuscular use</label>
         <description>COVID-19 Vaccine - Potential EUA authorization bivalent booster for ages 5 yrs through 11 yrs</description>
@@ -1465,6 +1481,30 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">300</link-to>
         </reference>
+    </code>
+    <code>
+        <value>91319</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 10 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</label>
+        <description>Fall 2023 COVID-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91318</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 3 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</label>
+        <description>Fall 2023 COVID-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
+        <value>91320</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, 30 mcg/0.3 mL dosage, tris-sucrose formulation, for intramuscular use</label>
+        <description>Fall 2023 COVID-19 vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>91316</value>
@@ -1596,6 +1636,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">211</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
         </reference>
     </code>
     <code>
