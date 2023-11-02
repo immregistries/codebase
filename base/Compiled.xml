@@ -5020,6 +5020,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            </reference>
         </code>
         <code>
             <value>91322</value>
@@ -5028,6 +5031,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            </reference>
         </code>
         <code>
             <value>91315</value>
@@ -5069,6 +5075,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+            </reference>
         </code>
         <code>
             <value>91318</value>
@@ -5077,6 +5086,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
+            </reference>
         </code>
         <code>
             <value>91320</value>
@@ -5085,6 +5097,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            </reference>
         </code>
         <code>
             <value>91316</value>
@@ -26340,6 +26355,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (US only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0287-07</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0287-92</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91321</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26445,6 +26461,7 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-95</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-93</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-96</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91322</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26535,6 +26552,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4331-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4331-02</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91319</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26553,6 +26571,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4315-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4315-02</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91318</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26573,6 +26592,7 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2362-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2362-10</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2392-10</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91320</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
