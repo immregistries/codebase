@@ -629,6 +629,20 @@
             </use-date>
         </code>
         <code>
+            <value>253088698300063911231019</value>
+            <label>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</label>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_VIS_VACCINES">312</link-to>
+                <link-to codeset="VACCINATION_VIS_VACCINES">309</link-to>
+            </reference>
+            <use-date>
+                <not-before>20231019</not-before>
+            </use-date>
+        </code>
+        <code>
             <value>253088698300046211211217</value>
             <label>Dengue Vaccine VIS</label>
             <code-status>
@@ -2190,6 +2204,20 @@
             </reference>
             <use-date>
                 <not-before>20230724</not-before>
+            </use-date>
+        </code>
+        <code>
+            <value>253088698300060811231019</value>
+            <label>RSV (Respiratory Syncytial Virus) Vaccine VIS</label>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_VIS_VACCINES">303</link-to>
+                <link-to codeset="VACCINATION_VIS_VACCINES">305</link-to>
+            </reference>
+            <use-date>
+                <not-before>20231019</not-before>
             </use-date>
         </code>
         <code>
@@ -4992,6 +5020,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            </reference>
         </code>
         <code>
             <value>91322</value>
@@ -5000,6 +5031,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            </reference>
         </code>
         <code>
             <value>91315</value>
@@ -5041,6 +5075,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+            </reference>
         </code>
         <code>
             <value>91318</value>
@@ -5049,6 +5086,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
+            </reference>
         </code>
         <code>
             <value>91320</value>
@@ -5057,6 +5097,9 @@
             <code-status>
                 <status>Valid</status>
             </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            </reference>
         </code>
         <code>
             <value>91316</value>
@@ -26312,6 +26355,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Moderna COVID-19 Vaccine (US only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0287-07</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0287-92</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91321</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26417,6 +26461,7 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-95</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-93</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-96</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91322</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26507,6 +26552,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4331-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4331-02</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91319</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26525,6 +26571,7 @@
                 <link-to codeset="VACCINATION_TRADE_NAME">Pfizer-BioNTech COVID-19 Vaccine (US Only)</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4315-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4315-02</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91318</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -26545,6 +26592,7 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2362-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2362-10</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2392-10</link-to>
+                <link-to codeset="VACCINATION_CPT_CODE">91320</link-to>
             </reference>
             <use-date>
                 <not-before>20230913</not-before>
@@ -46400,6 +46448,32 @@
             </use-date>
         </code>
         <code>
+            <value>312</value>
+            <label>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</label>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911231019</link-to>
+            </reference>
+            <use-date>
+                <not-before>20231019</not-before>
+            </use-date>
+        </code>
+        <code>
+            <value>309</value>
+            <label>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</label>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911231019</link-to>
+            </reference>
+            <use-date>
+                <not-before>20231019</not-before>
+            </use-date>
+        </code>
+        <code>
             <value>56</value>
             <label>Dengue Vaccine VIS</label>
             <code-status>
@@ -47631,6 +47705,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811230724</link-to>
+                <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811231019</link-to>
             </reference>
             <use-date>
                 <not-before>20230724</not-before>
@@ -47644,6 +47719,7 @@
             </code-status>
             <reference>
                 <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811230724</link-to>
+                <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811231019</link-to>
             </reference>
             <use-date>
                 <not-before>20230724</not-before>

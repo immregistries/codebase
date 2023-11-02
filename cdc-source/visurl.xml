@@ -216,4 +216,10 @@
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/vpd/rsv/downloads/Immunization-Information-Statement.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/vpd/rsv/immunization-information-statement.html"/>
   </VISURLInfo>
+  <VISURLInfo>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</VIS_Document_Type_Description_ConceptName>
+    <VIS_GDTI_document_Conceptcode>0886983000639</VIS_GDTI_document_Conceptcode>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/COVID-19.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/COVID-19.html"/>
+  </VISURLInfo>
 </VISURL>
