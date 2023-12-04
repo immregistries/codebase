@@ -196,9 +196,9 @@
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL</FullVaccinename>
     <CVXCode>212       </CVXCode>
-    <Notes>FDA EUA 02/27/2021, 1-dose vaccine. Used to record Janssen/J&amp;J vaccines administered in the US and in non-US locations</Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/8/2021</LastUpdated>
+    <Notes>Original monovalent Janssen/J&amp;J adult vaccine. All NDCs expired 6/20/2023, not reauthorized by FDA for Fall 2023 US doses. Continue to use to record Jansses/J&amp;J Non-US vaccines administered vaccines administered</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </ShortDescription>
@@ -252,57 +252,57 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 10 mcg/0.2 mL dose</FullVaccinename>
     <CVXCode>230       </CVXCode>
-    <Notes>EUA updated 04/18/2023 Moderna bivalent dosing (original strain + omicron BA.4/BA.5). Ages 6 mo through 5 yrs.</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/18/2023</LastUpdated>
+    <Notes>Original strain + omicron BA.4/BA.5 bivalent Moderna vaccine (6 mo through 5 yrs), FDA rescinded 9/11/2023</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 10 mcg/0.2 mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>301       </CVXCode>
-    <Notes>EUA updated 4/18/2023 Pfizer bivalent dosing, original strain + omicron BA.4/BA.5. Ages 5 yrs through 11 yrs.</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/18/2023</LastUpdated>
+    <Notes>Original strain + omicron BA.4/BA.5 bivalent Pfizer vaccine (5 yrs through 11 yrs), FDA rescinded 9/11/2023</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 3 mcg/0.2 mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>302       </CVXCode>
-    <Notes>EUA updated 4/18/2023 Pfizer bivalent dosing, original + omicron BA.4/BA.5. Ages 6 mo through 4 yrs.</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/18/2023</LastUpdated>
+    <Notes>Original strain + omicron BA.4/BA.5 bivalent Pfizer vaccine (6 mo through 4 yrs), FDA rescinded 09/11/2023</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 30 mcg/0.3 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 30 mcg/0.3 mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>300       </CVXCode>
-    <Notes>EUA updated 4/18/2023 Pfizer bivalent dosing, original strain + omicron BA.4/BA.5. Ages 12 yrs and older. Not Authorized by WHO.  Non-US Tradename for same formulation (Comirnaty Bivalent) counted toward immunity in US</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/18/2023</LastUpdated>
+    <Notes>Original strain + omicron BA.4/BA.5 bivalent Pfizer vaccine (12 yrs and older). FDA rescinded 09/11/2023.  Continue to use to record Non-US vaccines administered (tradename Comirnaty Bivalent)</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 50 mcg/0.5 mL or 25mcg/0.25 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent, preservative free, 50 mcg/0.5 mL or 25 mcg/0.25 mL dose</FullVaccinename>
     <CVXCode>229       </CVXCode>
-    <Notes>EUA updated 04/18/2023 Moderna bivalent dosing (original strain + omicron BA.4/BA.5).  Ages 6 mo and older- dose schedule and dose volume may vary by age and criteria.  Non-US Tradename for same formulation (Spikevax Bivalent) - not authorized by WHO - is authorized by EU and counted toward US immunity</Notes>
-    <Status>Active</Status>
-    <LastUpdated>4/18/2023</LastUpdated>
+    <Notes>Original strain + omicron BA.4/BA.5 bivalent Moderna vaccine (6 mo and older), FDA rescinded 9/11/2023.  Continue to use to record Non-US vaccines administered (tradename Spikevax Bivalent)</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>218       </CVXCode>
-    <Notes>FDA EUA (5 yrs through 11 yrs), Pfizer tris-sucrose pediatric primary series, IC, and booster </Notes>
-    <Status>Active</Status>
-    <LastUpdated>1/17/2023</LastUpdated>
+    <Notes>Original monovalent Pfizer tris-sucrose formulation (5 yrs through 11 yrs), FDA rescinded 4/18/2023 </Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/25/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose</FullVaccinename>
     <CVXCode>207       </CVXCode>
-    <Notes>FDA EUA and BLA (18+ yrs), Moderna adult primary series and IC dose. EUA 8/31/2022 rescinded monovalent booster dose. Used to record Moderna vaccines administered in the US and in non-US locations (includes tradename Spikevax)</Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/7/2022</LastUpdated>
+    <Notes>Original monovalent Moderna adult vaccine. FDA rescinded all doses for US use 4/18/2023. Continue to used to record historic US Moderna vaccines and those administered in non-US locations (includes tradename Spikevax)</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/24/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</ShortDescription>
@@ -316,25 +316,25 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>219       </CVXCode>
-    <Notes>FDA EUA (6 mo through 4 yrs), Pfizer tris-sucrose pediatric primary series </Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/6/2022</LastUpdated>
+    <Notes>Original monovalent Pfizer tris-sucrose formulation (6 mo through 4 yrs), FDA rescinded 4/18/2023 </Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose</FullVaccinename>
     <CVXCode>208       </CVXCode>
-    <Notes>FDA EUA (12+ yrs) and BLA (16+ yrs), Pfizer adult primary series and IC dose original formulation. EUA 8/31/2022 rescinded monovalent booster dose. Used to record Pfizer vaccines administered in the US and in non-US locations (includes tradename Comirnaty)</Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/7/2022</LastUpdated>
+    <Notes>Original monovalent Moderna adult vaccine (12+ yrs). FDA rescinded all doses for US use 4/18/2023.  Continue to use to record historic US Pfizer vaccines and Non-US vaccines administered (includes tradename Comirnaty)</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/24/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>217       </CVXCode>
-    <Notes>FDA EUA (12+ yrs) and BLA (16+ yrs), Pfizer adult primary series and IC dose tris-sucrose formulation. EUA 8/31/2022 rescinded monovalent booster dose</Notes>
-    <Status>Active</Status>
-    <LastUpdated>1/17/2023</LastUpdated>
+    <Notes>Original monovalent Pfizer tris-sucrose formulation FDA EUA (12+ yrs) and BLA (16+ yrs), FDA rescinded monovalent use 08/31/2022, BLA NDCs not retired until 09/11/2023. </Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>11/2/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</ShortDescription>
@@ -348,25 +348,25 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</FullVaccinename>
     <CVXCode>221       </CVXCode>
-    <Notes>FDA EUA Moderna, EUA 8/31/2022 rescinded use of this product for adult monovalent booster dose.  Vaccine now only authorized for 6 yrs through 11 primary series and IC doses</Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/7/2022</LastUpdated>
+    <Notes>Original monovalent Moderna, (Adult) FDA rescinded 4/18/2023, (6 yrs through 11 yrs) FDA rescinded 04/18/2023</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/25/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, pediatric 25 mcg/0.25 mL dose</FullVaccinename>
     <CVXCode>228       </CVXCode>
-    <Notes>FDA EUA Authorized (6 mo through 5 yrs), Moderna pediatric primary series and IC dose</Notes>
-    <Status>Active</Status>
-    <LastUpdated>9/6/2022</LastUpdated>
+    <Notes>Original monovalent Moderna pediatric vaccine (6 mo through 5 yrs), FDA rescinded 4/18/2023</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/27/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, pediatric 50 mcg/0.5 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, pediatric 50 mcg/0.5 mL dose</FullVaccinename>
     <CVXCode>227       </CVXCode>
-    <Notes>Temporarily inactivated -  Use CVX code 221 for EUA Moderna Pediatric 6yr to&lt;12 yr vaccine 2.5 mL vial, 50 mcg/0.5 mL dose</Notes>
+    <Notes>Original monovalent Moderna pediatric vaccine (FDA rescinded 4/18/2023). Inactivated 6/14/2022 to use CVX code 221 product instead</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>6/15/2022</LastUpdated>
+    <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</ShortDescription>
@@ -396,9 +396,9 @@
     <ShortDescription>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL dose</FullVaccinename>
     <CVXCode>211       </CVXCode>
-    <Notes>EUA 07/13/2022, 2-dose vaccine. Used to record Novavax vaccines administered in the US and in non-US locations (includes tradenames NUVAXOVID, COVOVAX)</Notes>
-    <Status>Active</Status>
-    <LastUpdated>11/29/2022</LastUpdated>
+    <Notes>Original monovalent Novavax vaccine (12+ years), FDA rescinded for US doses 10/03/2023. Continue to use to record Novavax Non-US vaccines administered (includes tradenames NUVAXOVID, COVOVAX)</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>10/24/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</ShortDescription>
@@ -1233,6 +1233,14 @@
     <LastUpdated>10/27/2017</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>meningococcal polysaccharide (MenACWY-TT conjugate), (MenB), PF</ShortDescription>
+    <FullVaccinename>meningococcal polysaccharide (groups A, C, Y, W) tetanus toxoid conjugate, meningococcal B recombinant vaccine, 0.5mL, preservative free</FullVaccinename>
+    <CVXCode>316       </CVXCode>
+    <Notes>Meningococcal pentavalent vaccine strains ABCW and Y</Notes>
+    <Status>Active</Status>
+    <LastUpdated>11/2/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>meningococcal, unknown serogroups</ShortDescription>
     <FullVaccinename>meningococcal vaccine of unknown formulation and unknown serogroups</FullVaccinename>
     <CVXCode>167       </CVXCode>
@@ -1554,7 +1562,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1562,7 +1570,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>

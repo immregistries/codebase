@@ -33,6 +33,20 @@
         </use-date>
     </code>
     <code>
+        <value>CYFENDUS</value>
+        <label>anthrax</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231102</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>AS03 adjuvant</value>
         <label>AS03 Adjuvant</label>
         <code-status>
@@ -1680,6 +1694,20 @@
         </reference>
         <use-date>
             <not-before>20200527</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>PENBRAYA</value>
+        <label>meningococcal polysaccharide (MenACWY-TT conjugate), (MenB), PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231102</not-before>
         </use-date>
     </code>
     <code>
