@@ -25,6 +25,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">318</link-to>
         </reference>
     </code>
     <code>
@@ -36,6 +37,13 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">19</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>Chikungunya</value>
+        <label>Chikungunya live attenuated vaccine, 0.5 mL, PF</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">317</link-to>
         </reference>
     </code>
     <code>

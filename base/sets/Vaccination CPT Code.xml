@@ -80,6 +80,14 @@
         <use-date/>
     </code>
     <code>
+        <value>90589</value>
+        <label>Chikungunya virus vaccine, live attenuated, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90725</value>
         <label>cholera</label>
         <description></description>
@@ -1022,6 +1030,14 @@
             <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
         </reference>
         <use-date/>
+    </code>
+    <code>
+        <value>90623</value>
+        <label>Meningococcal pentavalent vaccine, conjugated Men A, C, W, Y- tetanus toxoid carrier, and Men B-FHbp, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>90621</value>

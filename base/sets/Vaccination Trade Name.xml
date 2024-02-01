@@ -41,6 +41,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">318</link-to>
         </reference>
         <use-date>
             <not-before>20231102</not-before>
@@ -86,6 +87,20 @@
         </reference>
         <use-date>
             <not-before>20130809</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>IXCHIQ</value>
+        <label>Chikungunya live attenuated vaccine, 0.5 mL, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">317</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231214</not-before>
         </use-date>
     </code>
     <code>

@@ -146,6 +146,22 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>318</value>
+        <label>Anthrax, post-exposure prophylaxis</label>
+        <description>Anthrax vaccine, adsorbed, adjuvanted, post-exposure prophylaxis Notes: National stockpile vaccine (Cyfendus)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ANTHRAX</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">CYFENDUS</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240125</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>801</value>
         <label>AS03 Adjuvant</label>
         <description>AS03 Adjuvant Notes: This is the adjuvant that is
@@ -212,6 +228,22 @@
         </use-age>
         <concept-type>non vaccine</concept-type>
         <test-age>2 months</test-age>
+    </code>
+    <code>
+        <value>317</value>
+        <label>Chikungunya live attenuated vaccine, 0.5 mL, PF</label>
+        <description>Chikungunya, live attenuated vaccine, 0.5 mL, preservative free Notes: Chikungunya Vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Chikungunya</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">IXCHIQ</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231220</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>26</value>
@@ -1085,6 +1117,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2362-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2392-10</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">91320</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2377-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2377-10</link-to>
         </reference>
         <use-date>
             <not-before>20230913</not-before>
@@ -4262,6 +4296,11 @@
             <link-to codeset="VACCINE_GROUP">MENING</link-to>
             <link-to codeset="VACCINE_GROUP">MeningB</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">PENBRAYA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0271-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0332-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-01</link-to>
         </reference>
         <use-date>
             <not-before>20231102</not-before>

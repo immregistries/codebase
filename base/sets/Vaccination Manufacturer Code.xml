@@ -1431,6 +1431,13 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4331-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4315-02</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">PENBRAYA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2377-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0271-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0332-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2377-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-01</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -2148,6 +2155,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-01</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">IXCHIQ</link-to>
         </reference>
         <use-date>
             <not-before>20160719</not-before>

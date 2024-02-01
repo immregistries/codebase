@@ -2846,6 +2846,48 @@
         </code-status>
     </code>
     <code>
+        <value>00069-2377-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, 30 mcg/0.3 mL, no-freeze formulation (Fall 2023)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2377-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231031</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2377-10</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, 30 mcg/0.3 mL, no-freeze formulation (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2377-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20231211</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069237710</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, tris-sucrose, 30 mcg/0.3 mL, no-freeze formulation (Fall 2023)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2377-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20231211</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>00006-4898-00</value>
         <label>COMVAX</label>
         <description>Merck Sharp &amp; Dohme Corp. - HAEMOPHILUS B CONJUGATE (MENINGOCOCCAL PROTEIN CONJUGATE) AND HEPATITIS B (RECOMBINANT) VACCINE</description>
@@ -15990,6 +16032,135 @@
                 <new-code-value>00006-4897-00</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20140127</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-0600-05</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0332-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0271-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231127</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-0600-05</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-05</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20231218</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069060005</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-05</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20231218</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-0600-10</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0332-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0271-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231127</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-0600-10</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20231218</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069060010</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20231218</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-0600-01</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0332-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-0271-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231127</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-0600-01</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20231214</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069060001</value>
+        <label>PENBRAYA</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - MenACWY and MenB vaccine kit</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-0600-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20231214</effective-date>
             </deprecated>
         </code-status>
     </code>
