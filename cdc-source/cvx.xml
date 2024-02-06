@@ -33,12 +33,20 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>anthrax</ShortDescription>
-    <FullVaccinename>anthrax vaccine</FullVaccinename>
+    <ShortDescription>Anthrax, post-exposure prophylaxis</ShortDescription>
+    <FullVaccinename>Anthrax vaccine, adsorbed, adjuvanted, post-exposure prophylaxis</FullVaccinename>
+    <CVXCode>318       </CVXCode>
+    <Notes>National stockpile vaccine (Cyfendus)</Notes>
+    <Status>Active</Status>
+    <LastUpdated>1/25/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</ShortDescription>
+    <FullVaccinename>Anthrax vaccine, adsorbed, pre-exposure and post-exposure prophylaxis</FullVaccinename>
     <CVXCode>24        </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>6/11/2019</LastUpdated>
+    <LastUpdated>1/25/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>BCG</ShortDescription>
@@ -47,6 +55,14 @@
     <Notes/>
     <Status>Active</Status>
     <LastUpdated>5/28/2010</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Chikungunya live attenuated vaccine, 0.5 mL, PF</ShortDescription>
+    <FullVaccinename>Chikungunya, live attenuated vaccine, 0.5 mL, preservative free</FullVaccinename>
+    <CVXCode>317       </CVXCode>
+    <Notes>Chikungunya Vaccine</Notes>
+    <Status>Active</Status>
+    <LastUpdated>12/20/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>cholera, BivWC</ShortDescription>
@@ -130,11 +146,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 LAV Non-US Vaccine (COVIVAC)</ShortDescription>
-    <FullVaccinename>SARS-COV-2 COVID-19  Live Attenuated Virus Non-US Vaccine Product (COVIVAC)</FullVaccinename>
+    <FullVaccinename>SARS-COV-2 COVID-19 Live Attenuated Virus Non-US Vaccine Product (COVIVAC)</FullVaccinename>
     <CVXCode>503       </CVXCode>
     <Notes>Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/15/2021</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 mRNA, bivalent, original/Omicron BA.1, Non-US Vaccine (Spikevax Bivalent), Moderna</ShortDescription>
@@ -178,19 +194,19 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 PS Non-US Vaccine (Jiangsu Province Centers for Disease Control and Prevention)</ShortDescription>
-    <FullVaccinename>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product  (Jiangsu Province Centers for Disease Control and Prevention)</FullVaccinename>
+    <FullVaccinename>SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Jiangsu Province Centers for Disease Control and Prevention)</FullVaccinename>
     <CVXCode>508       </CVXCode>
     <Notes>Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/15/2021</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 SP, protein-based, adjuvanted (VidPrevtyn Beta), Sanofi-GSK</ShortDescription>
-    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine SP, protein-based, adjuvanted, B.1.351 strain (VidPrevtyn Beta), Sanofi-GSK </FullVaccinename>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine SP, protein-based, adjuvanted, B.1.351 strain (VidPrevtyn Beta), Sanofi-GSK</FullVaccinename>
     <CVXCode>521       </CVXCode>
     <Notes>Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>2/22/2023</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL</ShortDescription>
@@ -201,12 +217,12 @@
     <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </ShortDescription>
-    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL </FullVaccinename>
+    <ShortDescription>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL</FullVaccinename>
     <CVXCode>210       </CVXCode>
     <Notes>WHO authorized pandemic vaccine.  Recognized towards immunity in US.  AstraZeneca vaccine non-US WHO authorized tradenames/identifiers include VAXZEVRIA, AZD1222, ChAdOx1 nCoV-19, COVISHIELD</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>11/16/2022</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology</ShortDescription>
@@ -324,9 +340,9 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose</FullVaccinename>
     <CVXCode>208       </CVXCode>
-    <Notes>Original monovalent Moderna adult vaccine (12+ yrs). FDA rescinded all doses for US use 4/18/2023.  Continue to use to record historic US Pfizer vaccines and Non-US vaccines administered (includes tradename Comirnaty)</Notes>
+    <Notes>Original monovalent Pfizer adult vaccine (12+ yrs). FDA rescinded all doses for US use 4/18/2023.  Continue to use to record historic US Pfizer vaccines and Non-US vaccines administered (includes tradename Comirnaty)</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>10/24/2023</LastUpdated>
+    <LastUpdated>11/14/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose</ShortDescription>
@@ -546,11 +562,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Ebola Zaire vaccine, live, recombinant, 1mL dose</ShortDescription>
-    <FullVaccinename>Ebola Zaire vaccine, live, recombinant, 1mL dose </FullVaccinename>
+    <FullVaccinename>Ebola Zaire vaccine, live, recombinant, 1mL dose</FullVaccinename>
     <CVXCode>204       </CVXCode>
     <Notes>FDA Approved ERVEBO Vaccine. </Notes>
     <Status>Active</Status>
-    <LastUpdated>1/12/2023</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Ebola, unspecified</ShortDescription>
@@ -862,15 +878,15 @@
     <CVXCode>171       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>6/16/2016</LastUpdated>
+    <LastUpdated>1/25/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, injectable, MDCK, quadrivalent, preservative</ShortDescription>
-    <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney,  quadrivalent with preservative</FullVaccinename>
+    <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney, quadrivalent with preservative</FullVaccinename>
     <CVXCode>186       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>6/27/2017</LastUpdated>
+    <LastUpdated>1/25/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, injectable, quadrivalent</ShortDescription>
@@ -1233,12 +1249,12 @@
     <LastUpdated>10/27/2017</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>meningococcal polysaccharide (MenACWY-TT conjugate), (MenB), PF</ShortDescription>
-    <FullVaccinename>meningococcal polysaccharide (groups A, C, Y, W) tetanus toxoid conjugate, meningococcal B recombinant vaccine, 0.5mL, preservative free</FullVaccinename>
+    <ShortDescription>Meningococcal polysaccharide (MenACWY-TT conjugate), (MenB), PF</ShortDescription>
+    <FullVaccinename>Meningococcal polysaccharide (groups A, C, Y, W) tetanus toxoid conjugate, meningococcal B recombinant vaccine, 0.5mL, preservative free</FullVaccinename>
     <CVXCode>316       </CVXCode>
     <Notes>Meningococcal pentavalent vaccine strains ABCW and Y</Notes>
     <Status>Active</Status>
-    <LastUpdated>11/2/2023</LastUpdated>
+    <LastUpdated>1/25/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal, unknown serogroups</ShortDescription>
@@ -1497,12 +1513,12 @@
     <LastUpdated>9/19/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Respiratory syncytial virus (RSV), unspecified </ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV), unspecified </FullVaccinename>
+    <ShortDescription>Respiratory syncytial virus (RSV), unspecified</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV), unspecified</FullVaccinename>
     <CVXCode>304       </CVXCode>
     <Notes>Unspecified, for historic records where it is not known if RSV vaccine or RSV MAB was administered</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/20/2023</LastUpdated>
+    <LastUpdated>1/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>rheumatic fever</ShortDescription>
@@ -1562,7 +1578,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1570,7 +1586,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1670,7 +1686,7 @@
     <CVXCode>113       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>10/27/2017</LastUpdated>
+    <LastUpdated>1/25/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Td(adult) unspecified formulation</ShortDescription>

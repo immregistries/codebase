@@ -20,6 +20,19 @@
         </use-date>
     </code>
     <code>
+        <value>318</value>
+        <label>Anthrax Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300002811200108</link-to>
+        </reference>
+        <use-date>
+            <not-before>20200108</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>24</value>
         <label>Anthrax VIS</label>
         <code-status>
@@ -1746,6 +1759,32 @@
         </reference>
         <use-date>
             <not-before>20170411</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>224</value>
+        <label>Tick-borne Encephalitis Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300064611231207</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231207</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>223</value>
+        <label>Tick-borne Encephalitis Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300064611231207</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231207</not-before>
         </use-date>
     </code>
     <code>

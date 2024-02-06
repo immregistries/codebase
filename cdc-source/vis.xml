@@ -1184,4 +1184,12 @@
     <status>Current</status>
     <Lastupdated>10/19/2023</Lastupdated>
   </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Tick-borne Encephalitis Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>12/7/2023</Edition_Date>
+    <VIS_encoded_string>253088698300064611231207</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000646</VIS_GDTI_document_code>
+    <status>Current</status>
+    <Lastupdated>12/7/2023</Lastupdated>
+  </VISInfo>
 </VISLookup>

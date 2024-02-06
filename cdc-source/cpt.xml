@@ -282,7 +282,23 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>anthrax</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Name>CVX Code</Name>
+    <Value>318       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90581     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Anthrax vaccine, for subcutaneous or intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
     <Value>24        </Value>
     <Name>LastUpdated</Name>
@@ -303,6 +319,22 @@
     <Value>19        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90589     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Chikungunya virus vaccine, live attenuated, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Chikungunya live attenuated vaccine, 0.5 mL, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>317       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/19/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -383,6 +415,22 @@
     <Value>75        </Value>
     <Name>LastUpdated</Name>
     <Value>5/31/2023</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90623     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal pentavalent vaccine, conjugated Men A, C, W, Y- tetanus toxoid carrier, and Men B-FHbp, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Meningococcal polysaccharide (MenACWY-TT conjugate), (MenB), PF</Value>
+    <Name>CVX Code</Name>
+    <Value>316       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/19/2023</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -794,9 +842,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>influenza, high-dose, quadrivalent</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -810,9 +858,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high dose seasonal</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1048,13 +1096,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>CPT Code to be used for ABRYZVO</Value>
+    <Value>CPT Code to be used for ABRYSVO</Value>
     <Name>Vaccine Name</Name>
     <Value>RSV, bivalent, protein subunit RSVpreF, diluent reconstituted, 0.5 mL, PF</Value>
     <Name>CVX Code</Name>
     <Value>305       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/21/2023</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1503,6 +1551,22 @@
     <Value>10        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90714     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Tetanus and diphtheria toxoids adsorbed (Td), preservative free, when administered to individuals 7 years or older, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
+    <Name>Vaccine Name</Name>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Name>CVX Code</Name>
+    <Value>113       </Value>
+    <Name>LastUpdated</Name>
+    <Value>10/8/2021</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2078,7 +2142,7 @@
     <Name>CVX Code</Name>
     <Value>208       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2094,7 +2158,7 @@
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2106,11 +2170,11 @@
     <Name>Comments</Name>
     <Value>COVID-19 Vaccine - EUA submission withdrawn </Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL </Value>
+    <Value>COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>210       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2126,7 +2190,7 @@
     <Name>CVX Code</Name>
     <Value>212       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2142,7 +2206,7 @@
     <Name>CVX Code</Name>
     <Value>313       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/8/2023</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2158,7 +2222,7 @@
     <Name>CVX Code</Name>
     <Value>211       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/8/2023</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2174,7 +2238,7 @@
     <Name>CVX Code</Name>
     <Value>217       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2190,7 +2254,7 @@
     <Name>CVX Code</Name>
     <Value>207       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2206,7 +2270,7 @@
     <Name>CVX Code</Name>
     <Value>218       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2222,7 +2286,7 @@
     <Name>CVX Code</Name>
     <Value>219       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2238,7 +2302,7 @@
     <Name>CVX Code</Name>
     <Value>221       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2254,7 +2318,7 @@
     <Name>CVX Code</Name>
     <Value>225       </Value>
     <Name>LastUpdated</Name>
-    <Value>8/30/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2270,7 +2334,7 @@
     <Name>CVX Code</Name>
     <Value>228       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2286,7 +2350,7 @@
     <Name>CVX Code</Name>
     <Value>300       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2302,7 +2366,7 @@
     <Name>CVX Code</Name>
     <Value>229       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2318,7 +2382,7 @@
     <Name>CVX Code</Name>
     <Value>229       </Value>
     <Name>LastUpdated</Name>
-    <Value>11/18/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2334,7 +2398,7 @@
     <Name>CVX Code</Name>
     <Value>301       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/2/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2350,7 +2414,7 @@
     <Name>CVX Code</Name>
     <Value>230       </Value>
     <Name>LastUpdated</Name>
-    <Value>12/13/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2366,7 +2430,7 @@
     <Name>CVX Code</Name>
     <Value>302       </Value>
     <Name>LastUpdated</Name>
-    <Value>12/13/2022</Value>
+    <Value>1/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>

@@ -63,6 +63,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">24</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">318</link-to>
         </reference>
         <use-date>
             <not-before>20200108</not-before>
@@ -2163,6 +2164,20 @@
         </reference>
         <use-date>
             <not-before>20200401</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300064611231207</value>
+        <label>Tick-borne Encephalitis Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">224</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">223</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231207</not-before>
         </use-date>
     </code>
     <code>
