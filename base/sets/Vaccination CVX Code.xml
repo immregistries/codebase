@@ -155,6 +155,8 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">ANTHRAX</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">CYFENDUS</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0001-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0001-02</link-to>
         </reference>
         <use-date>
             <not-before>20240125</not-before>
@@ -239,6 +241,8 @@
         <reference>
             <link-to codeset="VACCINE_GROUP">Chikungunya</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">IXCHIQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0003-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0003-01</link-to>
         </reference>
         <use-date>
             <not-before>20231220</not-before>
@@ -2314,6 +2318,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0816-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0818-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0806-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0816-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0726-15</link-to>
         </reference>
         <use-date>
             <not-before>19960101</not-before>
@@ -4274,6 +4280,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-6180-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-6180-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-10</link-to>
         </reference>
         <use-date>
             <not-before>20200527</not-before>
