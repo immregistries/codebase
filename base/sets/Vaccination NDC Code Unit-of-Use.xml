@@ -2821,6 +2821,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MIP</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0001-02</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">318</link-to>
         </reference>
         <use-date>
             <not-before>20230919</not-before>
@@ -10140,6 +10141,7 @@
         </reference>
         <use-date>
             <not-before>20230213</not-before>
+            <not-after>20231231</not-after>
         </use-date>
     </code>
     <code>
@@ -12245,6 +12247,7 @@
         </reference>
         <use-date>
             <not-before>20230213</not-before>
+            <not-after>20231231</not-after>
         </use-date>
     </code>
     <code>
@@ -12287,6 +12290,7 @@
         </reference>
         <use-date>
             <not-before>20230213</not-before>
+            <not-after>20231231</not-after>
         </use-date>
     </code>
     <code>
@@ -13276,6 +13280,48 @@
         </code-status>
     </code>
     <code>
+        <value>58160-0816-03</value>
+        <label>Hiberix</label>
+        <description>GlaxoSmithKline Biologicals SA - Haemophilus b conjugate vaccine (tetanus toxoid conjugate) antigen component</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">48</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0726-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20231220</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-816-03</value>
+        <label>Hiberix</label>
+        <description>GlaxoSmithKline Biologicals SA - Haemophilus b conjugate vaccine (tetanus toxoid conjugate) antigen component</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0816-03</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240125</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160081603</value>
+        <label>Hiberix</label>
+        <description>GlaxoSmithKline Biologicals SA - Haemophilus b conjugate vaccine (tetanus toxoid conjugate) antigen component</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0816-03</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240125</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0248-58</value>
         <label>IMOVAX RABIES</label>
         <description>Sanofi Pasteur Inc. - RABIES VIRUS STRAIN PM-1503-3M ANTIGEN (PROPIOLACTONE INACTIVATED)</description>
@@ -14184,6 +14230,48 @@
         </code-status>
     </code>
     <code>
+        <value>42515-0003-00</value>
+        <label>IXCHIQ</label>
+        <description>Valneva Scotland Ltd. - Chikungunya vaccine, live-attenuated</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">317</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">VAL</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0003-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240115</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>42515-003-00</value>
+        <label>IXCHIQ</label>
+        <description>Valneva Scotland Ltd. - Chikungunya vaccine, live-attenuated</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>42515-0003-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240124</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>42515000300</value>
+        <label>IXCHIQ</label>
+        <description>Valneva Scotland Ltd. - Chikungunya vaccine, live-attenuated</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>42515-0003-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240124</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>42515-0001-01</value>
         <label>IXIARO</label>
         <description>Valneva Scotland Ltd. - JAPANESE ENCEPHALITIS VACCINE, INACTIVATED, ADSORBED</description>
@@ -15021,6 +15109,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">203</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-01</link-to>
         </reference>
         <use-date>
             <not-before>20200423</not-before>

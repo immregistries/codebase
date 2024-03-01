@@ -631,6 +631,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0848-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0909-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0909-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0816-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0726-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1864,6 +1866,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0639-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0423-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2062-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -2156,6 +2160,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">62195-0051-01</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">IXCHIQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">42515-0003-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">42515-0003-01</link-to>
         </reference>
         <use-date>
             <not-before>20160719</not-before>
