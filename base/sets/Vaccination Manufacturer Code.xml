@@ -1055,6 +1055,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4293-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-4958-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-4958-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-7036-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-7036-00</link-to>
         </reference>
         <use-date>
             <not-before>20121018</not-before>
@@ -1868,6 +1870,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-2062-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0590-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0933-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0324-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0398-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0933-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0398-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0324-50</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

@@ -146,6 +146,21 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>319</value>
+        <label>Anthrax vaccine, unspecified</label>
+        <description>Anthrax vaccine, unspecified Notes: Unspecified code to record historic administration when specific product is unknown</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">ANTHRAX</link-to>
+        </reference>
+        <use-date>
+            <not-after>20240315</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>318</value>
         <label>Anthrax, post-exposure prophylaxis</label>
         <description>Anthrax vaccine, adsorbed, adjuvanted, post-exposure prophylaxis Notes: National stockpile vaccine (Cyfendus)</description>
@@ -3567,6 +3582,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Quadrivalent Southern Hemisphere</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0379-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0379-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0933-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0933-50</link-to>
         </reference>
         <use-date>
             <not-before>20230314</not-before>
@@ -3611,6 +3628,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0322-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0323-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0323-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0324-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0324-50</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -3635,6 +3654,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0339-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0355-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0355-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0398-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0398-15</link-to>
         </reference>
         <use-date>
             <not-before>20200506</not-before>
@@ -4878,6 +4899,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4943-00</link-to>
             <link-to codeset="VACCINE_GROUP">PneumoPPV</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4837-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-7036-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-7036-00</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

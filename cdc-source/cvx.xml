@@ -33,6 +33,14 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Anthrax vaccine, unspecified</ShortDescription>
+    <FullVaccinename>Anthrax vaccine, unspecified</FullVaccinename>
+    <CVXCode>319       </CVXCode>
+    <Notes>Unspecified code to record historic administration when specific product is unknown</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>3/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Anthrax, post-exposure prophylaxis</ShortDescription>
     <FullVaccinename>Anthrax vaccine, adsorbed, adjuvanted, post-exposure prophylaxis</FullVaccinename>
     <CVXCode>318       </CVXCode>
@@ -1889,28 +1897,28 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>yellow fever</ShortDescription>
-    <FullVaccinename>yellow fever vaccine</FullVaccinename>
+    <ShortDescription>yellow fever live</ShortDescription>
+    <FullVaccinename>yellow fever vaccine live</FullVaccinename>
     <CVXCode>37        </CVXCode>
     <Notes>This is the YF vaccine that has been available in the US for years. It is stabilized with sorbitol and gelatin.</Notes>
     <Status>Active</Status>
-    <LastUpdated>3/2/2017</LastUpdated>
+    <LastUpdated>3/7/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Yellow fever vaccine - alt</ShortDescription>
-    <FullVaccinename>Yellow fever vaccine alternative formulation</FullVaccinename>
+    <ShortDescription>Yellow fever vaccine live - alt</ShortDescription>
+    <FullVaccinename>Yellow fever vaccine live - alternative formulation for vaccine shortage</FullVaccinename>
     <CVXCode>183       </CVXCode>
-    <Notes>This vaccine is stabilized with sorbitol and lactose and has been used outside the US for some time. It will be made available in the US.</Notes>
+    <Notes>This CVX is associated to an FDA unapproved drug to be used when there is a drug shortage. Stabilized with sorbitol and lactose and has been used outside the US for some time.</Notes>
     <Status>Active</Status>
-    <LastUpdated>3/2/2017</LastUpdated>
+    <LastUpdated>3/7/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Yellow fever, unspecified formulation</ShortDescription>
+    <ShortDescription>Yellow fever, unspecified</ShortDescription>
     <FullVaccinename>Yellow fever vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>184       </CVXCode>
     <Notes/>
     <Status>Inactive</Status>
-    <LastUpdated>3/2/2017</LastUpdated>
+    <LastUpdated>3/7/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>zoster live</ShortDescription>
