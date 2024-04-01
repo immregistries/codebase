@@ -1234,6 +1234,20 @@
         </use-date>
     </code>
     <code>
+        <value>316</value>
+        <label>Meningococcal ACWY Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300014111210806</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300030111210806</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210806</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>162</value>
         <label>Meningococcal B VIS</label>
         <code-status>

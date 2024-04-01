@@ -10327,6 +10327,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0933-50</value>
+        <label>FLUZONE High-Dose Quadrivalent Southern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.7 mL SYRINGE (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">231</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0933-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-933-50</value>
+        <label>FLUZONE High-Dose Quadrivalent Southern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.7 mL SYRINGE (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0933-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240314</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281093350</value>
+        <label>FLUZONE High-Dose Quadrivalent Southern Hemisphere</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.7 mL SYRINGE (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0933-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240314</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0712-40</value>
         <label>fluzone ID quadrivalent</label>
         <description>Sanofi - influenza vaccine quadrivalent ID</description>
@@ -12431,6 +12473,90 @@
                 <new-code-value>49281-0323-50</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230306</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0398-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-dose 5 mL VIAL (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0398-78</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-398-15</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-dose 5 mL VIAL (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0398-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240314</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281039815</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Multi-dose 5 mL VIAL (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0398-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240314</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0324-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.5 mL SYRINGE  (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0324-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-324-50</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.5 mL SYRINGE  (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0324-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240312</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281032450</value>
+        <label>FLUZONE QUADRIVALENT SOUTHERN HEMISPHERE</label>
+        <description>Sanofi Pasteur Inc. - Influenza, Southern Hemisphere, Single-dose 0.5 mL SYRINGE  (2024 season southern hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0324-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240312</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -17380,6 +17506,48 @@
                 <new-code-value>00006-4837-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20170823</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090-7036-00</value>
+        <label>PNEUMOVAX 23</label>
+        <description>A-S Medication Solutions - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">33</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-7036-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240311</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50090-7036-0</value>
+        <label>PNEUMOVAX 23</label>
+        <description>A-S Medication Solutions - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-7036-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240312</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50090703600</value>
+        <label>PNEUMOVAX 23</label>
+        <description>A-S Medication Solutions - PNEUMOCOCCAL VACCINE POLYVALENT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50090-7036-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240312</effective-date>
             </deprecated>
         </code-status>
     </code>

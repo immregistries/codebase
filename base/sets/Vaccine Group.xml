@@ -26,6 +26,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">24</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">318</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">319</link-to>
         </reference>
     </code>
     <code>
