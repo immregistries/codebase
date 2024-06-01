@@ -637,8 +637,8 @@
     <Edition_Date>10/30/2019</Edition_Date>
     <VIS_encoded_string>253088698300020211191030</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000202</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>10/30/2019</Lastupdated>
+    <status>Historic</status>
+    <Lastupdated>2/4/2022</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tetanus/Diphtheria/Pertussis (Tdap/Td) VIS</VIS_Document_Type_Description>
@@ -1181,7 +1181,7 @@
     <Edition_Date>10/19/2023</Edition_Date>
     <VIS_encoded_string>253088698300063911231019</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
-    <status>Current</status>
+    <status>Current </status>
     <Lastupdated>10/19/2023</Lastupdated>
   </VISInfo>
   <VISInfo>

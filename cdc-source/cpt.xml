@@ -282,9 +282,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>24        </Value>
+    <Value>318       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -298,9 +298,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>318       </Value>
+    <Value>24        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -698,7 +698,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, trivalent, adjuvanted</Value>
+    <Value>Influenza, adjuvanted, trivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>168       </Value>
     <Name>LastUpdated</Name>
@@ -722,22 +722,6 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
-    <Value>90655     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.25 mL dosage, for intramuscular use</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
-    <Name>CVX Code</Name>
-    <Value>140       </Value>
-    <Name>LastUpdated</Name>
-    <Value>4/14/2020</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
     <Value>90656     </Value>
     <Name>CPT Desc</Name>
     <Value>Influenza virus vaccine, trivalent (IIV3), split virus, preservative free, 0.5 mL dosage, for intramuscular use</Value>
@@ -746,7 +730,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>140       </Value>
     <Name>LastUpdated</Name>
@@ -762,7 +746,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVX Code</Name>
     <Value>141       </Value>
     <Name>LastUpdated</Name>
@@ -778,7 +762,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVX Code</Name>
     <Value>141       </Value>
     <Name>LastUpdated</Name>
@@ -810,7 +794,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, live, intranasal</Value>
+    <Value>Influenza, live, trivalent, intranasal</Value>
     <Name>CVX Code</Name>
     <Value>111       </Value>
     <Name>LastUpdated</Name>
@@ -826,7 +810,23 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, injectable, MDCK, preservative free</Value>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
+    <Name>CVX Code</Name>
+    <Value>320       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/14/2020</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90661     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine, trivalent (ccIIV3), derived from cell cultures, subunit, preservative and antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>153       </Value>
     <Name>LastUpdated</Name>
@@ -842,9 +842,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>Influenza, high-dose, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -858,9 +858,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1002,7 +1002,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, live, intranasal, quadrivalent</Value>
+    <Value>Influenza, live, quadrivalent, intranasal</Value>
     <Name>CVX Code</Name>
     <Value>149       </Value>
     <Name>LastUpdated</Name>
@@ -1018,7 +1018,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, recombinant, injectable, preservative free</Value>
+    <Value>Influenza, recombinant, trivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>155       </Value>
     <Name>LastUpdated</Name>
@@ -1034,7 +1034,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, injectable, MDCK, preservative free, quadrivalent</Value>
+    <Value>Influenza, MDCK, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>171       </Value>
     <Name>LastUpdated</Name>
@@ -1162,7 +1162,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, recombinant, quadrivalent,injectable, preservative free</Value>
+    <Value>Influenza, recombinant, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>185       </Value>
     <Name>LastUpdated</Name>
@@ -1194,7 +1194,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Value>Influenza, split virus, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>150       </Value>
     <Name>LastUpdated</Name>
@@ -1210,7 +1210,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, injectable, quadrivalent</Value>
+    <Value>Influenza, split virus, quadrivalent, preservative</Value>
     <Name>CVX Code</Name>
     <Value>158       </Value>
     <Name>LastUpdated</Name>
@@ -1226,7 +1226,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>influenza, injectable, quadrivalent</Value>
+    <Value>Influenza, split virus, quadrivalent, preservative</Value>
     <Name>CVX Code</Name>
     <Value>158       </Value>
     <Name>LastUpdated</Name>
@@ -1306,7 +1306,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza vaccine, quadrivalent, adjuvanted</Value>
+    <Value>Influenza, adjuvanted, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>205       </Value>
     <Name>LastUpdated</Name>
@@ -1370,9 +1370,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP, 5 pertussis antigens</Value>
+    <Value>DTaP</Value>
     <Name>CVX Code</Name>
-    <Value>106       </Value>
+    <Value>20        </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1386,9 +1386,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP</Value>
+    <Value>DTaP, 5 pertussis antigens</Value>
     <Name>CVX Code</Name>
-    <Value>20        </Value>
+    <Value>106       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1578,9 +1578,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>09        </Value>
+    <Value>113       </Value>
     <Name>LastUpdated</Name>
     <Value>10/8/2021</Value>
   </CPTInfo>
@@ -1594,9 +1594,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>113       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
     <Value>10/8/2021</Value>
   </CPTInfo>
@@ -1866,9 +1866,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal MCV4P</Value>
+    <Value>Meningococcal MCV4O</Value>
     <Name>CVX Code</Name>
-    <Value>114       </Value>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -1882,9 +1882,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Meningococcal MCV4O</Value>
+    <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
-    <Value>136       </Value>
+    <Value>114       </Value>
     <Name>LastUpdated</Name>
     <Value>4/14/2020</Value>
   </CPTInfo>
@@ -2122,7 +2122,7 @@
     <Name>Comments</Name>
     <Value>Effective 1/1/2018</Value>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, injectable, MDCK, quadrivalent, preservative</Value>
+    <Value>Influenza, MDCK, quadrivalent, preservative</Value>
     <Name>CVX Code</Name>
     <Value>186       </Value>
     <Name>LastUpdated</Name>

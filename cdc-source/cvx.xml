@@ -841,12 +841,20 @@
     <LastUpdated>1/28/2013</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Influenza vaccine, quadrivalent, adjuvanted</ShortDescription>
-    <FullVaccinename>influenza, seasonal vaccine, quadrivalent, adjuvanted, 0.5mL dose, preservative free</FullVaccinename>
+    <ShortDescription>Influenza, adjuvanted, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, adjuvanted, inactivated, quadrivalent, injectable, preservative free</FullVaccinename>
     <CVXCode>205       </CVXCode>
-    <Notes/>
+    <Notes>Quadrivalent code starting 2020/2021 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>1/17/2023</LastUpdated>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, adjuvanted, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, adjuvanted, inactivated, trivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>168       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/6/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, H5N1-1203</ShortDescription>
@@ -857,60 +865,20 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Influenza, high dose seasonal</ShortDescription>
-    <FullVaccinename>influenza, high dose seasonal, preservative-free</FullVaccinename>
-    <CVXCode>135       </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>influenza, high-dose, quadrivalent</ShortDescription>
-    <FullVaccinename>influenza, high-dose seasonal, quadrivalent, 0.7mL dose, preservative free</FullVaccinename>
+    <ShortDescription>Influenza, high-dose, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, high-dose, split virus, quadrivalent, injectable, preservative free</FullVaccinename>
     <CVXCode>197       </CVXCode>
-    <Notes>Target population 65 and older, starting season 2020/2021</Notes>
+    <Notes>Quadrivalent code starting season 2020/2021</Notes>
     <Status>Active</Status>
-    <LastUpdated>1/17/2023</LastUpdated>
+    <LastUpdated>5/15/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Influenza, injectable, MDCK, preservative free</ShortDescription>
-    <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney, preservative free</FullVaccinename>
-    <CVXCode>153       </CVXCode>
-    <Notes>ccIIV3</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>6/24/2016</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Influenza, injectable, MDCK, preservative free, quadrivalent</ShortDescription>
-    <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney, preservative free, quadrivalent</FullVaccinename>
-    <CVXCode>171       </CVXCode>
-    <Notes/>
+    <ShortDescription>Influenza, high-dose, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, high-dose, split virus, trivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>135       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>1/25/2024</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Influenza, injectable, MDCK, quadrivalent, preservative</ShortDescription>
-    <FullVaccinename>Influenza, injectable, Madin Darby Canine Kidney, quadrivalent with preservative</FullVaccinename>
-    <CVXCode>186       </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>1/25/2024</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>influenza, injectable, quadrivalent</ShortDescription>
-    <FullVaccinename>influenza, injectable, quadrivalent, contains preservative</FullVaccinename>
-    <CVXCode>158       </CVXCode>
-    <Notes>New in 2013.  IIV4</Notes>
-    <Status>Active</Status>
-    <LastUpdated>8/20/2013</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>influenza, injectable, quadrivalent, preservative free</ShortDescription>
-    <FullVaccinename>Influenza, injectable, quadrivalent, preservative free</FullVaccinename>
-    <CVXCode>150       </CVXCode>
-    <Notes>New in 2012.  IIV4</Notes>
-    <Status>Active</Status>
-    <LastUpdated>7/17/2013</LastUpdated>
+    <LastUpdated>5/2/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, injectable,quadrivalent, preservative free, pediatric</ShortDescription>
@@ -929,52 +897,68 @@
     <LastUpdated>12/15/2022</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>influenza, live, intranasal</ShortDescription>
-    <FullVaccinename>influenza virus vaccine, live, attenuated, for intranasal use</FullVaccinename>
-    <CVXCode>111       </CVXCode>
-    <Notes>LAIV3</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>9/22/2014</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>influenza, live, intranasal, quadrivalent</ShortDescription>
-    <FullVaccinename>influenza, live, intranasal, quadrivalent</FullVaccinename>
+    <ShortDescription>Influenza, live, quadrivalent, intranasal</ShortDescription>
+    <FullVaccinename>Influenza, live, quadrivalent, intranasal</FullVaccinename>
     <CVXCode>149       </CVXCode>
-    <Notes>new in 2012.  LAIV4</Notes>
+    <Notes>Quadrivalent code starting 2013/2014 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/17/2013</LastUpdated>
+    <LastUpdated>5/15/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>influenza, recombinant, injectable, preservative free</ShortDescription>
-    <FullVaccinename>Seasonal, trivalent, recombinant, injectable influenza vaccine, preservative free</FullVaccinename>
-    <CVXCode>155       </CVXCode>
-    <Notes>RIV</Notes>
+    <ShortDescription>Influenza, live, trivalent, intranasal</ShortDescription>
+    <FullVaccinename>Influenza, live, trivalent, intranasal</FullVaccinename>
+    <CVXCode>111       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/17/2013</LastUpdated>
+    <LastUpdated>5/1/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>influenza, recombinant, quadrivalent,injectable, preservative free</ShortDescription>
-    <FullVaccinename>Seasonal, quadrivalent, recombinant, injectable influenza vaccine, preservative free</FullVaccinename>
+    <ShortDescription>Influenza, MDCK, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, Madin Darby Canine Kidney, subunit, quadrivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>171       </CVXCode>
+    <Notes>Quadrivalent code starting 2016/2017 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, MDCK, quadrivalent, preservative</ShortDescription>
+    <FullVaccinename>Influenza, Madin Darby Canine Kidney, subunit, quadrivalent, injectable, contains preservative</FullVaccinename>
+    <CVXCode>186       </CVXCode>
+    <Notes>Quadrivalent code starting 2017/2018 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, MDCK, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, Madin Darby Canine Kidney, subunit, trivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>153       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/6/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, MDCK, trivalent, preservative</ShortDescription>
+    <FullVaccinename>Influenza, Madin Darby Canine Kidney, subunit, trivalent, injectable, contains preservative</FullVaccinename>
+    <CVXCode>320       </CVXCode>
+    <Notes>Trivalent code starting 2024/2025 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, recombinant, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, recombinant, quadrivalent, injectable, preservative free</FullVaccinename>
     <CVXCode>185       </CVXCode>
-    <Notes/>
+    <Notes>Quadrivalent code starting 2017/2018 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>4/21/2017</LastUpdated>
+    <LastUpdated>5/15/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Influenza, seasonal, injectable</ShortDescription>
-    <FullVaccinename>Influenza, seasonal, injectable</FullVaccinename>
-    <CVXCode>141       </CVXCode>
-    <Notes>IIV3. This is one of two codes replacing CVX 15, which is being retired.</Notes>
+    <ShortDescription>Influenza, recombinant, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, recombinant, trivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>155       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/17/2013</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
-    <ShortDescription>Influenza, seasonal, injectable, preservative free</ShortDescription>
-    <FullVaccinename>Influenza, seasonal, injectable, preservative free</FullVaccinename>
-    <CVXCode>140       </CVXCode>
-    <Notes>IIV3. No US product available since 2018/2019 flu season. This vaccine code is one of two which replace CVX 15, influenza, split virus.</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>12/15/2022</LastUpdated>
+    <LastUpdated>5/6/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, seasonal, intradermal, preservative free</ShortDescription>
@@ -1033,12 +1017,36 @@
     <LastUpdated>9/30/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>influenza, trivalent, adjuvanted</ShortDescription>
-    <FullVaccinename>Seasonal trivalent influenza vaccine, adjuvanted, preservative free</FullVaccinename>
-    <CVXCode>168       </CVXCode>
-    <Notes/>
+    <ShortDescription>Influenza, split virus, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, split virus, quadrivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>150       </CVXCode>
+    <Notes>Quadrivalent code starting 2013/2014 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>12/10/2015</LastUpdated>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, split virus, quadrivalent, preservative</ShortDescription>
+    <FullVaccinename>Influenza, split virus, quadrivalent, injectable, contains preservative</FullVaccinename>
+    <CVXCode>158       </CVXCode>
+    <Notes>Quadrivalent code starting 2013/2014 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/15/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, split virus, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, split virus, trivalent, injectable, preservative free</FullVaccinename>
+    <CVXCode>140       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/2/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, split virus, trivalent, preservative</ShortDescription>
+    <FullVaccinename>Influenza, split virus, trivalent, injectable, contains preservative</FullVaccinename>
+    <CVXCode>141       </CVXCode>
+    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>5/2/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, unspecified formulation</ShortDescription>
@@ -1586,7 +1594,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1594,7 +1602,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>

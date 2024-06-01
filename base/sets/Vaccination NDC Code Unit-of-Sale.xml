@@ -2817,6 +2817,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240630</not-after>
         </use-date>
     </code>
     <code>
@@ -15565,7 +15566,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0590-58</link-to>
         </reference>
         <use-date>
-            <not-before>20230630</not-before>
+            <not-before>20200423</not-before>
         </use-date>
     </code>
     <code>
@@ -15607,7 +15608,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0590-58</link-to>
         </reference>
         <use-date>
-            <not-before>20230630</not-before>
+            <not-before>20200423</not-before>
         </use-date>
     </code>
     <code>
