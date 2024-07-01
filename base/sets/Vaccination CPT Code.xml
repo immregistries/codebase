@@ -1289,6 +1289,14 @@
         </use-date>
     </code>
     <code>
+        <value>90683</value>
+        <label>Respiratory syncytial virus vaccine, mRNA lipid nanoparticles, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90679</value>
         <label>Respiratory syncytial virus vaccine, preF, recombinant, subunit, adjuvanted, for intramuscular use</label>
         <description>CPT Code to be Used for Arexvy</description>

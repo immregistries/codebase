@@ -906,6 +906,19 @@
         </use-date>
     </code>
     <code>
+        <value>320</value>
+        <label>Influenza (Flu) Vaccine (Inactivated or Recombinant) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311210806</link-to>
+        </reference>
+        <use-date>
+            <not-before>20210806</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>150</value>
         <label>Influenza Vaccine - Inactivated VIS</label>
         <code-status>
@@ -935,6 +948,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311130726</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311140819</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311190815</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300010311210806</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
@@ -1176,6 +1190,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711130726</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711140819</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711190815</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711210806</link-to>
         </reference>
         <use-date>
             <not-before>20150807</not-before>
