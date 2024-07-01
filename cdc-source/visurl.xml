@@ -97,12 +97,6 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Live Zoster Vaccine VIS</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000202</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Typhoid VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000233</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/typhoid.pdf"/>
@@ -163,7 +157,7 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles-recombinant.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000370</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/novavax.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/novavax.html"/>
@@ -199,10 +193,10 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-over-5-months.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine VIS </VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000608</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf "/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html "/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>

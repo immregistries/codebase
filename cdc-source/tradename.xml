@@ -26,24 +26,6 @@
     <Name>CVXCode</Name>
     <Value>75        </Value>
     <Name>Manufacturer</Name>
-    <Value>Acambis, Inc</Value>
-    <Name>MVX Code</Name>
-    <Value>ACA       </Value>
-    <Name>MVX Status</Name>
-    <Value>Inactive</Value>
-    <Name>Product name Status</Name>
-    <Value>Inactive</Value>
-    <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>ACAM2000</Value>
-    <Name>Short Description</Name>
-    <Value>vaccinia (smallpox)</Value>
-    <Name>CVXCode</Name>
-    <Value>75        </Value>
-    <Name>Manufacturer</Name>
     <Value>Emergent BioSolutions</Value>
     <Name>MVX Code</Name>
     <Value>MIP       </Value>
@@ -53,6 +35,24 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>6/10/2022</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>ACAM2000</Value>
+    <Name>Short Description</Name>
+    <Value>vaccinia (smallpox)</Value>
+    <Name>CVXCode</Name>
+    <Value>75        </Value>
+    <Name>Manufacturer</Name>
+    <Value>Acambis, Inc</Value>
+    <Name>MVX Code</Name>
+    <Value>ACA       </Value>
+    <Name>MVX Status</Name>
+    <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>5/28/2010</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -148,7 +148,7 @@
     <Name>CDC Product Name</Name>
     <Value>Afluria</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -158,15 +158,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>9/26/2016</Value>
+    <Value>4/25/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>AFLURIA</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -182,9 +182,9 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Afluria quadrivalent preservative free</Value>
+    <Value>Afluria quadrivalent, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Value>Influenza, split virus, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>150       </Value>
     <Name>Manufacturer</Name>
@@ -196,7 +196,7 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>10/4/2016</Value>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -214,13 +214,67 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>8/26/2019</Value>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Afluria quadrivalent, with preservative</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, quadrivalent, preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>158       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Afluria trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>140       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Afluria trivalent, with preservative</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>141       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Afluria, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -238,7 +292,7 @@
     <Name>CDC Product Name</Name>
     <Value>Afluria, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -254,27 +308,9 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Afluria, quadrivalent</Value>
-    <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent</Value>
-    <Name>CVXCode</Name>
-    <Value>158       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Seqirus</Value>
-    <Name>MVX Code</Name>
-    <Value>SEQ       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>10/4/2016</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>AGRIFLU</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -832,7 +868,7 @@
     <Name>CDC Product Name</Name>
     <Value>Fluad</Value>
     <Name>Short Description</Name>
-    <Value>influenza, trivalent, adjuvanted</Value>
+    <Value>Influenza, adjuvanted, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>168       </Value>
     <Name>Manufacturer</Name>
@@ -842,15 +878,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>8/9/2016</Value>
+    <Value>5/2/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Fluad</Value>
     <Name>Short Description</Name>
-    <Value>influenza, trivalent, adjuvanted</Value>
+    <Value>Influenza, adjuvanted, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>168       </Value>
     <Name>Manufacturer</Name>
@@ -860,15 +896,15 @@
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>8/9/2016</Value>
+    <Value>5/2/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>FLUAD Quadrivalent</Value>
     <Name>Short Description</Name>
-    <Value>Influenza vaccine, quadrivalent, adjuvanted</Value>
+    <Value>Influenza, adjuvanted, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>205       </Value>
     <Name>Manufacturer</Name>
@@ -884,9 +920,27 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>Fluad trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, adjuvanted, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>168       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>FLUARIX</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -898,13 +952,13 @@
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>12/15/2022</Value>
+    <Value>5/13/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Fluarix, quadrivalent, preservative free</Value>
+    <Value>Fluarix quadrivalent, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Value>Influenza, split virus, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>150       </Value>
     <Name>Manufacturer</Name>
@@ -916,13 +970,31 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>8/9/2013</Value>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Fluarix trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>140       </Value>
+    <Name>Manufacturer</Name>
+    <Value>GlaxoSmithKline</Value>
+    <Name>MVX Code</Name>
+    <Value>SKB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Flublok</Value>
     <Name>Short Description</Name>
-    <Value>influenza, recombinant, injectable, preservative free</Value>
+    <Value>Influenza, recombinant, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>155       </Value>
     <Name>Manufacturer</Name>
@@ -932,15 +1004,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>5/28/2013</Value>
+    <Value>5/1/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Flublok quadrivalent</Value>
     <Name>Short Description</Name>
-    <Value>influenza, recombinant, quadrivalent,injectable, preservative free</Value>
+    <Value>Influenza, recombinant, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>185       </Value>
     <Name>Manufacturer</Name>
@@ -956,9 +1028,9 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Flublok quadrivalent</Value>
+    <Value>Flublok quadrivalent, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>influenza, recombinant, quadrivalent,injectable, preservative free</Value>
+    <Value>Influenza, recombinant, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>185       </Value>
     <Name>Manufacturer</Name>
@@ -970,13 +1042,31 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>5/2/2019</Value>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flublok trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, recombinant, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>155       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Flucelvax</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, injectable, MDCK, preservative free</Value>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>153       </Value>
     <Name>Manufacturer</Name>
@@ -988,13 +1078,13 @@
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>6/24/2016</Value>
+    <Value>5/1/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>flucelvax, quadrivalent, preservative free</Value>
+    <Value>Flucelvax quadrivalent, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, injectable, MDCK, preservative free, quadrivalent</Value>
+    <Value>Influenza, MDCK, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>171       </Value>
     <Name>Manufacturer</Name>
@@ -1006,13 +1096,13 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>6/16/2016</Value>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Flucelvax, quadrivalent, with preservative</Value>
+    <Value>Flucelvax quadrivalent, with preservative</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, injectable, MDCK, quadrivalent, preservative</Value>
+    <Value>Influenza, MDCK, quadrivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>186       </Value>
     <Name>Manufacturer</Name>
@@ -1024,13 +1114,49 @@
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>6/27/2017</Value>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flucelvax trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>153       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flucelvax trivalent, with preservative</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>320       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>FLULAVAL</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -1040,15 +1166,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>9/10/2013</Value>
+    <Value>4/25/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Flulaval quadrivalent</Value>
     <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent</Value>
+    <Value>Influenza, split virus, quadrivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>158       </Value>
     <Name>Manufacturer</Name>
@@ -1058,15 +1184,51 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flulaval quadrivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, quadrivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>150       </Value>
+    <Name>Manufacturer</Name>
+    <Value>ID Biomedical</Value>
+    <Name>MVX Code</Name>
+    <Value>IDB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>9/10/2013</Value>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Flulaval trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>140       </Value>
+    <Name>Manufacturer</Name>
+    <Value>ID Biomedical</Value>
+    <Name>MVX Code</Name>
+    <Value>IDB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Flulaval, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -1082,27 +1244,9 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Flulaval, quadrivalent, preservative free</Value>
-    <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
-    <Name>CVXCode</Name>
-    <Value>150       </Value>
-    <Name>Manufacturer</Name>
-    <Value>ID Biomedical</Value>
-    <Name>MVX Code</Name>
-    <Value>IDB       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>10/21/2014</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>FLUMIST</Value>
     <Name>Short Description</Name>
-    <Value>influenza, live, intranasal</Value>
+    <Value>Influenza, live, trivalent, intranasal</Value>
     <Name>CVXCode</Name>
     <Value>111       </Value>
     <Name>Manufacturer</Name>
@@ -1120,7 +1264,7 @@
     <Name>CDC Product Name</Name>
     <Value>Flumist quadrivalent</Value>
     <Name>Short Description</Name>
-    <Value>influenza, live, intranasal, quadrivalent</Value>
+    <Value>Influenza, live, quadrivalent, intranasal</Value>
     <Name>CVXCode</Name>
     <Value>149       </Value>
     <Name>Manufacturer</Name>
@@ -1136,9 +1280,27 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>FluMist trivalent</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, live, trivalent, intranasal</Value>
+    <Name>CVXCode</Name>
+    <Value>111       </Value>
+    <Name>Manufacturer</Name>
+    <Value>MedImmune, Inc. (AstraZeneca)</Value>
+    <Name>MVX Code</Name>
+    <Value>MED       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>FLUVIRIN</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -1148,15 +1310,15 @@
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>9/27/2010</Value>
+    <Value>4/25/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Fluvirin</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -1166,15 +1328,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>6/12/2017</Value>
+    <Value>4/25/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>Fluvirin preservative free</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -1192,7 +1354,7 @@
     <Name>CDC Product Name</Name>
     <Value>FLUVIRIN-PRESERVATIVE FREE</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -1210,7 +1372,7 @@
     <Name>CDC Product Name</Name>
     <Value>FLUZONE</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable</Value>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>141       </Value>
     <Name>Manufacturer</Name>
@@ -1220,27 +1382,9 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>9/27/2010</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>FLUZONE High-Dose Quadrivalent</Value>
-    <Name>Short Description</Name>
-    <Value>influenza, high-dose, quadrivalent</Value>
-    <Name>CVXCode</Name>
-    <Value>197       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Sanofi Pasteur</Value>
-    <Name>MVX Code</Name>
-    <Value>PMC       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>1/29/2020</Value>
+    <Value>4/25/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -1259,6 +1403,42 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>3/14/2023</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Fluzone High-Dose quadrivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, high-dose, quadrivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>197       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Fluzone High-Dose trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>135       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -1352,6 +1532,42 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>Fluzone trivalent, preservative free</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>140       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/17/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Fluzone trivalent, with preservative</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>141       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Sanofi Pasteur</Value>
+    <Name>MVX Code</Name>
+    <Value>PMC       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/14/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>Fluzone, intradermal</Value>
     <Name>Short Description</Name>
     <Value>influenza, seasonal, intradermal, preservative free</Value>
@@ -1372,7 +1588,7 @@
     <Name>CDC Product Name</Name>
     <Value>Fluzone, Quadrivalent</Value>
     <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent</Value>
+    <Value>Influenza, split virus, quadrivalent, preservative</Value>
     <Name>CVXCode</Name>
     <Value>158       </Value>
     <Name>Manufacturer</Name>
@@ -1390,7 +1606,7 @@
     <Name>CDC Product Name</Name>
     <Value>Fluzone, quadrivalent, preservative free</Value>
     <Name>Short Description</Name>
-    <Value>influenza, injectable, quadrivalent, preservative free</Value>
+    <Value>Influenza, split virus, quadrivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>150       </Value>
     <Name>Manufacturer</Name>
@@ -1408,7 +1624,7 @@
     <Name>CDC Product Name</Name>
     <Value>FLUZONE-HIGH DOSE</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, high dose seasonal</Value>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>135       </Value>
     <Name>Manufacturer</Name>
@@ -1418,15 +1634,15 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
+    <Value>5/1/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
     <Value>FLUZONE-PRESERVATIVE FREE</Value>
     <Name>Short Description</Name>
-    <Value>Influenza, seasonal, injectable, preservative free</Value>
+    <Value>Influenza, split virus, trivalent, PF</Value>
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
@@ -1712,24 +1928,6 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>IXIARO</Value>
-    <Name>Short Description</Name>
-    <Value>Japanese Encephalitis IM</Value>
-    <Name>CVXCode</Name>
-    <Value>134       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Intercell Biomedical</Value>
-    <Name>MVX Code</Name>
-    <Value>INT       </Value>
-    <Name>MVX Status</Name>
-    <Value>Inactive</Value>
-    <Name>Product name Status</Name>
-    <Value>Inactive</Value>
-    <Name>Last Updated</Name>
-    <Value>7/19/2016</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>Ixiaro</Value>
     <Name>Short Description</Name>
     <Value>Japanese Encephalitis IM</Value>
@@ -1743,6 +1941,24 @@
     <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>7/19/2016</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>IXIARO</Value>
+    <Name>Short Description</Name>
+    <Value>Japanese Encephalitis IM</Value>
+    <Name>CVXCode</Name>
+    <Value>134       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Intercell Biomedical</Value>
+    <Name>MVX Code</Name>
+    <Value>INT       </Value>
+    <Name>MVX Status</Name>
+    <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
     <Value>7/19/2016</Value>
   </prodInfo>
@@ -1850,9 +2066,9 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
+    <Value>6/5/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -2126,6 +2342,24 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
+    <Value>mRESVIA </Value>
+    <Name>Short Description</Name>
+    <Value>RSV, mRNA, injectable, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>326       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Moderna US, Inc.</Value>
+    <Name>MVX Code</Name>
+    <Value>MOD       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>6/6/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
     <Value>MUMPSVAX</Value>
     <Name>Short Description</Name>
     <Value>mumps</Value>
@@ -2204,9 +2438,9 @@
     <Name>CVXCode</Name>
     <Value>127       </Value>
     <Name>Manufacturer</Name>
-    <Value>Novartis Pharmaceutical Corporation</Value>
+    <Value>bioCSL</Value>
     <Name>MVX Code</Name>
-    <Value>NOV       </Value>
+    <Value>CSL       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
@@ -2240,9 +2474,9 @@
     <Name>CVXCode</Name>
     <Value>127       </Value>
     <Name>Manufacturer</Name>
-    <Value>bioCSL</Value>
+    <Value>Novartis Pharmaceutical Corporation</Value>
     <Name>MVX Code</Name>
-    <Value>CSL       </Value>
+    <Value>NOV       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
@@ -2294,9 +2528,9 @@
     <Name>CVXCode</Name>
     <Value>126       </Value>
     <Name>Manufacturer</Name>
-    <Value>bioCSL</Value>
+    <Value>Novartis Pharmaceutical Corporation</Value>
     <Name>MVX Code</Name>
-    <Value>CSL       </Value>
+    <Value>NOV       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
@@ -2312,9 +2546,9 @@
     <Name>CVXCode</Name>
     <Value>126       </Value>
     <Name>Manufacturer</Name>
-    <Value>Novartis Pharmaceutical Corporation</Value>
+    <Value>bioCSL</Value>
     <Name>MVX Code</Name>
-    <Value>NOV       </Value>
+    <Value>CSL       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
     <Name>Product name Status</Name>
@@ -2654,13 +2888,13 @@
     <Name>CVXCode</Name>
     <Value>133       </Value>
     <Name>Manufacturer</Name>
-    <Value>Wyeth</Value>
+    <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
-    <Value>WAL       </Value>
+    <Value>PFR       </Value>
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Inactive</Value>
+    <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>5/28/2010</Value>
   </prodInfo>
@@ -2672,13 +2906,13 @@
     <Name>CVXCode</Name>
     <Value>133       </Value>
     <Name>Manufacturer</Name>
-    <Value>Pfizer, Inc</Value>
+    <Value>Wyeth</Value>
     <Name>MVX Code</Name>
-    <Value>PFR       </Value>
+    <Value>WAL       </Value>
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
     <Value>5/28/2010</Value>
   </prodInfo>
@@ -3416,9 +3650,27 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>6/12/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Vaxchora</Value>
+    <Name>Short Description</Name>
+    <Value>cholera, live attenuated</Value>
+    <Name>CVXCode</Name>
+    <Value>174       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Bavarian Nordic A/S</Value>
+    <Name>MVX Code</Name>
+    <Value>BN        </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
-    <Value>6/17/2016</Value>
+    <Value>6/12/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>

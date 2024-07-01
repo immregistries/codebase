@@ -332,6 +332,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">201</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">231</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">320</link-to>
         </reference>
     </code>
     <code>
@@ -344,6 +345,15 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">123</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">160</link-to>
+        </reference>
+    </code>
+    <code>
+        <value>FLU-Avian-H5</value>
+        <label>Influenza-avian, H5N8, monovalent, PF</label>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">323</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">321</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">322</link-to>
         </reference>
     </code>
     <code>
@@ -494,6 +504,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">10</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">02</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">195</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">324</link-to>
         </reference>
     </code>
     <code>
@@ -536,6 +547,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">307</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">315</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">314</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">326</link-to>
         </reference>
     </code>
     <code>

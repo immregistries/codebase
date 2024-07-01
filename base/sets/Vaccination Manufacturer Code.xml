@@ -147,6 +147,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0001-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-03</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VAXCHORA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0015-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0015-02</link-to>
         </reference>
         <use-date>
             <not-before>20200717</not-before>
@@ -633,6 +636,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0909-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0816-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0726-15</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluarix quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluarix trivalent, preservative free</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -721,6 +726,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0808-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0814-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0814-52</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flulaval quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flulaval trivalent, preservative free</link-to>
         </reference>
         <use-date>
             <not-before>20130905</not-before>
@@ -936,6 +943,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0309-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0310-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0310-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FluMist trivalent</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1124,6 +1132,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-95</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-93</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0102-96</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">mRESVIA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0345-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-90</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-96</link-to>
         </reference>
         <use-date>
             <not-before>20201001</not-before>
@@ -1876,6 +1888,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0933-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0398-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0324-50</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluzone High-Dose quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluzone High-Dose trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flublok quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flublok trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluzone trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluzone trivalent, with preservative</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -2026,6 +2044,15 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0123-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0423-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0323-03</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Fluad trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax quadrivalent, with preservative</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax trivalent, with preservative</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria quadrivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria quadrivalent, with preservative</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria trivalent, preservative free</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">Afluria trivalent, with preservative</link-to>
         </reference>
         <use-date>
             <not-before>20160413</not-before>
