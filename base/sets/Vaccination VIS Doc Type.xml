@@ -1630,6 +1630,7 @@
             <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">215</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">216</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">327</link-to>
         </reference>
         <use-date>
             <not-before>20230512</not-before>

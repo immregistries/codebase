@@ -886,7 +886,7 @@
     <CVXCode>161       </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>7/23/2014</LastUpdated>
+    <LastUpdated>7/29/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, intradermal, quadrivalent, preservative free</ShortDescription>
@@ -1457,6 +1457,14 @@
     <LastUpdated>3/9/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Pneumococcal conjugate PCV21, polysaccharide CRM197 conjugate, PF</ShortDescription>
+    <FullVaccinename>Pneumococcal conjugate vaccine, 21 valent (PCV21), polysaccharide CRM197 conjugate, preservative free</FullVaccinename>
+    <CVXCode>327       </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>7/11/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Pneumococcal Conjugate, unspecified formulation</ShortDescription>
     <FullVaccinename>Pneumococcal Conjugate, unspecified formulation</FullVaccinename>
     <CVXCode>152       </CVXCode>
@@ -1626,7 +1634,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1634,7 +1642,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>

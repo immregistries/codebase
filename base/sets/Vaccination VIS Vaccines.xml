@@ -1474,6 +1474,19 @@
         </use-date>
     </code>
     <code>
+        <value>327</value>
+        <label>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311230512</link-to>
+        </reference>
+        <use-date>
+            <not-before>20230512</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>33</value>
         <label>Pneumococcal Polysaccharide VIS</label>
         <code-status>

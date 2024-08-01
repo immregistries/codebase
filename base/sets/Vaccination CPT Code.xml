@@ -1238,6 +1238,14 @@
         </code-status>
     </code>
     <code>
+        <value>90684</value>
+        <label>Pneumococcal conjugate vaccine, 21 valent (PCV21), for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90732</value>
         <label>pneumococcal polysaccharide PPV23</label>
         <description></description>
