@@ -2188,6 +2188,20 @@
         </use-date>
     </code>
     <code>
+        <value>CAPVAXIVE</value>
+        <label>Pneumococcal conjugate PCV21, polysaccharide CRM197 conjugate, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">327</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240711</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>PNEUMOVAX 23</value>
         <label>pneumococcal polysaccharide PPV23</label>
         <code-status>
@@ -2229,6 +2243,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">176</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">NOV</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
         </reference>
         <use-date>
             <not-before>20161019</not-before>
@@ -2518,6 +2533,7 @@
         </reference>
         <use-date>
             <not-before>20160502</not-before>
+            <not-after>20240712</not-after>
         </use-date>
     </code>
     <code>
@@ -2532,6 +2548,20 @@
         </reference>
         <use-date>
             <not-after>20160502</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>Vivotif- BN</value>
+        <label>typhoid, oral</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">25</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240712</not-before>
         </use-date>
     </code>
     <code>
