@@ -282,9 +282,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>24        </Value>
+    <Value>318       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -298,9 +298,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>318       </Value>
+    <Value>24        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -810,9 +810,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, PF</Value>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
     <Name>CVX Code</Name>
-    <Value>153       </Value>
+    <Value>320       </Value>
     <Name>LastUpdated</Name>
     <Value>7/9/2024</Value>
   </CPTInfo>
@@ -826,27 +826,11 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, preservative</Value>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>320       </Value>
+    <Value>153       </Value>
     <Name>LastUpdated</Name>
     <Value>7/9/2024</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
-    <Value>90662     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Influenza, high-dose, trivalent, PF</Value>
-    <Name>CVX Code</Name>
-    <Value>135       </Value>
-    <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -861,6 +845,22 @@
     <Value>Influenza, high-dose, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>197       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/13/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90662     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1050,9 +1050,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM Diploid cell culture</Value>
+    <Value>Rabies - IM fibroblast culture</Value>
     <Name>CVX Code</Name>
-    <Value>175       </Value>
+    <Value>176       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1066,9 +1066,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM fibroblast culture</Value>
+    <Value>Rabies - IM Diploid cell culture</Value>
     <Name>CVX Code</Name>
-    <Value>176       </Value>
+    <Value>175       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1898,9 +1898,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal MCV4P</Value>
+    <Value>Meningococcal MCV4O</Value>
     <Name>CVX Code</Name>
-    <Value>114       </Value>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1914,9 +1914,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Meningococcal MCV4O</Value>
+    <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
-    <Value>136       </Value>
+    <Value>114       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
