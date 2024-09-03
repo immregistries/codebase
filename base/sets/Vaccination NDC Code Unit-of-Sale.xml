@@ -129,6 +129,90 @@
         </code-status>
     </code>
     <code>
+        <value>00069-2465-01</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">305</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2465-19</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240730</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2465-01</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2465-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240806</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069246501</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2465-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240806</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-2465-10</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">305</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2465-19</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240730</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2465-10</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2465-10</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240806</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069246510</value>
+        <label>Abrysvo</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - Respiratory syncytial virus (RSV) bivalent vaccine</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2465-10</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240806</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>71665-0330-02</value>
         <label>ACAM2000</label>
         <description>Emergent Product Development Gaithersburg Inc. - Smallpox/Vaccinia Vaccine - National Stockpile</description>
@@ -16859,6 +16943,7 @@
         </reference>
         <use-date>
             <not-before>20230901</not-before>
+            <not-after>20240729</not-after>
         </use-date>
     </code>
     <code>
@@ -17686,6 +17771,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240731</not-after>
         </use-date>
     </code>
     <code>

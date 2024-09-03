@@ -1470,6 +1470,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0600-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2465-19</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

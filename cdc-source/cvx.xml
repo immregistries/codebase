@@ -1628,9 +1628,9 @@
     <ShortDescription>RSV, bivalent, protein subunit RSVpreF, diluent reconstituted, 0.5 mL, PF</ShortDescription>
     <FullVaccinename>Respiratory syncytial virus (RSV), vaccine, bivalent, protein subunit RSV prefusion F, diluent reconstituted, 0.5 mL, preservative free</FullVaccinename>
     <CVXCode>305       </CVXCode>
-    <Notes>Adults 60 years and older</Notes>
+    <Notes>Adults 60 years and older, pregnant individuals</Notes>
     <Status>Active</Status>
-    <LastUpdated>7/13/2023</LastUpdated>
+    <LastUpdated>8/6/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>

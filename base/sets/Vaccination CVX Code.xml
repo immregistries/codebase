@@ -5536,6 +5536,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-0344-05</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90678</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2465-19</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-10</link-to>
         </reference>
         <use-date>
             <not-before>20230713</not-before>
