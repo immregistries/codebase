@@ -332,9 +332,9 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 25 mcg/0.25 mL dose</FullVaccinename>
     <CVXCode>311       </CVXCode>
-    <Notes>Moderna Fall 2023 6 months through 11 years of age</Notes>
+    <Notes>Moderna Fall Seasonal 6 months through 11 years of age</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/13/2023</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
@@ -364,9 +364,9 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 50 mcg/0.5 mL dose</FullVaccinename>
     <CVXCode>312       </CVXCode>
-    <Notes>Moderna Fall 2023 12 years and older</Notes>
+    <Notes>Moderna Fall Seasonal 12 years and older</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/13/2023</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose</ShortDescription>
@@ -396,25 +396,25 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 10 mcg/0.3 mL dose</FullVaccinename>
     <CVXCode>310       </CVXCode>
-    <Notes>Pfizer Fall 2023 5 years through 11 years of age</Notes>
+    <Notes>Pfizer Fall Seasonal 5 years through 11 years of age</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/13/2023</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 3 mcg/0.3 mL dose</FullVaccinename>
     <CVXCode>308       </CVXCode>
-    <Notes>Pfizer Fall 2023 6 months through 4 years of age</Notes>
+    <Notes>Pfizer Fall Seasonal 6 months through 4 years of age</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/13/2023</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 30 mcg/0.3 mL dose</FullVaccinename>
     <CVXCode>309       </CVXCode>
-    <Notes>Pfizer Fall 2023 12 years and older</Notes>
+    <Notes>Pfizer Fall Seasonal 12 years and older</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/13/2023</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</ShortDescription>
@@ -428,9 +428,9 @@
     <ShortDescription>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 5 mcg/0.5 mL dose</FullVaccinename>
     <CVXCode>313       </CVXCode>
-    <Notes>Novavax Fall 2023 12 years and older</Notes>
+    <Notes>Novavax Fall Seasonal 12 years and older</Notes>
     <Status>Active</Status>
-    <LastUpdated>9/1/2023</LastUpdated>
+    <LastUpdated>9/3/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>dengue fever tetravalent</ShortDescription>
@@ -1630,7 +1630,7 @@
     <CVXCode>305       </CVXCode>
     <Notes>Adults 60 years and older, pregnant individuals</Notes>
     <Status>Active</Status>
-    <LastUpdated>8/6/2024</LastUpdated>
+    <LastUpdated>8/7/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
@@ -1652,9 +1652,9 @@
     <ShortDescription>RSV, mRNA, injectable, PF</ShortDescription>
     <FullVaccinename>Respiratory syncytial virus (RSV), mRNA, injectable, preservative free</FullVaccinename>
     <CVXCode>326       </CVXCode>
-    <Notes>mRNA RSV vaccine 2024</Notes>
+    <Notes>mRNA RSV vaccine added 2024</Notes>
     <Status>Active</Status>
-    <LastUpdated>6/5/2024</LastUpdated>
+    <LastUpdated>8/30/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, recombinant, protein subunit RSVpreF, adjuvant reconstituted, 0.5 mL, PF</ShortDescription>

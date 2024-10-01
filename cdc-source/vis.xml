@@ -1021,8 +1021,16 @@
     <Edition_Date>10/3/2023</Edition_Date>
     <VIS_encoded_string>253088698300037011230901</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000370</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/30/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</VIS_Document_Type_Description>
+    <Edition_Date>8/30/2024</Edition_Date>
+    <VIS_encoded_string>253088698300037011240801</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000370</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/3/2023</Lastupdated>
+    <Lastupdated>8/30/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VIS_Document_Type_Description>
@@ -1133,8 +1141,16 @@
     <Edition_Date>9/11/2023</Edition_Date>
     <VIS_encoded_string>253088698300058511230901</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000585</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/22/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
+    <Edition_Date>8/22/2024</Edition_Date>
+    <VIS_encoded_string>253088698300058511240801</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000585</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>9/11/2023</Lastupdated>
+    <Lastupdated>8/22/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description>
@@ -1165,8 +1181,16 @@
     <Edition_Date>9/11/2023</Edition_Date>
     <VIS_encoded_string>253088698300061511230901</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000615</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>8/22/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
+    <Edition_Date>8/22/2024</Edition_Date>
+    <VIS_encoded_string>253088698300061511240801</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000615</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>9/11/2023</Lastupdated>
+    <Lastupdated>8/22/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>RSV (Respiratory Syncytial Virus) preventative antibody IIS</VIS_Document_Type_Description>
@@ -1181,7 +1205,7 @@
     <Edition_Date>10/19/2023</Edition_Date>
     <VIS_encoded_string>253088698300063911231019</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
-    <status>Current </status>
+    <status>Current</status>
     <Lastupdated>10/19/2023</Lastupdated>
   </VISInfo>
   <VISInfo>

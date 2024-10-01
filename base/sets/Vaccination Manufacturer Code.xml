@@ -956,6 +956,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0310-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0310-10</link-to>
             <link-to codeset="VACCINATION_TRADE_NAME">FluMist trivalent</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0311-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0311-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1152,6 +1154,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0345-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-90</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-96</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0291-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0110-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-81</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-80</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-93</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-96</link-to>
         </reference>
         <use-date>
             <not-before>20201001</not-before>
@@ -1307,6 +1315,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Novavax COVID-19 Vaccine, Adjuvanted (US Only)</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0105-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0105-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0107-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0107-10</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1473,6 +1483,12 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2465-19</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2465-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2432-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4426-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4438-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2432-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4438-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4426-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
