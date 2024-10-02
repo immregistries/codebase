@@ -159,8 +159,8 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000370</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/novavax.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/novavax.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/novavax.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-novavax.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Dengue Vaccine VIS</VIS_Document_Type_Description_ConceptName>
@@ -189,20 +189,20 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000585</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-over-5-months.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/pfizer-over-5-months.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/pfizer-over-5-months.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-pfizer-over-5-months.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine VIS </VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000608</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf "/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html "/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000615</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/covid-19/eua/moderna-over-5-months.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/moderna-over-5-months.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-moderna-over-5-months.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) preventative antibody IIS</VIS_Document_Type_Description_ConceptName>

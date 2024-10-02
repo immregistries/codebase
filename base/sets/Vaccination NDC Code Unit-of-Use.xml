@@ -2827,6 +2827,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -2869,6 +2870,7 @@
         </reference>
         <use-date>
             <not-before>20231031</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -2894,6 +2896,48 @@
                 <new-code-value>00069-2377-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20231211</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-2432-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, Omicron KP.2, 30 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2432-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240822</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2432-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, Omicron KP.2, 30 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2432-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069243201</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, Omicron KP.2, 30 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2432-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240830</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -7637,6 +7681,48 @@
         </code-status>
     </code>
     <code>
+        <value>66019-0311-00</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal (2024-2025)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0311-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240806</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-311-00</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal (2024-2025)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0311-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240828</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019031100</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal (2024-2025)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0311-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240828</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>66019-0302-01</value>
         <label>FluMist Quadrivalent</label>
         <description>MedImmune, LLC - INFLUENZA VACCINE LIVE INTRANASAL</description>
@@ -8124,6 +8210,7 @@
         </reference>
         <use-date>
             <not-before>20230814</not-before>
+            <not-after>20240805</not-after>
         </use-date>
     </code>
     <code>
@@ -16278,6 +16365,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -16303,6 +16391,49 @@
                 <new-code-value>80777-0287-07</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0291-09</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 25 mcg/0.25 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-80</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-81</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240822</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-291-09</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 25 mcg/0.25 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0291-09</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777029109</value>
+        <label>Moderna COVID-19 Vaccine</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 25 mcg/0.25 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0291-09</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240830</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -16520,6 +16651,48 @@
                 <new-code-value>80631-0105-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230831</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80631-0107-01</value>
+        <label>NOVAVAX COVID-19 VACCINE, ADJUVANTED</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron JN.1, 5 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0107-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240830</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80631-107-01</value>
+        <label>NOVAVAX COVID-19 VACCINE, ADJUVANTED</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron JN.1, 5 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0107-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240903</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80631010701</value>
+        <label>NOVAVAX COVID-19 VACCINE, ADJUVANTED</label>
+        <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron JN.1, 5 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80631-0107-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240903</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -17068,6 +17241,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -17136,6 +17310,90 @@
                 <new-code-value>59267-4315-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-4426-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 3 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4426-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240822</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-4426-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 3 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4426-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267442601</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 3 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4426-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267-4438-01</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 10 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4438-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240822</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>59267-4438-1</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 10 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4438-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>59267443801</value>
+        <label>Pfizer-BioNTech Covid-19 Vaccine</label>
+        <description>Pfizer Manufacturing Belgium NV - COVID-19, mRNA, Omicron KP.2, 10 mcg/0.3 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>59267-4438-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240830</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -18949,6 +19207,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -18991,6 +19250,7 @@
         </reference>
         <use-date>
             <not-before>20230911</not-before>
+            <not-after>20240821</not-after>
         </use-date>
     </code>
     <code>
@@ -19016,6 +19276,49 @@
                 <new-code-value>80777-0102-04</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230912</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0110-01</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 50 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-96</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-93</link-to>
+        </reference>
+        <use-date>
+            <not-before>20240822</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-110-01</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 50 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0110-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20240830</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777011001</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, Omicron KP.2, 50 mcg/0.5 mL (Fall 2024)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0110-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20240830</effective-date>
             </deprecated>
         </code-status>
     </code>

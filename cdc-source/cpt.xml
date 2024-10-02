@@ -842,9 +842,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high-dose, quadrivalent, PF</Value>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -858,9 +858,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high-dose, trivalent, PF</Value>
+    <Value>Influenza, high-dose, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>135       </Value>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1418,9 +1418,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP</Value>
+    <Value>DTaP, 5 pertussis antigens</Value>
     <Name>CVX Code</Name>
-    <Value>20        </Value>
+    <Value>106       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1434,9 +1434,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP, 5 pertussis antigens</Value>
+    <Value>DTaP</Value>
     <Name>CVX Code</Name>
-    <Value>106       </Value>
+    <Value>20        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1690,9 +1690,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Yellow fever vaccine live - alt</Value>
+    <Value>yellow fever live</Value>
     <Name>CVX Code</Name>
-    <Value>183       </Value>
+    <Value>37        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1706,9 +1706,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>yellow fever live</Value>
+    <Value>Yellow fever vaccine live - alt</Value>
     <Name>CVX Code</Name>
-    <Value>37        </Value>
+    <Value>183       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1898,9 +1898,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Meningococcal MCV4O</Value>
+    <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
-    <Value>136       </Value>
+    <Value>114       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1914,9 +1914,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal MCV4P</Value>
+    <Value>Meningococcal MCV4O</Value>
     <Name>CVX Code</Name>
-    <Value>114       </Value>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -2266,9 +2266,9 @@
     <Name>Comments</Name>
     <Value>Original and Fall 2023 COVID-19 vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
-    <Value>313       </Value>
+    <Value>211       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -2282,9 +2282,9 @@
     <Name>Comments</Name>
     <Value>Original and Fall 2023 COVID-19 vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
     <Name>CVX Code</Name>
-    <Value>211       </Value>
+    <Value>313       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
