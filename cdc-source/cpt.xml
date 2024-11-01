@@ -282,9 +282,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>318       </Value>
+    <Value>24        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -298,9 +298,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>24        </Value>
+    <Value>318       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -494,7 +494,7 @@
     <Name>CVX Code</Name>
     <Value>166       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -718,7 +718,7 @@
     <Name>CVX Code</Name>
     <Value>144       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -810,11 +810,11 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, preservative</Value>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>320       </Value>
+    <Value>153       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/9/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -826,11 +826,11 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, PF</Value>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
     <Name>CVX Code</Name>
-    <Value>153       </Value>
+    <Value>320       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/9/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1418,9 +1418,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP, 5 pertussis antigens</Value>
+    <Value>DTaP</Value>
     <Name>CVX Code</Name>
-    <Value>106       </Value>
+    <Value>20        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1434,9 +1434,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP</Value>
+    <Value>DTaP, 5 pertussis antigens</Value>
     <Name>CVX Code</Name>
-    <Value>20        </Value>
+    <Value>106       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -2264,13 +2264,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
+    <Value>Original and Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>211       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2280,13 +2280,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
+    <Value>Original and Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>313       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2504,13 +2504,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>308       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/19/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2520,13 +2520,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>310       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/19/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2536,13 +2536,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>309       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2552,13 +2552,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</Value>
     <Name>CVX Code</Name>
     <Value>311       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2568,12 +2568,12 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>312       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
 </CPTCodes>

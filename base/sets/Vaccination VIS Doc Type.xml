@@ -110,6 +110,19 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300031811241017</value>
+        <label>Cholera Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">174</link-to>
+        </reference>
+        <use-date>
+            <not-before>20241017</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300035611210201</value>
         <label>COVID-19 AstraZeneca Vaccine EUA Recipient-Caregiver Fact Sheet</label>
         <code-status>
@@ -408,6 +421,20 @@
         </reference>
         <use-date>
             <not-before>20231019</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300063911241017</value>
+        <label>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">309</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">312</link-to>
+        </reference>
+        <use-date>
+            <not-before>20241017</not-before>
         </use-date>
     </code>
     <code>
@@ -1993,6 +2020,21 @@
         </reference>
         <use-date>
             <not-before>20231019</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300060811241017</value>
+        <label>RSV (Respiratory Syncytial Virus) Vaccine VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">305</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">326</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">303</link-to>
+        </reference>
+        <use-date>
+            <not-before>20241017</not-before>
         </use-date>
     </code>
     <code>
