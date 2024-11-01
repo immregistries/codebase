@@ -917,8 +917,16 @@
     <Edition_Date>10/30/2019</Edition_Date>
     <VIS_encoded_string>253088698300031811191030</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000318</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>10/17/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Cholera Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>10/17/2024</Edition_Date>
+    <VIS_encoded_string>253088698300031811241017</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000318</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/30/2019</Lastupdated>
+    <Lastupdated>10/17/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Recombinant Zoster Vaccine VIS</VIS_Document_Type_Description>
@@ -1173,8 +1181,16 @@
     <Edition_Date>10/19/2023</Edition_Date>
     <VIS_encoded_string>253088698300060811231019</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000608</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>10/17/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>RSV (Respiratory Syncytial Virus) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>10/17/2024</Edition_Date>
+    <VIS_encoded_string>253088698300060811241017</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000608</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/19/2023</Lastupdated>
+    <Lastupdated>10/17/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
@@ -1205,8 +1221,16 @@
     <Edition_Date>10/19/2023</Edition_Date>
     <VIS_encoded_string>253088698300063911231019</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>10/17/2024</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</VIS_Document_Type_Description>
+    <Edition_Date>10/17/2024</Edition_Date>
+    <VIS_encoded_string>253088698300063911241017</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/19/2023</Lastupdated>
+    <Lastupdated>10/17/2024</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tick-borne Encephalitis Vaccine VIS</VIS_Document_Type_Description>

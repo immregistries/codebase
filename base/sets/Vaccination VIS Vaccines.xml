@@ -58,6 +58,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811170706</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">174</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811191030</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300031811241017</link-to>
         </reference>
         <use-date>
             <not-before>20170706</not-before>
@@ -347,6 +348,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911231019</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911241017</link-to>
         </reference>
         <use-date>
             <not-before>20231019</not-before>
@@ -360,6 +362,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911231019</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911241017</link-to>
         </reference>
         <use-date>
             <not-before>20231019</not-before>
@@ -1640,6 +1643,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811230724</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811231019</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811241017</link-to>
         </reference>
         <use-date>
             <not-before>20230724</not-before>
@@ -1654,6 +1658,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811230724</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811231019</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811241017</link-to>
         </reference>
         <use-date>
             <not-before>20230724</not-before>
@@ -1667,6 +1672,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811231019</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300060811241017</link-to>
         </reference>
         <use-date>
             <not-before>20231019</not-before>
