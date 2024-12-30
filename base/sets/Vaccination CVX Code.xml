@@ -1730,7 +1730,7 @@
             <not-before>20100528</not-before>
         </use-date>
         <use-age>
-            <not-before-month>1</not-before-month>
+            <not-before-month>0</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
         <concept-type>non vaccine</concept-type>
@@ -2592,7 +2592,7 @@
             <not-before-month>1</not-before-month>
             <not-after-month>1440</not-after-month>
         </use-age>
-        <concept-type>unspecified</concept-type>
+        <concept-type>non vaccine</concept-type>
         <test-age>2 months</test-age>
     </code>
     <code>
@@ -3303,6 +3303,10 @@
         <use-date>
             <not-before>20240515</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>6</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
     </code>
     <code>
@@ -4990,6 +4994,10 @@
         <use-date>
             <not-before>20240711</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>215</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
     </code>
     <code>
@@ -5584,7 +5592,7 @@
         </use-date>
         <use-age>
             <not-before-month>0</not-before-month>
-            <not-after-month>8</not-after-month>
+            <not-after-month>12</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
     </code>
@@ -5606,7 +5614,7 @@
             <not-before>20230725</not-before>
         </use-date>
         <use-age>
-            <not-before-month>7</not-before-month>
+            <not-before-month>0</not-before-month>
             <not-after-month>24</not-after-month>
         </use-age>
         <concept-type>vaccine</concept-type>
@@ -5628,6 +5636,10 @@
         <use-date>
             <not-before>20240605</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>719</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
     </code>
     <code>
@@ -6085,7 +6097,7 @@
         <use-date>
             <not-after>20170206</not-after>
         </use-date>
-        <concept-type>vaccine</concept-type>
+        <concept-type>non vaccine</concept-type>
     </code>
     <code>
         <value>35</value>
