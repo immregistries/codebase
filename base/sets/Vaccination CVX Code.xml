@@ -1254,6 +1254,7 @@
         <use-date>
             <not-before>19840101</not-before>
             <not-expected-before>19840101</not-expected-before>
+            <not-after>20241206</not-after>
         </use-date>
         <use-age>
             <not-before-month>1</not-before-month>
@@ -2089,6 +2090,9 @@
             <link-to codeset="VACCINATION_TRADE_NAME">RECOMBIVAX-DIALYSIS</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4992-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4992-00</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">ENGERIX-B-ADULT</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-05</link-to>
         </reference>
         <use-date>
             <not-before>20000101</not-before>
@@ -2194,6 +2198,7 @@
         </reference>
         <use-date>
             <not-before>20220119</not-before>
+            <not-after>20241211</not-after>
         </use-date>
         <use-age>
             <not-before-month>215</not-before-month>
@@ -5624,6 +5629,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0345-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-90</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-96</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-89</link-to>
         </reference>
         <use-date>
             <not-before>20240605</not-before>
@@ -6804,6 +6810,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20241206</not-after>
         </use-date>
         <use-age>
             <not-before-month>599</not-before-month>

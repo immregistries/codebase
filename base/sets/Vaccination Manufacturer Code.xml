@@ -1160,6 +1160,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-80</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-93</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-96</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-89</link-to>
         </reference>
         <use-date>
             <not-before>20201001</not-before>
@@ -2281,6 +2282,7 @@
         </reference>
         <use-date>
             <not-before>20220413</not-before>
+            <not-after>20241206</not-after>
         </use-date>
     </code>
     <code>

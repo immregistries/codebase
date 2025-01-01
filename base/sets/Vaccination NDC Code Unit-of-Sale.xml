@@ -10982,7 +10982,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0933-88</link-to>
         </reference>
         <use-date>
-            <not-before>20240214</not-before>
+            <not-before>20240326</not-before>
         </use-date>
     </code>
     <code>
@@ -17055,6 +17055,48 @@
                 <new-code-value>80777-0345-96</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20240611</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0345-89</value>
+        <label>mRESVIA</label>
+        <description>Moderna US, INC. - Respiratory Syncytial Virus Vaccine (RSV), mRNA</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">326</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0345-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20241105</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-345-89</value>
+        <label>mRESVIA</label>
+        <description>Moderna US, INC. - Respiratory Syncytial Virus Vaccine (RSV), mRNA</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0345-89</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20241121</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777034589</value>
+        <label>mRESVIA</label>
+        <description>Moderna US, INC. - Respiratory Syncytial Virus Vaccine (RSV), mRNA</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0345-89</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20241121</effective-date>
             </deprecated>
         </code-status>
     </code>

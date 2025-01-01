@@ -3477,6 +3477,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-11</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date>
             <not-before>20070328</not-before>
@@ -3565,6 +3566,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-34</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date>
             <not-before>20070328</not-before>
@@ -10744,7 +10746,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0933-50</link-to>
         </reference>
         <use-date>
-            <not-before>20240214</not-before>
+            <not-before>20240326</not-before>
         </use-date>
     </code>
     <code>
@@ -16537,6 +16539,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-96</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-90</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-89</link-to>
         </reference>
         <use-date>
             <not-before>20240531</not-before>

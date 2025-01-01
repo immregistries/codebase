@@ -322,6 +322,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90587     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Dengue vaccine, quadrivalent, live, 3 dose schedule, for subcutaneous use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>dengue fever tetravalent</Value>
+    <Name>CVX Code</Name>
+    <Value>56        </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/13/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90589     </Value>
     <Name>CPT Desc</Name>
     <Value>Chikungunya virus vaccine, live attenuated, for intramuscular use</Value>
@@ -494,7 +510,7 @@
     <Name>CVX Code</Name>
     <Value>166       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -718,7 +734,7 @@
     <Name>CVX Code</Name>
     <Value>144       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -814,7 +830,7 @@
     <Name>CVX Code</Name>
     <Value>320       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/9/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -830,23 +846,7 @@
     <Name>CVX Code</Name>
     <Value>153       </Value>
     <Name>LastUpdated</Name>
-    <Value>7/9/2024</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
-    <Value>90662     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Influenza, high-dose, trivalent, PF</Value>
-    <Name>CVX Code</Name>
-    <Value>135       </Value>
-    <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -861,6 +861,22 @@
     <Value>Influenza, high-dose, quadrivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>197       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/13/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90662     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, high-dose, trivalent, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>135       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1794,6 +1810,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90726     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Rabies vaccine</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>rabies, unspecified formulation</Value>
+    <Name>CVX Code</Name>
+    <Value>90        </Value>
+    <Name>LastUpdated</Name>
+    <Value>3/3/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90727     </Value>
     <Name>CPT Desc</Name>
     <Value>Plague vaccine, for intramuscular use</Value>
@@ -2010,7 +2042,7 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Hep B, dialysis</Value>
+    <Value>Hep B, high-dosage, dialysis or IC</Value>
     <Name>CVX Code</Name>
     <Value>44        </Value>
     <Name>LastUpdated</Name>
@@ -2031,6 +2063,22 @@
     <Value>14        </Value>
     <Name>LastUpdated</Name>
     <Value>3/3/2017</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90743     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Hepatitis B vaccine (HepB), adolescent, 2 dose schedule, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Hep B, adolescent or pediatric</Value>
+    <Name>CVX Code</Name>
+    <Value>08        </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/13/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2104,13 +2152,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Note that the NDCs for Engerix-B are mapped to CVX 43 which is not specific to dialysis use</Value>
+    <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Hep B, adult</Value>
+    <Value>Hep B, high-dosage, dialysis or IC</Value>
     <Name>CVX Code</Name>
-    <Value>43        </Value>
+    <Value>44        </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>12/11/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2264,13 +2312,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
+    <Value>Original and Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
     <Name>CVX Code</Name>
-    <Value>211       </Value>
+    <Value>313       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2280,13 +2328,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Original and Fall 2023 COVID-19 vaccine</Value>
+    <Value>Original and Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
-    <Value>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</Value>
+    <Value>COVID-19, subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL</Value>
     <Name>CVX Code</Name>
-    <Value>313       </Value>
+    <Value>211       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2504,13 +2552,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>308       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/19/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2520,13 +2568,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>310       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/19/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2536,13 +2584,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
     <Name>CVX Code</Name>
     <Value>309       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2552,13 +2600,13 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 25 mcg/0.25 mL</Value>
     <Name>CVX Code</Name>
     <Value>311       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -2568,12 +2616,12 @@
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
-    <Value>Fall 2023 COVID-19 vaccine </Value>
+    <Value>Fall COVID-19 vaccine starting 2023</Value>
     <Name>Vaccine Name</Name>
     <Value>COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL</Value>
     <Name>CVX Code</Name>
     <Value>312       </Value>
     <Name>LastUpdated</Name>
-    <Value>9/14/2023</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
 </CPTCodes>

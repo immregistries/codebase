@@ -147,8 +147,8 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Cholera Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000318</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/cholera.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/cholera.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/cholera.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/cholera.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Recombinant Zoster Vaccine VIS</VIS_Document_Type_Description_ConceptName>
@@ -195,8 +195,8 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine VIS </VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000608</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/rsv.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/rsv.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/rsv.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>
@@ -213,8 +213,8 @@
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000639</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/COVID-19.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/vis/vis-statements/COVID-19.html"/>
+    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/covid-19.pdf"/>
+    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/covid-19.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Tick-borne Encephalitis Vaccine VIS</VIS_Document_Type_Description_ConceptName>
