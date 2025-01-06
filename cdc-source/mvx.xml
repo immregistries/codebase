@@ -1002,11 +1002,11 @@
     <Name>Manufacturer Name</Name>
     <Value>VBI Vaccines, Inc</Value>
     <Name>Notes</Name>
-    <Value>New Vaccine Manufacturer added 1/2022</Value>
+    <Value>Manufacturer VBI ceased operation and Prehevbio Hep B product recalled effective 11/15/2024.</Value>
     <Name>Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>4/13/2022</Value>
+    <Value>12/6/2024</Value>
   </MVXInfo>
   <MVXInfo>
     <Name>MVX_CODE</Name>
