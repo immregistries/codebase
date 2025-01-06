@@ -513,6 +513,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20241206</not-after>
         </use-date>
     </code>
     <code>
@@ -805,6 +806,7 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -850,6 +852,7 @@
         </reference>
         <use-date>
             <not-before>20220112</not-before>
+            <not-after>20241210</not-after>
         </use-date>
     </code>
     <code>
@@ -2675,6 +2678,7 @@
         </reference>
         <use-date>
             <not-before>20100528</not-before>
+            <not-after>20241206</not-after>
         </use-date>
     </code>
     <code>

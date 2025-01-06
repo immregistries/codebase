@@ -26,24 +26,6 @@
     <Name>CVXCode</Name>
     <Value>75        </Value>
     <Name>Manufacturer</Name>
-    <Value>Emergent BioSolutions</Value>
-    <Name>MVX Code</Name>
-    <Value>MIP       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>6/10/2022</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>ACAM2000</Value>
-    <Name>Short Description</Name>
-    <Value>vaccinia (smallpox)</Value>
-    <Name>CVXCode</Name>
-    <Value>75        </Value>
-    <Name>Manufacturer</Name>
     <Value>Acambis, Inc</Value>
     <Name>MVX Code</Name>
     <Value>ACA       </Value>
@@ -53,6 +35,24 @@
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
     <Value>5/28/2010</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>ACAM2000</Value>
+    <Name>Short Description</Name>
+    <Value>vaccinia (smallpox)</Value>
+    <Name>CVXCode</Name>
+    <Value>75        </Value>
+    <Name>Manufacturer</Name>
+    <Value>Emergent BioSolutions</Value>
+    <Name>MVX Code</Name>
+    <Value>MIP       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>6/10/2022</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -278,11 +278,11 @@
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
-    <Value>bioCSL</Value>
+    <Value>Seqirus</Value>
     <Name>MVX Code</Name>
-    <Value>CSL       </Value>
+    <Value>SEQ       </Value>
     <Name>MVX Status</Name>
-    <Value>Inactive</Value>
+    <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
@@ -296,11 +296,11 @@
     <Name>CVXCode</Name>
     <Value>140       </Value>
     <Name>Manufacturer</Name>
-    <Value>Seqirus</Value>
+    <Value>bioCSL</Value>
     <Name>MVX Code</Name>
-    <Value>SEQ       </Value>
+    <Value>CSL       </Value>
     <Name>MVX Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
@@ -824,9 +824,9 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
+    <Value>12/6/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -845,6 +845,24 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>8/9/2013</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>ENGERIX-B-ADULT</Value>
+    <Name>Short Description</Name>
+    <Value>Hep B, high-dosage, dialysis or IC</Value>
+    <Name>CVXCode</Name>
+    <Value>44        </Value>
+    <Name>Manufacturer</Name>
+    <Value>GlaxoSmithKline</Value>
+    <Name>MVX Code</Name>
+    <Value>SKB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>5/28/2010</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -1316,24 +1334,6 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Fluvirin</Value>
-    <Name>Short Description</Name>
-    <Value>Influenza, split virus, trivalent, preservative</Value>
-    <Name>CVXCode</Name>
-    <Value>141       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Seqirus</Value>
-    <Name>MVX Code</Name>
-    <Value>SEQ       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Inactive</Value>
-    <Name>Last Updated</Name>
-    <Value>4/25/2024</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>FLUVIRIN</Value>
     <Name>Short Description</Name>
     <Value>Influenza, split virus, trivalent, preservative</Value>
@@ -1345,6 +1345,24 @@
     <Value>NOV       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>4/25/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Fluvirin</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, split virus, trivalent, preservative</Value>
+    <Name>CVXCode</Name>
+    <Value>141       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Seqirus</Value>
+    <Name>MVX Code</Name>
+    <Value>SEQ       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
@@ -1970,24 +1988,6 @@
     <Name>CVXCode</Name>
     <Value>134       </Value>
     <Name>Manufacturer</Name>
-    <Value>Intercell Biomedical</Value>
-    <Name>MVX Code</Name>
-    <Value>INT       </Value>
-    <Name>MVX Status</Name>
-    <Value>Inactive</Value>
-    <Name>Product name Status</Name>
-    <Value>Inactive</Value>
-    <Name>Last Updated</Name>
-    <Value>7/19/2016</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>IXIARO</Value>
-    <Name>Short Description</Name>
-    <Value>Japanese Encephalitis IM</Value>
-    <Name>CVXCode</Name>
-    <Value>134       </Value>
-    <Name>Manufacturer</Name>
     <Value>Vetter Pharma Fertigung GmbH &amp;amp; Co. KG</Value>
     <Name>MVX Code</Name>
     <Value>VET       </Value>
@@ -1997,6 +1997,24 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>12/4/2017</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>IXIARO</Value>
+    <Name>Short Description</Name>
+    <Value>Japanese Encephalitis IM</Value>
+    <Name>CVXCode</Name>
+    <Value>134       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Intercell Biomedical</Value>
+    <Name>MVX Code</Name>
+    <Value>INT       </Value>
+    <Name>MVX Status</Name>
+    <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>7/19/2016</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -2144,24 +2162,6 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Menveo</Value>
-    <Name>Short Description</Name>
-    <Value>Meningococcal MCV4O</Value>
-    <Name>CVXCode</Name>
-    <Value>136       </Value>
-    <Name>Manufacturer</Name>
-    <Value>GlaxoSmithKline</Value>
-    <Name>MVX Code</Name>
-    <Value>SKB       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>3/22/2016</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>MENVEO</Value>
     <Name>Short Description</Name>
     <Value>Meningococcal MCV4O</Value>
@@ -2173,6 +2173,24 @@
     <Value>NOV       </Value>
     <Name>MVX Status</Name>
     <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>3/22/2016</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Menveo</Value>
+    <Name>Short Description</Name>
+    <Value>Meningococcal MCV4O</Value>
+    <Name>CVXCode</Name>
+    <Value>136       </Value>
+    <Name>Manufacturer</Name>
+    <Value>GlaxoSmithKline</Value>
+    <Name>MVX Code</Name>
+    <Value>SKB       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Active</Value>
     <Name>Last Updated</Name>
@@ -2528,11 +2546,11 @@
     <Name>CVXCode</Name>
     <Value>126       </Value>
     <Name>Manufacturer</Name>
-    <Value>Sanofi Pasteur</Value>
+    <Value>Novartis Pharmaceutical Corporation</Value>
     <Name>MVX Code</Name>
-    <Value>PMC       </Value>
+    <Value>NOV       </Value>
     <Name>MVX Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
@@ -2564,11 +2582,11 @@
     <Name>CVXCode</Name>
     <Value>126       </Value>
     <Name>Manufacturer</Name>
-    <Value>Novartis Pharmaceutical Corporation</Value>
+    <Value>Sanofi Pasteur</Value>
     <Name>MVX Code</Name>
-    <Value>NOV       </Value>
+    <Value>PMC       </Value>
     <Name>MVX Status</Name>
-    <Value>Inactive</Value>
+    <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
@@ -2892,29 +2910,11 @@
     <Name>MVX Code</Name>
     <Value>VBI       </Value>
     <Name>MVX Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>1/25/2022</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>PREVNAR 13</Value>
-    <Name>Short Description</Name>
-    <Value>Pneumococcal conjugate PCV 13</Value>
-    <Name>CVXCode</Name>
-    <Value>133       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Pfizer, Inc</Value>
-    <Name>MVX Code</Name>
-    <Value>PFR       </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
+    <Value>12/10/2024</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -2931,6 +2931,24 @@
     <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>5/28/2010</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>PREVNAR 13</Value>
+    <Name>Short Description</Name>
+    <Value>Pneumococcal conjugate PCV 13</Value>
+    <Name>CVXCode</Name>
+    <Value>133       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Pfizer, Inc</Value>
+    <Name>MVX Code</Name>
+    <Value>PFR       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>5/28/2010</Value>
   </prodInfo>
@@ -3068,6 +3086,24 @@
     <Name>CVXCode</Name>
     <Value>176       </Value>
     <Name>Manufacturer</Name>
+    <Value>Novartis Pharmaceutical Corporation</Value>
+    <Name>MVX Code</Name>
+    <Value>NOV       </Value>
+    <Name>MVX Status</Name>
+    <Value>Inactive</Value>
+    <Name>Product name Status</Name>
+    <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>10/19/2016</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>RABAVERT</Value>
+    <Name>Short Description</Name>
+    <Value>Rabies - IM fibroblast culture</Value>
+    <Name>CVXCode</Name>
+    <Value>176       </Value>
+    <Name>Manufacturer</Name>
     <Value>GlaxoSmithKline</Value>
     <Name>MVX Code</Name>
     <Value>SKB       </Value>
@@ -3095,24 +3131,6 @@
     <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>7/25/2024</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
-    <Value>RABAVERT</Value>
-    <Name>Short Description</Name>
-    <Value>Rabies - IM fibroblast culture</Value>
-    <Name>CVXCode</Name>
-    <Value>176       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Novartis Pharmaceutical Corporation</Value>
-    <Name>MVX Code</Name>
-    <Value>NOV       </Value>
-    <Name>MVX Status</Name>
-    <Value>Inactive</Value>
-    <Name>Product name Status</Name>
-    <Value>Inactive</Value>
-    <Name>Last Updated</Name>
-    <Value>10/19/2016</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -3154,7 +3172,7 @@
     <Name>CDC Product Name</Name>
     <Value>RECOMBIVAX-DIALYSIS</Value>
     <Name>Short Description</Name>
-    <Value>Hep B, dialysis</Value>
+    <Value>Hep B, high-dosage, dialysis or IC</Value>
     <Name>CVXCode</Name>
     <Value>44        </Value>
     <Name>Manufacturer</Name>
@@ -3674,24 +3692,6 @@
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
-    <Value>Vaxchora</Value>
-    <Name>Short Description</Name>
-    <Value>cholera, live attenuated</Value>
-    <Name>CVXCode</Name>
-    <Value>174       </Value>
-    <Name>Manufacturer</Name>
-    <Value>Bavarian Nordic A/S</Value>
-    <Name>MVX Code</Name>
-    <Value>BN        </Value>
-    <Name>MVX Status</Name>
-    <Value>Active</Value>
-    <Name>Product name Status</Name>
-    <Value>Active</Value>
-    <Name>Last Updated</Name>
-    <Value>6/12/2024</Value>
-  </prodInfo>
-  <prodInfo>
-    <Name>CDC Product Name</Name>
     <Value>VAXCHORA</Value>
     <Name>Short Description</Name>
     <Value>cholera, live attenuated</Value>
@@ -3705,6 +3705,24 @@
     <Value>Active</Value>
     <Name>Product name Status</Name>
     <Value>Inactive</Value>
+    <Name>Last Updated</Name>
+    <Value>6/12/2024</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>Vaxchora</Value>
+    <Name>Short Description</Name>
+    <Value>cholera, live attenuated</Value>
+    <Name>CVXCode</Name>
+    <Value>174       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Bavarian Nordic A/S</Value>
+    <Name>MVX Code</Name>
+    <Value>BN        </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
     <Name>Last Updated</Name>
     <Value>6/12/2024</Value>
   </prodInfo>
@@ -3830,8 +3848,8 @@
     <Name>MVX Status</Name>
     <Value>Active</Value>
     <Name>Product name Status</Name>
-    <Value>Active</Value>
+    <Value>Inactive</Value>
     <Name>Last Updated</Name>
-    <Value>5/28/2010</Value>
+    <Value>12/6/2024</Value>
   </prodInfo>
 </productnames>

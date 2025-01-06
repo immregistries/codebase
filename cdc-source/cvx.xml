@@ -438,15 +438,15 @@
     <CVXCode>56        </CVXCode>
     <Notes>Applies to tetravalent product (e.g. DENGVAXIA)</Notes>
     <Status>Active</Status>
-    <LastUpdated>2/16/2023</LastUpdated>
+    <LastUpdated>12/11/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DT (pediatric)</ShortDescription>
     <FullVaccinename>diphtheria and tetanus toxoids, adsorbed for pediatric use</FullVaccinename>
     <CVXCode>28        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <Notes>Retired effective 04/30/2023.  All vaccine NDCs retired.  No further vaccines expected for this formulation.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>12/6/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>DT, IPV adsorbed</ShortDescription>
@@ -660,9 +660,9 @@
     <ShortDescription>Hep B, adolescent or pediatric</ShortDescription>
     <FullVaccinename>hepatitis B vaccine, pediatric or pediatric/adolescent dosage</FullVaccinename>
     <CVXCode>08        </CVXCode>
-    <Notes>This code applies to any standard pediatric formulation of Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B schedule for adolescents (11-15 year olds). It requires Merck's Recombivax HB adult formulation. Use code 43 for that vaccine.</Notes>
+    <Notes>This code applies to any standard pediatric formulation of Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B schedule for adolescents (11-15 year olds). Use code 43 for that vaccine.</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/10/2018</LastUpdated>
+    <LastUpdated>12/16/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep B, adolescent/high risk infant</ShortDescription>
@@ -676,17 +676,17 @@
     <ShortDescription>Hep B, adult</ShortDescription>
     <FullVaccinename>hepatitis B vaccine, adult dosage</FullVaccinename>
     <CVXCode>43        </CVXCode>
-    <Notes>As of September 1999, a 2-dose hepatitis B schedule for adolescents (11-15 year olds) was FDA approved for Merck's Recombivax HB adult formulation. Use code 43 for the 2-dose. This code should be used for any use of standard adult formulation of hepatitis B vaccine.</Notes>
+    <Notes>This code applies to any standard adult dose and schedule. Also use CVX 43 for the FDA approved Recombivax HB 2-dose hepatitis B schedule for adolescents (11-15 year olds) using the adult formulation. </Notes>
     <Status>Active</Status>
-    <LastUpdated>5/10/2018</LastUpdated>
+    <LastUpdated>12/12/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Hep B, dialysis</ShortDescription>
-    <FullVaccinename>hepatitis B vaccine, dialysis patient dosage</FullVaccinename>
+    <ShortDescription>Hep B, high-dosage, dialysis or IC</ShortDescription>
+    <FullVaccinename>Hepatitis B vaccine (Hep B), high-dosage, dialysis or immunocompromised patient</FullVaccinename>
     <CVXCode>44        </CVXCode>
-    <Notes>NDCs that are used for both vaccine and dialysis (e.g. Engerix-B)  are mapped to CVX 43 which is not specific to dialysis use</Notes>
+    <Notes>This code is used record patient high dosage vaccine administration for dialysis or immunocompromised patients. For NDCs that are used for both regular vaccine and dialysis/IC high-dosage schedules (e.g. Engerix-B), are mapped to both CVX 43 and CVX 44. CVX code 44 should be utilized to record dialysis/IC dosing.</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/8/2019</LastUpdated>
+    <LastUpdated>12/13/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep B, unspecified formulation</ShortDescription>
@@ -716,9 +716,9 @@
     <ShortDescription>HepB recombinant, 3-antigen, Al(OH)3</ShortDescription>
     <FullVaccinename>Hepatitis B vaccine (recombinant), 3-antigen, Al(OH)3 adjuvanted</FullVaccinename>
     <CVXCode>220       </CVXCode>
-    <Notes>New Hep B vaccine 1/2022</Notes>
-    <Status>Active</Status>
-    <LastUpdated>2/14/2022</LastUpdated>
+    <Notes>Manufacturer VBI has ceased operations - Prehevbrio Hep B vaccine voluntary recall effective 11/15/2024</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>12/11/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>HepB-CpG</ShortDescription>
@@ -1980,9 +1980,9 @@
     <ShortDescription>zoster live</ShortDescription>
     <FullVaccinename>zoster vaccine, live</FullVaccinename>
     <CVXCode>121       </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
+    <Notes>Zostavax vaccine associated to this CVX Code retired 10/2022</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>12/6/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>zoster recombinant</ShortDescription>

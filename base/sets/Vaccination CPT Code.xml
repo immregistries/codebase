@@ -123,6 +123,14 @@
         <use-date/>
     </code>
     <code>
+        <value>90587</value>
+        <label>Dengue vaccine, quadrivalent, live, 3 dose schedule, for subcutaneous use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90296</value>
         <label>diphtheria antitoxin</label>
         <description></description>
