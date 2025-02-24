@@ -2369,14 +2369,6 @@
     <Status>Historic</Status>
   </CVXVISMapping>
   <CVXVISMapping>
-    <CVXCode>41        </CVXCode>
-    <CVXVaccineDescription>typhoid, parenteral</CVXVaccineDescription>
-    <Fully-encodedString>253088698300023311191030</Fully-encodedString>
-    <VISDocumentName>Typhoid VIS</VISDocumentName>
-    <VISEditionDate>10/30/2019</VISEditionDate>
-    <Status>Current</Status>
-  </CVXVISMapping>
-  <CVXVISMapping>
     <CVXCode>101       </CVXCode>
     <CVXVaccineDescription>typhoid, ViCPs</CVXVaccineDescription>
     <Fully-encodedString>253088698300023311191030</Fully-encodedString>
