@@ -156,6 +156,13 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0016-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0010-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0016-02</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VIMKUNYA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0022-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0023-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0018-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0023-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0022-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0018-02</link-to>
         </reference>
         <use-date>
             <not-before>20200717</not-before>
@@ -648,6 +655,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-3781-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0884-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3781-00</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PENMENVY</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0750-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0730-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0757-15</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>

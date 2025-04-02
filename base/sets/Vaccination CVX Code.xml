@@ -265,6 +265,24 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>329</value>
+        <label>Chikungunya, VLP, recombinant, 0.8 mL, PF</label>
+        <description>Chikungunya, virus-like particle (VLP), recombinant vaccine, 0.8 mL, preservative free</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Chikungunya</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">VIMKUNYA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0018-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0018-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250318</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>26</value>
         <label>cholera</label>
         <description>cholera vaccine, unspecified formulation</description>
@@ -2093,6 +2111,7 @@
             <link-to codeset="VACCINATION_TRADE_NAME">ENGERIX-B-ADULT</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-05</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-34</link-to>
         </reference>
         <use-date>
             <not-before>20000101</not-before>
@@ -4419,6 +4438,26 @@
         <test-age>11 years</test-age>
     </code>
     <code>
+        <value>328</value>
+        <label>Meningococcal oligosaccharide (MenACWY), (MenB), PF</label>
+        <description>Meningococcal oligosaccharide conjugated (groups A, C, W, Y) and group B, 0.5 mL, preservative free Notes: Meningococcal pentavalent vaccine strains ABCW and Y</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">MENING</link-to>
+            <link-to codeset="VACCINE_GROUP">MeningB</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">PENMENVY</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0750-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0730-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0757-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250318</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>203</value>
         <label>meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate</label>
         <description>meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free</description>
@@ -5880,6 +5919,10 @@
             <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90611</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0001-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0022-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0023-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0023-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0022-02</link-to>
         </reference>
         <use-date>
             <not-before>20200720</not-before>

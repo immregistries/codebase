@@ -109,8 +109,16 @@
     <Edition_Date>10/15/2021</Edition_Date>
     <VIS_encoded_string>253088698300004211211015</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000042</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Hepatitis A Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300004211250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000042</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/15/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Hepatitis B VIS</VIS_Document_Type_Description>
@@ -157,8 +165,16 @@
     <Edition_Date>5/12/2023</Edition_Date>
     <VIS_encoded_string>253088698300005911230512</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Hepatitis B Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300005911250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000059</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>5/12/2023</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Haemophilus Influenzae type b VIS</VIS_Document_Type_Description>
@@ -269,8 +285,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300009711210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000097</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Influenza (Flu) Vaccine (Live, Intranasal) VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300009711250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000097</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Influenza Vaccine - Inactivated VIS</VIS_Document_Type_Description>
@@ -317,8 +341,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300010311210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000103</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Influenza (Flu) Vaccine (Inactivated or Recombinant) VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300010311250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000103</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Japanese Encephalitis VIS</VIS_Document_Type_Description>
@@ -373,8 +405,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300012711210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000127</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>MMR Vaccine (Measles, Mumps, and Rubella) VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300012711250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000127</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Measles/Mumps/Rubella/Varicella VIS</VIS_Document_Type_Description>
@@ -405,8 +445,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300013411210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000134</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>MMRV Vaccine (Measles, Mumps, Rubella, and Varicella) VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300013411250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000134</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Meningococcal VIS</VIS_Document_Type_Description>
@@ -445,8 +493,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300014111210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000141</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Meningococcal ACWY Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300014111250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000141</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Pneumococcal Conjugate (PCV13) VIS</VIS_Document_Type_Description>
@@ -541,8 +597,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300017211210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000172</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Polio Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300017211250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000172</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Rabies VIS</VIS_Document_Type_Description>
@@ -693,8 +757,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300024011210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000240</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Varicella (Chickenpox) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300024011250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000240</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Yellow Fever VIS</VIS_Document_Type_Description>
@@ -789,8 +861,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300027111210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Tdap (Tetanus, Diphtheria, Pertussis) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300027111250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000271</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tetanus/Diphtheria (Td) VIS</VIS_Document_Type_Description>
@@ -901,8 +981,16 @@
     <Edition_Date>8/6/2021</Edition_Date>
     <VIS_encoded_string>253088698300030111210806</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000301</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Meningococcal B Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300030111250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000301</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>8/6/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Cholera Vaccine VIS</VIS_Document_Type_Description>
@@ -925,8 +1013,16 @@
     <Edition_Date>10/17/2024</Edition_Date>
     <VIS_encoded_string>253088698300031811241017</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000318</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Cholera Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300031811250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000318</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/17/2024</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Recombinant Zoster Vaccine VIS</VIS_Document_Type_Description>
@@ -1053,8 +1149,16 @@
     <Edition_Date>12/17/2021</Edition_Date>
     <VIS_encoded_string>253088698300046211211217</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000462</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Dengue Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300046211250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000462</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>12/17/2021</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric &lt;5 yrs</VIS_Document_Type_Description>
@@ -1125,16 +1229,32 @@
     <Edition_Date>11/14/2022</Edition_Date>
     <VIS_encoded_string>253088698300053011221114</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Smallpox-Monkeypox Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300053011250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000530</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>11/14/2022</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>
     <Edition_Date>6/30/2022</Edition_Date>
     <VIS_encoded_string>253088698300054711220630</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000547</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Ebola Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300054711250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000547</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>6/30/2022</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description>
@@ -1189,8 +1309,16 @@
     <Edition_Date>10/17/2024</Edition_Date>
     <VIS_encoded_string>253088698300060811241017</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000608</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>RSV (Respiratory Syncytial Virus) Vaccine VIS</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300060811250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000608</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/17/2024</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
@@ -1229,8 +1357,16 @@
     <Edition_Date>10/17/2024</Edition_Date>
     <VIS_encoded_string>253088698300063911241017</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>1/31/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</VIS_Document_Type_Description>
+    <Edition_Date>1/31/2025</Edition_Date>
+    <VIS_encoded_string>253088698300063911250131</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000639</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/17/2024</Lastupdated>
+    <Lastupdated>1/31/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Tick-borne Encephalitis Vaccine VIS</VIS_Document_Type_Description>

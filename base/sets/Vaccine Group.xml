@@ -45,6 +45,7 @@
         <label>Chikungunya live attenuated vaccine, 0.5 mL, PF</label>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">317</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">329</link-to>
         </reference>
     </code>
     <code>
@@ -409,6 +410,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">32</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">203</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">328</link-to>
         </reference>
     </code>
     <code>
@@ -419,6 +421,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">163</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">162</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">316</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">328</link-to>
         </reference>
     </code>
     <code>

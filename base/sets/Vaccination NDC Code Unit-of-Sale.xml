@@ -3675,6 +3675,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">43</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-05</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">44</link-to>
         </reference>
         <use-date>
             <not-before>20070328</not-before>
@@ -10983,6 +10984,7 @@
         </reference>
         <use-date>
             <not-before>20240326</not-before>
+            <not-after>20241231</not-after>
         </use-date>
     </code>
     <code>
@@ -13135,6 +13137,7 @@
         </reference>
         <use-date>
             <not-before>20240214</not-before>
+            <not-after>20241231</not-after>
         </use-date>
     </code>
     <code>
@@ -13177,6 +13180,7 @@
         </reference>
         <use-date>
             <not-before>20240214</not-before>
+            <not-after>20241231</not-after>
         </use-date>
     </code>
     <code>
@@ -15719,6 +15723,90 @@
         </code-status>
     </code>
     <code>
+        <value>50632-0023-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0023-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50632-023-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0023-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20250306</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632002302</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0023-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20250306</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632-0022-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0022-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50632-022-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0022-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20250318</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632002202</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, non-replicating</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0022-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20250318</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>58160-0812-11</value>
         <label>KINRIX</label>
         <description>GlaxoSmithKline Biologicals SA - DIPHTHERIA AND TETANUS TOXOIDS AND ACELLULAR PERTUSSIS ADSORBED AND INACTIVATED POLIOVIRUS VACCINE</description>
@@ -17484,6 +17572,49 @@
                 <new-code-value>00069-0600-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20231214</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0757-15</value>
+        <label>PENMENVY</label>
+        <description>GlaxoSmithKline Biologicals SA - MenACWY (oligosaccharide) and Men B, KIT</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">328</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0750-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0730-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250214</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-757-15</value>
+        <label>PENMENVY</label>
+        <description>GlaxoSmithKline Biologicals SA - MenACWY (oligosaccharide) and Men B, KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0757-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20250318</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160075715</value>
+        <label>PENMENVY</label>
+        <description>GlaxoSmithKline Biologicals SA - MenACWY (oligosaccharide) and Men B, KIT</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0757-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20250318</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -22448,6 +22579,48 @@
                 <new-code-value>00006-4329-03</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20210816</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632-0018-02</value>
+        <label>VIMKUNYA</label>
+        <description>Bavarian Nordic A/S - Chikungunya vaccine, VLP, recombinant</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">329</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0018-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250301</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50632-018-02</value>
+        <label>VIMKUNYA</label>
+        <description>Bavarian Nordic A/S - Chikungunya vaccine, VLP, recombinant</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0018-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20250318</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632001802</value>
+        <label>VIMKUNYA</label>
+        <description>Bavarian Nordic A/S - Chikungunya vaccine, VLP, recombinant</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0018-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20250318</effective-date>
             </deprecated>
         </code-status>
     </code>

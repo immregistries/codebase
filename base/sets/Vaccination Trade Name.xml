@@ -104,6 +104,20 @@
         </use-date>
     </code>
     <code>
+        <value>VIMKUNYA</value>
+        <label>Chikungunya, VLP, recombinant, 0.8 mL, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">329</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250318</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>VAXCHORA</value>
         <label>cholera, live attenuated</label>
         <code-status>
@@ -1988,6 +2002,20 @@
         <use-date>
             <not-before>20100528</not-before>
             <not-after>20171027</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>PENMENVY</value>
+        <label>Meningococcal oligosaccharide (MenACWY), (MenB), PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">328</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250318</not-before>
         </use-date>
     </code>
     <code>
