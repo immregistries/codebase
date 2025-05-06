@@ -282,9 +282,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>318       </Value>
+    <Value>24        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -298,9 +298,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>24        </Value>
+    <Value>318       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -447,6 +447,22 @@
     <Value>316       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90624     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Meningococcal pentavalent vaccine, Men B-4C recombinant proteins and outer membrane vesicle and conjugated Men A, C, W, Y-diphtheria toxoid carrier, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Meningococcal oligosaccharide (MenACWY), (MenB), PF</Value>
+    <Name>CVX Code</Name>
+    <Value>328       </Value>
+    <Name>LastUpdated</Name>
+    <Value>7/9/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -1066,9 +1082,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM fibroblast culture</Value>
+    <Value>Rabies - IM Diploid cell culture</Value>
     <Name>CVX Code</Name>
-    <Value>176       </Value>
+    <Value>175       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1082,9 +1098,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM Diploid cell culture</Value>
+    <Value>Rabies - IM fibroblast culture</Value>
     <Name>CVX Code</Name>
-    <Value>175       </Value>
+    <Value>176       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1434,9 +1450,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP, 5 pertussis antigens</Value>
+    <Value>DTaP</Value>
     <Name>CVX Code</Name>
-    <Value>106       </Value>
+    <Value>20        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1450,9 +1466,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>DTaP</Value>
+    <Value>DTaP, 5 pertussis antigens</Value>
     <Name>CVX Code</Name>
-    <Value>20        </Value>
+    <Value>106       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1642,9 +1658,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>113       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1658,9 +1674,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>09        </Value>
+    <Value>113       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
