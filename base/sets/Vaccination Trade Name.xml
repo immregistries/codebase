@@ -187,6 +187,7 @@
         </reference>
         <use-date>
             <not-before>20221117</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -229,6 +230,7 @@
         </reference>
         <use-date>
             <not-before>20210113</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -256,6 +258,7 @@
         </reference>
         <use-date>
             <not-before>20210713</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -285,6 +288,7 @@
         </reference>
         <use-date>
             <not-before>20220310</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -301,6 +305,7 @@
         </reference>
         <use-date>
             <not-before>20221116</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -316,6 +321,21 @@
         </reference>
         <use-date>
             <not-before>20221116</not-before>
+            <not-after>20250909</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>mNEXSPIKE</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">334</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250828</not-before>
         </use-date>
     </code>
     <code>
@@ -349,6 +369,7 @@
         </reference>
         <use-date>
             <not-before>20210713</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -361,6 +382,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">207</link-to>
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
         </reference>
         <use-date>
             <not-before>20220518</not-before>
@@ -378,6 +400,7 @@
         </reference>
         <use-date>
             <not-before>20230906</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -440,6 +463,7 @@
         </reference>
         <use-date>
             <not-before>20210910</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -453,6 +477,7 @@
             <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">208</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
         </reference>
         <use-date>
             <not-before>20220518</not-before>
@@ -471,6 +496,7 @@
         </reference>
         <use-date>
             <not-before>20230906</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -485,6 +511,7 @@
         </reference>
         <use-date>
             <not-before>20221116</not-before>
+            <not-after>20250909</not-after>
         </use-date>
     </code>
     <code>
@@ -499,6 +526,21 @@
         </reference>
         <use-date>
             <not-before>20230906</not-before>
+            <not-after>20250909</not-after>
+        </use-date>
+    </code>
+    <code>
+        <value>NUVAXOVID</value>
+        <label>COVID-19, subunit, rS-nanoparticle, adjuvanted, PF, 5 mcg/0.5 mL</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">NVX</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250828</not-before>
         </use-date>
     </code>
     <code>
@@ -1360,6 +1402,20 @@
         </use-date>
     </code>
     <code>
+        <value>FluMist trivalent (self/caregiver administered)</value>
+        <label>Influenza, live, trivalent, intranasal, self/caregiver admin, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">333</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250721</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Flucelvax quadrivalent, preservative free</value>
         <label>Influenza, MDCK, quadrivalent, PF</label>
         <code-status>
@@ -1698,6 +1754,20 @@
         </reference>
         <use-date>
             <not-before>20200312</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>FLUZONE Trivalent Southern Hemisphere</value>
+        <label>Influenza, Southern Hemisphere, trivalent, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">331</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250422</not-before>
         </use-date>
     </code>
     <code>
@@ -2335,6 +2405,20 @@
         </reference>
         <use-date>
             <not-before>20230712</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>ENFLONSIA</value>
+        <label>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">332</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250702</not-before>
         </use-date>
     </code>
     <code>

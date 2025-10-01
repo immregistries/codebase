@@ -372,6 +372,19 @@
         </use-date>
     </code>
     <code>
+        <value>334</value>
+        <label>COVID-19 Vaccine VIS - mRNA vaccine for 12 years and older</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300063911250131</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250131</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>56</value>
         <label>Dengue Vaccine VIS</label>
         <code-status>
@@ -947,6 +960,19 @@
         </use-date>
     </code>
     <code>
+        <value>333</value>
+        <label>Influenza (Flu) Vaccine (Live, Intranasal) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300009711250131</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250131</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>150</value>
         <label>Influenza Vaccine - Inactivated VIS</label>
         <code-status>
@@ -1489,6 +1515,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311230512</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411230724</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311250529</link-to>
         </reference>
         <use-date>
             <not-before>20151105</not-before>
@@ -1512,6 +1539,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311230512</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411230724</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311250529</link-to>
         </reference>
         <use-date>
             <not-before>20220204</not-before>
@@ -1527,6 +1555,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311220204</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311230512</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300026411230724</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311250529</link-to>
         </reference>
         <use-date>
             <not-before>20220204</not-before>
@@ -1540,6 +1569,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311230512</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300049311250529</link-to>
         </reference>
         <use-date>
             <not-before>20230512</not-before>
@@ -1555,6 +1585,7 @@
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511150424</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511091006</link-to>
             <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511191030</link-to>
+            <link-to codeset="VACCINATION_VIS_DOC_TYPE">253088698300016511250529</link-to>
         </reference>
         <use-date>
             <not-before>20150424</not-before>

@@ -565,8 +565,16 @@
     <Edition_Date>10/30/2019</Edition_Date>
     <VIS_encoded_string>253088698300016511191030</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000165</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>5/29/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Pneumococcal Polysaccharide Vaccine (PPSV23) VIS</VIS_Document_Type_Description>
+    <Edition_Date>5/29/2025</Edition_Date>
+    <VIS_encoded_string>253088698300016511250529</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000165</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>10/30/2019</Lastupdated>
+    <Lastupdated>5/29/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>Polio VIS</VIS_Document_Type_Description>
@@ -1133,8 +1141,8 @@
     <Edition_Date>8/30/2024</Edition_Date>
     <VIS_encoded_string>253088698300037011240801</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000370</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>8/30/2024</Lastupdated>
+    <status>Historic</status>
+    <Lastupdated>8/27/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet- Pediatric 5yrs to &lt;12 yrs</VIS_Document_Type_Description>
@@ -1181,8 +1189,16 @@
     <Edition_Date>5/12/2023</Edition_Date>
     <VIS_encoded_string>253088698300049311230512</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000493</VIS_GDTI_document_code>
+    <status>Historic</status>
+    <Lastupdated>5/29/2025</Lastupdated>
+  </VISInfo>
+  <VISInfo>
+    <VIS_Document_Type_Description>Pneumococcal Conjugate Vaccine (PCV) VIS</VIS_Document_Type_Description>
+    <Edition_Date>5/29/2025</Edition_Date>
+    <VIS_encoded_string>253088698300049311250529</VIS_encoded_string>
+    <VIS_GDTI_document_code>0886983000493</VIS_GDTI_document_code>
     <status>Current</status>
-    <Lastupdated>5/12/2023</Lastupdated>
+    <Lastupdated>5/29/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - Pediatric 6yrs to &lt;12yrs</VIS_Document_Type_Description>
@@ -1274,11 +1290,11 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
-    <Edition_Date>8/22/2024</Edition_Date>
+    <Edition_Date>6/25/2025</Edition_Date>
     <VIS_encoded_string>253088698300058511240801</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000585</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>8/22/2024</Lastupdated>
+    <status>Historic</status>
+    <Lastupdated>8/27/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - all ages 6 months and older</VIS_Document_Type_Description>
@@ -1330,11 +1346,11 @@
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description>
-    <Edition_Date>8/22/2024</Edition_Date>
+    <Edition_Date>6/25/2025</Edition_Date>
     <VIS_encoded_string>253088698300061511240801</VIS_encoded_string>
     <VIS_GDTI_document_code>0886983000615</VIS_GDTI_document_code>
-    <status>Current</status>
-    <Lastupdated>8/22/2024</Lastupdated>
+    <status>Historic</status>
+    <Lastupdated>8/27/2025</Lastupdated>
   </VISInfo>
   <VISInfo>
     <VIS_Document_Type_Description>RSV (Respiratory Syncytial Virus) preventative antibody IIS</VIS_Document_Type_Description>

@@ -828,6 +828,26 @@
         <test-age>16 years</test-age>
     </code>
     <code>
+        <value>334</value>
+        <label>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL</label>
+        <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2 mL dose Notes: Moderna monovalent new formulation mNEXSPIKE, starting Fall 2025, ages 12 yrs and older, BLA</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">COVID-19</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">mNEXSPIKE</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0400-17</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0400-60</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0400-61</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0400-62</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250828</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>218</value>
         <label>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</label>
         <description>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation Notes: Potential FDA EUA, Pfizer tris-sucrose vaccine for 5 through 11 years of age</description>
@@ -901,6 +921,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0291-09</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-81</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0291-80</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">SPIKEVAX</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0113-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0113-80</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0113-87</link-to>
         </reference>
         <use-date>
             <not-before>20230913</not-before>
@@ -1017,6 +1041,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0110-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-93</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0110-96</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80777-0112-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0112-93</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0112-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0112-96</link-to>
         </reference>
         <use-date>
             <not-before>20230913</not-before>
@@ -1116,6 +1144,9 @@
             <link-to codeset="VACCINATION_CPT_CODE">91319</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">59267-4438-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">59267-4438-02</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">COMIRNATY</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2501-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2501-10</link-to>
         </reference>
         <use-date>
             <not-before>20230913</not-before>
@@ -1144,6 +1175,7 @@
         </reference>
         <use-date>
             <not-before>20230913</not-before>
+            <not-after>20250909</not-after>
         </use-date>
         <use-age>
             <not-before-month>5</not-before-month>
@@ -1170,6 +1202,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2377-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2432-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2432-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00069-2528-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2528-10</link-to>
         </reference>
         <use-date>
             <not-before>20230913</not-before>
@@ -1195,6 +1229,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0105-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0107-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0107-10</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">NUVAXOVID</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">80631-0207-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80631-0207-10</link-to>
         </reference>
         <use-date>
             <not-before>20230901</not-before>
@@ -1228,6 +1265,21 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>10 years</test-age>
+    </code>
+    <code>
+        <value>330</value>
+        <label>Dengue fever, unspecified</label>
+        <description>Dengue fever, unspecified formulation Notes: Use this CVX for historical records where; the formulation of the dengue vaccine administered is not known, or is a non-US product without an associated CVX code.</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">DENGUE</link-to>
+        </reference>
+        <use-date>
+            <not-after>20250430</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>12</value>
@@ -1441,6 +1493,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0811-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0811-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0811-51</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-7541-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-7541-00</link-to>
         </reference>
         <use-date>
             <not-before>20020101</not-before>
@@ -2112,6 +2166,7 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0821-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-34</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0821-11</link-to>
         </reference>
         <use-date>
             <not-before>20000101</not-before>
@@ -2242,6 +2297,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-3469-09</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">43528-0003-05</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-3469-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-4526-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-4526-00</link-to>
         </reference>
         <use-date>
             <not-before>20180510</not-before>
@@ -2774,6 +2831,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Fluzone High-Dose trivalent, preservative free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0124-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0124-65</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0125-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0125-65</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -2840,6 +2899,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax trivalent, preservative free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0654-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0654-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0655-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0655-03</link-to>
         </reference>
         <use-date>
             <not-before>20130717</not-before>
@@ -3250,6 +3311,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FluMist trivalent</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0311-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0311-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0112-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0112-10</link-to>
         </reference>
         <use-date>
             <not-before>20130103</not-before>
@@ -3312,6 +3375,24 @@
         <test-age>2 years</test-age>
     </code>
     <code>
+        <value>333</value>
+        <label>Influenza, live, trivalent, intranasal, self/caregiver admin, PF</label>
+        <description>Influenza, live, trivalent, intranasal, self or caregiver administered, preservative free Notes: Self or caregiver administered, new starting 2025/2026 season</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FluMist trivalent (self/caregiver administered)</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">66019-0112-51</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0112-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250715</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>320</value>
         <label>Influenza, MDCK, trivalent, preservative</label>
         <description>Influenza, Madin Darby Canine Kidney, subunit, trivalent, injectable, contains preservative Notes: Trivalent code starting 2024/2025 season</description>
@@ -3323,6 +3404,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Flucelvax trivalent, with preservative</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0554-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0554-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0555-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0555-10</link-to>
         </reference>
         <use-date>
             <not-before>20240515</not-before>
@@ -3360,6 +3443,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Flublok trivalent, preservative free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0724-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0724-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0725-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0725-10</link-to>
         </reference>
         <use-date>
             <not-before>20130717</not-before>
@@ -3494,6 +3579,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0641-78</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0124-10</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0641-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0125-11</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0643-78</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0125-10</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0643-15</link-to>
         </reference>
         <use-date>
             <not-before>19450101</not-before>
@@ -3613,6 +3702,14 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0884-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0810-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0424-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">33332-0025-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0912-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">19515-0904-41</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0425-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">33332-0025-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0912-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0904-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0425-50</link-to>
         </reference>
         <use-date>
             <not-before>20130717</not-before>
@@ -3765,6 +3862,24 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>331</value>
+        <label>Influenza, Southern Hemisphere, trivalent, PF</label>
+        <description>Influenza, seasonal, Southern Hemisphere, trivalent, 0.5 mL dose, preservative free Notes: Represents single dose vial</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Trivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0325-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0325-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250430</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>15</value>
         <label>Influenza, split (incl. purified surface antigen)</label>
         <description>influenza virus vaccine, split virus (incl. purified
@@ -3816,6 +3931,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Fluad trivalent, preservative free</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0024-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0024-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">70461-0025-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0025-03</link-to>
         </reference>
         <use-date>
             <not-before>20151210</not-before>
@@ -4576,6 +4693,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">Priorix</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0831-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0824-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50090-1860-09</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1860-00</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -5618,6 +5737,25 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>332</value>
+        <label>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</label>
+        <description>Respiratory syncytial virus (RSV), monoclonal antibody,IgG1κ ,(clesrovimab-cfor),0.7 mL, neonate and infant, preservative free Notes: RSV mAb for neonates and infants born during or entering first RSV season(Enflonsia)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">RSV</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">ENFLONSIA</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-5073-99</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-5073-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-5073-02</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250703</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>306</value>
         <label>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</label>
         <description>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1κ, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months Notes: RSV monoclonal antibody (Beyfortus)</description>
@@ -5677,6 +5815,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-90</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-96</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-89</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-63</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-62</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0345-61</link-to>
         </reference>
         <use-date>
             <not-before>20240605</not-before>
@@ -5923,6 +6064,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0023-04</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0023-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0022-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0002-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0002-02</link-to>
         </reference>
         <use-date>
             <not-before>20200720</not-before>
@@ -6588,6 +6731,10 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-02</link-to>
             <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90622</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">71665-0430-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0430-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0330-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">71665-0430-03</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -6620,6 +6767,21 @@
         </use-age>
         <concept-type>vaccine</concept-type>
         <test-age>18 years</test-age>
+    </code>
+    <code>
+        <value>325</value>
+        <label>Vaccinia (smallpox, mpox), unspecified</label>
+        <description>Vaccinia (smallpox, mpox), unspecified Notes: Use this CVX for historical records where; the formulation administered is not known, or is a non-US product without an associated CVX code.</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">Orthopoxvirus</link-to>
+        </reference>
+        <use-date>
+            <not-after>20250502</not-after>
+        </use-date>
+        <concept-type>vaccine</concept-type>
     </code>
     <code>
         <value>79</value>
@@ -6889,6 +7051,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0823-11</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0819-12</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-5147-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0849-43</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0849-52</link-to>
         </reference>
         <use-date>
             <not-before>20171027</not-before>

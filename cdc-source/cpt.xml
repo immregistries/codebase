@@ -178,6 +178,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90382     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Respiratory syncytial virus, monoclonal antibody, seasonal dose, 0.7 mL, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>332       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/26/2025</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90389     </Value>
     <Name>CPT Desc</Name>
     <Value>Tetanus immune globulin (TIg), human, for intramuscular use</Value>
@@ -354,6 +370,22 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
+    <Value>90593     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Chikungunya virus vaccine, recombinant, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Chikungunya, VLP, recombinant, 0.8 mL, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>329       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/15/2025</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
     <Value>90611     </Value>
     <Name>CPT Desc</Name>
     <Value>Smallpox and monkeypox vaccine, attenuated vaccinia virus, live, non-replicating, preservative free, 0.5 mL dosage, suspension, for subcutaneous use</Value>
@@ -388,7 +420,7 @@
     <Name>CPT Code</Name>
     <Value>90620     </Value>
     <Name>CPT Desc</Name>
-    <Value>Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), 2 dose schedule, for intramuscular use</Value>
+    <Value>Meningococcal recombinant protein and outer membrane vesicle vaccine, serogroup B (MenB-4C), for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
@@ -398,7 +430,7 @@
     <Name>CVX Code</Name>
     <Value>163       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>4/15/2025</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -426,7 +458,7 @@
     <Name>Comments</Name>
     <Value>CPT Code to be used for ACAM2000 vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>vaccinia (smallpox)</Value>
+    <Value>Vaccinia (smallpox, mpox), live</Value>
     <Name>CVX Code</Name>
     <Value>75        </Value>
     <Name>LastUpdated</Name>
@@ -826,27 +858,11 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, live, trivalent, intranasal</Value>
+    <Value>Influenza, live, trivalent, intranasal, PF</Value>
     <Name>CVX Code</Name>
     <Value>111       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
-  </CPTInfo>
-  <CPTInfo>
-    <Name>CPT Code</Name>
-    <Value>90661     </Value>
-    <Name>CPT Desc</Name>
-    <Value>Influenza virus vaccine, trivalent (ccIIV3), derived from cell cultures, subunit, antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
-    <Name>Status</Name>
-    <Value/>
-    <Name>Comments</Name>
-    <Value/>
-    <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, preservative</Value>
-    <Name>CVX Code</Name>
-    <Value>320       </Value>
-    <Name>LastUpdated</Name>
-    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -866,19 +882,19 @@
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
-    <Value>90662     </Value>
+    <Value>90661     </Value>
     <Name>CPT Desc</Name>
-    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Value>Influenza virus vaccine, trivalent (ccIIV3), derived from cell cultures, subunit, antibiotic free, 0.5 mL dosage, for intramuscular use</Value>
     <Name>Status</Name>
     <Value/>
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, high-dose, quadrivalent, PF</Value>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
     <Name>CVX Code</Name>
-    <Value>197       </Value>
+    <Value>320       </Value>
     <Name>LastUpdated</Name>
-    <Value>6/13/2024</Value>
+    <Value>9/24/2024</Value>
   </CPTInfo>
   <CPTInfo>
     <Name>CPT Code</Name>
@@ -893,6 +909,22 @@
     <Value>Influenza, high-dose, trivalent, PF</Value>
     <Name>CVX Code</Name>
     <Value>135       </Value>
+    <Name>LastUpdated</Name>
+    <Value>6/13/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>90662     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Influenza virus vaccine (IIV), split virus, preservative free, enhanced immunogenicity via increased antigen content, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>Influenza, high-dose, quadrivalent, PF</Value>
+    <Name>CVX Code</Name>
+    <Value>197       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1658,9 +1690,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>09        </Value>
+    <Value>113       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1674,9 +1706,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>113       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1722,9 +1754,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>yellow fever live</Value>
+    <Value>Yellow fever vaccine live - alt</Value>
     <Name>CVX Code</Name>
-    <Value>37        </Value>
+    <Value>183       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1738,9 +1770,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Yellow fever vaccine live - alt</Value>
+    <Value>yellow fever live</Value>
     <Name>CVX Code</Name>
-    <Value>183       </Value>
+    <Value>37        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1946,9 +1978,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal MCV4P</Value>
+    <Value>Meningococcal MCV4O</Value>
     <Name>CVX Code</Name>
-    <Value>114       </Value>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1962,9 +1994,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Meningococcal MCV4O</Value>
+    <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
-    <Value>136       </Value>
+    <Value>114       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -2639,5 +2671,21 @@
     <Value>312       </Value>
     <Name>LastUpdated</Name>
     <Value>9/24/2024</Value>
+  </CPTInfo>
+  <CPTInfo>
+    <Name>CPT Code</Name>
+    <Value>91323     </Value>
+    <Name>CPT Desc</Name>
+    <Value>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 10 mcg/0.2 mL dosage, for intramuscular use</Value>
+    <Name>Status</Name>
+    <Value/>
+    <Name>Comments</Name>
+    <Value/>
+    <Name>Vaccine Name</Name>
+    <Value>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL</Value>
+    <Name>CVX Code</Name>
+    <Value>334       </Value>
+    <Name>LastUpdated</Name>
+    <Value>4/15/2025</Value>
   </CPTInfo>
 </CPTCodes>

@@ -459,6 +459,7 @@
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">312</link-to>
             <link-to codeset="VACCINATION_VIS_VACCINES">309</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">334</link-to>
         </reference>
         <use-date>
             <not-before>20250131</not-before>
@@ -1104,6 +1105,7 @@
         </code-status>
         <reference>
             <link-to codeset="VACCINATION_VIS_VACCINES">111</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">333</link-to>
         </reference>
         <use-date>
             <not-before>20250131</not-before>
@@ -1839,6 +1841,22 @@
         </use-date>
     </code>
     <code>
+        <value>253088698300049311250529</value>
+        <label>Pneumococcal Conjugate Vaccine (PCV) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">327</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">216</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">215</link-to>
+            <link-to codeset="VACCINATION_VIS_VACCINES">133</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250529</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>253088698300015811210806</value>
         <label>Pneumococcal Conjugate Vaccine (PCV13) VIS</label>
         <code-status>
@@ -1880,6 +1898,19 @@
         </reference>
         <use-date>
             <not-before>20230512</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>253088698300016511250529</value>
+        <label>Pneumococcal Polysaccharide Vaccine (PPSV23) VIS</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_VIS_VACCINES">33</link-to>
+        </reference>
+        <use-date>
+            <not-before>20250529</not-before>
         </use-date>
     </code>
     <code>

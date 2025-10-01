@@ -73,7 +73,7 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/meningococcal-acwy.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>PPSV23 VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>Pneumococcal Polysaccharide Vaccine (PPSV23) VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000165</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/ppv.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/pneumococcal-polysaccharide.html"/>
@@ -157,19 +157,13 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/shingles.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Novavax EUA Recipient-Caregiver Fact Sheet 12 years and older</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000370</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/novavax.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-novavax.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>Dengue Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000462</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/dengue.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/dengue.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>Pneumococcal Conjugate Vaccine (PCV13_PCV15_PCV20) VIS</VIS_Document_Type_Description_ConceptName>
+    <VIS_Document_Type_Description_ConceptName>Pneumococcal Conjugate Vaccine (PCV) VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000493</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/pcv.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/pneumococcal-conjugate.html"/>
@@ -187,22 +181,10 @@
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/ebola.html"/>
   </VISURLInfo>
   <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Pfizer BioNTech EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000585</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/pfizer-over-5-months.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-pfizer-over-5-months.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) Vaccine VIS</VIS_Document_Type_Description_ConceptName>
     <VIS_GDTI_document_Conceptcode>0886983000608</VIS_GDTI_document_Conceptcode>
     <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/downloads/rsv.pdf"/>
     <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/current-vis/rsv.html"/>
-  </VISURLInfo>
-  <VISURLInfo>
-    <VIS_Document_Type_Description_ConceptName>COVID-19 Moderna EUA Recipient-Caregiver Fact Sheet - 6 months through 11 years</VIS_Document_Type_Description_ConceptName>
-    <VIS_GDTI_document_Conceptcode>0886983000615</VIS_GDTI_document_Conceptcode>
-    <VIS_PDF_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/downloads/moderna-over-5-months.pdf"/>
-    <VIS_HTML_URL xlink:type="simple" xlink:href="https://www.cdc.gov/vaccines/hcp/eua/covid-19-moderna-over-5-months.html"/>
   </VISURLInfo>
   <VISURLInfo>
     <VIS_Document_Type_Description_ConceptName>RSV (Respiratory Syncytial Virus) preventative antibody IIS</VIS_Document_Type_Description_ConceptName>

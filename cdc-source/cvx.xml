@@ -217,12 +217,12 @@
     <LastUpdated>12/19/2022</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>COVID-19 Non-US Vaccine, Product Unknown</ShortDescription>
-    <FullVaccinename>SARS-COV-2 COVID-19 Non-US Vaccine, Specific Product Unknown</FullVaccinename>
+    <ShortDescription>COVID-19 Non-US Vaccine, UNSPECIFIED</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) Non-US Vaccine, UNSPECIFIED</FullVaccinename>
     <CVXCode>500       </CVXCode>
-    <Notes>Pandemic Non-US Covid Administration - specific CVX or product unknown </Notes>
+    <Notes>Unspecified code to be used to record historic Non-US COVID-19 administration.  May be used if the specific product or CVX code is not known.</Notes>
     <Status>Non-US</Status>
-    <LastUpdated>7/15/2021</LastUpdated>
+    <LastUpdated>9/9/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharm + Inst of Micro, Chinese Acad of Sciences)</ShortDescription>
@@ -353,6 +353,14 @@
     <LastUpdated>10/26/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL</ShortDescription>
+    <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2 mL dose</FullVaccinename>
+    <CVXCode>334       </CVXCode>
+    <Notes>Moderna monovalent new formulation mNEXSPIKE, starting Fall 2025, ages 12 yrs and older, BLA</Notes>
+    <Status>Active</Status>
+    <LastUpdated>8/28/2025</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation</FullVaccinename>
     <CVXCode>218       </CVXCode>
@@ -444,9 +452,9 @@
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 3 mcg/0.3 mL</ShortDescription>
     <FullVaccinename>SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, tris-sucrose, 3 mcg/0.3 mL dose</FullVaccinename>
     <CVXCode>308       </CVXCode>
-    <Notes>Pfizer Fall Seasonal 6 months through 4 years of age</Notes>
-    <Status>Active</Status>
-    <LastUpdated>8/30/2024</LastUpdated>
+    <Notes>EUA Revoked 08/27/2024.  Pfizer 6 months through 4 years of age.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>9/9/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</ShortDescription>
@@ -479,6 +487,14 @@
     <Notes>Applies to tetravalent product (e.g. DENGVAXIA)</Notes>
     <Status>Active</Status>
     <LastUpdated>12/11/2024</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Dengue fever, unspecified</ShortDescription>
+    <FullVaccinename>Dengue fever, unspecified formulation</FullVaccinename>
+    <CVXCode>330       </CVXCode>
+    <Notes>Use this CVX for historical records where; the formulation of the dengue vaccine administered is not known, or is a non-US product without an associated CVX code.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>4/30/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>diphtheria antitoxin</ShortDescription>
@@ -993,12 +1009,20 @@
     <LastUpdated>5/15/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Influenza, live, trivalent, intranasal</ShortDescription>
-    <FullVaccinename>Influenza, live, trivalent, intranasal</FullVaccinename>
+    <ShortDescription>Influenza, live, trivalent, intranasal, PF</ShortDescription>
+    <FullVaccinename>Influenza, live, trivalent, intranasal, preservative free</FullVaccinename>
     <CVXCode>111       </CVXCode>
-    <Notes>Trivalent code reactivated for 2024/2025 season</Notes>
+    <Notes>HCP administered, trivalent code reactivated for 2024/2025 season</Notes>
     <Status>Active</Status>
-    <LastUpdated>5/1/2024</LastUpdated>
+    <LastUpdated>7/15/2025</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, live, trivalent, intranasal, self/caregiver admin, PF</ShortDescription>
+    <FullVaccinename>Influenza, live, trivalent, intranasal, self or caregiver administered, preservative free</FullVaccinename>
+    <CVXCode>333       </CVXCode>
+    <Notes>Self or caregiver administered, new starting 2025/2026 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>7/15/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Influenza, MDCK, quadrivalent, PF</ShortDescription>
@@ -1081,12 +1105,12 @@
     <LastUpdated>1/17/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>influenza, Southern Hemisphere, preservative free</ShortDescription>
-    <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, no preservative</FullVaccinename>
+    <ShortDescription>Influenza, Southern Hemisphere, quadrivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5 mL dose, preservative free</FullVaccinename>
     <CVXCode>201       </CVXCode>
     <Notes>Represents single dose vial</Notes>
     <Status>Active</Status>
-    <LastUpdated>1/17/2023</LastUpdated>
+    <LastUpdated>4/22/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, quadrivalent, with preservative</ShortDescription>
@@ -1095,6 +1119,14 @@
     <Notes>Represents multi-dose vial</Notes>
     <Status>Active</Status>
     <LastUpdated>1/17/2023</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Influenza, Southern Hemisphere, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, seasonal, Southern Hemisphere, trivalent, 0.5 mL dose, preservative free</FullVaccinename>
+    <CVXCode>331       </CVXCode>
+    <Notes>Represents single dose vial</Notes>
+    <Status>Active</Status>
+    <LastUpdated>4/30/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, split (incl. purified surface antigen)</ShortDescription>
@@ -1465,14 +1497,6 @@
     <LastUpdated>8/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>OPV</ShortDescription>
-    <FullVaccinename>trivalent poliovirus vaccine, live, oral</FullVaccinename>
-    <CVXCode>02        </CVXCode>
-    <Notes>This is the OPV that was used in the US</Notes>
-    <Status>Inactive</Status>
-    <LastUpdated>2/10/2017</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>OPV ,monovalent, unspecified</ShortDescription>
     <FullVaccinename>Non-US monovalent oral polio vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>179       </CVXCode>
@@ -1487,6 +1511,14 @@
     <Notes>This is a non-US vaccine that may be seen in some immunization histories.</Notes>
     <Status>Non-US</Status>
     <LastUpdated>1/17/2017</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>OPV, trivalent</ShortDescription>
+    <FullVaccinename>trivalent poliovirus vaccine, live, oral</FullVaccinename>
+    <CVXCode>02        </CVXCode>
+    <Notes>This is the OPV used in the US from June 1963 through Dec 1999 and globally through April 2016</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>6/26/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>OPV, Unspecified</ShortDescription>
@@ -1777,8 +1809,16 @@
     <LastUpdated>8/7/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</ShortDescription>
+    <FullVaccinename>Respiratory syncytial virus (RSV), monoclonal antibody,IgG1&#954; ,(clesrovimab-cfor),0.7 mL, neonate and infant, preservative free</FullVaccinename>
+    <CVXCode>332       </CVXCode>
+    <Notes>RSV mAb for neonates and infants born during or entering first RSV season(Enflonsia)</Notes>
+    <Status>Active</Status>
+    <LastUpdated>7/3/2025</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1786,7 +1826,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954;, (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1854,7 +1894,7 @@
     <CVXCode>213       </CVXCode>
     <Notes>Unspecified code for COVID-19 not to be used to record patient US administration. May be used to record historic US administration if product not known.  CVX code 500 should be used to record Non-US vaccine where product is not known.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>7/31/2021</LastUpdated>
+    <LastUpdated>9/9/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>SARS-COV-2 COVID-19 DNA Non-US Vaccine (Zydus Cadila, ZyCoV-D)</ShortDescription>
@@ -2129,20 +2169,28 @@
     <LastUpdated>10/27/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>vaccinia (smallpox)</ShortDescription>
-    <FullVaccinename>vaccinia (smallpox) vaccine</FullVaccinename>
-    <CVXCode>75        </CVXCode>
-    <Notes/>
-    <Status>Active</Status>
-    <LastUpdated>5/28/2010</LastUpdated>
-  </CVXInfo>
-  <CVXInfo>
     <ShortDescription>vaccinia (smallpox) diluted</ShortDescription>
     <FullVaccinename>vaccinia (smallpox) vaccine, diluted</FullVaccinename>
     <CVXCode>105       </CVXCode>
     <Notes/>
     <Status>Inactive</Status>
     <LastUpdated>5/28/2010</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Vaccinia (smallpox, mpox), live</ShortDescription>
+    <FullVaccinename>Vaccinia (smallpox, mpox) vaccine, live</FullVaccinename>
+    <CVXCode>75        </CVXCode>
+    <Notes/>
+    <Status>Active</Status>
+    <LastUpdated>4/30/2025</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
+    <ShortDescription>Vaccinia (smallpox, mpox), unspecified</ShortDescription>
+    <FullVaccinename>Vaccinia (smallpox, mpox), unspecified</FullVaccinename>
+    <CVXCode>325       </CVXCode>
+    <Notes>Use this CVX for historical records where; the formulation administered is not known, or is a non-US product without an associated CVX code.</Notes>
+    <Status>Inactive</Status>
+    <LastUpdated>5/2/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>vaccinia immune globulin</ShortDescription>
@@ -2154,11 +2202,11 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</ShortDescription>
-    <FullVaccinename>Vaccinia, smallpox monkeypox vaccine, live attenuated, preservative free, subcutaneous or intradermal injection</FullVaccinename>
+    <FullVaccinename>Vaccinia, smallpox mpox vaccine, live attenuated, preservative free, subcutaneous or intradermal injection</FullVaccinename>
     <CVXCode>206       </CVXCode>
     <Notes>Associated to FDA US Licensed product JYNNEOS, non-US tradenames IMVANEX, IMVAMUNE. Review CDC &amp; FDA guidance for updates regarding administration</Notes>
     <Status>Active</Status>
-    <LastUpdated>2/14/2023</LastUpdated>
+    <LastUpdated>8/26/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>varicella</ShortDescription>

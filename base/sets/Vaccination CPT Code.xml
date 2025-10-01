@@ -88,6 +88,14 @@
         </code-status>
     </code>
     <code>
+        <value>90593</value>
+        <label>Chikungunya virus vaccine, recombinant, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90725</value>
         <label>cholera</label>
         <description></description>
@@ -1343,6 +1351,14 @@
         </reference>
     </code>
     <code>
+        <value>90382</value>
+        <label>Respiratory syncytial virus, monoclonal antibody, seasonal dose, 0.7 mL, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90380</value>
         <label>Respiratory syncytial virus, monoclonal antibody, seasonal dose; 0.5 mL dosage, for intramuscular use</label>
         <description>CPT Code to be used for Beyfortus 0.5 mL</description>
@@ -1480,6 +1496,14 @@
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">225</link-to>
         </reference>
+    </code>
+    <code>
+        <value>91323</value>
+        <label>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, 10 mcg/0.2 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
     </code>
     <code>
         <value>91321</value>

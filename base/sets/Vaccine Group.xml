@@ -113,6 +113,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">308</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">334</link-to>
         </reference>
     </code>
     <code>
@@ -120,6 +121,7 @@
         <label>dengue fever</label>
         <reference>
             <link-to codeset="VACCINATION_CVX_CODE">56</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">330</link-to>
         </reference>
     </code>
     <code>
@@ -334,6 +336,8 @@
             <link-to codeset="VACCINATION_CVX_CODE">202</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">231</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">320</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">333</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">331</link-to>
         </reference>
     </code>
     <code>
@@ -552,6 +556,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">315</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">314</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">326</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">332</link-to>
         </reference>
     </code>
     <code>
@@ -637,6 +642,7 @@
             <link-to codeset="VACCINATION_CVX_CODE">75</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
             <link-to codeset="VACCINATION_CVX_CODE">105</link-to>
+            <link-to codeset="VACCINATION_CVX_CODE">325</link-to>
         </reference>
     </code>
     <code>
