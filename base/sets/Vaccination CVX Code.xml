@@ -280,7 +280,12 @@
         <use-date>
             <not-before>20250318</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>132</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
+        <test-age>12 years</test-age>
     </code>
     <code>
         <value>26</value>
@@ -845,7 +850,12 @@
         <use-date>
             <not-before>20250828</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>132</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
+        <test-age>13 years</test-age>
     </code>
     <code>
         <value>218</value>
@@ -1279,7 +1289,12 @@
         <use-date>
             <not-after>20250430</not-after>
         </use-date>
-        <concept-type>vaccine</concept-type>
+        <use-age>
+            <not-before-month>96</not-before-month>
+            <not-after-month>1440</not-after-month>
+        </use-age>
+        <concept-type>unspecified</concept-type>
+        <test-age>11 years</test-age>
     </code>
     <code>
         <value>12</value>
@@ -3390,7 +3405,12 @@
         <use-date>
             <not-before>20250715</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>23</not-before-month>
+            <not-after-month>612</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
+        <test-age>20 years</test-age>
     </code>
     <code>
         <value>320</value>
@@ -4572,7 +4592,12 @@
         <use-date>
             <not-before>20250318</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>108</not-before-month>
+            <not-after-month>324</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
+        <test-age>11 years</test-age>
     </code>
     <code>
         <value>203</value>
@@ -5753,8 +5778,13 @@
         <use-date>
             <not-before>20250703</not-before>
         </use-date>
+        <use-age>
+            <not-before-month>0</not-before-month>
+            <not-after-month>9</not-after-month>
+        </use-age>
         <concept-type>vaccine</concept-type>
-    </code>
+        <test-age>2 months</test-age>
+	</code>
     <code>
         <value>306</value>
         <label>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</label>
