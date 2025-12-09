@@ -1810,9 +1810,9 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV), monoclonal antibody,IgG1&#954; ,(clesrovimab-cfor),0.7 mL, neonate and infant, preservative free</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV), monoclonal antibody, IgG1&#954; , (clesrovimab-cfor), 0.7 mL, neonate and infant, preservative free</FullVaccinename>
     <CVXCode>332       </CVXCode>
-    <Notes>RSV mAb for neonates and infants born during or entering first RSV season(Enflonsia)</Notes>
+    <Notes>RSV mAb for neonates and infants born during or entering first RSV season (Enflonsia)</Notes>
     <Status>Active</Status>
     <LastUpdated>7/3/2025</LastUpdated>
   </CVXInfo>
@@ -2177,20 +2177,20 @@
     <LastUpdated>5/28/2010</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Vaccinia (smallpox, mpox), live</ShortDescription>
-    <FullVaccinename>Vaccinia (smallpox, mpox) vaccine, live</FullVaccinename>
+    <ShortDescription>Vaccinia (smallpox, monkeypox), live</ShortDescription>
+    <FullVaccinename>Vaccinia (smallpox, monkeypox) vaccine, live</FullVaccinename>
     <CVXCode>75        </CVXCode>
     <Notes/>
     <Status>Active</Status>
-    <LastUpdated>4/30/2025</LastUpdated>
+    <LastUpdated>11/19/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Vaccinia (smallpox, mpox), unspecified</ShortDescription>
-    <FullVaccinename>Vaccinia (smallpox, mpox), unspecified</FullVaccinename>
+    <ShortDescription>Vaccinia (smallpox, monkeypox), unspecified</ShortDescription>
+    <FullVaccinename>Vaccinia (smallpox, monkeypox), unspecified</FullVaccinename>
     <CVXCode>325       </CVXCode>
     <Notes>Use this CVX for historical records where; the formulation administered is not known, or is a non-US product without an associated CVX code.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>5/2/2025</LastUpdated>
+    <LastUpdated>11/19/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>vaccinia immune globulin</ShortDescription>
@@ -2201,12 +2201,12 @@
     <LastUpdated>9/4/2020</LastUpdated>
   </CVXInfo>
   <CVXInfo>
-    <ShortDescription>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</ShortDescription>
-    <FullVaccinename>Vaccinia, smallpox mpox vaccine, live attenuated, preservative free, subcutaneous or intradermal injection</FullVaccinename>
+    <ShortDescription>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</ShortDescription>
+    <FullVaccinename>Vaccinia, smallpox monkeypox vaccine, live attenuated, preservative free, subcutaneous or intradermal injection</FullVaccinename>
     <CVXCode>206       </CVXCode>
     <Notes>Associated to FDA US Licensed product JYNNEOS, non-US tradenames IMVANEX, IMVAMUNE. Review CDC &amp; FDA guidance for updates regarding administration</Notes>
     <Status>Active</Status>
-    <LastUpdated>8/26/2025</LastUpdated>
+    <LastUpdated>11/19/2025</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>varicella</ShortDescription>

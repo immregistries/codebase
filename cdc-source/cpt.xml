@@ -298,9 +298,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
+    <Value>Anthrax, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>24        </Value>
+    <Value>318       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -314,9 +314,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Anthrax, post-exposure prophylaxis</Value>
+    <Value>Anthrax, pre-exposure prophylaxis, post-exposure prophylaxis</Value>
     <Name>CVX Code</Name>
-    <Value>318       </Value>
+    <Value>24        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -394,7 +394,7 @@
     <Name>Comments</Name>
     <Value>CPT Code to be used for JYNNEOS vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</Value>
+    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
     <Name>CVX Code</Name>
     <Value>206       </Value>
     <Name>LastUpdated</Name>
@@ -458,7 +458,7 @@
     <Name>Comments</Name>
     <Value>CPT Code to be used for ACAM2000 vaccine</Value>
     <Name>Vaccine Name</Name>
-    <Value>Vaccinia (smallpox, mpox), live</Value>
+    <Value>Vaccinia (smallpox, monkeypox), live</Value>
     <Name>CVX Code</Name>
     <Value>75        </Value>
     <Name>LastUpdated</Name>
@@ -874,9 +874,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, PF</Value>
+    <Value>Influenza, MDCK, trivalent, preservative</Value>
     <Name>CVX Code</Name>
-    <Value>153       </Value>
+    <Value>320       </Value>
     <Name>LastUpdated</Name>
     <Value>9/24/2024</Value>
   </CPTInfo>
@@ -890,9 +890,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Influenza, MDCK, trivalent, preservative</Value>
+    <Value>Influenza, MDCK, trivalent, PF</Value>
     <Name>CVX Code</Name>
-    <Value>320       </Value>
+    <Value>153       </Value>
     <Name>LastUpdated</Name>
     <Value>9/24/2024</Value>
   </CPTInfo>
@@ -1114,9 +1114,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM Diploid cell culture</Value>
+    <Value>Rabies - IM fibroblast culture</Value>
     <Name>CVX Code</Name>
-    <Value>175       </Value>
+    <Value>176       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1130,9 +1130,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM fibroblast culture</Value>
+    <Value>Rabies - IM Diploid cell culture</Value>
     <Name>CVX Code</Name>
-    <Value>176       </Value>
+    <Value>175       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1690,9 +1690,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>113       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1706,9 +1706,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>09        </Value>
+    <Value>113       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>

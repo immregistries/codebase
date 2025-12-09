@@ -1442,7 +1442,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Vaccinia, smallpox Mpox vaccine live, PF, SQ or ID injection</Value>
+    <Value>Vaccinia, smallpox monkeypox vaccine live, PF, SQ or ID injection</Value>
     <Name>CVXCode</Name>
     <Value>206       </Value>
     <Name>Status</Name>
@@ -2174,7 +2174,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Vaccinia (smallpox, mpox), unspecified</Value>
+    <Value>Vaccinia (smallpox, monkeypox), unspecified</Value>
     <Name>CVXCode</Name>
     <Value>325       </Value>
     <Name>Status</Name>
@@ -2894,7 +2894,7 @@
   </CVXVGInfo>
   <CVXVGInfo>
     <Name>ShortDescription</Name>
-    <Value>Vaccinia (smallpox, mpox), live</Value>
+    <Value>Vaccinia (smallpox, monkeypox), live</Value>
     <Name>CVXCode</Name>
     <Value>75        </Value>
     <Name>Status</Name>
