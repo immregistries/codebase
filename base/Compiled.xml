@@ -40048,7 +40048,7 @@
                 <not-after>20160624</not-after>
             </use-date>
             <use-age>
-                <not-before-month>216</not-before-month>
+                <not-before-month>6</not-before-month>
                 <not-after-month>1440</not-after-month>
             </use-age>
             <concept-type>vaccine</concept-type>
