@@ -3370,6 +3370,7 @@
         </reference>
         <use-date>
             <not-before>20240822</not-before>
+            <not-after>20260122</not-after>
         </use-date>
     </code>
     <code>
@@ -14288,6 +14289,7 @@
         </reference>
         <use-date>
             <not-before>20250306</not-before>
+            <not-after>20251231</not-after>
         </use-date>
     </code>
     <code>
@@ -16782,6 +16784,48 @@
                 <new-code-value>50632-0002-02</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250430</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632-0024-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0024-04</link-to>
+        </reference>
+        <use-date>
+            <not-before>20251231</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>50632-024-02</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0024-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260119</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>50632002402</value>
+        <label>JYNNEOS</label>
+        <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>50632-0024-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260119</effective-date>
             </deprecated>
         </code-status>
     </code>

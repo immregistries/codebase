@@ -10385,6 +10385,7 @@
             </reference>
             <use-date>
                 <not-before>20240822</not-before>
+                <not-after>20260122</not-after>
             </use-date>
         </code>
         <code>
@@ -21310,6 +21311,7 @@
             </reference>
             <use-date>
                 <not-before>20250306</not-before>
+                <not-after>20251231</not-after>
             </use-date>
         </code>
         <code>
@@ -23635,6 +23637,48 @@
                     <new-code-value>50632-0002-01</new-code-value>
                     <reason>Use 11-digit format with dashes</reason>
                     <effective-date>20250430</effective-date>
+                </deprecated>
+            </code-status>
+        </code>
+        <code>
+            <value>50632-0024-04</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+                <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0024-02</link-to>
+            </reference>
+            <use-date>
+                <not-before>20251231</not-before>
+            </use-date>
+        </code>
+        <code>
+            <value>50632-024-04</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Deprecated</status>
+                <deprecated>
+                    <new-code-value>50632-0024-04</new-code-value>
+                    <reason>Use full 11-digit format instead of 10-digit format</reason>
+                    <effective-date>20260116</effective-date>
+                </deprecated>
+            </code-status>
+        </code>
+        <code>
+            <value>50632002404</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Deprecated</status>
+                <deprecated>
+                    <new-code-value>50632-0024-04</new-code-value>
+                    <reason>Use 11-digit format with dashes</reason>
+                    <effective-date>20260116</effective-date>
                 </deprecated>
             </code-status>
         </code>
@@ -34867,6 +34911,8 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0018-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0002-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0002-02</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0024-04</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0024-02</link-to>
             </reference>
             <use-date>
                 <not-before>20200717</not-before>
@@ -40048,7 +40094,7 @@
                 <not-after>20160624</not-after>
             </use-date>
             <use-age>
-                <not-before-month>6</not-before-month>
+                <not-before-month>216</not-before-month>
                 <not-after-month>1440</not-after-month>
             </use-age>
             <concept-type>vaccine</concept-type>
@@ -43221,6 +43267,8 @@
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0022-02</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0002-01</link-to>
                 <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0002-02</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0024-04</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0024-02</link-to>
             </reference>
             <use-date>
                 <not-before>20200720</not-before>
@@ -51856,6 +51904,7 @@
             </reference>
             <use-date>
                 <not-before>20240822</not-before>
+                <not-after>20260122</not-after>
             </use-date>
         </code>
         <code>
@@ -62774,6 +62823,7 @@
             </reference>
             <use-date>
                 <not-before>20250306</not-before>
+                <not-after>20251231</not-after>
             </use-date>
         </code>
         <code>
@@ -65268,6 +65318,48 @@
                     <new-code-value>50632-0002-02</new-code-value>
                     <reason>Use 11-digit format with dashes</reason>
                     <effective-date>20250430</effective-date>
+                </deprecated>
+            </code-status>
+        </code>
+        <code>
+            <value>50632-0024-02</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Valid</status>
+            </code-status>
+            <reference>
+                <link-to codeset="VACCINATION_CVX_CODE">206</link-to>
+                <link-to codeset="VACCINATION_MANUFACTURER_CODE">BN</link-to>
+                <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0024-04</link-to>
+            </reference>
+            <use-date>
+                <not-before>20251231</not-before>
+            </use-date>
+        </code>
+        <code>
+            <value>50632-024-02</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Deprecated</status>
+                <deprecated>
+                    <new-code-value>50632-0024-02</new-code-value>
+                    <reason>Use full 11-digit format instead of 10-digit format</reason>
+                    <effective-date>20260119</effective-date>
+                </deprecated>
+            </code-status>
+        </code>
+        <code>
+            <value>50632002402</value>
+            <label>JYNNEOS</label>
+            <description>Bavarian Nordic A/S - Vaccinia, smallpox and monkeypox vaccine, live, pre-mixed vial</description>
+            <code-status>
+                <status>Deprecated</status>
+                <deprecated>
+                    <new-code-value>50632-0024-02</new-code-value>
+                    <reason>Use 11-digit format with dashes</reason>
+                    <effective-date>20260119</effective-date>
                 </deprecated>
             </code-status>
         </code>

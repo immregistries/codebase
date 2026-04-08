@@ -165,6 +165,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0018-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0002-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0002-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">50632-0024-04</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50632-0024-02</link-to>
         </reference>
         <use-date>
             <not-before>20200717</not-before>

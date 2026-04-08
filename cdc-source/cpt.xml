@@ -1114,9 +1114,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM fibroblast culture</Value>
+    <Value>Rabies - IM Diploid cell culture</Value>
     <Name>CVX Code</Name>
-    <Value>176       </Value>
+    <Value>175       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1130,9 +1130,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Rabies - IM Diploid cell culture</Value>
+    <Value>Rabies - IM fibroblast culture</Value>
     <Name>CVX Code</Name>
-    <Value>175       </Value>
+    <Value>176       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1690,9 +1690,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>09        </Value>
+    <Value>113       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1706,9 +1706,9 @@
     <Name>Comments</Name>
     <Value>Beginning in 2005, this CPT code maps to TD preservative free. Remapped to CVX code 09 10/2021 to support active products mapped to that code.</Value>
     <Name>Vaccine Name</Name>
-    <Value>Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed</Value>
+    <Value>Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed</Value>
     <Name>CVX Code</Name>
-    <Value>113       </Value>
+    <Value>09        </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1978,9 +1978,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>Meningococcal MCV4O</Value>
+    <Value>meningococcal MCV4P</Value>
     <Name>CVX Code</Name>
-    <Value>136       </Value>
+    <Value>114       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>
@@ -1994,9 +1994,9 @@
     <Name>Comments</Name>
     <Value/>
     <Name>Vaccine Name</Name>
-    <Value>meningococcal MCV4P</Value>
+    <Value>Meningococcal MCV4O</Value>
     <Name>CVX Code</Name>
-    <Value>114       </Value>
+    <Value>136       </Value>
     <Name>LastUpdated</Name>
     <Value>6/13/2024</Value>
   </CPTInfo>

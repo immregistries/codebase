@@ -616,9 +616,9 @@
     <Name>CDC Product Name</Name>
     <Value>COMIRNATY</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
     <Name>CVXCode</Name>
-    <Value>309       </Value>
+    <Value>310       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -634,9 +634,9 @@
     <Name>CDC Product Name</Name>
     <Value>COMIRNATY</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
     <Name>CVXCode</Name>
-    <Value>310       </Value>
+    <Value>309       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -3640,9 +3640,9 @@
     <Name>CDC Product Name</Name>
     <Value>TICOVAC</Value>
     <Name>Short Description</Name>
-    <Value>Tick-borne encephalitis, inactivated, PF, 0.25mL</Value>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.5mL</Value>
     <Name>CVXCode</Name>
-    <Value>223       </Value>
+    <Value>224       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -3658,9 +3658,9 @@
     <Name>CDC Product Name</Name>
     <Value>TICOVAC</Value>
     <Name>Short Description</Name>
-    <Value>Tick-borne encephalitis, inactivated, PF, 0.5mL</Value>
+    <Value>Tick-borne encephalitis, inactivated, PF, 0.25mL</Value>
     <Name>CVXCode</Name>
-    <Value>224       </Value>
+    <Value>223       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
