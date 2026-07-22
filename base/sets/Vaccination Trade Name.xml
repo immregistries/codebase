@@ -1728,6 +1728,20 @@
         </use-date>
     </code>
     <code>
+        <value>FLUZONE High-Dose Trivalent Southern Hemisphere</value>
+        <label>Influenza, Southern Hemisphere, high-dose, trivalent, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">337</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260409</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>FLUZONE Quadrivalent Southern Hemisphere, Pediatric</value>
         <label>influenza, Southern Hemisphere, pediatric, preservative free</label>
         <code-status>

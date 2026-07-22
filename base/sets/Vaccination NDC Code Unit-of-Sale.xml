@@ -16,6 +16,7 @@
         </reference>
         <use-date>
             <not-before>20230712</not-before>
+            <not-after>20260531</not-after>
         </use-date>
     </code>
     <code>
@@ -58,6 +59,7 @@
         </reference>
         <use-date>
             <not-before>20230712</not-before>
+            <not-after>20260531</not-after>
         </use-date>
     </code>
     <code>
@@ -100,6 +102,7 @@
         </reference>
         <use-date>
             <not-before>20230712</not-before>
+            <not-after>20260531</not-after>
         </use-date>
     </code>
     <code>
@@ -2360,6 +2363,90 @@
                 <new-code-value>58160-0848-11</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20230605</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0894-15</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0719-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260430</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-894-15</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0894-15</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260617</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160089415</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0894-15</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260617</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0882-12</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">303</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0719-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260430</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-882-12</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0882-12</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260603</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160088212</value>
+        <label>Arexvy</label>
+        <description>GlaxoSmithKline Biologicals SA - Respiratory syncytial virus (RSV) vaccine recombinant subunit (with adjuvant)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0882-12</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260603</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -11094,6 +11181,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0016-50</value>
+        <label>FLUZONE HD TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, high-dose, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">337</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0016-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260220</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-016-50</value>
+        <label>FLUZONE HD TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, high-dose, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0016-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260414</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281001650</value>
+        <label>FLUZONE HD TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, high-dose, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0016-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260414</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>49281-0401-65</value>
         <label>Fluzone High Dose</label>
         <description>Sanofi - Influenza vaccine</description>
@@ -14102,6 +14231,48 @@
                 <new-code-value>49281-0514-25</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141016</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0626-50</value>
+        <label>FLUZONE TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">331</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0626-88</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260220</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-626-50</value>
+        <label>FLUZONE TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0626-50</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260414</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281062650</value>
+        <label>FLUZONE TIV SH 2026</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, Southern Hemisphere, trivalent, syringe, 0.5 mL (2026 season Southern Hemisphere)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0626-50</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260414</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -21674,6 +21845,48 @@
                 <new-code-value>00006-4047-20</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20141118</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006-4379-02</value>
+        <label>RotaTeq</label>
+        <description>Merck Sharp &amp; Dohme LLC - Rotavirus vaccine, live, oral, pentavalent</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">116</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MSD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4379-01</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260515</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0006-4379-02</value>
+        <label>RotaTeq</label>
+        <description>Merck Sharp &amp; Dohme LLC - Rotavirus vaccine, live, oral, pentavalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4379-02</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260617</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00006437902</value>
+        <label>RotaTeq</label>
+        <description>Merck Sharp &amp; Dohme LLC - Rotavirus vaccine, live, oral, pentavalent</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00006-4379-02</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260617</effective-date>
             </deprecated>
         </code-status>
     </code>

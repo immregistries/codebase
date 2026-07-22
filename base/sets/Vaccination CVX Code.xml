@@ -3810,6 +3810,24 @@
         <concept-type>vaccine</concept-type>
     </code>
     <code>
+        <value>337</value>
+        <label>Influenza, Southern Hemisphere, high-dose, trivalent, PF</label>
+        <description>Influenza, Southern Hemisphere, high-dose, split virus, trivalent, 0.5 mL, injectable, preservative free Notes: Code created starting 2026 Southern Hemisphere season</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINE_GROUP">FLU</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Trivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0016-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0016-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260409</not-before>
+        </use-date>
+        <concept-type>vaccine</concept-type>
+    </code>
+    <code>
         <value>200</value>
         <label>influenza, Southern Hemisphere, pediatric, preservative free</label>
         <description>influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free Notes: Pediatric dose for ages 6-35 months</description>
@@ -3893,6 +3911,8 @@
             <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE Trivalent Southern Hemisphere</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0325-88</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0325-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0626-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0626-50</link-to>
         </reference>
         <use-date>
             <not-before>20250430</not-before>
@@ -5680,6 +5700,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-41</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4047-20</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4047-02</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4379-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4379-02</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -5871,6 +5893,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0723-03</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0848-11</link-to>
             <link-to codeset="VACCINATION_CPT_CODE">90679</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0719-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0894-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0882-12</link-to>
         </reference>
         <use-date>
             <not-before>20230606</not-before>

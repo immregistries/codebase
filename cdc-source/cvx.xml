@@ -1097,6 +1097,14 @@
     <LastUpdated>3/14/2023</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Influenza, Southern Hemisphere, high-dose, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, Southern Hemisphere, high-dose, split virus, trivalent, 0.5 mL, injectable, preservative free</FullVaccinename>
+    <CVXCode>337       </CVXCode>
+    <Notes>Code created starting 2026 Southern Hemisphere season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>4/9/2026</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>influenza, Southern Hemisphere, pediatric, preservative free</ShortDescription>
     <FullVaccinename>influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free</FullVaccinename>
     <CVXCode>200       </CVXCode>

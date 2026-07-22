@@ -675,6 +675,9 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0912-52</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-7541-00</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0849-52</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">58160-0719-03</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0894-15</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0882-12</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
@@ -1123,6 +1126,8 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-5073-01</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-5073-02</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">50090-1860-00</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">00006-4379-01</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00006-4379-02</link-to>
         </reference>
         <use-date>
             <not-before>20121018</not-before>
@@ -2011,6 +2016,11 @@
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0425-50</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0643-15</link-to>
             <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0325-50</link-to>
+            <link-to codeset="VACCINATION_TRADE_NAME">FLUZONE High-Dose Trivalent Southern Hemisphere</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0016-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_USE">49281-0626-88</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0016-50</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0626-50</link-to>
         </reference>
         <use-date>
             <not-before>20100528</not-before>
