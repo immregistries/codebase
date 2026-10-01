@@ -334,7 +334,7 @@
     <CVXCode>302       </CVXCode>
     <Notes>Original strain + omicron BA.4/BA.5 bivalent Pfizer vaccine (6 mo through 4 yrs), FDA rescinded 09/11/2023</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>10/26/2023</LastUpdated>
+    <LastUpdated>9/10/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>COVID-19, mRNA, LNP-S, bivalent, PF, 30 mcg/0.3 mL dose</ShortDescription>
@@ -716,9 +716,9 @@
     <ShortDescription>Hep A, unspecified formulation</ShortDescription>
     <FullVaccinename>hepatitis A vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>85        </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepA vaccination when noted on a vaccination card)</Notes>
+    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording HepA vaccination noted on a vaccination card).</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep A-Hep B</ShortDescription>
@@ -772,9 +772,9 @@
     <ShortDescription>Hep B, unspecified formulation</ShortDescription>
     <FullVaccinename>hepatitis B vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>45        </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepB vaccination when noted on a vaccination card)</Notes>
+    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording HepB vaccination noted on a vaccination card).</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Hep C</ShortDescription>
@@ -1057,6 +1057,14 @@
     <LastUpdated>5/15/2024</LastUpdated>
   </CVXInfo>
   <CVXInfo>
+    <ShortDescription>Influenza, mRNA, trivalent, PF</ShortDescription>
+    <FullVaccinename>Influenza, mRNA lipid nanoparticle, trivalent, injectable, 0.38 mL dose, preservative-free</FullVaccinename>
+    <CVXCode>338       </CVXCode>
+    <Notes>mRNA influenza vaccine FDA approved 08/05/2026 starting with Fall 2026/2027 season</Notes>
+    <Status>Active</Status>
+    <LastUpdated>8/12/2026</LastUpdated>
+  </CVXInfo>
+  <CVXInfo>
     <ShortDescription>Influenza, recombinant, quadrivalent, PF</ShortDescription>
     <FullVaccinename>Influenza, recombinant, quadrivalent, injectable, preservative free</FullVaccinename>
     <CVXCode>185       </CVXCode>
@@ -1180,9 +1188,9 @@
     <ShortDescription>influenza, unspecified formulation</ShortDescription>
     <FullVaccinename>influenza virus vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>88        </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Influenza vaccination when noted on a vaccination card)</Notes>
+    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording influenza vaccination noted on a vaccination card).</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>influenza, whole</ShortDescription>
@@ -1332,9 +1340,9 @@
     <ShortDescription>meningococcal ACWY, unspecified formulation</ShortDescription>
     <FullVaccinename>meningococcal ACWY vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>108       </CVXCode>
-    <Notes>This CVX is intended for use when one of the meningococcal vaccines containing serogroups A, C, W and Y (conjugate or polysaccaride) was given and the exact formulation was not recorded. It should not be used to record newly administered immunizations. It is not to be used when one of the meningococcal vaccines containing other serogroups was administered.</Notes>
+    <Notes>Unspecified CVX used to record historic meningococcal vaccine administration for known serogroups A,C,Y and W (W-135) but unknown other formulation characteristics (conjugate, polysaccharide, oligosaccharide). </Notes>
     <Status>Inactive</Status>
-    <LastUpdated>12/1/2015</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>meningococcal B, OMV</ShortDescription>
@@ -1388,9 +1396,9 @@
     <ShortDescription>meningococcal MCV4, unspecified formulation</ShortDescription>
     <FullVaccinename>Meningococcal, MCV4, unspecified conjugate formulation(groups A, C, Y and W-135)</FullVaccinename>
     <CVXCode>147       </CVXCode>
-    <Notes>This CVX should only be used for historical doses of meningococcal conjugate vaccine where the formulation is unknown (oligosaccharide vs polysaccharide). It is not the same as CVX 108, Meningococcal, unspecified formulation. This CVX is for unspecified Meningococcal conjugate vaccines.</Notes>
+    <Notes>Unspecified CVX used to record historic meningococcal vaccine administration for known serogroups A,C,Y and W (W-135), known conjugate formulation, but unknown saccharide characteristics (polysaccharide, oligosaccharide). Use less specific CVX code 108 if the serogroups are known to be ACWY but there is doubt about the other formulation characteristics.</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>2/8/2012</LastUpdated>
+    <LastUpdated>7/23/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>Meningococcal MCV4O</ShortDescription>
@@ -1436,9 +1444,9 @@
     <ShortDescription>meningococcal, unknown serogroups</ShortDescription>
     <FullVaccinename>meningococcal vaccine of unknown formulation and unknown serogroups</FullVaccinename>
     <CVXCode>167       </CVXCode>
-    <Notes>This CVX is intended for use when any one of the meningococcal vaccines is recorded and there is no information about which serogroups are protected against. This code should not be used when a newly administered immunization is recorded.</Notes>
+    <Notes>Unspecified CVX used to record historic meningococcal vaccine administration where there is no information regarding the serogroups or formulation characteristics (conjugate, polysaccharide, oligosaccharide).</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>12/1/2015</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>MMR</ShortDescription>
@@ -1692,9 +1700,9 @@
     <ShortDescription>rabies, unspecified formulation</ShortDescription>
     <FullVaccinename>rabies vaccine, unspecified formulation</FullVaccinename>
     <CVXCode>90        </CVXCode>
-    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a rabies vaccination when noted on a vaccination card)</Notes>
+    <Notes>This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording rabies vaccination noted on a vaccination card).</Notes>
     <Status>Inactive</Status>
-    <LastUpdated>9/30/2010</LastUpdated>
+    <LastUpdated>7/22/2026</LastUpdated>
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RESERVED - do not use</ShortDescription>
@@ -1818,7 +1826,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, clesrovimab-cfor, 0.7 mL, neonate and infant, PF</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV), monoclonal antibody, IgG1&#954; , (clesrovimab-cfor), 0.7 mL, neonate and infant, preservative free</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV), monoclonal antibody, IgG1&amp;#954; , (clesrovimab-cfor), 0.7 mL, neonate and infant, preservative free</FullVaccinename>
     <CVXCode>332       </CVXCode>
     <Notes>RSV mAb for neonates and infants born during or entering first RSV season (Enflonsia)</Notes>
     <Status>Active</Status>
@@ -1826,7 +1834,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 0.5 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&amp;#954; , (nirsevimab-alip), 0.5 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>306       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>
@@ -1834,7 +1842,7 @@
   </CVXInfo>
   <CVXInfo>
     <ShortDescription>RSV, mAb, nirsevimab-alip, 1 mL, neonate to 24 months</ShortDescription>
-    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
+    <FullVaccinename>Respiratory syncytial virus (RSV) monoclonal antibody, IgG1&amp;#954; , (nirsevimab-alip), 1 mL, neonates and children to 24 months</FullVaccinename>
     <CVXCode>307       </CVXCode>
     <Notes>RSV monoclonal antibody (Beyfortus)</Notes>
     <Status>Active</Status>

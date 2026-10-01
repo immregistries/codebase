@@ -598,9 +598,9 @@
     <Name>CDC Product Name</Name>
     <Value>COMIRNATY</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
     <Name>CVXCode</Name>
-    <Value>310       </Value>
+    <Value>309       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -634,9 +634,9 @@
     <Name>CDC Product Name</Name>
     <Value>COMIRNATY</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 30 mcg/0.3 mL</Value>
+    <Value>COVID-19, mRNA, LNP-S, PF, tris-sucrose, 10 mcg/0.3 mL</Value>
     <Name>CVXCode</Name>
-    <Value>309       </Value>
+    <Value>310       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -2096,7 +2096,7 @@
     <Name>CVXCode</Name>
     <Value>134       </Value>
     <Name>Manufacturer</Name>
-    <Value>Vetter Pharma Fertigung GmbH &amp;amp; Co. KG</Value>
+    <Value>Vetter Pharma Fertigung GmbH &amp; Co. KG</Value>
     <Name>MVX Code</Name>
     <Value>VET       </Value>
     <Name>MVX Status</Name>
@@ -2303,6 +2303,24 @@
     <Value>Inactive</Value>
     <Name>Last Updated</Name>
     <Value>4/28/2015</Value>
+  </prodInfo>
+  <prodInfo>
+    <Name>CDC Product Name</Name>
+    <Value>mFLUSIVA</Value>
+    <Name>Short Description</Name>
+    <Value>Influenza, mRNA, trivalent, PF</Value>
+    <Name>CVXCode</Name>
+    <Value>338       </Value>
+    <Name>Manufacturer</Name>
+    <Value>Moderna US, Inc.</Value>
+    <Name>MVX Code</Name>
+    <Value>MOD       </Value>
+    <Name>MVX Status</Name>
+    <Value>Active</Value>
+    <Name>Product name Status</Name>
+    <Value>Active</Value>
+    <Name>Last Updated</Name>
+    <Value>8/12/2026</Value>
   </prodInfo>
   <prodInfo>
     <Name>CDC Product Name</Name>
@@ -2866,9 +2884,9 @@
     <Name>CDC Product Name</Name>
     <Value>Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL dose</Value>
     <Name>CVXCode</Name>
-    <Value>302       </Value>
+    <Value>301       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
@@ -2902,9 +2920,9 @@
     <Name>CDC Product Name</Name>
     <Value>Pfizer-BioNTech COVID-19 Bivalent, Original + BA.4/BA.5 (Non-US Tradename COMIRNATY Bivalent)</Value>
     <Name>Short Description</Name>
-    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 10 mcg/0.2 mL dose</Value>
+    <Value>COVID-19, mRNA, LNP-S, bivalent, PF, 3 mcg/0.2 mL dose</Value>
     <Name>CVXCode</Name>
-    <Value>301       </Value>
+    <Value>302       </Value>
     <Name>Manufacturer</Name>
     <Value>Pfizer, Inc</Value>
     <Name>MVX Code</Name>
