@@ -1472,6 +1472,20 @@
         </use-date>
     </code>
     <code>
+        <value>mFLUSIVA</value>
+        <label>Influenza, mRNA, trivalent, PF</label>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">338</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260812</not-before>
+        </use-date>
+    </code>
+    <code>
         <value>Flublok</value>
         <label>influenza, recombinant, injectable, preservative free</label>
         <code-status>

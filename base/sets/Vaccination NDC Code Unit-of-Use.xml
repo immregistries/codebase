@@ -1188,6 +1188,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -1230,6 +1231,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -3130,6 +3132,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260827</not-after>
         </use-date>
     </code>
     <code>
@@ -3172,6 +3175,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260827</not-after>
         </use-date>
     </code>
     <code>
@@ -3197,6 +3201,90 @@
                 <new-code-value>00069-2528-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250909</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-2609-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 10 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">310</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2609-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2609-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 10 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2609-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069260901</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 10 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2609-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069-2631-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 30 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">309</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PFR</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">00069-2631-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>0069-2631-01</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 30 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2631-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>00069263101</value>
+        <label>Comirnaty</label>
+        <description>Pfizer Laboratories Div Pfizer Inc - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 30 mcg/ 0.3 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>00069-2631-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -4303,6 +4391,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -4328,6 +4417,48 @@
                 <new-code-value>70461-0025-04</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250716</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0026-04</value>
+        <label>FLUAD</label>
+        <description>Seqirus, Inc. - Influenza, trivalent, adjuvanted, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">168</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0026-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-026-04</value>
+        <label>FLUAD</label>
+        <description>Seqirus, Inc. - Influenza, trivalent, adjuvanted, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0026-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461002604</value>
+        <label>FLUAD</label>
+        <description>Seqirus, Inc. - Influenza, trivalent, adjuvanted, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0026-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -4777,6 +4908,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -4802,6 +4934,48 @@
                 <new-code-value>58160-0912-41</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250807</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160-0725-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SKB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">58160-0725-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>58160-725-41</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0725-41</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>58160072541</value>
+        <label>FLUARIX</label>
+        <description>GlaxoSmithKline Biologicals SA - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>58160-0725-41</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -5853,6 +6027,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -5878,6 +6053,48 @@
                 <new-code-value>49281-0725-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250725</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0726-88</value>
+        <label>FLUBLOK TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, recombinant, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">155</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0726-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260702</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-726-88</value>
+        <label>FLUBLOK TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, recombinant, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0726-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281072688</value>
+        <label>FLUBLOK TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, recombinant, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0726-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -6281,6 +6498,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -6323,6 +6541,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -6348,6 +6567,132 @@
                 <new-code-value>70461-0555-11</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250716</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461-0656-04</value>
+        <label>Flucelvax</label>
+        <description>Seqirus Inc. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">70461-0656-03</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>70461-656-04</value>
+        <label>Flucelvax</label>
+        <description>Seqirus Inc. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0656-04</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260714</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>70461065604</value>
+        <label>Flucelvax</label>
+        <description>Seqirus Inc. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>70461-0656-04</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260714</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>85766-0263-01</value>
+        <label>Flucelvax</label>
+        <description>Sportpharm LLC - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">85766-0263-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>85766-263-01</value>
+        <label>Flucelvax</label>
+        <description>Sportpharm LLC - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>85766-0263-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>85766026301</value>
+        <label>Flucelvax</label>
+        <description>Sportpharm LLC - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>85766-0263-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>87063-0299-01</value>
+        <label>Flucelvax</label>
+        <description>ASCLEMED USA INC. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">153</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">SEQ</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">87063-0299-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>87063-299-01</value>
+        <label>Flucelvax</label>
+        <description>ASCLEMED USA INC. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>87063-0299-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>87063029901</value>
+        <label>Flucelvax</label>
+        <description>ASCLEMED USA INC. - Influenza, MDCK, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>87063-0299-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -7312,6 +7657,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -7337,6 +7683,48 @@
                 <new-code-value>19515-0904-41</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250716</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>19515-0822-41</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">IDB</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">19515-0822-52</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>19515-822-41</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>19515-0822-41</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>19515082241</value>
+        <label>FLULAVAL</label>
+        <description>ID Biomedical Corporation of Quebec - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>19515-0822-41</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -8299,6 +8687,7 @@
         </reference>
         <use-date>
             <not-before>20250801</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -8341,6 +8730,7 @@
         </reference>
         <use-date>
             <not-before>20250801</not-before>
+            <not-after>20260731</not-after>
         </use-date>
     </code>
     <code>
@@ -8366,6 +8756,90 @@
                 <new-code-value>66019-0112-00</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250807</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0113-00</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, HCP admin (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">111</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0113-10</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-113-00</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, HCP admin (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0113-00</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019011300</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, HCP admin (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0113-00</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019-0113-51</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, self/caregiver admin (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">333</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MED</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">66019-0113-51</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260801</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>66019-113-51</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, self/caregiver admin (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0113-51</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>66019011351</value>
+        <label>FluMist</label>
+        <description>MedImmune, LLC - Influenza, live, trivalent, intranasal, self/caregiver admin (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>66019-0113-51</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -10961,6 +11435,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -10986,6 +11461,48 @@
                 <new-code-value>49281-0125-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250716</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0126-88</value>
+        <label>FLUZONE HIGH DOSE NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, high-dose, trivalent, single-dose (2026/2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">135</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0126-65</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260702</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-126-88</value>
+        <label>FLUZONE HIGH DOSE NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, high-dose, trivalent, single-dose (2026/2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0126-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281012688</value>
+        <label>FLUZONE HIGH DOSE NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, high-dose, trivalent, single-dose (2026/2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0126-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -14013,6 +14530,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -14055,6 +14573,7 @@
         </reference>
         <use-date>
             <not-before>20250701</not-before>
+            <not-after>20260630</not-after>
         </use-date>
     </code>
     <code>
@@ -14080,6 +14599,90 @@
                 <new-code-value>49281-0425-88</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250716</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0426-88</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">140</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0426-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-426-88</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0426-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281042688</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, single-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0426-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281-0645-78</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, multi-dose (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">141</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0645-15</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260701</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-645-78</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, multi-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0645-78</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260901</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281064578</value>
+        <label>FLUZONE TRIVALENT NORTHERN HEMISPHERE</label>
+        <description>Sanofi Vaccines US Inc. - Influenza, trivalent, multi-dose (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0645-78</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260901</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -14405,6 +15008,7 @@
         </reference>
         <use-date>
             <not-before>20230522</not-before>
+            <not-after>20260707</not-after>
         </use-date>
     </code>
     <code>
@@ -16656,6 +17260,7 @@
         </reference>
         <use-date>
             <not-before>20250611</not-before>
+            <not-after>20260707</not-after>
         </use-date>
     </code>
     <code>
@@ -17290,6 +17895,48 @@
         </code-status>
     </code>
     <code>
+        <value>80777-0500-18</value>
+        <label>mFLUSIVA</label>
+        <description>Moderna US, Inc. - Influenza, mRNA, trivalent (2026-2027)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">338</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0500-20</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260805</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-500-18</value>
+        <label>mFLUSIVA</label>
+        <description>Moderna US, Inc. - Influenza, mRNA, trivalent (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0500-18</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260902</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777050018</value>
+        <label>mFLUSIVA</label>
+        <description>Moderna US, Inc. - Influenza, mRNA, trivalent (2026-2027)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0500-18</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260902</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>80777-0400-17</value>
         <label>mNEXSPIKE</label>
         <description>Moderna US, Inc. - COVID-19, mRNA, Omicron LP.8.1, 10 mcg/ 0.2 mL (Fall 2025)</description>
@@ -17305,6 +17952,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260827</not-after>
         </use-date>
     </code>
     <code>
@@ -17330,6 +17978,48 @@
                 <new-code-value>80777-0400-17</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250908</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0401-17</value>
+        <label>mNEXSPIKE</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG),10 mcg/ 0.2 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">334</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0401-60</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-401-17</value>
+        <label>mNEXSPIKE</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG),10 mcg/ 0.2 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0401-17</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777040117</value>
+        <label>mNEXSPIKE</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG),10 mcg/ 0.2 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0401-17</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
             </deprecated>
         </code-status>
     </code>
@@ -17905,6 +18595,48 @@
         </code-status>
     </code>
     <code>
+        <value>49281-0026-88</value>
+        <label>NUVAXOVID 2026-27</label>
+        <description>Sanofi Vaccines US Inc. - COVID-19, rS-nanoparticle, adjuvanted, SARS-CoV-2 JN.1 (XFG), 5 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">313</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">PMC</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">49281-0026-50</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>49281-026-88</value>
+        <label>NUVAXOVID 2026-27</label>
+        <description>Sanofi Vaccines US Inc. - COVID-19, rS-nanoparticle, adjuvanted, SARS-CoV-2 JN.1 (XFG), 5 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0026-88</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>49281002688</value>
+        <label>NUVAXOVID 2026-27</label>
+        <description>Sanofi Vaccines US Inc. - COVID-19, rS-nanoparticle, adjuvanted, SARS-CoV-2 JN.1 (XFG), 5 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>49281-0026-88</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
         <value>80631-0207-01</value>
         <label>NUVAXOVID COVID-19 Vaccine, Adjuvanted</label>
         <description>Novavax, Inc. - COVID-19, subunit, rS-nanoparticle, adjuvanted, Omicron JN.1, 5 mcg/0.5 mL (2025-2026), PF</description>
@@ -17918,6 +18650,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260707</not-after>
         </use-date>
     </code>
     <code>
@@ -19226,6 +19959,7 @@
         </reference>
         <use-date>
             <not-before>20240311</not-before>
+            <not-after>20260707</not-after>
         </use-date>
     </code>
     <code>
@@ -20800,6 +21534,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260827</not-after>
         </use-date>
     </code>
     <code>
@@ -20844,6 +21579,7 @@
         </reference>
         <use-date>
             <not-before>20250827</not-before>
+            <not-after>20260827</not-after>
         </use-date>
     </code>
     <code>
@@ -20869,6 +21605,90 @@
                 <new-code-value>80777-0112-01</new-code-value>
                 <reason>Use 11-digit format with dashes</reason>
                 <effective-date>20250908</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0115-09</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 25 mcg/ 0.25 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">311</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0115-80</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-115-09</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 25 mcg/ 0.25 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0115-09</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777011509</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 25 mcg/ 0.25 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0115-09</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777-0114-01</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 50 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+        <reference>
+            <link-to codeset="VACCINATION_CVX_CODE">312</link-to>
+            <link-to codeset="VACCINATION_MANUFACTURER_CODE">MOD</link-to>
+            <link-to codeset="VACCINATION_NDC_CODE_UNIT_OF_SALE">80777-0114-96</link-to>
+        </reference>
+        <use-date>
+            <not-before>20260827</not-before>
+        </use-date>
+    </code>
+    <code>
+        <value>80777-114-01</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 50 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0114-01</new-code-value>
+                <reason>Use full 11-digit format instead of 10-digit format</reason>
+                <effective-date>20260917</effective-date>
+            </deprecated>
+        </code-status>
+    </code>
+    <code>
+        <value>80777011401</value>
+        <label>Spikevax</label>
+        <description>Moderna US, Inc. - COVID-19, mRNA, SARS-CoV-2 JN.1 (XFG), 50 mcg/ 0.5 mL (Fall 2026)</description>
+        <code-status>
+            <status>Deprecated</status>
+            <deprecated>
+                <new-code-value>80777-0114-01</new-code-value>
+                <reason>Use 11-digit format with dashes</reason>
+                <effective-date>20260917</effective-date>
             </deprecated>
         </code-status>
     </code>

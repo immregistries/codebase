@@ -759,6 +759,14 @@
         <use-date/>
     </code>
     <code>
+        <value>90616</value>
+        <label>Influenza virus vaccine, trivalent (tIRV), mRNA, 37.5 mcg/0.38 mL dosage, for intramuscular use</label>
+        <description></description>
+        <code-status>
+            <status>Valid</status>
+        </code-status>
+    </code>
+    <code>
         <value>90662</value>
         <label>Influenza, high dose seasonal</label>
         <description></description>
